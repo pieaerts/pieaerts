@@ -1,0 +1,182 @@
+---
+---
+
+
+@font-face {
+  font-family: 'FuturaLTBook';
+  src: url('FuturaLTBook/FuturaLTBook.eot');
+  src: url('FuturaLTBook/FuturaLTBook.eot?#iefix') format('embedded-opentype'),
+  url('FuturaLTBook/FuturaLTBook.woff2') format('woff2'),
+  url('FuturaLTBook/FuturaLTBook.woff') format('woff'),
+  url('FuturaLTBook/FuturaLTBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'FuturaLTBold';
+  src: url('FuturaLTBook/FuturaLTBook.eot');
+  src: url('FuturaLTBook/FuturaLTBold.eot?#iefix') format('embedded-opentype'),
+  url('FuturaLTBook/FuturaLTBold.woff2') format('woff2'),
+  url('FuturaLTBook/FuturaLTBold.woff') format('woff'),
+  url('FuturaLTBook/FuturaLTBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+ 
+/* prevent font boosting */
+html * {max-height:1000000px;}
+
+/* basics */
+html {height: 100%; overflow-y: scroll; overflow-x: hidden;}
+body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'FuturaLTBook'; font-size: 12px; line-height: 1.8em; }
+.site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
+
+/* segment */
+.segment {padding: 20px 0;}
+
+/* carousel */
+#myCarousel {height: 500px; overflow: hidden; position: relative; bottom: 1px; margin-bottom: 35px; background: #3c3c3b;}
+.who #myCarousel, .post #myCarousel {margin-bottom: 0;}
+#myCarousel.single {height: 400px;} 
+#myCarousel .item {height: 500px;}
+.landing #myCarousel {display: none;}
+.carousel-indicators {bottom: 0px!important;}
+.carousel-indicators li.active {background: #fff; margin: 0 5px; width: 8px; height: 8px;}
+.carousel-indicators li { margin: 0 5px; border-color: #fff; width: 8px; height: 8px;
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+     -khtml-user-select: none; /* Konqueror */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
+#myCarousel .overlay {color: white; position: relative; padding: 200px 0 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
+#myCarousel .overlay h3 {margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 2px;}
+
+/* navbar */
+.navbar-default {padding-top: 10px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
+.navbar-center {display: inline-block; float: none!important; margin-left: 35px;}
+.navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 50px;}
+.navbar-nav>li a {color: #fff!important; padding: 0; margin: 15px 15px 4px 15px;}
+.navbar-nav>li.active:after {content: ""; display: block; position: relative; margin-left: -3px; left: 50%; width: 5px; height: 5px; border-radius: 5px; background: white;}
+.navbar-nav>li:nth-child(4) {opacity: 1;}
+
+.navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #fff;}
+.navbar-toggle {position: fixed; left: 15px; margin-top: 19px;}
+
+@media (max-width: 767px) {
+.collapse {display: block;}
+.collapse .navbar-nav>li {display: none;}
+.collapse .navbar-center {margin-left: -12px;}
+.collapse .navbar-nav>li:nth-child(4) {display: block;}
+.navbar-toggle {position: relative; bottom: 11px;}
+.navbar-toggle.top {display: none!important;}
+
+}
+
+
+.navbar {border: 0!important;}
+.navbar-header {position: absolute;}
+.navbar-header::before {display: none;}
+.navbar-collapse {border: 0; -webkit-box-shadow: none; box-shadow: none;}
+.navbar-nav { margin-top: 0; margin-bottom: 0;}
+.navbar-brand {font-size: 12px;}
+.navbar-brand span {font-size: 18px; position: relative; top: 2px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {background: transparent;}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin: 13px 60px 4px 55px;}
+.navbar-default .navbar-nav>li>a {color: #3c3c3b;}
+.navbar-default .navbar-toggle {border-color: transparent; margin-right: 0px; float: left;}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: transparent;}
+
+
+
+
+
+/* offcanvas */
+.navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #333333; color: #d8d8d1;}
+.navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 20px;}
+.navmenu, .navbar-offcanvas {width: 100%; border: 0;}
+.navmenu .navbar-brand {height: auto; margin: 2px 0 0 7px!important; float: none; display: block;}
+
+
+
+/* btn */
+.btn {font-size: 15px; border: 1px solid #3c3c3b!important; border-radius: 100px; padding: 5px 25px;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.btn-primary {background: #3c3c3b!important; color: #d8d8d1!important;}
+.btn-default {color: #3c3c3b!important; background: #d8d8d1!important;} 
+.btn-primary:hover,
+.btn-default:hover {border-color: #db7353!important; background: #db7353!important; color: #eee!important;}
+.btn-warning {border-color: #db7353!important; color: #d8d8d1!important; background: #db7353!important;}
+
+span.btn.btn-default {position: absolute; left: 50%; margin-left: -72px; margin-top: 0px; border-color: #ddd!important; color: #eee!important; background: transparent!important;}
+a:hover span.btn.btn-default {margin-top: -18.3%;}
+.portfolio span.btn.btn-default {margin-left: -64px;}
+.portfolio a:hover span.btn.btn-default {margin-top: -32%;}
+
+
+/* allerlei */
+p, .contentdiv ol, .contentdiv ul {margin-bottom: 1.8em;}
+.contentdiv h2 {margin-top: 50px; margin-bottom: 3px;}
+.contentdiv {text-transform: none; font-size: 12px;}
+.contentdiv.small {font-size: 12px;}
+.post .contentdiv p:first-of-type {}
+.work .contentdiv, .craft .contentdiv {max-width: 400px;}
+.content {max-width: 550px; margin: 0 auto;}
+a {color: #3c3c3b!important;}
+.contentdiv p a {text-decoration: underline!important;}
+a img, img {display: block; max-width: 100%; border: 0;}
+strong, b {font-weight: normal;}
+.row.grid {overflow: visible;}
+.row {margin-left: -25px!important; margin-right: -25px!important;}
+div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;}
+.text-right p {float: right; clear: both;}
+.who p {max-width: 400px;}
+.contact p {max-width: 420px;}
+.workmargin p {font-size: 12px; float: none; position: relative; top: 6px; margin-bottom: 1.8em;}
+.workmargin h3 {position: relative; top: 3px; font-size: 12px;}
+
+/* titles */
+h1, h2, h3 {font-size: 18px;}
+
+/* isotope items */
+.item div:first-child {width: 100%; padding-top: 60%; margin: 30px 0 10px;}
+.item > a span, .subtitle {color: #3c3c3b!important; font-size: 12px;}
+.item > a > span {display: block;}
+.item > a > span span {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+.item h3 {padding-top: 5px; border-bottom: 1px solid #3c3c3b; max-width: 50%; padding-bottom: 4px; white-space: nowrap;}
+.item div.blogthumb {padding-top: 0%;}
+.item a div.blogthumb .overlay {padding-top: 35%; background: #db7353; opacity: 0;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.item a:hover div.blogthumb .overlay {opacity: 1; background: rgba(243,114,81,0.95);}
+.item a {color: #3c3c3b!important; text-decoration: none!important; display: block;}
+.item div.workthumb {padding-top: 0%;}
+.item a div.workthumb .overlay {padding-top: 65%; background: #db7353; opacity: 0;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.item a:hover div.workthumb .overlay {opacity: 1; background: rgba(243,114,81,0.95);}
+
+
+/* footer */
+footer {clear: both; padding: 33px 0 25px; width: 100%; margin-top: 120px; bottom: 0;}
+footer img {display: inline-block; width: 35px; position: relative; bottom: 2px; right: 4px;}

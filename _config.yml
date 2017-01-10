@@ -1,0 +1,27 @@
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: 'page'
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+  - scope:
+      path: ''
+      type: 'work'
+    values:
+      layout: 'work'
+
+permalink: /blog/:year/:month/:day/:title/
+
+collections:
+  work:
+    output: true
+    permalink: /portfolio/:path/
+
+categories:
+  - destinations
+  - people-and-portraits
+  - city-life
