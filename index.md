@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: We hope to find our madness within your company
+title: Home
 headers:
   - image: /uploads/header1.png
     title: "In the wind of Sweden"
