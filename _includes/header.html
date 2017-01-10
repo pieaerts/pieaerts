@@ -52,4 +52,4 @@
       </nav>
 </header>
 
-{% include carousel.html %}
+{% if page.title=='Home' %}{% include carousel.html %}{% endif %}

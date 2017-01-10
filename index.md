@@ -1,6 +1,6 @@
 ---
-layout: portfolio
 title: Home
+layout: home
 headers:
   - image: /uploads/header1.png
     title: "In the wind of Sweden"

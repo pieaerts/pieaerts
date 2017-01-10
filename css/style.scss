@@ -29,19 +29,19 @@ html * {max-height:1000000px;}
 
 /* basics */
 html {height: 100%; overflow-y: scroll; overflow-x: hidden;}
-body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'FuturaLTBook'; font-size: 12px; line-height: 1.8em; }
+body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'FuturaLTBook'; font-size: 12px; line-height: 2em; }
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
 
 /* segment */
 .segment {padding: 20px 0;}
 
 /* carousel */
-#myCarousel {height: 500px; overflow: hidden; position: relative; bottom: 1px; margin-bottom: 35px; background: #3c3c3b;}
+#myCarousel {height: 500px; overflow: hidden; position: relative; bottom: 1px; background: #3c3c3b;}
 #myCarousel.single {height: 400px;} 
 #myCarousel .item, #myCarousel .item > div {height: 500px;}
 .landing #myCarousel {display: none;}
 .carousel-indicators {bottom: 0px!important;}
-.carousel-indicators li.active {background: #fff; margin: 0 5px; width: 6px; height: 6px;}
+.carousel-indicators li.active {background: white; margin: 0 5px; width: 6px; height: 6px;}
 .carousel-indicators li { margin: 0 5px; border-color: #fff; width: 6px; height: 6px;
   -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Chrome/Safari/Opera */
@@ -54,7 +54,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'Fu
 #myCarousel .overlay {color: white; position: relative; padding: 210px 0 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
 #myCarousel .overlay h3 {margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 2px;}
 /* Carousel Fading slide */
-.carousel-fade .carousel-inner { background: #000; }
+.carousel-fade .carousel-inner { background: #3c3c3b; }
 .carousel-fade .carousel-control { z-index: 2; }  
 .carousel-fade .item {
   opacity: 0;
@@ -101,22 +101,22 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'Fu
 
 
 /* navbar */
-.navbar-default {padding-top: 10px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
+.navbar-default {padding-top: 20px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
 .navbar-center {display: inline-block; float: none!important; margin-left: 35px;}
 .navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 52px;}
-.navbar-nav>li a {color: #fff!important; padding: 0; margin: 15px 15px 4px 15px;}
-.navbar-nav>li.active:after {content: ""; display: block; position: relative; margin-left: -3px; left: 50%; width: 5px; height: 5px; border-radius: 5px; background: white;}
+.navbar-nav>li a {color: #3c3c3b!important; padding: 0; margin: 15px 15px 4px 15px;}
+.navbar-nav>li.active:after {content: ""; display: block; position: relative; margin-left: -3px; left: 50%; width: 5px; height: 5px; border-radius: 5px; background: #3c3c3b;}
 .navbar-nav>li:nth-child(4) {opacity: 1;}
 
-.navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #fff; height: 1px;}
-.navbar-toggle {position: fixed; left: 15px; margin-top: 20px;}
+.navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #3c3c3b; height: 1px;}
+.navbar-toggle {position: fixed; left: 25px; margin-top: 28px;}
 
 @media (max-width: 767px) {
 .collapse {display: block;}
 .collapse .navbar-nav>li {display: none;}
 .collapse .navbar-center {margin-left: -12px;}
 .collapse .navbar-nav>li:nth-child(4) {display: block;}
-.navbar-toggle {position: relative; bottom: 11px;}
+.navbar-toggle {position: relative; bottom: 21px;}
 .navbar-toggle.top {display: none!important;}
 
 }
@@ -128,17 +128,17 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'Fu
 .navbar-collapse {border: 0; -webkit-box-shadow: none; box-shadow: none;}
 .navbar-nav { margin-top: 0; margin-bottom: 0;}
 .navbar-brand {font-size: 12px;}
-.navbar-brand span {font-size: 18px; position: relative; top: 2px;}
+.navbar-brand span {font-size: 20px; position: relative; top: 2px;}
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {background: transparent;}
-.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin: 13px 60px 4px 55px;}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin: 11px 60px 4px 55px;}
 .navbar-default .navbar-nav>li>a {color: #3c3c3b;}
 .navbar-default .navbar-toggle {border-color: transparent; margin-right: 0px; float: left;}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background-color: transparent;}
 
-
-
-
+.hascarousel .navbar-toggle .icon-bar, .hascarousel .navbar-default .navbar-toggle .icon-bar {background: #fff;}
+.hascarousel .navbar-nav>li a {color: white!important;}
+.hascarousel .navbar-nav>li.active:after {background: #fff;}
 
 /* offcanvas */
 .navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #333333; color: #d8d8d1;}
@@ -168,8 +168,9 @@ a:hover span.btn.btn-default {margin-top: -18.3%;}
 
 
 /* allerlei */
-p, .contentdiv ol, .contentdiv ul {margin-bottom: 1.8em;}
-.contentdiv h2 {margin-top: 50px; margin-bottom: 3px;}
+.contentdiv {padding-top: 150px;}
+.hascarousel .contentdiv {padding-top: 0;}
+.contentdiv p, .contentdiv ol, .contentdiv ul {max-width: 400px; margin: 0 auto 2em; line-height: 2em;}
 .contentdiv {text-transform: none; font-size: 12px;}
 .contentdiv.small {font-size: 12px;}
 .post .contentdiv p:first-of-type {}
@@ -189,39 +190,24 @@ div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;
 .workmargin h3 {position: relative; top: 3px; font-size: 12px;}
 
 /* titles */
-h1, h2, h3 {font-size: 18px;}
+h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
+.contentdiv *:first-child {padding-top: 0;}
+.contentdiv > img {max-height: 90vh; display: block; margin: 0 auto; position: relative; top: 25px; margin-bottom: 25px;}
 
 /* isotope items */
-.grid .item div:first-child {width: 100%; padding-top: 60%; margin: 30px 0 10px;}
-.grid .item > a span, .subtitle {color: #3c3c3b!important; font-size: 12px;}
-.grid .item > a > span {display: block;}
-.grid .item > a > span span {
-  width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: block;
-}
-.grid .item h3 {padding-top: 5px; border-bottom: 1px solid #3c3c3b; max-width: 50%; padding-bottom: 4px; white-space: nowrap;}
-.grid .item div.blogthumb {padding-top: 0%;}
-.grid .item a div.blogthumb .overlay {padding-top: 35%; background: #db7353; opacity: 0;
+.grid .item a > div:first-child {width: 100%; margin: 35px 0 0;}
+.grid .item a {color: white!important; text-decoration: none; text-align: center;}
+.grid .item a div.workthumb .overlay {padding-top: 65%; background: rgba(0,0,0,0.1); opacity: 0;
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
-.grid .item a:hover div.blogthumb .overlay {opacity: 1; background: rgba(243,114,81,0.95);}
-.grid .item a {color: #3c3c3b!important; text-decoration: none!important; display: block;}
-.grid .item div.workthumb {padding-top: 0%;}
-.grid .item a div.workthumb .overlay {padding-top: 65%; background: #db7353; opacity: 0;
-  -webkit-transition: all .3s ease-in-out;
-  -moz-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  transition: all .3s ease-in-out;
-}
-.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(243,114,81,0.95);}
-
+.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.1);}
+.grid .item a div.workthumb .overlay > div {position: absolute; top: 0; width: calc(100% - 50px);}
+.grid .item a div.workthumb .overlay > div > h3 {padding-top: 32%;}
+.grid .item .compass {width: 20px; margin: 20px auto 0;}
 
 /* footer */
-footer {clear: both; padding: 33px 0 25px; width: 100%; margin-top: 120px; bottom: 0;}
+footer {clear: both; padding: 45px 0 35px; width: 100%; bottom: 0;}
 footer img {display: inline-block; width: 35px; position: relative; bottom: 2px; right: 4px;}
