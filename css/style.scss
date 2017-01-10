@@ -58,13 +58,13 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5e6; font-family: 'Fu
 /* navbar */
 .navbar-default {padding-top: 10px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
 .navbar-center {display: inline-block; float: none!important; margin-left: 35px;}
-.navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 50px;}
+.navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 52px;}
 .navbar-nav>li a {color: #fff!important; padding: 0; margin: 15px 15px 4px 15px;}
 .navbar-nav>li.active:after {content: ""; display: block; position: relative; margin-left: -3px; left: 50%; width: 5px; height: 5px; border-radius: 5px; background: white;}
 .navbar-nav>li:nth-child(4) {opacity: 1;}
 
-.navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #fff;}
-.navbar-toggle {position: fixed; left: 15px; margin-top: 19px;}
+.navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #fff; height: 1px;}
+.navbar-toggle {position: fixed; left: 15px; margin-top: 20px;}
 
 @media (max-width: 767px) {
 .collapse {display: block;}
