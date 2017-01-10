@@ -1,4 +1,4 @@
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     {% for item in page.headers %}
@@ -9,10 +9,12 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     {% for item in page.headers %}
-    <div class="item{% if forloop.index == 1 %} active{% endif %}" style="background: url({{ item.image }}) center bottom; background-size: cover;">
-      <div class="overlay text-center">
-        <h3>{{ item.title }}</h3>
-        <p>{{ item.description }}</p>
+    <div class="item{% if forloop.index == 1 %} active{% endif %}">
+      <div style="background: url({{ item.image }}) center bottom; background-size: cover;">
+        <div class="overlay text-center">
+          <h3>{{ item.title }}</h3>
+          <p>{{ item.description }}</p>
+        </div>
       </div>
     </div>
     {% endfor %}
