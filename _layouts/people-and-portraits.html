@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="home hascarousel" id="top">
+    {% include header.html %}
+    
+    <div class="container">
+    	<div class="row grid">
+    		{% assign sitework = (site.work | sort: 'date') | reverse %}
+            {% for work in sitework %}
+            {% if work.categories contains "people-and-portraits" %}
+                <div class="col-md-4 col-sm-6">
+                <div class="item"><a href="{{ work.url }}">
+                    <div class="workthumb" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
+                        <div class="overlay">
+                            <div>
+                                <h3>{{ work.title }}</h3>
+                                <span>{{ work.subtitle }}</span>
+                                <img src="/img/compass.svg" class="compass" />
+                            </div>
+                        </div>
+                    </div>
+
+                </a></div>     
+                </div>
+            {% endif %}
+            {% endfor %}
+    	</div>
+
+    </div>
+
+    
+    {% include footer.html %}
+  </body>
+
+</html>

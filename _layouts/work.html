@@ -15,7 +15,7 @@
 
                 <div class="masonry">
                 {% for item in page.images %}
-                    <div style="background: url('{{ item.image }}'); background-size: cover;" class="image {% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}"></div></p>
+                    <div style="background: url('{{ item.image }}'); background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}"></div></p>
                 {% endfor %}
                 </div>
             </div>
