@@ -25,3 +25,7 @@ categories:
   - destinations
   - people-and-portraits
   - city-life
+
+floats: 
+  - left
+  - right

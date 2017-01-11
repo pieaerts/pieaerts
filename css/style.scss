@@ -168,13 +168,12 @@ a:hover span.btn.btn-default {margin-top: -18.3%;}
 
 
 /* allerlei */
-.contentdiv {padding-top: 150px;}
+.contentdiv {padding-top: 160px;}
 .hascarousel .contentdiv {padding-top: 0;}
 .contentdiv p, .contentdiv ol, .contentdiv ul {max-width: 400px; margin: 0 auto 2em; line-height: 2em;}
 .contentdiv {text-transform: none; font-size: 12px;}
 .contentdiv.small {font-size: 12px;}
 .post .contentdiv p:first-of-type {}
-.work .contentdiv, .craft .contentdiv {max-width: 400px;}
 .content {max-width: 550px; margin: 0 auto;}
 a {color: #3c3c3b!important;}
 .contentdiv p a {text-decoration: underline!important;}
@@ -184,15 +183,16 @@ strong, b {font-weight: normal;}
 .row {margin-left: -25px!important; margin-right: -25px!important;}
 div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;}
 .text-right p {float: right; clear: both;}
-.who p {max-width: 400px;}
-.contact p {max-width: 420px;}
-.workmargin p {font-size: 12px; float: none; position: relative; top: 6px; margin-bottom: 1.8em;}
-.workmargin h3 {position: relative; top: 3px; font-size: 12px;}
 
 /* titles */
 h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 .contentdiv *:first-child {padding-top: 0;}
 .contentdiv > img {max-height: 90vh; display: block; margin: 0 auto; position: relative; top: 25px; margin-bottom: 25px;}
+
+.masonry {margin-top: 80px;}
+.masonry .image {width: 47%; margin: 0 1.5% 3%; float: left; padding-top: 32%!important;}
+.masonry .image.wide {width: 97%; padding-top: 64%!important;}
+.masonry .image.portrait {width: 47%; padding-top: 67%!important;}
 
 /* isotope items */
 .grid .item a > div:first-child {width: 100%; margin: 35px 0 0;}

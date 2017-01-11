@@ -1,8 +1,6 @@
 ---
-title: Gear
+title: "The tools i use..."
 ---
-
-## The tools i use ...-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam. 
 

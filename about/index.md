@@ -1,8 +1,6 @@
 ---
-title: About
+title: Pie Aerts
 ---
-
-## Pie Aerts
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam. 
 
