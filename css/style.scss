@@ -223,9 +223,9 @@ h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
-.grid .item a div.workthumb .overlay.hastext {background: rgba(0,0,0,0.1);}
+.grid .item a div.workthumb .overlay.hastext {background: rgba(0,0,0,0);}
 .grid .item a:hover div.workthumb .overlay {opacity: 1;}
-.grid .item a:hover div.workthumb .overlay.hastext {background: rgba(0,0,0,0.1);}
+.grid .item a:hover div.workthumb .overlay.hastext {background: rgba(0,0,0,0);}
 .grid .item a div.workthumb .overlay > div {position: absolute; top: 0; width: calc(100% - 50px);}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 33%;}
 .grid .item a div.workthumb.portrait .overlay {padding-top: 143%;}
