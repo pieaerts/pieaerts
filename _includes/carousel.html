@@ -10,7 +10,7 @@
   <div class="carousel-inner" role="listbox">
     {% for item in page.headers %}
     <div class="item{% if forloop.index == 1 %} active{% endif %}">
-      <div style="background: url({{ item.image }}) center bottom; background-size: cover;">
+      <div style="background: url({{ item.image }}) center bottom; background-size: cover; cursor: pointer;" onclick="window.location.href='{{ item.url }}';">
         <div class="overlay text-center">
           <h3>{{ item.title }}</h3>
           <p>{{ item.description }}</p>
