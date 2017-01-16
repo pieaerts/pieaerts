@@ -19,7 +19,7 @@
         <div class="row grid"> 
     		{% assign sitework = (site.destinations | sort: 'date') | reverse %}
             {% for work in sitework %}
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-6">
                 <div class="item"><a href="{{ work.url }}">
                     <div class="workthumb" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
                         <div class="overlay">
