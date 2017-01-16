@@ -3,17 +3,24 @@
 
   {% include head.html %}
 
-  <body class="home hascarousel" id="top">
+  <body class="home" id="top">
     {% include header.html %}
     
     <div class="container">
-    	<div class="row grid">
-    		{% assign sitework = (site.work | sort: 'date') | reverse %}
+    	<div class="row">
+            <div class="col-xs-12 contentdiv text-center">
+                <h1>{{ page.title }}</h1>
+                
+                {{ content }}   
+
+            </div>
+        </div>
+        <div class="row grid"> 
+    		{% assign sitework = (site.people-and-portraits | sort: 'date') | reverse %}
             {% for work in sitework %}
-            {% if work.categories contains "people-and-portraits" %}
                 <div class="col-md-4 col-sm-6">
                 <div class="item"><a href="{{ work.url }}">
-                    <div class="workthumb" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
+                    <div class="workthumb portrait" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
                         <div class="overlay">
                             <div>
                                 <h3>{{ work.title }}</h3>
@@ -25,7 +32,6 @@
 
                 </a></div>     
                 </div>
-            {% endif %}
             {% endfor %}
     	</div>
 

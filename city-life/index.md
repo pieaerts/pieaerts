@@ -1,6 +1,6 @@
 ---
-title: Destinations
-layout: destinations
+title: City life
+layout: city-life
 headers:
   - image: /uploads/header1.png
     title: "In the wind of Sweden"
@@ -14,4 +14,7 @@ headers:
     title: "In the wind of France"
     description: "Lacinia sapien eget, pretium dolor."
     url: /item
+float: right
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam.

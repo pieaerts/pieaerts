@@ -1,6 +1,6 @@
 ---
-title: People & portraits
-layout: people-and-portraits
+title: Destinations
+layout: destinations
 headers:
   - image: /uploads/header1.png
     title: "In the wind of Sweden"
@@ -15,3 +15,5 @@ headers:
     description: "Lacinia sapien eget, pretium dolor."
     url: /item
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam.

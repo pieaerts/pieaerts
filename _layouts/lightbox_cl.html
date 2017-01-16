@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="lightbox" id="top">
+
+    <div class="image {% if page.portrait == true %}portrait{% endif %}">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.subtitle }}</h2>
+    </div>
+
+    {% include foot.html %}
+  </body>
+
+</html>

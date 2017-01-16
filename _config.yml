@@ -10,21 +10,32 @@ defaults:
       layout: 'post'
   - scope:
       path: ''
-      type: 'work'
+      type: 'destinations'
     values:
       layout: 'work'
+  - scope:
+      path: ''
+      type: 'people-and-portraits'
+    values:
+      layout: 'lightbox_pap'
+  - scope:
+      path: ''
+      type: 'city-life'
+    values:
+      layout: 'lightbox_cl'
 
 permalink: /blog/:year/:month/:day/:title/
 
 collections:
-  work:
+  destinations:
     output: true
-    permalink: /portfolio/:path/
-
-categories:
-  - destinations
-  - people-and-portraits
-  - city-life
+    permalink: /destinations/:path/
+  city-life:
+    output: true
+    permalink: /city-life/:path/
+  people-and-portraits:
+    output: true
+    permalink: /people-and-portraits/:path/
 
 floats: 
   - left
