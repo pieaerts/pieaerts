@@ -15,12 +15,33 @@
 
                 <div class="masonry">
                 {% for item in page.images %}
-                    <div style="cursor: pointer; background: url('{{ item.image }}'); background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="window.location.href='/lightbox/?img={{ item.image }}&portrait={{ item.portrait }}';"></div></p>
+                    <div style="cursor: pointer; background: url('{{ item.image }}'); background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="$('#lightbox{{ forloop.index }}').show();"></div></p>
                 {% endfor %}
                 </div>
             </div>
         </div>
    </div>
+
+
+{% for item in page.images %}
+  <div class="footer lightbox" id="lightbox{{ forloop.index }}" onclick="$(this).hide();">
+    <div class="table"><div class="table-cell">
+
+          <div class="item {% if item.portrait %}portrait{% endif %}" style="background: url({{ item.image }}) center center no-repeat; background-size: cover;">
+            <div class="image" style="">
+              <div class="overlay">
+                  <div>
+                      <h1>{{ item.title }}</h1>
+                      <h2>{{ item.subtitle }}</h2>
+                  </div>
+              </div>
+            </div>
+          </div>
+
+    </div></div>
+    {% include footer.html %}
+  </div>
+{% endfor %}
 
     {% include footer.html %}
   </body>
