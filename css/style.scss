@@ -30,7 +30,22 @@ html * {max-height:1000000px;}
 /* basics */
 html {height: 100%; overflow-y: scroll; overflow-x: hidden;}
 body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'FuturaLTBook'; font-size: 12px; line-height: 2em; }
+
+
+body.lightbox {height: 100%; cursor: pointer;}
+body.lightbox div.table {display: table; height: calc(100% - 90px); width: 100%;}
+body.lightbox div.table-cell {display: table-cell; vertical-align: middle;}
+body.lightbox .item {width: 80vw; max-width: calc(149vh - 180px); margin: 0 auto;}
+body.lightbox .image {padding-bottom: 65%;}
+body.lightbox .overlay {position: absolute;width: 80vw; max-width: calc(149vh - 180px);}
+body.lightbox .overlay div {padding-top: 65%; padding-left: 27px;}
+body.lightbox .overlay h1 {color: white; margin-top: -100px; line-height: 1.4em; margin: -75px 0 5px; padding: 0;}
+body.lightbox .overlay h2 {color: white; letter-spacing: 1px; font-size: 12px; line-height: 1.4em; margin: 0; padding: 0;}
+body.lightbox footer {position: absolute!important;}
+
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
+
+
 
 /* segment */
 .segment {padding: 20px 0;}
@@ -213,5 +228,5 @@ h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 .grid .item .compass {width: 20px; margin: 20px auto 0;}
 
 /* footer */
-footer {clear: both; padding: 45px 0 35px; width: 100%; bottom: 0;}
+footer {clear: both; padding: 45px 0 25px; width: 100%; bottom: 0;}
 footer img {display: inline-block; width: 35px; position: relative; bottom: 2px; right: 4px;}
