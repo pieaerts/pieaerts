@@ -36,7 +36,10 @@ body.lightbox {height: 100%; cursor: pointer;}
 body.lightbox div.table {display: table; height: calc(100% - 90px); width: 100%;}
 body.lightbox div.table-cell {display: table-cell; vertical-align: middle;}
 body.lightbox .item {width: 80vw; max-width: calc(149vh - 180px); margin: 0 auto;}
+body.lightbox .item.portrait {width: calc(72vh - 90px); max-width: calc(72vh - 90px);}
 body.lightbox .image {padding-bottom: 65%;}
+body.lightbox .item.portrait .image {padding-bottom: 135%;}
+
 body.lightbox .overlay {position: absolute;width: 80vw; max-width: calc(149vh - 180px);}
 body.lightbox .overlay div {padding-top: 65%; padding-left: 27px;}
 body.lightbox .overlay h1 {color: white; margin-top: -100px; line-height: 1.4em; margin: -75px 0 5px; padding: 0;}
@@ -213,17 +216,18 @@ h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 /* isotope items */
 .grid .item a > div:first-child {width: 100%; margin: 35px 0 0;}
 .grid .item a {color: white!important; text-decoration: none; text-align: center;}
-.grid .item a div.workthumb .overlay {padding-top: 65%; background: rgba(0,0,0,0.1); opacity: 0;
+.grid .item a div.workthumb .overlay {padding-top: 65%; opacity: 0;
   -webkit-transition: all .3s ease-in-out;
   -moz-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
-.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.1);}
+.grid .item a div.workthumb .overlay.hastext {background: rgba(0,0,0,0.1);}
+.grid .item a:hover div.workthumb .overlay {opacity: 1;}
+.grid .item a:hover div.workthumb .overlay.hastext {background: rgba(0,0,0,0.1);}
 .grid .item a div.workthumb .overlay > div {position: absolute; top: 0; width: calc(100% - 50px);}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 32%;}
 .grid .item a div.workthumb.portrait .overlay {padding-top: 143%;}
-.grid .item a div.workthumb .overlay > div > h3 {padding-top: 35%;}
 .grid .item a div.workthumb.portrait .overlay > div > h3 {padding-top: 72%;}
 .grid .item .compass {width: 20px; margin: 20px auto 0;}
 
