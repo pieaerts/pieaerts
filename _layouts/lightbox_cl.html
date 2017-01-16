@@ -6,7 +6,7 @@
   <body class="lightbox" id="top" onclick="window.location.href='/city-life/';">
     <div class="table"><div class="table-cell">
 
-          <div class="item" style="background: url({{ page.image }}) center center no-repeat; background-size: cover;">
+          <div class="item {% if page.portrait == true %}portrait{% endif %}" style="background: url({{ page.image }}) center center no-repeat; background-size: cover;">
             <div class="image portrait" style="">
               <div class="overlay">
                   <div>

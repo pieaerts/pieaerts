@@ -15,7 +15,7 @@
 
                 <div class="masonry">
                 {% for item in page.images %}
-                    <div style="background: url('{{ item.image }}'); background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}"></div></p>
+                    <div style="cursor: pointer; background: url('{{ item.image }}'); background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="window.location.href='/lightbox/?img={{ item.image }}&portrait={{ item.portrait }}';"></div></p>
                 {% endfor %}
                 </div>
             </div>
