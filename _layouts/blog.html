@@ -10,13 +10,13 @@
                
                 {% for item in site.posts %}
                 <div class="row">
-                    <div class="col-md-4 {% cycle '', 'col-md-push-8 ' %}{% cycle 'text-right', 'text-left' %}">
+                    <div class="col-md-8 {% cycle 'col-md-push-4 ', '' %}">
+                        <div style="cursor: pointer; background: url('{{ item.image }}') center center; background-size: cover; height: 240px;" onclick="window.location.href='{{ item.url }}';" ></div>
+                    </div>
+                    <div class="col-md-4 {% cycle 'col-md-pull-8 ', '' %}{% cycle 'text-right', 'text-left' %}">
                         <h2>{{ item.title }}</h2>
                         <p>{{ item.date | date: "%a, %b %d, %Y" }}<br /><br />
                         {{ item.content | strip_html | truncate: 200 }}<br /><a href="{{ item.url }}">Read more</a></p>
-                    </div>
-                    <div class="col-md-8 {% cycle '', 'col-md-pull-4 ' %}">
-                        <div style="cursor: pointer; background: url('{{ item.image }}'); background-size: cover; height: 250px;" onclick="window.location.href='{{ item.url }}';" ></div>
                     </div>
                 </div>
                 {% endfor %}
