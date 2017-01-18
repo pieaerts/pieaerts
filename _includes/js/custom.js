@@ -99,6 +99,10 @@ $( document ).ready(function() {
 						opacity: 1
 					}, 200, function() {
 						// Animation complete.
+						if($(this).attr('src')=='/img/openmenu_white.svg') $(this).attr('src','/img/close_white.svg');
+						else if($(this).attr('src')=='/img/close_white.svg') $(this).attr('src','/img/openmenu_white.svg');
+						else if($(this).attr('src')=='/img/openmenu.svg') $(this).attr('src','/img/close.svg');
+						else if($(this).attr('src')=='/img/close.svg') $(this).attr('src','/img/openmenu.svg');
 					});
 				} else {
 					//hide nav
@@ -106,6 +110,10 @@ $( document ).ready(function() {
 						opacity: 0
 					}, 200, function() {
 						// Animation complete.
+						if($(this).attr('src')=='/img/openmenu_white.svg') $(this).attr('src','/img/close_white.svg');
+						else if($(this).attr('src')=='/img/close_white.svg') $(this).attr('src','/img/openmenu_white.svg');
+						else if($(this).attr('src')=='/img/openmenu.svg') $(this).attr('src','/img/close.svg');
+						else if($(this).attr('src')=='/img/close.svg') $(this).attr('src','/img/openmenu.svg');
 					});
 				}
 				$('html, body').animate({
