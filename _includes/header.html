@@ -42,9 +42,9 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-center">
-              <li{% if page.layout == 'destinations' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
-              <li{% if page.layout == 'people-and-portraits' %} class="active"{% endif %}><a href="/people-and-portraits/">People & Portraits</a></li>
-              <li{% if page.layout == 'city-life' %} class="active"{% endif %}><a href="/city-life/">City Life</a></li>
+              <li{% if page.layout == 'destinations' or page.layout == 'work' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
+              <li{% if page.layout == 'people-and-portraits' or page.layout == 'lightbox_pap' %} class="active"{% endif %}><a href="/people-and-portraits/">People & Portraits</a></li>
+              <li{% if page.layout == 'city-life' or page.layout == 'lightbox_cl' %} class="active"{% endif %}><a href="/city-life/">City Life</a></li>
               <li><a class="navbar-brand" href="/"><span>Pie Aerts</span> <span style="position: relative; top: 2px; font-size: 13px;">&nbsp;&nbsp;&bull;&nbsp;&nbsp;</span> photography</a></li>
               <li{% if page.url == '/gear/' %} class="active"{% endif %}><a href="/gear/">Gear</a></li>
               <li{% if page.layout == 'blog' or page.layout == 'post' %} class="active"{% endif %}><a href="/blog/">Blog</a></li>         

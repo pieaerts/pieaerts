@@ -15,7 +15,7 @@
                     </div>
                     <div class="col-md-4 {% cycle 'col-md-pull-8 ', '' %}{% cycle 'text-right', 'text-left' %}">
                         <h2>{{ item.title }}</h2>
-                        <p>Posted on {{ item.date | date: "%Y-%m-%d" }}<br /><br />
+                        <p>{{ item.date | date: "%Y-%m-%d" }}<br /><br />
                         {{ item.content | strip_html | truncate: 195 }}<br /><a href="{{ item.url }}">Read more</a></p>
                     </div>
                 </div>
