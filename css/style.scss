@@ -155,7 +155,8 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .collapse .navbar-nav>li:nth-child(4) {display: block;}
 .navbar-toggle {position: relative; bottom: 21px;}
 .navbar-toggle.top {display: none!important;}
-
+.navbar-nav>li {right: 0px; left: 4px;}
+.navbar-toggle {left: 5px;}
 }
 
 
@@ -178,11 +179,14 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .hascarousel .navbar-nav>li.active:after {background: #fff;}
 
 /* offcanvas */
-.navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #333333; color: #d8d8d1;}
-.navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 20px;}
+.navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #3c3c3b; color: #d8d8d1;}
+.navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 16px;}
 .navmenu, .navbar-offcanvas {width: 100%; border: 0;}
-.navmenu .navbar-brand {height: auto; margin: 2px 0 0 7px!important; float: none; display: block;}
-
+.navmenu .navbar-brand {height: auto; margin: 17px 0 0 7px!important; float: none; display: block; color: white!important;}
+.navmenu ul {padding-top: 80px;}
+@media (max-height: 600px) {
+  .navmenu ul {padding-top: 20px;}
+}
 
 
 /* btn */
