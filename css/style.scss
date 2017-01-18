@@ -215,7 +215,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .navmenu ul {padding: 80px 0;}
 .navmenu div.table {display: table; height: calc(95vh - 90px); width: 100%;}
 .navmenu div.table-cell {display: table-cell; vertical-align: middle;}
-
+.navmenu-fixed-left, .navmenu-fixed-right, .navbar-offcanvas {left: 0!important; right: auto!important; top: 0!important; bottom: auto!important; height: 100%!important;}
 
 
 /* btn */
@@ -314,5 +314,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 .navbar-toggle.top {display: none!important;}
 .navbar-nav>li {right: 0px; left: 4px;}
 .navbar-toggle {left: 25px;}
+.carousel-control.left img {left: 25px;}
+.carousel-control.right img {right: 25px;}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 29%;}
 }
