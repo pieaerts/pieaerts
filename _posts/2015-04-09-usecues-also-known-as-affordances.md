@@ -1,6 +1,7 @@
 ---
 title: "About 'usecues', also known as affordan&shy;ces"
 image: /uploads/1.png
+location: "Sweden"
 ---
 
 

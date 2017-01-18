@@ -91,7 +91,7 @@ $( document ).ready(function() {
 
 	$('.navbar-toggle.top').click( function(event) {
 		var el = $(this);
-		if($( document ).width() > 1200) {
+		if($( 'body' ).width() >= 1185) {
 				event.preventDefault();
 				event.stopPropagation();
 				if($('.navbar-nav > li:first-child').css('opacity')=='0' || $(window).scrollTop() != 0 ) {

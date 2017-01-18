@@ -173,7 +173,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .navbar-nav>li:nth-child(4) {opacity: 1;}
 
 .navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #3c3c3b; height: 1px;}
-.navbar-toggle {position: fixed; left: calc(5vw - 15px); margin-top: 28px;}
+.navbar-toggle {cursor: pointer; position: fixed; left: calc(5vw - 15px); margin-top: 28px;}
 
 .navbar-toggle {display: block; width: 28px; border: 0; padding: 0; border-radius: 0; margin-top: 38px;}
 .navbar-header .navbar-toggle {display: none;}

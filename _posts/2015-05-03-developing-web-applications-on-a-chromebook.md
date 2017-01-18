@@ -1,6 +1,7 @@
 ---
 title: Develop&shy;ing web applica&shy;tions on a Chrome&shy;book
 image: /uploads/2.png
+location: "Sweden"
 ---
 
 
