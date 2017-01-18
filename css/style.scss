@@ -179,7 +179,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .hascarousel .navbar-nav>li.active:after {background: #fff;}
 
 /* offcanvas */
-.navmenu-default, .navbar-default .navbar-offcanvas {background: #3c3c3b; color: #d8d8d1;}
+.navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #3c3c3b; color: #d8d8d1;}
 .navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 16px;}
 .navmenu, .navbar-offcanvas {width: 100%; border: 0;}
 .navmenu .navbar-brand {height: auto; margin: 17px 0 0 7px!important; float: none; display: block; color: white!important;}
