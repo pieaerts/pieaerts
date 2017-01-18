@@ -255,6 +255,18 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 600px) {
   .grid .item a:hover div.workthumb .overlay {opacity: 0!important;}
+  
+  .lightbox {background: black;}
+  .footer.lightbox {background: black;}
+  .lightbox div.table {height: 100%;}
+  .lightbox .item {width: 100%; max-width: 100%;}
+  .lightbox .item.portrait {width: 100%; max-width: 100%;}
+  .lightbox .overlay {width: 100%; max-width: 100%;}
+  .lightbox .item.portrait .overlay {width: 100%; max-width: 100%;}
+  .lightbox footer {display: none;}
+  .lightbox .item .overlay > div, .lightbox .item.portrait .overlay > div {padding-left: 18px;}
+  .lightbox .overlay .h1 {color: white; line-height: 1.35em; margin: -61px 0 5px; padding: 0; font-size: 17px;}
+  .lightbox .overlay .h2 {color: white; letter-spacing: 1px; font-size: 10px; line-height: 1.4em; margin: 0; padding: 0;}
 }
 @media (max-width: 1200px) {
 .collapse {display: block;}
