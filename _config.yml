@@ -40,3 +40,7 @@ collections:
 floats: 
   - left
   - right
+
+text-colors:
+  - light
+  - dark
