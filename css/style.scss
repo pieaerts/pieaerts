@@ -148,16 +148,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #3c3c3b; height: 1px;}
 .navbar-toggle {position: fixed; left: 25px; margin-top: 28px;}
 
-@media (max-width: 1200px) {
-.collapse {display: block;}
-.collapse .navbar-nav>li {display: none;}
-.collapse .navbar-center {margin-left: -12px;}
-.collapse .navbar-nav>li:nth-child(4) {display: block;}
-.navbar-toggle {position: relative; bottom: 21px;}
-.navbar-toggle.top {display: none!important;}
-.navbar-nav>li {right: 0px; left: 4px;}
-.navbar-toggle {left: 15px;}
-}
+
 
 
 .navbar {border: 0!important;}
@@ -264,4 +255,15 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 600px) {
   .grid .item a:hover div.workthumb .overlay {opacity: 0!important;}
+}
+@media (max-width: 1200px) {
+.collapse {display: block;}
+.collapse .navbar-nav>li {display: none;}
+.collapse .navbar-center {margin-left: -12px;}
+.collapse .navbar-nav>li:nth-child(4) {display: block;}
+.navbar-toggle {position: relative; bottom: 21px;}
+.navbar-toggle.top {display: none!important;}
+.navbar-nav>li {right: 0px; left: 4px;}
+.navbar-toggle {left: 15px;}
+.grid .item a div.workthumb .overlay > div > h3 {padding-top: 29%;}
 }
