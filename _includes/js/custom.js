@@ -10,6 +10,17 @@ $(window).on('orientationchange', function(e) {
 	window.location.reload();
 });
 
+function lightbox_next(el) {
+	el.hide();
+	if(el.next().hasClass('lightbox')) el.next().show();
+	else $('.lightbox').first().show()
+}
+function lightbox_prev(el) {
+	el.hide();
+	if(el.prev().hasClass('lightbox')) el.prev().show();
+	else $('.lightbox').last().show()
+}
+
 $( document ).ready(function() {
 
 

@@ -28,8 +28,8 @@
     <div class="table"><div class="table-cell">
           <img class="close" src="/img/close.svg" onclick="$(this).parent().parent().parent().hide();" />
           <img class="close white" src="/img/close_white.svg" onclick="$(this).parent().parent().parent().hide();" />
-          <img class="next" src="/img/right.svg" />
-          <img class="prev" src="/img/left.svg" />
+          <img class="next" src="/img/right.svg" onclick="lightbox_next($(this).parent().parent().parent());" />
+          <img class="prev" src="/img/left.svg" onclick="lightbox_prev($(this).parent().parent().parent());" />
           <div class="item {% if item.portrait %}portrait{% endif %}" style="background: url({{ item.image }}) center center no-repeat; background-size: cover;">
             <div class="image" style="">
               <div class="overlay">
