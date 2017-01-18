@@ -30,7 +30,7 @@
           <div class="item {% if item.portrait %}portrait{% endif %}" style="background: url({{ item.image }}) center center no-repeat; background-size: cover;">
             <div class="image" style="">
               <div class="overlay">
-                  <div>
+                  <div class="{{ item.text-color }}">
                       <div class="h1">{{ item.title }}</div>
                       <div class="h2">{{ item.subtitle }}</div>
                   </div>

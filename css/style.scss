@@ -63,6 +63,8 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .lightbox .item.portrait .overlay > div {padding-top: 135%; padding-left: 27px;}
 .lightbox .overlay .h1 {color: white; margin-top: -100px; line-height: 1.4em; margin: -75px 0 5px; padding: 0;}
 .lightbox .overlay .h2 {color: white; letter-spacing: 1px; font-size: 12px; line-height: 1.4em; margin: 0; padding: 0;}
+.lightbox .overlay .dark .h1 {color: #3c3c3b;}
+.lightbox .overlay .dark .h2 {color: #3c3c3b;}
 .lightbox footer {position: absolute!important;}
 
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
@@ -264,8 +266,8 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
   .lightbox .item.portrait .overlay {width: 100%; max-width: 100%;}
   .lightbox footer {display: none;}
   .lightbox .item .overlay > div, .lightbox .item.portrait .overlay > div {padding-left: 18px;}
-  .lightbox .overlay .h1 {color: white; line-height: 1.35em; margin: -61px 0 5px; padding: 0; font-size: 17px;}
-  .lightbox .overlay .h2 {color: white; letter-spacing: 1px; font-size: 10px; line-height: 1.4em; margin: 0; padding: 0;}
+  .lightbox .overlay .h1 {line-height: 1.35em; margin: -61px 0 5px; padding: 0; font-size: 17px;}
+  .lightbox .overlay .h2 {letter-spacing: 1px; font-size: 10px; line-height: 1.4em; margin: 0; padding: 0;}
 }
 @media (max-width: 1200px) {
 .collapse {display: block;}
