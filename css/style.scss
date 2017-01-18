@@ -49,7 +49,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .post p a:hover {text-decoration: none;}
 .post h2, .post h2 {font-size: 12px;}
 
-.lightbox {height: 100%; cursor: pointer;}
+.lightbox {height: 100%;}
 .footer.lightbox {position: fixed; top: 0; width: 100%; background: #f6f5ef; height: 100%; z-index: 99; display: none;}
 .lightbox div.table {display: table; height: calc(100% - 90px); width: 100%;}
 .lightbox div.table-cell {display: table-cell; vertical-align: middle;}
@@ -58,7 +58,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .lightbox .image {padding-bottom: 65%;}
 .lightbox .item.portrait .image {padding-bottom: 135%;}
 
-.lightbox .overlay {position: absolute;width: 80vw; max-width: calc(149vh - 180px);}
+.lightbox .overlay {position: absolute; width: 80vw; max-width: calc(149vh - 180px);}
 .lightbox .overlay > div {padding-top: 65%; padding-left: 27px;}
 .lightbox .item.portrait .overlay {width: calc(72vh - 90px); max-width: calc(72vh - 90px);}
 .lightbox .item.portrait .overlay > div {padding-top: 135%; padding-left: 27px;}
@@ -67,7 +67,16 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 .lightbox .overlay .dark .h1 {color: #3c3c3b;}
 .lightbox .overlay .dark .h2 {color: #3c3c3b;}
 .lightbox footer {position: absolute!important;}
-
+.lightbox .close {cursor: pointer; position: absolute; right: calc(4.7vw - 15px); width: 33px;}
+.lightbox .close.white {display: none; top: 15px; right: 15px;}
+.lightbox .next {cursor: pointer; position: absolute; right: calc(4.7vw - 15px); top: 46vh; width: 33px;}
+.lightbox .prev {cursor: pointer; position: absolute; left: calc(4.7vw - 15px); top: 46vh; width: 33px;}
+@media (max-width: 600px) {
+  .lightbox .close {display: none;}
+  .lightbox .close.white {display: inline;}
+  .lightbox .prev, .lightbox .next {display: none;}
+}
+.table {margin-bottom: 0;}
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
 
 

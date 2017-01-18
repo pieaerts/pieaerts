@@ -3,9 +3,12 @@
 
   {% include head.html %}
 
-  <body class="lightbox" id="top" onclick="window.location.href='/city-life/';">
+  <body class="lightbox" id="top">
     <div class="table"><div class="table-cell">
-
+          <img class="close" src="/img/close.svg" onclick="window.location.href='/city-life/';" />
+          <img class="close white" src="/img/close_white.svg" onclick="window.location.href='/city-life/';" />
+          <img class="next" src="/img/right.svg" />
+          <img class="prev" src="/img/left.svg" />
           <div class="item {% if page.portrait == true %}portrait{% endif %}" style="background: url({{ page.image }}) center center no-repeat; background-size: cover;">
             <div class="image portrait" style="">
               <div class="overlay">

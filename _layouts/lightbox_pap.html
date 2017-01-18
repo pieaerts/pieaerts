@@ -3,9 +3,12 @@
 
   {% include head.html %}
 
-  <body class="lightbox" id="top" onclick="window.location.href='/people-and-portraits/';">
+  <body class="lightbox" id="top">
     <div class="table"><div class="table-cell">
-
+          <img class="close" src="/img/close.svg" onclick="window.location.href='/people-and-portraits/';" />
+          <img class="close white" src="/img/close_white.svg" onclick="window.location.href='/people-and-portraits/';" />
+          <img class="next" src="/img/right.svg" />
+          <img class="prev" src="/img/left.svg" />
           <div class="item portrait" style="background: url({{ page.image }}) center center no-repeat; background-size: cover;">
             <div class="image" style="">
               <div class="overlay">
