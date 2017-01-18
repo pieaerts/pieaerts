@@ -214,6 +214,8 @@ a:hover span.btn.btn-default {margin-top: -18.3%;}
 .contentdiv p, .contentdiv ol, .contentdiv ul {max-width: 400px; margin: 0 auto 2em; line-height: 2em;}
 .contentdiv {text-transform: none; font-size: 12px;}
 .contentdiv.small {font-size: 12px;}
+.contentdiv li {list-style: none;}
+.contentdiv li:before {content: ""; display: inline-block; position: relative; right: 5px; bottom: 1px; width: 5px; height: 5px; border-radius: 5px; background: #3c3c3b;}
 .post .contentdiv p:first-of-type {}
 .content {max-width: 550px; margin: 0 auto;}
 a {color: #3c3c3b!important;}
