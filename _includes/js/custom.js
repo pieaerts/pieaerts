@@ -88,7 +88,11 @@ $( document ).ready(function() {
       }
     }
   });
-
+  $('.lightbox').click( function() {
+		if($( window ).width() <= 600) {
+			$(this).find('.item').click();
+		}
+	});
 	$('.navbar-toggle.top').click( function(event) {
 		var el = $(this);
 		if($( 'body' ).width() >= 1185) {
