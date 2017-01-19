@@ -128,8 +128,8 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
 }
 .carousel-indicators li:before {content: ""; width: 24px; height: 12px; border: 1px solid white; display: block; position: absolute; margin: -4px 0 0 -10px;}
 .carousel-indicators li:before {content: none;}
-.carousel-indicators li {margin: 0 3px;}
-.carousel-indicators li.active {margin: 0 3px;}
+//.carousel-indicators li {margin: 0 3px;}
+//.carousel-indicators li.active {margin: 0 3px;}
 
 #myCarousel .overlay {color: white; position: relative; padding: 220px 0 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
 #myCarousel .overlay h3 {margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 2px;}

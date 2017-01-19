@@ -7,13 +7,15 @@
 <svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="20.6" height="9.6" viewBox="0 0 20.6 9.6"
 	 overflow="visible" enable-background="new 0 0 20.6 9.6" xml:space="preserve">
 <g>
-	<path fill="#FFFFFF" d="M0,0v9.6h20.6V0H0z M20,0.6c0,0.542,0,7.858,0,8.4C19.427,9,1.173,9,0.6,9c0-0.542,0-7.859,0-8.4
-		C1.173,0.6,19.427,0.6,20,0.6z"/>
+	<rect x="0.003" y="3" fill="#FFFFFF" width="20.593" height="0.6"/>
 </g>
 <g>
-	<rect x="0.232" y="3" fill="#FFFFFF" width="20.135" height="0.6"/>
+	<rect x="0.003" y="5.988" fill="#FFFFFF" width="20.593" height="0.6"/>
 </g>
 <g>
-	<rect x="0.186" y="6" fill="#FFFFFF" width="20.229" height="0.6"/>
+	<rect x="0.003" y="8.99" fill="#FFFFFF" width="20.593" height="0.6"/>
+</g>
+<g>
+	<rect x="0.003" y="-0.018" fill="#FFFFFF" width="20.593" height="0.6"/>
 </g>
 </svg>
