@@ -32,17 +32,32 @@ html {height: 100%; overflow-y: scroll; overflow-x: hidden;}
 body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'FuturaLTBook'; font-size: 12px; line-height: 2em; }
 .h1 {font-size: 20px;}
 .h2 {font-size: 12px;}
+.verttext {position: absolute; cursor: pointer; 
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+    -ms-transform-origin: 0% 0%; /* IE 9 */
+    -webkit-transform-origin: 0% 0%; /* Chrome, Safari, Opera */
+    transform-origin: 0% 0%;
+    top: 517px;
+    z-index: 50;
+    right: calc(5vw - 195px);
+}
+.home .verttext {top: 755px;}
+@media (max-width: 1275px) {
+ .verttext {right: -174px;}
+}
 
-.blog .container:nth-child(3) .row > div {padding-top: 45px;}
-.blog .container:nth-child(3) .row:first-child {padding-top: 110px;}
-.blog .container:nth-child(3) h2 {padding-top: 10px; width:100%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
-.blog .container:nth-child(3) .row:nth-child(odd) div p {padding-left: 70px;}
-.blog .container:nth-child(3) .row:nth-child(even) div p {padding-right: 70px;}
-.blog .container:nth-child(3) div p a {position: relative; top: 2px; text-transform: uppercase;}
+.blog .blogitems .row > div {padding-top: 45px;}
+.blog .blogitems .row:first-child {padding-top: 110px;}
+.blog .blogitems h2 {padding-top: 10px; width:100%; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.blog .blogitems .row:nth-child(odd) div p {padding-left: 70px;}
+.blog .blogitems .row:nth-child(even) div p {padding-right: 70px;}
+.blog .blogitems div p a {position: relative; top: 2px; text-transform: uppercase;}
 @media (max-width: 1200px) {
-  .blog .container:nth-child(3) .row:nth-child(odd) div p {float: left; padding-left: 0px; padding-right: 0px; max-width: 720px;}
-  .blog .container:nth-child(3) .row:nth-child(odd) div {text-align: left!important;}
-  .blog .container:nth-child(3) .row div:nth-child(2) {position: relative; bottom: 23px;}
+  .blog .blogitems .row:nth-child(odd) div p {float: left; padding-left: 0px; padding-right: 0px; max-width: 720px;}
+  .blog .blogitems .row:nth-child(odd) div {text-align: left!important;}
+  .blog .blogitems .row div:nth-child(2) {position: relative; bottom: 23px;}
 }
 .post p {margin-bottom: 2em;}
 .post p a {text-decoration: underline;}
