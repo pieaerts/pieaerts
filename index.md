@@ -2,11 +2,11 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/0H3A1742-2-8.jpg
+  - image: /uploads/2.jpg
     title: Japan
     description: Editorial for National Geographic
     url: /destinations/1/
-  - image: /uploads/header2.png
+  - image: /uploads/11.jpg
     title: In the wind of Scotland
     description: Proin suscipit justo at arcu convallis.
     url: /destinations/1/
