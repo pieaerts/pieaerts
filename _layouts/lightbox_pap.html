@@ -9,7 +9,7 @@
           <img class="close white" src="/img/close_white.svg" onclick="window.location.href='/people-and-portraits/';" />
           <img class="next" src="/img/right.svg" onclick="window.location.href='{{nexturl}}';" />
           <img class="prev" src="/img/left.svg" onclick="window.location.href='{{prevurl}}';" />
-          <div class="item portrait" style="background: url({{ page.image }}) center center no-repeat; background-size: cover; cursor: pointer;" onclick="window.location.href='/people-and-portraits/';">
+          <div class="item {% if page.portrait == true %}portrait{% endif %}" style="background: url({{ page.image }}) center center no-repeat; background-size: cover; cursor: pointer;" onclick="window.location.href='/people-and-portraits/';">
             <div class="image" style="">
               <div class="overlay">
                   <div class="{{ page.text-color }}">
