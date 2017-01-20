@@ -2,7 +2,7 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/header1.png
+  - image: /uploads/0H3A1742-2-8.jpg
     title: Japan
     description: Editorial for National Geographic
     url: /destinations/1/
