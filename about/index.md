@@ -2,6 +2,8 @@
 title: Pie Aerts
 ---
 
+![Gear](/uploads/person.png)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam. 
 
 ## CV
@@ -15,5 +17,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nib
 - Maximaal 5,3 fps voor 58 JPEG’s
 - 9-punts ‘cross type’ AF - systeem
 - iFCL-meetsysteem met een 63-zone Dual Layer-meetsensor
-
-![Gear](/uploads/person.png)

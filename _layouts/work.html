@@ -34,8 +34,10 @@
               <div class="image" style="">
                 <div class="overlay">
                     <div class="{{ item.text-color }}">
+                        {% if item.show-text == true %}
                         <div class="h1">{{ item.title }}</div>
                         <div class="h2">{{ item.subtitle }}</div>
+                        {% endif %}
                     </div>
                 </div>
               </div>

@@ -92,6 +92,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
   .lightbox .prev, .lightbox .next {display: none;}
   .carousel-control {display: none!important;}
 }
+
 .table {margin-bottom: 0;}
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
 
@@ -274,13 +275,14 @@ div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;
 /* titles */
 h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 .contentdiv *:first-child {padding-top: 0;}
-.contentdiv > img {max-height: 90vh; display: block; margin: 0 auto; position: relative; top: 25px; margin-bottom: 25px;}
+.contentdiv > img {max-height: 90vh; display: block; margin: 2px auto 24px;}
 
 .masonry {margin: 80px -1.5% 0;}
 .masonry .image {width: 47%; margin: 0 1.5% 3%; float: left; padding-top: 32%!important;}
 .masonry .image.wide {width: 97%; padding-top: 64%!important;}
 .masonry .image.portrait {width: 47%; padding-top: 67%!important;}
 .masonry .image.right {float: right;}
+.masonry .image.portrait.wide {width: 97%; padding-top: 138%!important;}
 
 /* isotope items */
 .grid .item a > div:first-child {width: 100%; margin: 35px 0 0;}

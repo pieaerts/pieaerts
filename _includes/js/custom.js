@@ -7,7 +7,7 @@ function iOSversion(useragent) {
   return false;
 }
 $(window).on('orientationchange', function(e) {
-	window.location.reload();
+	//window.location.reload();
 });
 
 function lightbox_next(el) {
