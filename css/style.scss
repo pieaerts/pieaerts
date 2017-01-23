@@ -91,6 +91,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
   .lightbox .close.white {display: none;}
   .lightbox .prev, .lightbox .next {display: none;}
   .carousel-control {display: none!important;}
+  .lightbox .item.portrait .overlay {display: none;}
 }
 @media screen and (min-aspect-ratio: 500/640) and (max-width: 600px) {
 .lightbox .item.portrait {width: 75vh!important; max-width: 75vh!important; height: 100vh!important; max-height: 100vh!important;}
