@@ -2,11 +2,11 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/1.png
-    title: Japan
-    description: Editorial for National Geographic
+  - image: /uploads/0H3A0048.jpg
+    title: BOTSWANA
+    description: A journey trough time
     url: /destinations/1/
-  - image: /uploads/2.png
+  - image: /uploads/0H3A0064.jpg
     title: In the wind of Scotland
     description: Proin suscipit justo at arcu convallis.
     url: /destinations/1/
