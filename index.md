@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: destinations
 headers:
   - image: /uploads/0H3A0005.jpg
     title: BOTSWANA
@@ -10,7 +10,7 @@ headers:
     title: BOTSWANA
     description: In the wind of the Delta
     url: /destinations/1/
-  - image: /uploads/3.png
+  - image: /uploads/0H3A8107.jpg
     title: Amsterdam
     description: 'Lacinia sapien eget, pretium dolor.'
     url: /destinations/1/
