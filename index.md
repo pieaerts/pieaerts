@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: destinations
+layout: home
 headers:
   - image: /uploads/0H3A0005.jpg
     title: BOTSWANA
