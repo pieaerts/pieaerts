@@ -1,8 +1,8 @@
 ---
-title: PHILIPPINES
+title: THE PHILIPPINES
 subtitle: '34.23434234° N, 134.46434234° E'
 date: 2013-03-19 00:00:00
-image: /0H3A8291.jpg
+image: /PHIL0H3A6082a.jpg
 float: left
 images:
   - image: /0H3A8291.jpg
