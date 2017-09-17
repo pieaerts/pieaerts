@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A3649 (1)a.jpg
+  - image: /PHILDJI_0108-2a.jpg
     portrait: false
     wide: true
     title:
@@ -27,6 +27,13 @@ images:
     text-color:
     show-text: false
   - image: /PHIL0H3A6741a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
