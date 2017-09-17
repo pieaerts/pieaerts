@@ -5,6 +5,13 @@ date: 2013-03-19 00:00:00
 image: /DJI_0108-2a.jpg
 float: left
 images:
+  - image: /DJI_0108-2a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /PHIL0H3A5681a.jpg
     portrait: false
     wide: true
@@ -12,21 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHILDJI_0108-2a.jpg
+  - image: /PHIL0H3A8587a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A7900a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A6741a.jpg
+  - image: /PHIL0H3A2993 (1)a.jpg
     portrait: false
     wide: true
     title:
