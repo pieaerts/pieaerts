@@ -110,9 +110,23 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHILDJI_0345-1a.jpg
+  - image: /PHIL0H3A5690a.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A8012a.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A8052a.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
