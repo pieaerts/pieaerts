@@ -33,7 +33,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /PHIL0H3A3963aa.jpg
     portrait: false
     wide: true
     title:
