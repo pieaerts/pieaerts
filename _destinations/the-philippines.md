@@ -341,5 +341,19 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /PHIL0H3A8599a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A3643 (1)a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
