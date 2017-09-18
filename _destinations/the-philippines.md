@@ -236,5 +236,26 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /PHIL0H3A6053a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A5721a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A4485a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
