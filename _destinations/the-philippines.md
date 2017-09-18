@@ -250,7 +250,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A4485a.jpg
+  - image: /PHIL0H3A0045a.jpg
     portrait: false
     wide: true
     title:
@@ -278,16 +278,16 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /PHIL0H3A4485a.jpg
     portrait: false
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /PHIL0H3A9188a.jpg
     portrait: false
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
