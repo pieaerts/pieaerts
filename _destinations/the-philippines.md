@@ -215,7 +215,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /PHIL0H3A4879a.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A4931a.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A6006a.jpg
     portrait: false
     wide: true
     title:
