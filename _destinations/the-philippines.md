@@ -152,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A3219 (1)a.jpg
+  - image: /PHIL0H3A3203 (1)a.jpg
     portrait: false
     wide: false
     title:
