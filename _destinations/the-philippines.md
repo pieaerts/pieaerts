@@ -194,14 +194,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A8373a.jpg
+  - image: /PHIL0H3A6741a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A6741a.jpg
+  - image: /PHIL0H3A2993 (1)a.jpg
     portrait: false
     wide: true
     title:
