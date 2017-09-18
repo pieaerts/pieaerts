@@ -257,7 +257,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A0045a.jpg
+  - image: /PHIL0H3A0049a.jpg
     portrait: false
     wide: false
     title:
