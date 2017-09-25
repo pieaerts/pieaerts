@@ -103,6 +103,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/south-africa/0H3A7407.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A3502.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
