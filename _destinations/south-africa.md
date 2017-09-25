@@ -75,9 +75,16 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
-    portrait: false
-    wide: true
+  - image: /uploads/south-africa/DJI_0258.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A4684.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
