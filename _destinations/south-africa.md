@@ -2,7 +2,7 @@
 title: South Africa
 subtitle: '34.23434234° N, 134.46434234° E'
 date: 2013-03-19 00:00:00
-image: /0H3A8291.jpg
+image: /uploads/south-africa/0H3A4593.jpg
 float: left
 images:
   - image:
