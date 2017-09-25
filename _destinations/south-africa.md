@@ -68,6 +68,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/south-africa/0H3A3945.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/south-africa/0H3A4649.jpg
     portrait: false
     wide: true
@@ -85,6 +92,13 @@ images:
   - image: /uploads/south-africa/0H3A4684.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A4751.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
