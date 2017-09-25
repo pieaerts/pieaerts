@@ -5,14 +5,28 @@ date: 2013-03-19 00:00:00
 image: /uploads/south-africa/0H3A4593.jpg
 float: left
 images:
-  - image:
+  - image: /uploads/south-africa/0H3A3614.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/south-africa/0H3A4677.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A3827.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/DJI_0250.jpg
     portrait: false
     wide: true
     title:
