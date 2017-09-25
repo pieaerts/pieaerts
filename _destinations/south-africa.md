@@ -47,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A3913.jpg
+  - image: /uploads/south-africa/0H3A3875.jpg
     portrait: false
     wide: true
     title:
@@ -61,7 +61,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A3880.jpg
+  - image: /uploads/south-africa/0H3A3917.jpg
     portrait: true
     wide: false
     title:
