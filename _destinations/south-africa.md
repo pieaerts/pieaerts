@@ -89,7 +89,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A4684.jpg
+  - image: /uploads/south-africa/0H3A4720.jpg
     portrait: true
     wide: false
     title:
