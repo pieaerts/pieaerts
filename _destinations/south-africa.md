@@ -138,13 +138,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A7512.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/south-africa/0H3A7556.jpg
     portrait: true
     wide: false
@@ -152,9 +145,37 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/south-africa/0H3A7617.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A7623.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/south-africa/0H3A7664.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A7716.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/south-africa/0H3A7648.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
