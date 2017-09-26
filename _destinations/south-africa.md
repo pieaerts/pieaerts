@@ -201,14 +201,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A7637.jpg
+  - image: /uploads/south-africa/IMG_8035.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/IMG_8022.jpg
+  - image: /uploads/south-africa/IMG_8029.jpg
     portrait: true
     wide: false
     title:
