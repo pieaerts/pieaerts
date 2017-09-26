@@ -82,8 +82,8 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A8952.jpg
-    portrait: false
+  - image: /uploads/botswana/0H3A8950a-3.jpg
+    portrait: true
     wide: true
     title:
     subtitle:
@@ -174,6 +174,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/botswana/IMG_7403.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /0H3A8952.jpg
     portrait: false
     wide: true
     title:
@@ -292,6 +299,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/botswana/0H3A0504 copy.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /IMG_9932.jpg
     portrait: true
     wide: false
@@ -341,9 +355,16 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A9696.jpg
+  - image: /uploads/botswana/0H3A0046.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/botswana/0H3A0439.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
