@@ -173,6 +173,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/botswana/IMG_7403.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /0H3A8137.jpg
     portrait: false
     wide: true
@@ -232,6 +239,13 @@ images:
   - image: /0H3A0048.jpg
     portrait: false
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/botswana/0H3A9927.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
