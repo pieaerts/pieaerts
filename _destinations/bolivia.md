@@ -145,6 +145,34 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/bolivia/IMG_7547.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7134.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7061.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
