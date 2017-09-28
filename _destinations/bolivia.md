@@ -159,7 +159,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/bolivia/IMG_8486.jpg
     portrait: false
     wide: false
     title:
