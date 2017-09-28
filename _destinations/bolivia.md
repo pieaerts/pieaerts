@@ -47,13 +47,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_8788.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/bolivia/IMG_8562.jpg
     portrait: false
     wide: true
@@ -99,6 +92,20 @@ images:
   - image: /uploads/bolivia/IMG_7317.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7262.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7305.jpg
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
