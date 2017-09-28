@@ -222,6 +222,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/bolivia/IMG_7233.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/bolivia/IMG_8305.jpg
     portrait: false
     wide: true
@@ -272,13 +279,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/bolivia/IMG_8685.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_7233.jpg
     portrait: false
     wide: true
     title:
