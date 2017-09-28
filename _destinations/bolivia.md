@@ -159,16 +159,30 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_8486.jpg
+  - image: /uploads/bolivia/AAA_MG_0063.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_8654.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/bolivia/AAA_MG_0068.jpg
     portrait: false
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_8367.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
