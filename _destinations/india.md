@@ -264,6 +264,27 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/India 688.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 764.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 389.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 445.jpg
     portrait: false
     wide: true
