@@ -19,6 +19,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/India 1661.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 2432.jpg
     portrait: false
     wide: true
@@ -62,13 +69,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 2096.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india/India 1661.jpg
     portrait: false
     wide: true
     title:
