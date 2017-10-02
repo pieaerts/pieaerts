@@ -306,7 +306,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 833.jpg
+  - image:
     portrait: false
     wide: true
     title:
@@ -370,6 +370,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 3264.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 3246.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 3250.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 833.jpg
     portrait: false
     wide: true
     title:
