@@ -89,6 +89,34 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/India 1574.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1611.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1565.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1575.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
