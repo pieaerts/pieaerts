@@ -5,21 +5,7 @@ date: 2013-03-19 00:00:00
 image: /uploads/india/India 1661.jpg
 float: left
 images:
-  - image: /uploads/india/India 2357.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 1168a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india/India 394.jpg
     portrait: false
     wide: true
     title:
@@ -40,6 +26,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/India 394.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 1298.jpg
     portrait: false
     wide: true
@@ -47,7 +40,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 2678.jpg
+  - image: /uploads/india/India 2357.jpg
     portrait: false
     wide: true
     title:
@@ -55,6 +48,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 2444.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 2678.jpg
     portrait: false
     wide: true
     title:
