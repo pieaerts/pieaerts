@@ -203,7 +203,7 @@ images:
     show-text: false
   - image: /uploads/india/India 1147.jpg
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
