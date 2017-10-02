@@ -140,14 +140,14 @@ images:
     show-text: false
   - image: /uploads/india/India 1580.jpg
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/india/India 1603.jpg
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
