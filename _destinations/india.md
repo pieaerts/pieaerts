@@ -131,21 +131,49 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1608.jpg
+  - image: /uploads/india/India 1035.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1493.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1030.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 1263.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 886.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1580.jpg
+  - image: /uploads/india/India 1277.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1603.jpg
+  - image: /uploads/india/India 1853.jpg
     portrait: false
     wide: false
     title:
