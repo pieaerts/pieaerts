@@ -40,13 +40,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 394.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 2357.jpg
     portrait: false
     wide: true
@@ -222,14 +215,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 376.jpg
+  - image: /uploads/india/India 394.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 764.jpg
+  - image: /uploads/india/India 578.jpg
     portrait: true
     wide: false
     title:
