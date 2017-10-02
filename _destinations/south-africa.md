@@ -40,6 +40,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/south-africa/Photo_02.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/south-africa/DJI_0250.jpg
     portrait: false
     wide: true
@@ -82,14 +89,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/DJI_0258.jpg
+  - image: /uploads/south-africa/0H3A4720.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A4720.jpg
+  - image: /uploads/south-africa/DJI_0258.jpg
     portrait: true
     wide: false
     title:
