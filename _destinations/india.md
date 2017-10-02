@@ -265,8 +265,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 688.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
