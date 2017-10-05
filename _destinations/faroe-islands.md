@@ -26,6 +26,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/faroe-islands/0H3A0109.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/faroe-islands/0H3A2422.jpg
     portrait: false
     wide: true
@@ -54,7 +61,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/faroe-islands/0H3A0153.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/faroe-islands/0H3A0182_.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/faroe-islands/0H3A1560.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/faroe-islands/0H3A9711.jpg
     portrait: false
     wide: true
     title:
