@@ -19,6 +19,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/faroe-islands/0H3A2422.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/faroe-islands/0H3A0862.jpg
     portrait: false
     wide: true
@@ -27,13 +34,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/faroe-islands/0H3A0109.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/faroe-islands/0H3A2422.jpg
     portrait: false
     wide: true
     title:
@@ -155,20 +155,6 @@ images:
   - image: /uploads/faroe-islands/0H3A0047-3a.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/faroe-islands/0H3A1561.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/faroe-islands/0H3A1560.jpg
-    portrait: true
-    wide: false
     title:
     subtitle:
     text-color:
