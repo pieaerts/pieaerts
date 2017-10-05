@@ -89,6 +89,27 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/faroe-islands/0H3A2519.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/faroe-islands/0H3A2506.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/faroe-islands/0H3A1560.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
