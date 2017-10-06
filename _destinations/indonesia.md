@@ -117,6 +117,27 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/indonesia/IMG_3365.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_2786.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_2886.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
