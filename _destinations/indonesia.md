@@ -68,7 +68,7 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/indonesia/IMG_2826.jpg
+  - image: /uploads/indonesia/IMG_1428.jpg
     portrait: false
     wide: true
     title:
