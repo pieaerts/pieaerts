@@ -82,13 +82,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_2323.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/indonesia/IMG_2281.jpg
     portrait: true
     wide: false
@@ -110,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_1409.jpg
+  - image: /uploads/indonesia/IMG_2323.jpg
     portrait: false
     wide: true
     title:
@@ -201,7 +194,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_5535.jpg
+  - image: /uploads/indonesia/IMG_5466.jpg
     portrait: true
     wide: false
     title:
@@ -229,7 +222,49 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/indonesia/IMG_5488.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4191.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_3138.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4761.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4850 copy.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_2220.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_1409.jpg
     portrait: false
     wide: true
     title:
