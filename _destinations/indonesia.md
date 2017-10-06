@@ -110,6 +110,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/indonesia/IMG_1969.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
