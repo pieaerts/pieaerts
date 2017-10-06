@@ -243,14 +243,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_4761.jpg
+  - image: /uploads/indonesia/IMG_1409.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_4850 copy.jpg
+  - image: /uploads/indonesia/IMG_4978.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4761.jpg
     portrait: false
     wide: true
     title:
@@ -264,7 +271,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_1409.jpg
+  - image: /uploads/indonesia/IMG_4421.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4425.jpg
     portrait: false
     wide: true
     title:
