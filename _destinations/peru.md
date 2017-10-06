@@ -152,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/peru/IMG_5958.jpg
+  - image: /uploads/peru/IMG_5958a-2.jpg
     portrait: false
     wide: true
     title:
