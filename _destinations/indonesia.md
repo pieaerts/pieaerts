@@ -110,7 +110,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_1969.jpg
+  - image: /uploads/indonesia/IMG_1409.jpg
     portrait: false
     wide: true
     title:
@@ -160,6 +160,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/indonesia/IMG_5098.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_1969.jpg
     portrait: false
     wide: true
     title:
