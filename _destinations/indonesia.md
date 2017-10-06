@@ -40,7 +40,21 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/indonesia/IMG_1586.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/indonesia/IMG_5092.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4456.jpg
     portrait: false
     wide: true
     title:
@@ -53,8 +67,15 @@ images:
     title:
     subtitle:
     text-color:
+    show-text: true
+  - image: /uploads/indonesia/IMG_2826.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
     show-text: false
-  - image:
+  - image: /uploads/indonesia/IMG_2486.jpg
     portrait: false
     wide: true
     title:
