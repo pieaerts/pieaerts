@@ -103,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/indonesia/IMG_2606.jpg
     portrait: false
     wide: true
     title:
