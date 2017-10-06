@@ -257,14 +257,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_4761.jpg
+  - image: /uploads/indonesia/IMG_2220.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/indonesia/IMG_2220.jpg
+  - image: /uploads/indonesia/IMG_4761.jpg
     portrait: false
     wide: true
     title:
