@@ -5,7 +5,42 @@ date: 2013-03-19 00:00:00
 image: /uploads/italy/0H3A9013.jpg
 float: left
 images:
-  - image:
+  - image: /uploads/italy/0H3A8625.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A8069 - Copy.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/DJI_0150.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A9013.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A8343.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A8174.jpg
     portrait: false
     wide: true
     title:
