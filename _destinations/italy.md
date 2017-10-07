@@ -19,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/DJI_0150.jpg
+  - image: /uploads/italy/Italy - Sicilia excl watermerk 12.jpg
     portrait: false
     wide: true
     title:
@@ -41,6 +41,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/italy/0H3A8174.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/Italy - Sicilia excl watermerk 22.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/DJI_0219.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/DJI_0150.jpg
     portrait: false
     wide: true
     title:
