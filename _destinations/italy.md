@@ -229,28 +229,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/Italy - Sicilia excl watermerk 70.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/italy/Italy - Sicilia excl watermerk 78.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 69.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image:
     portrait: false
     wide: true
     title:
