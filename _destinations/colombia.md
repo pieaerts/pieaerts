@@ -175,14 +175,14 @@ images:
     show-text: false
   - image: /uploads/colombia/Colombia 83.jpg
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/colombia/IMG_5861-2.jpg
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
