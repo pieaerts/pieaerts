@@ -145,7 +145,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A9414-1.jpg
+  - image: /uploads/italy/0H3A8035-1.jpg
     portrait: true
     wide: false
     title:
