@@ -5,7 +5,63 @@ date: 2013-03-19 00:00:00
 image: /uploads/colombia/IMG_7050.jpg
 float: left
 images:
-  - image: /uploads/bolivia/IMG_8978.jpg
+  - image: /uploads/colombia/IMG_7050.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_7292.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_7986.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_3077.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_5808.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_6378.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_6925.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_7442.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8392.jpg
     portrait: false
     wide: true
     title:
