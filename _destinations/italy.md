@@ -89,13 +89,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/Barcelona Transavia no edit 69-3.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 41.jpg
     portrait: false
     wide: true
@@ -103,7 +96,21 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/italy/Barcelona Transavia no edit 69-3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 106.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A7963.jpg
     portrait: false
     wide: true
     title:
