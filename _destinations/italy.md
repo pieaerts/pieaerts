@@ -26,14 +26,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A9138.jpg
+  - image: /uploads/italy/0H3A9013.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A9013.jpg
+  - image: /uploads/italy/0H3A9138.jpg
     portrait: false
     wide: true
     title:
