@@ -61,7 +61,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_6925.jpg
+  - image: /uploads/colombia/IMG_8392.jpg
     portrait: false
     wide: true
     title:
@@ -75,7 +75,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_8392.jpg
+  - image: /uploads/colombia/IMG_6925.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_7059.jpg
     portrait: false
     wide: true
     title:
@@ -83,6 +90,41 @@ images:
     text-color:
     show-text: false
   - image: /uploads/colombia/IMG_9131.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8698.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8647.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8610.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8707-2a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
