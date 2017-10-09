@@ -103,13 +103,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/Italy - Sicilia excl watermerk 106.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/italy/0H3A7963.jpg
     portrait: false
     wide: true
@@ -155,6 +148,13 @@ images:
   - image: /uploads/italy/0H3A8054-4.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/Italy - Sicilia excl watermerk 106.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
