@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_7986.jpg
+  - image: /uploads/colombia/IMG_3077.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_3077.jpg
+  - image: /uploads/colombia/IMG_7986.jpg
     portrait: false
     wide: true
     title:
