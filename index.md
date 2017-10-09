@@ -2,22 +2,26 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/bolivia/IMG_8142.jpg
+  - image: /uploads/Headers/Header4.jpg
     title: BOLIVIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/bolivia/'
-  - image: /PHIL0H3A5681a.jpg
-    title: PHILIPPINES
-    description: 'http://quiet-herring.cloudvent.net/destinations/the-philippines/'
-    url:
-  - image: /uploads/indonesia/IMG_5035.jpg
-    title: INDONESIA
-    description:
-    url: 'http://quiet-herring.cloudvent.net/destinations/indonesia/'
-  - image: /0H3A8952.jpg
+  - image: /uploads/Headers/Header1.jpg
     title: BOTSWANA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/botswana/'
+  - image: /uploads/Headers/Header2.jpg
+    title: INDONESIA
+    description:
+    url: 'http://quiet-herring.cloudvent.net/destinations/indonesia/'
+  - image: /uploads/Headers/Header3.jpg
+    title: PHILIPPINES
+    description: 'http://quiet-herring.cloudvent.net/destinations/the-philippines/'
+    url:
+  - image:
+    title:
+    description:
+    url:
 ---
 
 
