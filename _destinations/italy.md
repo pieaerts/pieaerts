@@ -12,6 +12,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/italy/0H3A9013.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/italy/0H3A8069 - Copy.jpg
     portrait: false
     wide: true
@@ -20,13 +27,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 12.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/italy/0H3A9013.jpg
     portrait: false
     wide: true
     title:
@@ -111,6 +111,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/italy/0H3A7963.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A7569.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A8035-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/italy/0H3A7962.jpg
     portrait: false
     wide: true
     title:
