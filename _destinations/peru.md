@@ -124,20 +124,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/peru/IMG_6257.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/peru/IMG_6344.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/peru/IMG_5683.jpg
     portrait: false
     wide: true
