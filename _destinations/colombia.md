@@ -33,14 +33,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_5808.jpg
+  - image: /uploads/colombia/IMG_6378.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_6378.jpg
+  - image: /uploads/colombia/IMG_5808.jpg
     portrait: false
     wide: true
     title:
