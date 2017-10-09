@@ -82,14 +82,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_7059.jpg
+  - image: /uploads/colombia/IMG_9131.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_9131.jpg
+  - image: /uploads/colombia/IMG_7059.jpg
     portrait: false
     wide: true
     title:
@@ -174,15 +174,15 @@ images:
     text-color:
     show-text: false
   - image: /uploads/colombia/Colombia 83.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/colombia/IMG_5861-2.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
