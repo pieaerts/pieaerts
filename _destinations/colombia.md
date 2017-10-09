@@ -47,6 +47,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/colombia/Colombia 28a.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_8005.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/colombia/IMG_6925.jpg
     portrait: false
     wide: true
@@ -62,6 +76,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/colombia/IMG_8392.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_9131.jpg
     portrait: false
     wide: true
     title:
