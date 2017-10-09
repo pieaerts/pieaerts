@@ -117,14 +117,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A7569.jpg
+  - image: /uploads/italy/0H3A9192.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A8035-1.jpg
+  - image: /uploads/italy/0H3A7569.jpg
     portrait: true
     wide: false
     title:
