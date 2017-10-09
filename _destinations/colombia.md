@@ -40,7 +40,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_5808.jpg
+  - image: /uploads/colombia/IMG_8392.jpg
     portrait: false
     wide: true
     title:
@@ -61,7 +61,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_8392.jpg
+  - image: /uploads/colombia/IMG_5808.jpg
     portrait: false
     wide: true
     title:
