@@ -11,7 +11,7 @@ images:
     title:
     subtitle:
     text-color:
-    show-text: false
+    show-text: true
   - image: /uploads/scotland/IMG_0369.jpg
     portrait: false
     wide: true
@@ -223,6 +223,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/scotland/IMG_0540.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/scotland/IMG_8762.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/scotland/IMG_1662.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/scotland/IMG_8747.jpg
     portrait: false
     wide: true
     title:
