@@ -5,7 +5,56 @@ date: 2013-03-19 00:00:00
 image: /uploads/finland/0H3A1908.jpg
 float: left
 images:
-  - image: /uploads/bolivia/IMG_8978.jpg
+  - image: /uploads/finland/0H3A1547.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A1908.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A2231.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A3172.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/084A2425.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/DJI_0153.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/FINLAND_15.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/FINLAND_191.jpg
     portrait: false
     wide: true
     title:
