@@ -26,13 +26,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/FINLAND_15.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/finland/0H3A1908.jpg
     portrait: false
     wide: true
@@ -124,9 +117,51 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
-    portrait: false
+  - image: /uploads/finland/0H3A2604.jpg
+    portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A2610.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/084A9757.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/FINLAND_15.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/084A9879.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/084A9931.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A2068.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
