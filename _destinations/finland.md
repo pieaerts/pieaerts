@@ -12,14 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/0H3A1908.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/finland/0H3A2231.jpg
+  - image: /uploads/finland/FINLAND_191.jpg
     portrait: false
     wide: true
     title:
@@ -27,6 +20,20 @@ images:
     text-color:
     show-text: false
   - image: /uploads/finland/0H3A3172.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/FINLAND_15.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A1908.jpg
     portrait: false
     wide: true
     title:
@@ -47,14 +54,42 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/FINLAND_15.jpg
+  - image: /uploads/finland/DJI_0157.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/DJI_0202.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A2231.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/FINLAND_191.jpg
+  - image: /uploads/finland/084A0320.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/0H3A2357.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/finland/084A0097.jpg
     portrait: false
     wide: true
     title:
