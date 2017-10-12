@@ -47,9 +47,16 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/scotland/IMG_0242.jpg
+  - image: /uploads/scotland/IMG_0119.jpg
     portrait: false
-    wide: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/scotland/IMG_1593.jpg
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
@@ -62,6 +69,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/scotland/IMG_1225.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/scotland/IMG_0242.jpg
     portrait: false
     wide: true
     title:
@@ -148,6 +162,13 @@ images:
   - image: /uploads/scotland/IMG_9994.jpg
     portrait: false
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
