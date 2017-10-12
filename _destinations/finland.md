@@ -117,7 +117,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/0H3A2678.jpg
+  - image: /uploads/finland/0H3A2152.jpg
     portrait: false
     wide: false
     title:
