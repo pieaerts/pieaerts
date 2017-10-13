@@ -6,7 +6,7 @@ headers:
     title: BOLIVIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/bolivia/'
-  - image:
+  - image: /uploads/Headers/Header2.jpg
     title: INDONESIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/indonesia/'
