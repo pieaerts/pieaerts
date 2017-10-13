@@ -10,8 +10,8 @@ headers:
     title: INDONESIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/indonesia/'
-  - image:
-    title: PHILIPPINES
+  - image: /uploads/Headers/0H3A0020.jpg
+    title: ICELAND
     description: 'http://quiet-herring.cloudvent.net/destinations/the-philippines/'
     url:
   - image:
