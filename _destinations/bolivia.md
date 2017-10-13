@@ -19,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7165.jpg
+  - image: /uploads/bolivia/IMG_7169.jpg
     portrait: false
     wide: true
     title:
@@ -40,13 +40,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7153.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/bolivia/IMG_8562.jpg
     portrait: false
     wide: true
@@ -55,6 +48,20 @@ images:
     text-color:
     show-text: false
   - image: /uploads/bolivia/IMG_7552.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7174.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/bolivia/IMG_7165.jpg
     portrait: false
     wide: true
     title:
@@ -145,6 +152,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/bolivia/IMG_7547.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/bolivia/IMG_7134.jpg
     portrait: false
     wide: true
@@ -166,21 +180,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_8654.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/bolivia/AAA_MG_0068.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_8367.jpg
     portrait: false
     wide: true
     title:
