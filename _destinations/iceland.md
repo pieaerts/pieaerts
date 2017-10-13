@@ -61,6 +61,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/iceland/IJsland no edit 1211-2.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/iceland/0H3A0020.jpg
     portrait: false
     wide: true
@@ -106,13 +113,6 @@ images:
   - image: /uploads/iceland/DJI_0068.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/iceland/0H3A0891.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
@@ -236,9 +236,51 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/iceland/0H3A0578.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/0H3A7747.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/0H3A7943.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/0H3A9606.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/DJI_0271-4.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/0H3A8965.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/iceland/0H3A0890.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
