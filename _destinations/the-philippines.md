@@ -264,13 +264,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A5721a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /PHIL0H3A0045a.jpg
     portrait: false
     wide: true
