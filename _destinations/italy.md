@@ -201,7 +201,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/DJI_0178.jpg
+  - image: /uploads/italy/DJI_0174.jpg
     portrait: false
     wide: true
     title:
