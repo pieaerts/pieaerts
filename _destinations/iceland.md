@@ -62,8 +62,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/iceland/IJsland no edit 1211-2.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
