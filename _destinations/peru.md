@@ -19,6 +19,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/peru/IMG_5958a-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/peru/IMG_6910.jpg
     portrait: false
     wide: true
@@ -34,13 +41,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/peru/IMG_5763.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/peru/IMG_6422.jpg
     portrait: false
     wide: true
     title:
@@ -103,6 +103,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/peru/IMG_6422.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/peru/IMG_6158.jpg
     portrait: false
     wide: true
@@ -125,13 +132,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/peru/IMG_5683.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/peru/IMG_5958a-2.jpg
     portrait: false
     wide: true
     title:
@@ -187,6 +187,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/peru/IMG_6673.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/peru/IMG_6830.jpg
     portrait: false
     wide: true
@@ -216,13 +223,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/peru/IMG_5130.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/peru/IMG_5077.jpg
     portrait: false
     wide: true
     title:
