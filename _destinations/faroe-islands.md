@@ -180,6 +180,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/faroe-islands/0H3A0477.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/faroe-islands/0H3A9987.jpg
     portrait: false
     wide: true
