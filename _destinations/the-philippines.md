@@ -250,7 +250,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A6053a.jpg
+  - image: /uploads/philippines/0H3A6053.jpg
     portrait: false
     wide: true
     title:
@@ -399,3 +399,5 @@ images:
     show-text: false
 text-color: light
 ---
+
+
