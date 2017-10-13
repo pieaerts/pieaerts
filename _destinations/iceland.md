@@ -264,7 +264,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/DJI_0271-4.jpg
+  - image: /uploads/iceland/DJI_0271-3.jpg
     portrait: false
     wide: true
     title:
