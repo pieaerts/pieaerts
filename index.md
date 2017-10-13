@@ -6,15 +6,11 @@ headers:
     title: BOLIVIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/bolivia/'
-  - image: /uploads/Headers/Header1.jpg
-    title: BOTSWANA
-    description:
-    url: 'http://quiet-herring.cloudvent.net/destinations/botswana/'
-  - image: /uploads/Headers/Header2.jpg
+  - image:
     title: INDONESIA
     description:
     url: 'http://quiet-herring.cloudvent.net/destinations/indonesia/'
-  - image: /uploads/Headers/Header3.jpg
+  - image:
     title: PHILIPPINES
     description: 'http://quiet-herring.cloudvent.net/destinations/the-philippines/'
     url:
