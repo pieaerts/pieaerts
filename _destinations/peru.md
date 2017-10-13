@@ -47,6 +47,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/peru/IMG_5885.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/peru/IMG_6007.jpg
     portrait: false
     wide: true
@@ -138,14 +145,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/peru/IMG_5885.jpg
+  - image: /uploads/peru/IMG_6782.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/peru/IMG_6782.jpg
+  - image: /uploads/peru/IMG_5696a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/peru/IMG_5649a.jpg
     portrait: false
     wide: true
     title:
