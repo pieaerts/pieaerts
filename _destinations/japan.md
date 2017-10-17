@@ -11,31 +11,31 @@ images:
     title:
     subtitle:
     text-color: light
-  - image: /Japan/0H3A0004.jpg
+  - image: /uploads/japan/0H3A0004.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /3-2.jpg
+  - image: /uploads/japan/3aaa.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color: light
-  - image: /0H3A9714cleanup2.jpg.jpg
+  - image: /uploads/japan/6.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color: light
-  - image: /0h3a8351-2-2.jpg
+  - image: /uploads/japan/7.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A1307-2.jpg
+  - image: /uploads/japan/0H3A1307.jpg
     portrait: false
     wide: true
     title:
@@ -53,7 +53,7 @@ images:
     title:
     subtitle:
     text-color: light
-  - image: /0H3A9988a.jpg
+  - image: /uploads/japan/0H3A9988.jpg
     portrait: true
     wide: false
     title:
