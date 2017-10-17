@@ -5,7 +5,7 @@ date: 2013-05-10 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /0H3A8853a.jpg
+  - image: /uploads/japan/0H3A8853a.jpg
     portrait: false
     wide: true
     title:
@@ -89,7 +89,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A9122.jpg
+  - image: /uploads/japan/0H3A9122-2.jpg
     portrait: false
     wide: true
     title:
@@ -101,31 +101,31 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8361.jpg
+  - image: /uploads/japan/0H3A8361.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A9167.jpg
+  - image: /uploads/japan/0H3A9167.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A8605a.jpg
+  - image: /uploads/japan/0H3A8605a.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A8619a.jpg
+  - image: /uploads/japan/0H3A8619a.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A8757-2.jpg
+  - image: /uploads/japan/0H3A8757.jpg
     portrait: false
     wide: false
     title:
@@ -143,7 +143,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A1256.jpg
+  - image: /uploads/japan/0H3A1256.jpg
     portrait: false
     wide: true
     title:
@@ -167,25 +167,25 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0927.jpg
+  - image: /uploads/japan/0H3A0927.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A9322.jpg
+  - image: /uploads/japan/0H3A9322-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A9172a.jpg
+  - image: /uploads/japan/0H3A9172a.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A9239a.jpg
+  - image: /uploads/japan/0H3A9245a.jpg
     portrait: false
     wide: false
     title:
@@ -215,13 +215,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8903.jpg
+  - image: /uploads/japan/0H3A8903.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A8865.jpg
+  - image: /uploads/japan/0H3A8865.jpg
     portrait: true
     wide: false
     title:
@@ -239,7 +239,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8834a.jpg
+  - image: /uploads/japan/0H3A8834a.jpg
     portrait: false
     wide: true
     title:
@@ -251,9 +251,15 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/japan/0H3A0488a.jpg
+  - image: /uploads/japan/0H3A8780.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/japan/0H3A0488a.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -263,13 +269,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /Japan/0H3A8981a.jpg
+  - image: /uploads/japan/0H3A8981a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A8399.jpg
+  - image: /uploads/japan/0H3A8399.jpg
     portrait: false
     wide: true
     title:
@@ -281,13 +287,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0160.jpg
+  - image: /uploads/japan/0H3A0160.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A8820a.jpg
+  - image: /uploads/japan/0H3A8820a.jpg
     portrait: false
     wide: true
     title:
