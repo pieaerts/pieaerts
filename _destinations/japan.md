@@ -41,7 +41,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A9070a.jpg
+  - image: /uploads/japan/0H3A9070aa.jpg
     portrait: false
     wide: true
     title:
@@ -83,7 +83,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A9651.jpg
+  - image: /uploads/japan/0H3A9651.jpg
     portrait: false
     wide: true
     title:
@@ -95,7 +95,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8372.jpg
+  - image: /uploads/japan/0H3A8443-2.jpg
     portrait: true
     wide: false
     title:
@@ -131,13 +131,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8901a.jpg
+  - image: /uploads/japan/0H3A8901.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A9372-2-2.jpg
+  - image: /uploads/japan/0H3A9372-2.jpg
     portrait: false
     wide: true
     title:
@@ -155,13 +155,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0648.jpg
+  - image: /uploads/japan/0H3A0648.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A8458-2.jpg
+  - image: /uploads/japan/0H3A8458.jpg
     portrait: false
     wide: true
     title:
@@ -191,25 +191,25 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0653.jpg
+  - image: /uploads/japan/0H3A0653.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A0555.jpg
+  - image: /uploads/japan/0H3A0555.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /Japan/0H3A8578.jpg
+  - image: /uploads/japan/0H3A8578.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /0H3A9604a.jpg
+  - image: /uploads/japan/0H3A9604.jpg
     portrait: false
     wide: true
     title:
@@ -227,13 +227,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0924-2.jpg
+  - image: /uploads/japan/0H3A0924-2.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A9140.jpg
+  - image: /uploads/japan/0H3A9140.jpg
     portrait: false
     wide: true
     title:
@@ -251,13 +251,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A0488.jpg
+  - image: /uploads/japan/0H3A0488a.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /0H3A0516.jpg
+  - image: /uploads/japan/0H3A0516.jpg
     portrait: false
     wide: true
     title:
@@ -275,7 +275,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /0H3A8737.jpg
+  - image: /uploads/japan/0H3A8737.jpg
     portrait: false
     wide: true
     title:
