@@ -159,14 +159,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7212a.jpg
+  - image: /uploads/bolivia/IMG_7237.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7237.jpg
+  - image: /uploads/bolivia/IMG_7212a.jpg
     portrait: false
     wide: false
     title:
@@ -222,21 +222,21 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/bolivia/IMG_8508.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/bolivia/IMG_8538.jpg
     portrait: false
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/bolivia/IMG_7881.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_8508.jpg
     portrait: false
     wide: true
     title:
