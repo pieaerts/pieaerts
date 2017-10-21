@@ -299,6 +299,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
 text-color: light
 ---
 
