@@ -26,14 +26,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/0H3A9032-2.jpg
+  - image: /uploads/iceland/IJsland no edit 1732a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/IJsland no edit 1732a.jpg
+  - image: /uploads/iceland/0H3A9032-2.jpg
     portrait: false
     wide: true
     title:
