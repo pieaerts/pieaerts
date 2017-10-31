@@ -15,14 +15,9 @@ defaults:
       layout: 'work'
   - scope:
       path: ''
-      type: 'people-and-portraits'
+      type: '24-hours-in'
     values:
-      layout: 'lightbox_pap'
-  - scope:
-      path: ''
-      type: 'city-life'
-    values:
-      layout: 'lightbox_cl'
+      layout: 'work'
 
 permalink: /blog/:year/:month/:day/:title/
 
@@ -30,12 +25,9 @@ collections:
   destinations:
     output: true
     permalink: /destinations/:path/
-  city-life:
+  24-hours-in:
     output: true
-    permalink: /city-life/:path/
-  people-and-portraits:
-    output: true
-    permalink: /people-and-portraits/:path/
+    permalink: /24-hours-in/:path/
 
 floats: 
   - left

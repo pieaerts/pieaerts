@@ -1,6 +1,6 @@
 ---
 title: 'Develop&shy;ing web applica&shy;tions on a Chrome&shy;book'
-image: /uploads/2.png
+image: /DJI_0108-2a.jpg
 location: Sweden
 ---
 

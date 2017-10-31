@@ -270,7 +270,7 @@ a:hover span.btn.btn-default {margin-top: -18.3%;}
 /* allerlei */
 .contentdiv {padding-top: 160px;}
 .hascarousel .contentdiv {padding-top: 0;}
-.contentdiv p, .contentdiv ol, .contentdiv ul {max-width: 400px; margin: 0 auto 2em; line-height: 2em;}
+.contentdiv p, .contentdiv ol, .contentdiv ul {margin: 0 auto 2em; line-height: 2em;}
 .contentdiv {text-transform: none; font-size: 12px;}
 .contentdiv.small {font-size: 12px;}
 .contentdiv li {list-style: none; position: relative; right: 20px;}
@@ -306,9 +306,7 @@ h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
-.grid .item a div.workthumb .overlay.hastext {background: rgba(0,0,0,0);}
-.grid .item a:hover div.workthumb .overlay {opacity: 1;}
-.grid .item a:hover div.workthumb .overlay.hastext {background: rgba(0,0,0,0);}
+.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.5);}
 .grid .item a div.workthumb .overlay > div {position: absolute; top: 0; width: calc(100% - 50px);}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 33%;}
 .grid .item a div.workthumb.portrait .overlay {padding-top: 143%;}
@@ -337,7 +335,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 600px) {
   .home .grid .item a div.workthumb .overlay {opacity: 0!important;}
-  .grid .item a div.workthumb .overlay {opacity: 1;}
+  .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.5);}
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 25%;}
 }
 @media screen and (max-height: 600px), screen and (max-width: 600px) {

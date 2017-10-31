@@ -1,6 +1,6 @@
 ---
 title: Flash scaling in HTML
-image: /uploads/4.png
+image: /0H3A8291.jpg
 location: Sweden
 ---
 

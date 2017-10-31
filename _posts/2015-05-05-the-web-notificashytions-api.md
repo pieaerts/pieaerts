@@ -1,6 +1,6 @@
 ---
 title: 'The Web Notifica&shy;tions API'
-image: /uploads/3.png
+image: /0H3A8291.jpg
 location: Sweden
 ---
 

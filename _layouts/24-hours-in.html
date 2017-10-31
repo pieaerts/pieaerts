@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="destinations" id="top">
+    {% include header.html %}
+    
+    <div class="container">
+    	<div class="row">
+
+            <div class="col-xs-12 contentdiv text-center">
+                <h1>{{ page.title }}</h1>
+                
+                {{ content }}   
+
+            </div>
+        </div>
+        <div class="row grid"> 
+    		{% assign sitework = (site.24-hours-in | sort: 'date') | reverse %}
+            {% for work in sitework %}
+                <div class="col-md-4 col-sm-6">
+                <div class="item"><a href="{{ work.url }}">
+                    <div class="workthumb" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
+                        <div class="overlay hastext">
+                            <div class="{{ work.text-color }}">
+                                <h3>{{ work.title }}</h3>
+                                <span>{{ work.subtitle }}</span>
+                                <img src="/img/compass.svg" class="compass" />
+                            </div>
+                        </div>
+                    </div>
+
+                </a></div>     
+                </div>
+            {% endfor %}
+    	</div>
+
+    </div>
+
+    
+    {% include footer.html %}
+  </body>
+
+</html>
