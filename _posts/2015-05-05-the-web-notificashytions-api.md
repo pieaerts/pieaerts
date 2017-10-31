@@ -2,6 +2,21 @@
 title: 'The Web Notifica&shy;tions API'
 image: /0H3A8291.jpg
 location: Sweden
+images:
+  - image: /uploads/bolivia/IMG_8142.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/bolivia/IMG_8313.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 ---
 
 

@@ -2,6 +2,21 @@
 title: 'Develop&shy;ing web applica&shy;tions on a Chrome&shy;book'
 image: /DJI_0108-2a.jpg
 location: Sweden
+images:
+  - image: /uploads/bolivia/IMG_8142.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/bolivia/IMG_8313.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 ---
 
 

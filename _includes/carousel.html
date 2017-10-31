@@ -9,8 +9,8 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     {% for item in page.headers %}
-    <div class="item{% if forloop.index == 1 %} active{% endif %}">
-      <div style="background: url({{ item.image }}) center bottom; background-size: cover; cursor: pointer;" onclick="window.location.href='{{ item.url }}';">
+    <div class="item{% if forloop.index == 1 %} active{% endif %}" style="background: url({{ item.image }}) center bottom; background-size: cover;">
+      <div onclick="window.location.href='{{ item.url }}';" style="cursor: pointer;">
         <div class="overlay text-center">
           <h3>{{ item.title }}</h3>
           <p>{{ item.description }}</p>
