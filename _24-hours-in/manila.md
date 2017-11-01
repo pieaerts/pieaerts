@@ -11,7 +11,7 @@ images:
     title:
     subtitle:
     text-color:
-    show-text: false
+    show-text: true
   - image: /uploads/Tondo/Tondo32.jpg
     portrait: false
     wide: true
@@ -36,6 +36,20 @@ images:
   - image: /uploads/Tondo/Tondo6.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tondo/Tondo31.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tondo/Tondo27.jpg
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
