@@ -1,6 +1,6 @@
 ---
 title: JAPAN
-subtitle:
+subtitle: '35°41′0″N, 139°46′0″E'
 date: 2013-05-10 00:00:00
 image: /0H3A8901a.jpg
 float: left
