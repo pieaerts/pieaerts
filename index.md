@@ -3,7 +3,7 @@ title: Home
 layout: home
 headers:
   - image: /uploads/Headers/Header4.jpg
-    title: B O L I V I A
+    title: BOLIVIA
     description: A journey through time
     url:
   - image: /uploads/Headers/India 2357.jpg
@@ -11,7 +11,7 @@ headers:
     description:
     url:
   - image: /uploads/Headers/0H3A0020.jpg
-    title: I C E L A N D
+    title: ICELAND
     description: Land of fire and ice
     url:
   - image: /uploads/Headers/Header2.jpg
