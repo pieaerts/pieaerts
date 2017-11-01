@@ -2,7 +2,7 @@
 title: ISLA DEL SOL
 subtitle:
 date: 2013-03-19 00:00:00
-image: /uploads/Porto/Portugal 103.jpg
+image: /uploads/bolivia/IMG_7317.jpg
 float: left
 images:
   - image: /uploads/Porto/Portugal 240.jpg
@@ -133,3 +133,5 @@ images:
     show-text: false
 text-color: light
 ---
+
+
