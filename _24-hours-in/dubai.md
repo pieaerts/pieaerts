@@ -11,7 +11,7 @@ images:
     title:
     subtitle:
     text-color:
-    show-text: false
+    show-text: true
   - image: /uploads/Dubai/0H3A8834.jpg
     portrait: false
     wide: true
@@ -132,6 +132,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Dubai/0H3A8925.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Dubai/0H3A8957.jpg
     portrait: false
     wide: true
     title:
