@@ -2,122 +2,122 @@
 title: TOGEAN ISLANDS
 subtitle:
 date: 2013-03-19 00:00:00
-image: /uploads/Togean/Togean17.jpg
+image: /uploads/Togean/Togeannew19.jpg
 float: left
 images:
-  - image: /uploads/Togean/Togean4.jpg
+  - image: /uploads/Togean/Togeannew2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean2.jpg
+  - image: /uploads/Togean/Togeannew4.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean19.jpg
+  - image: /uploads/Togean/MG_2486.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean6.jpg
+  - image: /uploads/Togean/IMG_3365.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean5.jpg
+  - image: /uploads/Togean/Togeannew15.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean20.jpg
+  - image: /uploads/Togean/Togeannew16.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean22.jpg
+  - image: /uploads/Togean/Togeannew18.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean17.jpg
+  - image: /uploads/Togean/Togeannew19.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean21.jpg
+  - image: /uploads/Togean/Togeannew17.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean11.jpg
+  - image: /uploads/Togean/Togeannew7.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean8.jpg
+  - image: /uploads/Togean/Togeannew12.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean16.jpg
+  - image: /uploads/Togean/Togeannew14.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean9.jpg
+  - image: /uploads/Togean/Togeannew5.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean15.jpg
+  - image: /uploads/Togean/Togeannew6.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean27.jpg
+  - image: /uploads/Togean/Togeannew10.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean14.jpg
+  - image: /uploads/Togean/Togeannew11.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean25.jpg
+  - image: /uploads/Togean/Togeannew13.jpg
     portrait: false
     wide: true
     title:
@@ -131,14 +131,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean23.jpg
+  - image: /uploads/Togean/Togeannew9.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean7.jpg
+  - image: /uploads/Togean/Togeannew1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togeannew3.jpg
     portrait: false
     wide: true
     title:
