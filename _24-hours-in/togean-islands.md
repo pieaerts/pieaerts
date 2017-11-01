@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean25.jpg
+  - image: /uploads/Togean/Togean6.jpg
     portrait: false
     wide: true
     title:
@@ -61,13 +61,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean16.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Togean/Togean11.jpg
     portrait: false
     wide: true
@@ -76,6 +69,48 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Togean/Togean8.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean16.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean9.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean15.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean27.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean14.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Togean/Togean3.jpg
     portrait: false
     wide: true
     title:
