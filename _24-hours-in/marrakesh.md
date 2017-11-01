@@ -2,129 +2,115 @@
 title: MARRAKESH
 subtitle:
 date: 2013-03-19 00:00:00
-image: /uploads/Porto/Portugal 240.jpg
+image: /uploads/Marrakesh/Morocco 98.jpg
 float: left
 images:
-  - image: /uploads/Porto/Portugal 240.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Porto/Portugal 929.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Porto/Portugal 103.jpg
+  - image: /uploads/Marrakesh/Morocco 23.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color: light
     show-text: false
-  - image: /uploads/Porto/Portugal 162.jpg
+  - image: /uploads/Marrakesh/Morocco 96.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 94.jpg
+  - image: /uploads/Marrakesh/Morocco 18.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 40.jpg
+  - image: /uploads/Marrakesh/Morocco 42.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/D 124.jpg
+  - image: /uploads/Marrakesh/Morocco 22.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 196.jpg
+  - image: /uploads/Marrakesh/Morocco 17.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 183.jpg
+  - image: /uploads/Marrakesh/Morocco 103.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 24.jpg
+  - image: /uploads/Marrakesh/Morocco 55.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Marrakesh/Morocco 65.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Marrakesh/Morocco 51.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Marrakesh/Morocco 54.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 210.jpg
+  - image: /uploads/Marrakesh/Morocco 77.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 267.jpg
+  - image: /uploads/Marrakesh/Morocco 56.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 282.jpg
+  - image: /uploads/Marrakesh/Morocco 79.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 1025.jpg
+  - image: /uploads/Marrakesh/Morocco 98.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Porto/Portugal 922.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Porto/Portugal 930.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Porto/Portugal 1189.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Porto/Portugal 837.jpg
+  - image: /uploads/Marrakesh/Morocco 36.jpg
     portrait: false
     wide: true
     title:
@@ -133,3 +119,5 @@ images:
     show-text: false
 text-color: light
 ---
+
+
