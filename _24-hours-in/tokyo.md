@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/fish_market/0H3A8166.jpg
+  - image: /uploads/fish_market/0H3A9651.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/fish_market/0H3A9651.jpg
+  - image: /uploads/fish_market/0H3A8166.jpg
     portrait: false
     wide: true
     title:
@@ -54,7 +54,35 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/fish_market/0H3A1258.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A1226.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/fish_market/0H3A1253.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A8195.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A8199.jpg
     portrait: false
     wide: true
     title:
