@@ -61,14 +61,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean11.jpg
+  - image: /uploads/Togean/Togean21.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Togean/Togean21.jpg
+  - image: /uploads/Togean/Togean11.jpg
     portrait: false
     wide: true
     title:
