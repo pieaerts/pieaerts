@@ -2,7 +2,7 @@
 title: MARRAKESH
 subtitle:
 date: 2013-03-19 00:00:00
-image: /uploads/Marrakesh/Morocco 98.jpg
+image: /uploads/Marrakesh/Morocco 23.jpg
 float: left
 images:
   - image: /uploads/Marrakesh/Morocco 23.jpg
