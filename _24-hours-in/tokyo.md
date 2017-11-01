@@ -47,6 +47,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/fish_market/0H3A1190.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A1253.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
