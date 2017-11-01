@@ -138,7 +138,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/fish_market/0H3A8212.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A8181.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A8147.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/fish_market/0H3A8201.jpg
     portrait: false
     wide: true
     title:
