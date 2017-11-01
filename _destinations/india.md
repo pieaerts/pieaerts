@@ -96,20 +96,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1565.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india/India 1575.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 1630.jpg
     portrait: false
     wide: true
