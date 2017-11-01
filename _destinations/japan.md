@@ -1,6 +1,6 @@
 ---
-title: Japan
-subtitle: '34.23434234° N, 134.46434234° E'
+title: JAPAN
+subtitle:
 date: 2013-05-10 00:00:00
 image: /0H3A8901a.jpg
 float: left
