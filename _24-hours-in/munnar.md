@@ -12,13 +12,6 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/india/Munnar29.jpg
-    portrait: true
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/Munnar21.jpg
     portrait: false
     wide: true
@@ -104,6 +97,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/Munnar13.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/Munnar29.jpg
     portrait: false
     wide: true
     title:
