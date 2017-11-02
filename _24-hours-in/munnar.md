@@ -5,13 +5,13 @@ date: 2013-03-19 00:00:00
 image: /uploads/india/Munnar17.jpg
 float: left
 images:
-  - image: /uploads/india/Munnar4.jpg
+  - image: /uploads/india/Munnar29.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-    show-text: true
+    show-text: false
   - image: /uploads/india/Munnar21.jpg
     portrait: false
     wide: true
@@ -103,13 +103,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/Munnar29.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/Munnar10.jpg
     portrait: false
     wide: true
@@ -146,6 +139,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/Munnar8.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/Munnar4.jpg
     portrait: false
     wide: true
     title:
