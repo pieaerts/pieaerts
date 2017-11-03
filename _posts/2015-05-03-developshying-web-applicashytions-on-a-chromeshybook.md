@@ -2,6 +2,7 @@
 title: 'Develop&shy;ing web applica&shy;tions on a Chrome&shy;book'
 image: /DJI_0108-2a.jpg
 location: Sweden
+footer_html: '<p>This is a <a href="#">link</a>.</p>'
 images:
   - image: /uploads/bolivia/IMG_8142.jpg
     portrait: false

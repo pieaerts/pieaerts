@@ -10,9 +10,9 @@
 
         <div class="row">
             <div class="col-md-10 col-md-push-1">
-                <div style="margin: 155px 0 15px;" ></div>
+                <div style="margin: 145px 0 0;" ></div>
                 <h1>{{ page.title }}</h1>
-                <p>{{ page.date  | date: "%b %d, %Y" }}</p>
+                <p style="margin-bottom: 4em;">{{ page.date  | date: "%b %d, %Y" }}</p>
                 <div class="maxwidth">
                     {{ content }}
                 </div>
@@ -21,6 +21,7 @@
                         <div style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="$('#lightbox{{ forloop.index }}').show();"></div>
                     {% endfor %}
                 </div>
+                {% if page.footer_html %}<div style="margin-bottom: 4em;">{{ page.footer_html }}</div>{% endif %}
                 <p>{% if page.location %}Location: {{ page.location }}<br />{% endif %}
                     Author: Pie Aerts</p>
             </div>

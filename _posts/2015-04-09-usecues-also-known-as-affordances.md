@@ -2,6 +2,7 @@
 title: "About 'usecues', also known as affordan&shy;ces"
 image: /0H3A8291.jpg
 location: "Sweden"
+footer_html: '<p>This is a <a href="#">link</a>.</p>'
 images:
   - image: /uploads/bolivia/IMG_8142.jpg
     portrait: false
