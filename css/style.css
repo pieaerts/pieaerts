@@ -339,7 +339,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
-  .grid .item a div.workthumb .overlay > div > h3 {padding-top: 25%;}
+  .grid .item a div.workthumb .overlay > div > h3 {padding-top: 25%; padding-bottom: 0;}
 }
 @media screen and (max-height: 600px), screen and (max-width: 600px) {
   .lightbox {background: black;}
