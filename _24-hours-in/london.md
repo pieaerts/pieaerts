@@ -208,13 +208,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw8.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 text-color: light
 ---
 
