@@ -54,7 +54,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Baker street 2.jpg
+  - image: /uploads/London/Baker Street.jpg
     portrait: true
     wide: false
     title:
