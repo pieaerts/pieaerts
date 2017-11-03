@@ -1,6 +1,6 @@
 ---
 title: TOGEAN ISLANDS
-subtitle:
+subtitle: A day in the life of the Bajau
 date: 2013-03-19 00:00:00
 image: /uploads/Togean/Togeannew19.jpg
 float: left
