@@ -54,13 +54,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw9.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/London/Baker Street.jpg
     portrait: true
     wide: false
@@ -76,6 +69,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/London/Londonraw2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw9.jpg
     portrait: false
     wide: true
     title:
@@ -132,6 +132,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/London/Londonraw31.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw47-2.jpg
     portrait: false
     wide: true
     title:
@@ -201,7 +208,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw47-2.jpg
+  - image: /uploads/London/Londonraw8.jpg
     portrait: false
     wide: true
     title:
