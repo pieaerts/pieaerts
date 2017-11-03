@@ -1,6 +1,6 @@
 ---
 title: RYOGOKU
-subtitle: 24 hours at the Rio Douro
+subtitle: 24 hours in a sumo stable
 date: 2013-03-19 00:00:00
 image: /uploads/Ryogoku/0H3A9725-2.jpg
 float: left
