@@ -1,7 +1,7 @@
 ---
 title: Lago Titicaca
 subtitle: 24 hours in Isla del Sol
-date: 2018-03-19 00:00:00
+date: 2017-10-18 00:00:00
 image: /uploads/bolivia/IMG_7317.jpg
 float: left
 images:
