@@ -68,7 +68,42 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Ryogoku/0H3A9581.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Ryogoku/0H3A9680.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Ryogoku/0H3A9302.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Ryogoku/0H3A9463.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Ryogoku/0H3A9490.jpg
+    portrait: false
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Ryogoku/0H3A9632.jpg
     portrait: false
     wide: true
     title:
