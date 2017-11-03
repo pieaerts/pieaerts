@@ -19,13 +19,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana40.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Tana/Tana32.jpg
     portrait: false
     wide: true
