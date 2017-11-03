@@ -1,6 +1,6 @@
 ---
 title: MUNNAR
-subtitle:
+subtitle: 24 hours at the Kerala tea grounds
 date: 2013-03-19 00:00:00
 image: /uploads/india/Munnar17.jpg
 float: left
