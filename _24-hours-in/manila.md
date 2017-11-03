@@ -1,6 +1,6 @@
 ---
 title: MANILA
-subtitle: 24 hours at the Tondo slum
+subtitle: 24 hours in the Tondo slum
 date: 2013-03-19 00:00:00
 image: /uploads/Tondo/Tondo10.jpg
 float: left
