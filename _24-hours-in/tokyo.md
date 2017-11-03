@@ -1,6 +1,6 @@
 ---
 title: TOKYO
-subtitle:
+subtitle: 24 hours at Tsukiji fish market
 date: 2013-03-19 00:00:00
 image: /uploads/japan/0H3A1307.jpg
 float: left
