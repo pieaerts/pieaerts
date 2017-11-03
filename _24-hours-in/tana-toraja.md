@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana15.jpg
+  - image: /uploads/Tana/Tanaedit4.jpg
     portrait: false
     wide: true
     title:
@@ -40,21 +40,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana11.jpg
+  - image: /uploads/Tana/Tanaedit3.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana16.jpg
+  - image: /uploads/Tana/Tanaedit5.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana7.jpg
+  - image: /uploads/Tana/Tanaedit1.jpg
     portrait: true
     wide: false
     title:
