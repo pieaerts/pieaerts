@@ -96,7 +96,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw33.jpg
+  - image: /uploads/London/Londonraw15.jpg
     portrait: true
     wide: false
     title:
@@ -145,6 +145,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/London/Londonraw27.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/London/Londonraw48.jpg
     portrait: false
     wide: true
@@ -152,14 +159,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw47-2.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/London/Londonraw15.jpg
+  - image: /uploads/London/Londonraw35.jpg
     portrait: true
     wide: false
     title:
@@ -187,13 +187,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw9.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/London/Londonraw19.jpg
     portrait: false
     wide: true
@@ -201,14 +194,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw8.jpg
+  - image: /uploads/London/Londonraw47-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw27.jpg
+  - image: /uploads/London/Londonraw9.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw8.jpg
     portrait: false
     wide: true
     title:
