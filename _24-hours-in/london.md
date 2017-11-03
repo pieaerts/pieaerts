@@ -89,14 +89,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw15.jpg
+  - image: /uploads/London/Londonraw16.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw16.jpg
+  - image: /uploads/London/Londonraw33.jpg
     portrait: true
     wide: false
     title:
@@ -134,6 +134,83 @@ images:
   - image: /uploads/London/Londonraw28.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw53.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw48.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw47-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw15.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw13.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw14.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw9.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw19.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw8.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw27.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
