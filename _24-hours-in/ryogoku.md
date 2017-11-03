@@ -110,6 +110,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Ryogoku/0H3A9725-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
