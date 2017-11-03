@@ -33,7 +33,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana13.jpg
+  - image: /uploads/Tana/MG_1936.jpg
     portrait: true
     wide: false
     title:
