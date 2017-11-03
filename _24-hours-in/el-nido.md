@@ -1,7 +1,7 @@
 ---
 title: EL NIDO
 subtitle: 24 hours at the cockfight arena
-date: 2013-03-19 00:00:00
+date: 2010-03-19 00:00:00
 image: /uploads/Cockfight/0H3A7793.jpg
 float: left
 images:
