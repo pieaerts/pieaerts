@@ -10,20 +10,19 @@
 
         <div class="row">
             <div class="col-md-10 col-md-push-1">
-                <div style="margin: 155px 0 15px; background: url('{{ page.image }}') center center; background-size: cover; padding-top: 31%;" ></div>
+                <div style="margin: 155px 0 15px;" ></div>
                 <h1>{{ page.title }}</h1>
-                <p>{{ page.date | date: "%Y-%m-%d" }}</p>
-                <div style="max-width: 720px;">
+                <p>{{ page.date  | date: "%b %d, %Y" }}</p>
+                <div class="maxwidth">
                     {{ content }}
-                    <p>{% if page.location %}Location: {{ page.location }}<br />{% endif %}
-                    Author: Pie Aerts</p>
-                    
                 </div>
                 <div class="masonry">
                     {% for item in page.images %}
                         <div style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="$('#lightbox{{ forloop.index }}').show();"></div>
                     {% endfor %}
                 </div>
+                <p>{% if page.location %}Location: {{ page.location }}<br />{% endif %}
+                    Author: Pie Aerts</p>
             </div>
           
         </div>

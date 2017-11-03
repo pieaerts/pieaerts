@@ -55,10 +55,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #f6f5ef; font-family: 'Fu
   .blog .blogitems .row:nth-child(odd) div {text-align: left!important;}
   .blog .blogitems .row div:nth-child(2) {position: relative; bottom: 23px;}
 }
-.post p {margin-bottom: 2em;}
-.post p a {text-decoration: underline;}
-.post p a:hover {text-decoration: none;}
-.post h2, .post h2 {font-size: 12px;}
+
 
 .lightbox {height: 100%;}
 .footer.lightbox {position: fixed; top: 0; width: 100%; background: #f6f5ef; height: 100%; z-index: 99; display: none;}
@@ -145,9 +142,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
                                   not supported by any browser */
 }
 .carousel-indicators li:before {content: ""; width: 24px; height: 12px; border: 1px solid white; display: block; position: absolute; margin: -4px 0 0 -10px;}
-//.carousel-indicators li:before {content: none;}
-//.carousel-indicators li {margin: 0 3px;}
-//.carousel-indicators li.active {margin: 0 3px;}
 
 #myCarousel .overlay {color: white; position: relative; padding: 205px 0 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
 #myCarousel .overlay h3 {font-size: 40px; margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 1px; font-family: 'FuturaLTBold'; text-transform: uppercase;}
@@ -279,7 +273,6 @@ a:hover span.btn.btn-default {margin-top: -18.3%;}
 .contentdiv.small {font-size: 12px;}
 .contentdiv li {list-style: none; position: relative; right: 20px;}
 .contentdiv li:before {content: "•"; display: inline-block; position: relative; right: 5px; bottom: 0px; font-size: 13px; color: #3c3c3b;}
-.post .contentdiv p:first-of-type {}
 .content {max-width: 550px; margin: 0 auto;}
 a {color: #3c3c3b!important;}
 .contentdiv p a {text-decoration: underline!important;}
@@ -293,6 +286,16 @@ div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;
 h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 .contentdiv *:first-child {padding-top: 0;}
 .contentdiv > img {max-height: 90vh; display: block; position: relative; top: 6px; margin: 0 auto 30px;}
+
+.post p {margin-bottom: 2em;}
+.post .maxwidth p:first-of-type {font-size: 150%; line-height: 1.7em; margin-bottom: 1.3em;}
+.post p a {text-decoration: underline;}
+.post p a:hover {text-decoration: none;}
+.post .maxwidth > h2, .post .maxwidth > h2 {margin-bottom: 0; margin-top: 2em;}
+.post .col-md-10 {text-align: center;}
+.post .maxwidth > * {text-align: left; max-width: 720px; margin: 0 auto 2em;}
+.post .maxwidth > img {max-width: 100%;}
+.post .masonry {margin: 0px -1.5% 0;}
 
 .masonry {margin: 80px -1.5% 0;}
 .masonry .image {width: 47%; margin: 0 1.5% 3%; float: left; padding-top: 32%!important;}
