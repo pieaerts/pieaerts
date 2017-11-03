@@ -40,6 +40,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Tana/Tana43.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/Tana/Tanaedit4.jpg
     portrait: false
     wide: true
@@ -47,7 +54,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/MG_1936.jpg
+  - image: /uploads/Tana/Tana13.jpg
     portrait: true
     wide: false
     title:
@@ -75,14 +82,77 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tana/Tana24.jpg
+  - image: /uploads/Tana/Tana41.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Tana/Tanaedit2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana17.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana18.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tanaedit6.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana28.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana25.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana20.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana26.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana4.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Tana/Tana40.jpg
     portrait: false
     wide: true
     title:
