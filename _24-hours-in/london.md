@@ -1,6 +1,6 @@
 ---
 title: LONDON
-subtitle:
+subtitle: 24 hours in East
 date: 2013-03-19 00:00:00
 image: /uploads/London/Londonraw26.jpg
 float: left
