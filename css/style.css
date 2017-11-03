@@ -288,13 +288,14 @@ h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
 .contentdiv > img {max-height: 90vh; display: block; position: relative; top: 6px; margin: 0 auto 30px;}
 
 .post p {margin-bottom: 2em;}
-.post .maxwidth p:first-of-type {font-size: 150%; line-height: 1.7em; margin-bottom: 1.3em;}
+.post .maxwidth > p:nth-child(1) {font-size: 150%; line-height: 1.7em; margin-bottom: 1.3em;}
 .post p a {text-decoration: underline;}
 .post p a:hover {text-decoration: none;}
 .post .maxwidth > h2, .post .maxwidth > h2 {margin-bottom: 0; margin-top: 2em;}
 .post .col-md-10 {text-align: center;}
-.post .maxwidth > * {text-align: left; max-width: 720px; margin: 0 auto 2em;}
-.post .maxwidth > img {max-width: 100%;}
+.post .maxwidth {text-align: left; max-width: 720px; margin: 0 auto;}
+.post .maxwidth.center {text-align: center;} 
+.post .maxwidth > * {margin-bottom: 2em;}
 .post .masonry {margin: 0px -1.5% 0;}
 
 .masonry {margin: 80px -1.5% 0;}
