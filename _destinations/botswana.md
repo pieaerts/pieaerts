@@ -187,7 +187,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A8952.jpg
+  - image: /uploads/botswana/0H3A8952.jpg
     portrait: false
     wide: true
     title:
