@@ -1,7 +1,7 @@
 ---
 title: Colombia
 subtitle: '34.23434234° N, 134.46434234° E'
-date: 2006-03-19 00:00:00
+date: 2019-05-06 00:00:00
 image: /uploads/colombia/IMG_7050.jpg
 float: left
 images:
