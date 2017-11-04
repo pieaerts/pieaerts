@@ -5,7 +5,7 @@ date: 2013-05-10 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /uploads/japan/0H3A8853a.jpg
+  - image: /uploads/japan/0H3A8853aaa.jpg
     portrait: false
     wide: true
     title:
@@ -294,12 +294,6 @@ images:
     subtitle:
     text-color:
   - image: /uploads/japan/0H3A8820a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image:
     portrait: false
     wide: true
     title:
