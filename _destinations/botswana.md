@@ -306,7 +306,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /IMG_9932.jpg
+  - image: /uploads/botswana/0H3A0783.jpg
     portrait: true
     wide: false
     title:
@@ -358,6 +358,13 @@ images:
   - image: /uploads/botswana/0H3A0046.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/botswana/DJI_0211-1-3a.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
