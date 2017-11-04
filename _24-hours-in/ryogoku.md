@@ -121,3 +121,4 @@ text-color: light
 ---
 
 
+Given their physique, it might seem obvious to assume that sumo wrestlers are couch potatoes. However, nothing is further from the truth. Their lives are as harshly regimented as those of prison inmates which a daily scheme of torturous hours of smashing their bodies against each other and constant hardcore strength training.<br>After all, this lifestyle isn’t a one-way ticket to fame and fortune since there is only little profit to be had. Many wrestlers don’t even begin earning a salary until they make it into the upper ranks of the league. Until that moment, they train, and train, and train and essentially act as servants for more superior members of the stable. Just another reminder of devotion, focus and dedication that makes these Japanese athletes stand out in such a powerful way.
