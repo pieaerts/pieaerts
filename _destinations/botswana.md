@@ -188,8 +188,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/botswana/IMG_7941.jpg
-    portrait: false
-    wide: true
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
