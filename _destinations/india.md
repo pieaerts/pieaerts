@@ -1,7 +1,7 @@
 ---
 title: INDIA
 subtitle: Land of the wild
-date: 2019-05-13 00:00:00
+date: 2017-05-13 00:00:00
 image: /uploads/india/India 1661.jpg
 float: left
 images:
