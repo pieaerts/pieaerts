@@ -1,6 +1,6 @@
 ---
 title: JAPAN
-subtitle: '35°41′0″N, 139°46′0″E'
+subtitle: Kimonos & skyscrapers
 date: 2013-05-10 00:00:00
 image: /0H3A8901a.jpg
 float: left
@@ -303,4 +303,4 @@ text-color: light
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam.
+Did you know Japanese culture lives up to 9 basic aesthetic principles? One of them is 'Shibui' meaning simple, subtle, unobtrusive. It means that things are more beautiful when they speak for themselves, when they aren't loud and shout in your face. I wish some particular parts of this world could have a bit of Japan these days.
