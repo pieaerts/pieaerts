@@ -1,7 +1,7 @@
 ---
 title: Botswana
 subtitle: '34.23434234° N, 134.46434234° E'
-date: 2017-03-19 00:00:00
+date: 2019-05-17 00:00:00
 image: /0H3A8291.jpg
 float: left
 images:
