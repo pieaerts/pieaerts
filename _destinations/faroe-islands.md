@@ -1,7 +1,7 @@
 ---
 title: Faroe Islands
 subtitle: Life in the Atlantic ocean
-date: 2013-03-19 00:00:00
+date: 2010-03-19 00:00:00
 image: /uploads/faroe-islands/0H3A1270.jpg
 float: left
 images:
