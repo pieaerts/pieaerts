@@ -383,7 +383,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A0394.jpg
+  - image: /uploads/botswana/0H3A0395.jpg
     portrait: true
     wide: false
     title:
