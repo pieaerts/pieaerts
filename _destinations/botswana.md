@@ -110,7 +110,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A8398a.jpg
+  - image: /uploads/botswana/0H3A8401.jpg
     portrait: false
     wide: true
     title:
