@@ -180,6 +180,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/botswana/0H3A8585a.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /0H3A8137.jpg
     portrait: false
     wide: true
