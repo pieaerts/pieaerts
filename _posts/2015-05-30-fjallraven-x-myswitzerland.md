@@ -1,6 +1,6 @@
 ---
 title: Fjallraven x MySwitzerland
-image: /uploads/switzerland/Swiss10-2.jpg
+image: /uploads/switzerland/Swiss10-3.jpg
 location: Sweden
 footer_html: >-
   <p>Nunc sit amet risus tortor. Nam tincidunt odio turpis, vitae efficitur elit
