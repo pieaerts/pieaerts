@@ -1,6 +1,6 @@
 ---
 title: Scotland
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: A magic Skyefall
 date: 2017-05-09 00:00:00
 image: /uploads/scotland/IMG_0113.jpg
 float: left
