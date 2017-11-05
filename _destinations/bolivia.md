@@ -1,6 +1,6 @@
 ---
 title: Bolivia
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: Life on the altiplano
 date: 2017-05-14 00:00:00
 image: /uploads/bolivia/IMG_8313.jpg
 float: left
