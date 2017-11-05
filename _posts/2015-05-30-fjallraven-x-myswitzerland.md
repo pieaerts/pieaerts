@@ -1,5 +1,5 @@
 ---
-title: Fjallraven x Switzerland
+title: Fjallraven x MySwitzerland
 image: /uploads/switzerland/Swiss10.jpg
 location: Sweden
 footer_html: >-
