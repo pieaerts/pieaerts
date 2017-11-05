@@ -1,6 +1,6 @@
 ---
 title: Indonesia
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: Islands & highlands
 date: 2017-05-12 00:00:00
 image: /uploads/indonesia/IMG_4413.jpg
 float: left
