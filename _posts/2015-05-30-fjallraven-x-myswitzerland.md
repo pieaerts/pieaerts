@@ -6,23 +6,37 @@ footer_html: >-
   <p>Nunc sit amet risus tortor. Nam tincidunt odio turpis, vitae efficitur elit
   viverra a <a href="#">link</a>.</p>
 images:
-  - image: /uploads/switzerland/Swiss10.jpg
+  - image: /uploads/switzerland/Swiss6.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/switzerland/Swiss17.jpg
+  - image: /uploads/switzerland/Swiss12.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/switzerland/Swiss23.jpg
+  - image: /uploads/switzerland/Swiss2.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/switzerland/Swiss11.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/switzerland/Swiss7.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
