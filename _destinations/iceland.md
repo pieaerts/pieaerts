@@ -1,6 +1,6 @@
 ---
 title: Iceland
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: Land of fire and ice
 date: 2017-05-16 00:00:00
 image: /uploads/iceland/0H3A0020.jpg
 float: left
