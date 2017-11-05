@@ -1,6 +1,6 @@
 ---
 title: INDIA
-subtitle: Land of the wild
+subtitle: Kolkata to Kerala
 date: 2017-05-13 00:00:00
 image: /uploads/india/India 1661.jpg
 float: left
