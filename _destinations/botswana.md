@@ -1,6 +1,6 @@
 ---
 title: Botswana
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: Walking with the Bushmen
 date: 2017-05-17 00:00:00
 image: /0H3A8291.jpg
 float: left
