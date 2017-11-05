@@ -1,8 +1,8 @@
 ---
-title: Germany
-subtitle: '34.23434234° N, 134.46434234° E'
+title: SWITZERLAND
+subtitle: Winter remnants
 date: 2017-05-07 00:00:00
-image: /uploads/bolivia/IMG_8313.jpg
+image: /uploads/swiss17.jpg
 float: left
 images:
   - image:
