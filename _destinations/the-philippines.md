@@ -1,6 +1,6 @@
 ---
 title: The Philippines
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: A million reasons to smile
 date: 2017-05-18 00:00:00
 image: /DJI_0108-2a.jpg
 float: left
