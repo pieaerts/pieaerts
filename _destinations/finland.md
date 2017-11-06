@@ -1,6 +1,6 @@
 ---
 title: Finland
-subtitle: '34.23434234° N, 134.46434234° E'
+subtitle: Life above the Arctic circle
 date: 2017-05-05 00:00:00
 image: /uploads/finland/0H3A1908.jpg
 float: left
