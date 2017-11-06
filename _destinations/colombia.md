@@ -126,7 +126,14 @@ images:
     show-text: false
   - image: /uploads/colombia/IMG_7667.jpg
     portrait: false
-    wide: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/colombia/IMG_7469.jpg
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
@@ -148,13 +155,6 @@ images:
   - image: /uploads/colombia/IMG_3046.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/colombia/IMG_7469.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
