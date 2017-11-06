@@ -75,7 +75,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/IMG_8406-2.jpg
+  - image: /uploads/iceland/IMG_7916.jpg
     portrait: false
     wide: true
     title:
@@ -334,7 +334,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/IMG_7916.jpg
+  - image: /uploads/iceland/IMG_8406-2.jpg
     portrait: false
     wide: true
     title:
