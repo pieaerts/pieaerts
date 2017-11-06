@@ -320,14 +320,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/0H3A8080.jpg
+  - image: /uploads/iceland/DJI_0022-6.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/DJI_0022-6.jpg
+  - image: /uploads/iceland/0H3A8080.jpg
     portrait: false
     wide: true
     title:
