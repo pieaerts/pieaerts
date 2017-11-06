@@ -47,6 +47,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/London/Londonraw13.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/London/Londonraw55.jpg
     portrait: false
     wide: true
@@ -83,6 +90,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/London/Londonraw32.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/London/Londonraw7.jpg
     portrait: false
     wide: true
     title:
@@ -187,7 +201,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/London/Londonraw13.jpg
+  - image: /uploads/London/Londonraw38.jpg
     portrait: false
     wide: true
     title:
