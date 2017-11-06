@@ -1,6 +1,6 @@
 ---
 title: South Africa
-subtitle: The Garden route
+subtitle: Cruising the Garden route
 date: 2017-05-08 00:00:00
 image: /uploads/south-africa/0H3A4593.jpg
 float: left
