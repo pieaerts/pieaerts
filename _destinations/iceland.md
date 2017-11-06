@@ -173,9 +173,9 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/0H3A8232-2.jpg
-    portrait: false
-    wide: true
+  - image: /uploads/iceland/0H3A8129.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
