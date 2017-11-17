@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="destinations" id="top">
+  <body class="destinations" id="top"><div class="innerbody">
     {% include header.html %}
     
     <div class="container">
@@ -21,7 +21,7 @@
             {% for work in sitework %}
                 <div class="col-md-4 col-sm-6">
                 <div class="item"><a href="{{ work.url }}">
-                    <div class="workthumb" style="background: url({{ work.image }}) center center no-repeat; background-size: cover;">
+                    <div class="workthumb" style="background: url({{ work.image | replace: ' ','%20' }}) center center no-repeat; background-size: cover;">
                         <div class="overlay hastext">
                             <div class="{{ work.text-color }}">
                                 <h3>{{ work.title }}</h3>
@@ -40,6 +40,6 @@
 
     
     {% include footer.html %}
-  </body>
+  </div></body>
 
 </html>

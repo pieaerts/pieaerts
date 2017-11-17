@@ -134,4 +134,13 @@ $( window ).resize(function() {
 		$('body').css('height','100%');
 		$('footer').css('position','absolute');
 	}
+	if($(window).width()>600) {
+		$('#myCarousel > div.carousel-inner > div').each(function() {
+			$(this).attr('style',$(this).attr('desktop-style'));
+		});
+	} else {
+		$('#myCarousel > div.carousel-inner > div').each(function() {
+			$(this).attr('style',$(this).attr('mobile-style'));
+		});
+	}
 });
