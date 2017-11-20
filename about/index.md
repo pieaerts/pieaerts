@@ -1,13 +1,9 @@
 ---
-title: How are you?
+title: My name is Pie.
 ---
 
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
-
-<div>&nbsp;</div>
-
-<div>My name is Pie.&nbsp;</div>
 
 <div>&nbsp;</div>
 
