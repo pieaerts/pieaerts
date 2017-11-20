@@ -27,7 +27,7 @@ title: HOW ARE YOU?
 
 <div>&nbsp;</div>
 
-<div>You got a story to tell? Tell me. I&rsquo;d love to help.</div>
+<div>You got a story to tell? Tell me first. I&rsquo;d love to help.</div>
 
 <div>&nbsp;</div>
 
