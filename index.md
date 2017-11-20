@@ -2,25 +2,30 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/Headers/Header4.jpg
-    portrait_image: /uploads/Headers/India 2357.jpg
+  - image: /uploads/HEADERS/IMG_8142.jpg
+    portrait_image: /uploads/HEADERS/IMG_8142.jpg
     title: BOLIVIA
-    description: A journey through time
+    description: Life on the altiplano
     url:
-  - image: /uploads/Headers/India 2357.jpg
-    portrait_image: /uploads/Headers/India 2357.jpg
+  - image: /uploads/HEADERS/India 2357.jpg
+    portrait_image: /uploads/HEADERS/India 1661.jpg
     title: INDIA
-    description:
+    description: Kolkata to Kerala
     url:
-  - image: /uploads/Headers/0H3A0020.jpg
-    portrait_image: /uploads/Headers/India 2357.jpg
+  - image: /uploads/HEADERS/0H3A0020.jpg
+    portrait_image: /uploads/HEADERS/0H3A9676.jpg
     title: ICELAND
     description: Land of fire and ice
     url:
-  - image: /uploads/Headers/Header2.jpg
-    portrait_image: /uploads/Headers/India 2357.jpg
+  - image: /uploads/HEADERS/Header2-2.jpg
+    portrait_image: /uploads/HEADERS/IMG_4413.jpg
     title: INDONESIA
-    description:
+    description: Islands & highlands
+    url:
+  - image: /uploads/HEADERS/0H3A8608.jpg
+    portrait_image: /uploads/HEADERS/0H3A9222.jpg
+    title: BOTSWANA
+    description: Walking with the bushmen
     url:
 ---
 
