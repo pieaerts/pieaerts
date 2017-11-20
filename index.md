@@ -17,12 +17,12 @@ headers:
     title: ICELAND
     description: Land of fire and ice
     url:
-  - image: /uploads/HEADERS/Header2-2.jpg
+  - image: /uploads/HEADERS/IMG_5035.jpg
     portrait_image: /uploads/HEADERS/IMG_4413.jpg
     title: INDONESIA
     description: Islands & highlands
     url:
-  - image: /uploads/HEADERS/0H3A8608.jpg
+  - image: /uploads/HEADERS/0H3A8291aaa.jpg
     portrait_image: /uploads/HEADERS/0H3A9222.jpg
     title: BOTSWANA
     description: Walking with the bushmen
