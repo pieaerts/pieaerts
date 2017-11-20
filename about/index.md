@@ -3,6 +3,6 @@ title: Pie Aerts
 ---
 
 
-![](/uploads/versions/img-8526-2---x----1639-2048x---.jpg)Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam.
 
-## &nbsp;
+![](/uploads/versions/img-8526-3-1---x----2048-1895x---.jpg)
