@@ -280,6 +280,9 @@ a {color: #3c3c3b!important;}
 a img, img {display: block; max-width: 100%; border: 0;}
 strong, b {font-weight: normal;}
 .row.grid {overflow: visible; padding-top: 20px;}
+.destinations .row.grid {padding-top: 0; margin-top: 0; position: relative; bottom: 20px;}
+.work .masonry {position: relative; bottom: 20px;}
+.work p + .masonry {position: relative; bottom: 0px;}
 div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;}
 .text-right p {float: right; clear: both;}
 

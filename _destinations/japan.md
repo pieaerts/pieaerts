@@ -1,5 +1,5 @@
 ---
-title: JAPAN
+title: Japan
 subtitle: Kimonos & skyscrapers
 date: 2017-05-19 00:00:00
 image: /0H3A8901a.jpg
