@@ -285,6 +285,7 @@ div[class^="col-"] {padding-left: 25px!important; padding-right: 25px!important;
 
 /* titles */
 h1, h2, h3 {font-size: 20px; padding: 17px 0 7px; margin: 0;}
+h1 {font-size: 40px; padding-bottom: 20px;}
 .contentdiv *:first-child {padding-top: 0;}
 .contentdiv > img {max-height: 90vh; display: block; position: relative; top: 6px; margin: 0 auto 30px;}
 
