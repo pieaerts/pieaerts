@@ -392,5 +392,3 @@ images:
     show-text: false
 text-color: light
 ---
-
-
