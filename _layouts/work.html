@@ -12,7 +12,7 @@
 
                 <h1>{{ page.title }}</h1>
                 {{ content }}   
-                <div class="masonry" {% if page.content %}{% else %}style="margin-top: 30px;"{% endif %}>
+                <div class="masonry" {% if page.collection == 'destination' %}style="margin-top: 30px;"{% endif %}>
                 {% for item in page.images %}
                     <div style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="$('#lightbox{{ forloop.index }}').show();"></div>
                 {% endfor %}
