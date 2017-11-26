@@ -233,3 +233,4 @@ text-color: light
 ---
 
 
+Life in Italy is life how it’s meant to be lived. The way art and daily life interact effortlessly, is mind blowing every time again. In the end of the day, rich or poor, old or young, all comes down to taste, beauty, style and flair.&nbsp;<br>It's a place that brings together things that matter in life. Family, food, tradition, art, passion, architecture, well-being and history. Each region in its own unique way. Such a rich place in every sense of the word.&nbsp;
