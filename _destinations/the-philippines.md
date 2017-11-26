@@ -396,4 +396,4 @@ text-color: light
 
 ### A million reasons to smile
 
-&nbsp;
+Many times in photography, it’s not the grand scale or epic nature that grabs us most, but rather the small details that would normally go overlooked. While hopping from emerald waters and seaside cliffs in Palawan to the dense Bohol jungle and some of the best beaches on our planet, surprisingly, it were the little things that hit us most.&nbsp;<br>The people. Their pride. The curiosity and their smiles. Smiles so genuine and powerful, they easily embrace any obstacle in life. Wether it’s extreme poverty, the devastating impact of earthquakes or sudden typhoons. Whatever happens, people find reasons to smile and eventually it’s not the unique variety in landscapes but the countries warm and welcoming spirit instead that really captivates and ensnares.
