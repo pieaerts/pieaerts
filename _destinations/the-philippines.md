@@ -19,7 +19,21 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /PHIL0H3A2993 (1)a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /PHIL0H3A8587a.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /PHIL0H3A8231a.jpg
     portrait: false
     wide: true
     title:
@@ -130,14 +144,7 @@ images:
     title:
     subtitle:
     text-color:
-    show-text: false
-  - image: /PHIL0H3A8231a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
+    show-text: true
   - image: /PHIL0H3A0083a.jpg
     portrait: false
     wide: true
@@ -195,13 +202,6 @@ images:
     text-color:
     show-text: false
   - image: /PHIL0H3A6741a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A2993 (1)a.jpg
     portrait: false
     wide: true
     title:
