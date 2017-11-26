@@ -1,5 +1,5 @@
 ---
-title: Italy
+title: ITALY
 subtitle: The pursuit of elegance
 date: 2017-05-11 00:00:00
 image: /uploads/italy/0H3A9013.jpg
