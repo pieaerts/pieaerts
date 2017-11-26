@@ -1,5 +1,5 @@
 ---
-title: Botswana
+title: BOTSWANA
 subtitle: Walking with the Bushmen
 date: 2017-05-17 00:00:00
 image: /0H3A8291.jpg
