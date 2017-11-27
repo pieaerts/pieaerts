@@ -5,6 +5,13 @@ date: 2017-05-15 00:00:00
 image: /uploads/india/India 1661.jpg
 float: left
 images:
+  - image: /uploads/india/India 1850.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 1168a.jpg
     portrait: false
     wide: true
@@ -12,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1850.jpg
+  - image: /uploads/india/India 2357.jpg
     portrait: false
     wide: true
     title:
@@ -34,13 +41,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 1298.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india/India 2357.jpg
     portrait: false
     wide: true
     title:
