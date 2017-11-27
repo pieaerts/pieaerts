@@ -380,8 +380,6 @@ text-color: light
 ---
 
 
-More than any other country I have been to, India feels timeless. For some reason every single place feels so connected to its most distant past. Whether its the sari's the people still wear, the ancient cuisine they still adore, the many beautiful dialects that still exist or the gods they pray to at roadside shrines or in impressive temples. In a country with the utmost form of religious freedom.
+Sensory overload, color clash, sound cacophony. More than any other country India feels timeless. For some reason every single place feels so connected to its most distant past. Whether its the sari's the people still wear, the ancient cuisine they still adore, the many beautiful dialects that still exist or the gods they pray to at roadside shrines or in impressive temples.&nbsp;
 
-Sensory overload, color clash, sound cacophony.
-
-One thing that makes India stand out from any other country in the world definitely is its people. Their friendly, intense, strange but - after all - welcoming spirit is unique. Therefore, as a tribute to all those amazing personalities I met along the way, I decided to, once again, put up the best stories of our trips to the Subcontinent. And the cool thing is.. There's a face with each and every single story.
+Their friendly, intense, strange but - after all - welcoming spirit is unique.&nbsp;
