@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: destinations
+layout: home
 headers:
   - image: /uploads/HEADERS/IMG_8148.jpg
     portrait_image: /uploads/HEADERS/IMG_8142.jpg
