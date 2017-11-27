@@ -131,13 +131,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/faroe-islands/0H3A2005.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/faroe-islands/0H3A0886.jpg
     portrait: true
     wide: false
@@ -180,17 +173,8 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/faroe-islands/0H3A0477.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 text-color: light
 ---
 
 
 ### Life in the Atlantic Ocean
-
-&nbsp;
