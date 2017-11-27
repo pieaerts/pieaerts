@@ -1,5 +1,5 @@
 ---
-title: India
+title: INDIA
 subtitle: Kolkata to Kerala
 date: 2017-05-15 00:00:00
 image: /uploads/india/India 1661.jpg
@@ -380,6 +380,6 @@ text-color: light
 ---
 
 
-Sensory overload, color clash, sound cacophony. More than any other country India feels timeless. For some reason every single place feels so connected to its most distant past. Whether its the sari's the people still wear, the ancient cuisine they still adore, the many beautiful dialects that still exist or the gods they pray to at roadside shrines or in impressive temples.&nbsp;
+### Kolkata to Kerala
 
-Their friendly, intense, strange but - after all - welcoming spirit is unique.&nbsp;
+Sensory overload, color clash, sound cacophony. Right in your face, in any possible way you could think of. Filthy, crowded, poor, corrupt, illiterate, chaotic, strange and full of gender inequality on the one side, but wealthy, educated, welcoming, cultured, peaceful, happy and well-organised on the other. But besides all that, more than any other country, India feels timeless too. For some reason every single place feels so connected to its most distant past. Whether its the sari's the people still wear, the ancient cuisine they still adore, the many beautiful dialects that still exist or the gods they pray to at roadside shrines or in impressive temples. And while walking from Kolkata to Kerala with a camera in one hand and your Western point of view in the other, you quickly realise there’s no other place where predictions of disastrous collapse and global supremacy must be treated with such equal seriousness. Welcome to India.&nbsp;
