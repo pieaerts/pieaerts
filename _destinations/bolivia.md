@@ -1,6 +1,6 @@
 ---
-title: Bolivia
-subtitle: Life on the altiplano
+title: BOLIVIA
+subtitle: Life on the Altiplano
 date: 2017-05-14 00:00:00
 image: /uploads/bolivia/IMG_8313.jpg
 float: left
@@ -331,3 +331,6 @@ text-color: light
 ---
 
 
+### Life on the Altiplano
+
+&nbsp;
