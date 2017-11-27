@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: 24-hours-in
 headers:
   - image: /uploads/HEADERS/IMG_8148.jpg
     portrait_image: /uploads/HEADERS/IMG_8142.jpg
