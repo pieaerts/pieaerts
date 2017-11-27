@@ -5,13 +5,6 @@ date: 2017-05-12 00:00:00
 image: /uploads/indonesia/IMG_4413.jpg
 float: left
 images:
-  - image: /uploads/indonesia/IMG_4690.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/indonesia/IMG_5035.jpg
     portrait: false
     wide: true
@@ -34,6 +27,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/indonesia/IMG_5537.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/indonesia/IMG_4690.jpg
     portrait: false
     wide: true
     title:
@@ -289,6 +289,6 @@ text-color: light
 ---
 
 
-### Islands & highlands&nbsp;
+### Islands & highlands
 
 I don’t even think a lifetime of travel would be enough to cover the majority of the nearly 19.000 islands and spend time with at least some of its 255 million people. Therefore we decided to ditch the highly recommended scuba, the wild beach parties, the Java traffic jams, the popular Bali spa’s, the amazing manta rays, the world-class resorts and the seafood buffets and opted for Sulawesi instead? We talked to strangers, drank palm wine until the wee hours, attended elaborate funeral ceremonies in the Toraja highlands, went fishing with the Bajau and hopped from island to island in the Togeans. Did we take a risk? Yes. Would we do it again? Twice!
