@@ -7,35 +7,7 @@ footer_html: >-
   href="http://quiet-herring.cloudvent.net/destinations/the-philippines/">here</a>&nbsp;to
   see more photo's of the Philippines.</p>
 images:
-  - image: /uploads/switzerland/Swiss6.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/switzerland/Swiss12.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/switzerland/Swiss2.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/switzerland/Swiss11.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/switzerland/Swiss7.jpg
+  - image:
     portrait: true
     wide: false
     title:
