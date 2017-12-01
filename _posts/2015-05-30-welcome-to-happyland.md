@@ -23,6 +23,12 @@ When thinking about the Philippines all that comes to mind is probably beaches, 
 
 Far away from the Makati skyline, in the north-west part of town, you’ll find Tondo. It's known for being the poorest and most underdeveloped area of the country, houses most of Manila’s slums and has always been the gritty end of town. Being one of the most densely populated pieces of land in the world with more than 73.000 people per square km, it’s a human pressure cooker compared to London housing 5.177 inhabitants per square km.
 
+![](/uploads/versions/tondo24---x----2048-1365x---.jpg)
+
+I’ve been travelling to slums in many corners of the world, but the sounds, sights and smells of the Manila slums has been so disturbing that I literally couldn’t believe what I was seeing. An area totally unfit for human habitation where garbage is piling up everywhere, crossed by muddy pathways filled with trash and open sewers. Little shacks, mostly housing over 15-20 people, no running water, no toilets, no schools and gangs that control the streets. The Tondo area is especially known for the scavenging of recyclable goods and making food out of leftovers from garbage bins. They scavenge for a living, collecting garbage and gathering, recooking and reselling discarded food, called Pagpag. Picture it for a minute. These people pick through food refuse, shake off dirt and maggots, cook it and sell it again. And if that isn’t enough, they all have to pay outrageous amounts of rent for rotted housing, impure water and unreliable electricity. If hell exists, I guess this is what it looks like.&nbsp;&nbsp;
+
+&nbsp;
+
 ## &nbsp;
 
 ## &nbsp;
