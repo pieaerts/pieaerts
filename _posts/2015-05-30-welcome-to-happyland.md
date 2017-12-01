@@ -27,8 +27,10 @@ When thinking about the Philippines all that comes to mind is probably beaches, 
 
 > I’ve been travelling to slums in many corners of the world, but the sounds, sights and smells of the Manila slums has been so disturbing that I literally couldn’t believe what I was seeing. An area totally unfit for human habitation where garbage is piling up everywhere, crossed by muddy pathways filled with trash and open sewers. Little shacks, mostly housing over 15-20 people, no running water, no toilets, no schools and gangs that control the streets. The Tondo area is especially known for the scavenging of recyclable goods and making food out of leftovers from garbage bins. They scavenge for a living, collecting garbage and gathering, recooking and reselling discarded food, called Pagpag. Picture it for a minute. These people pick through food refuse, shake off dirt and maggots, cook it and sell it again. And if that isn’t enough, they all have to pay outrageous amounts of rent for rotted housing, impure water and unreliable electricity. If hell exists, I guess this is what it looks like.&nbsp;&nbsp;
 
-&nbsp;
+![](/uploads/versions/tondo5---x----2048-1365x---.jpg)
 
-## &nbsp;
+> Although Tondo’s streets are paved with rubbish, there is smiles on every corner and genuine hospitality everywhere you go. And however no photo could capture the sheer magnitude of suffering, the incredible strength and resiliency of the people who live here would be even harder to capture. If you see through all the horror, there is tons of energy, love and hope, more than in many other countries in the world. I haven’t felt so welcomed in a very long time.
 
-## &nbsp;
+## ![](/uploads/versions/tondo32---x----2048-1365x---.jpg)
+
+> Everywhere you go you see young kids of all ages carrying huge bags of trash around the slums or take apart abandoned refrigerators and parts of metal construct in order to resell the bits and pieces. Even though conditions are horrifying, the smiles on their faces as soon as I popped out the camera is priceless and the amount of excitement and energy is from another planet. For a single moment there’s no heat, hunger or hard work.
