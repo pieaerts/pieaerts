@@ -26,15 +26,17 @@ Luckily India proved itself to be so much more than finding your inner beliefs a
 
 ![](/uploads/versions/india-3272---x----2048-1365x---.jpg)Meet Hari, living and working in the second biggest slum in the world, Dharavi in Bombay.&nbsp;
 
-> <br>“Dharavi is a criticized part of the world my friend. Severe poverty, poor hygiene and living conditions, child labor, corruption, cholera, typhoid, malaria, blackmailing. All has been said. But I'm a proud man calling this place my home town. Over 60 years ago we started off as a small village community in the Maharashtran marshlands and grew - without any form of government support - to become a billion-dollar business miracle providing food and recycled plastic to Mumbai and exporting crafts and goods to the entire world. We are the lungs of this city, the lungs of India, and will always be my son.”&nbsp;
+<br>“Dharavi is a criticized part of the world my friend. Severe poverty, poor hygiene and living conditions, child labor, corruption, cholera, typhoid, malaria, blackmailing. All has been said. But I'm a proud man calling this place my home town. Over 60 years ago we started off as a small village community in the Maharashtran marshlands and grew - without any form of government support - to become a billion-dollar business miracle providing food and recycled plastic to Mumbai and exporting crafts and goods to the entire world. We are the lungs of this city, the lungs of India, and will always be my son.”&nbsp;
+
+![](/uploads/versions/india-2399---x----2048-1365x---.jpg)
+
+Meet Deepak, living with his family in the religious Gokarna for generations.
 
 &nbsp;
 
 > &nbsp;
 
 &nbsp;
-
-![](/uploads/versions/india-2399---x----2048-1365x---.jpg)Meet Deepak, living with his family in the religious Gokarna for generations.
 
 > "Tourism had a significant effect on Gokarna my friend. You know there is a distinction between intellectual and physical enjoyment? The former was once the greatest kind of enjoyment over here, but it slowly disappeared when tourist came and got taken over by physical enjoyment. The situation worsened over the years because if you can't find intellectual challenges you have to find physical ones. Prostitution, drugs, alcohol, just to have your own dreams. However, I still love the town for what it once was and will always do.”
 
