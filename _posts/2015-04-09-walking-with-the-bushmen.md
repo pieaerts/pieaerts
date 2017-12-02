@@ -7,7 +7,7 @@ footer_html: >-
   href="http://quiet-herring.cloudvent.net/destinations/botswana/">here</a>&nbsp;to
   see more photo's of Botswana</p>
 images:
-  - image:
+  - image: /uploads/botswana/0H3A0439.jpg
     portrait: false
     wide: true
     title:
