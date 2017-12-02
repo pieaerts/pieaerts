@@ -36,7 +36,7 @@ Meet Hari, living and working in the second biggest slum in the world, Dharavi i
 
 ![](/uploads/versions/india-2399-1---x----2048-1365x---.jpg)
 
-Meet Deepak, living with his family in the religious Gokarna for generations. "Tourism had a significant effect on Gokarna my friend. You know there is a distinction between intellectual and physical enjoyment? The former was once the greatest kind of enjoyment over here, but it slowly disappeared when tourist came and got taken over by physical enjoyment. The situation worsened over the years because if you can't find intellectual challenges you have to find physical ones. Prostitution, drugs, alcohol, just to have your own dreams. However, I still love the town for what it once was and will always do.”
+Meet Deepak, living with his family in the religious Gokarna for generations.&nbsp;<br>"Tourism had a significant effect on Gokarna my friend. You know there is a distinction between intellectual and physical enjoyment? The former was once the greatest kind of enjoyment over here, but it slowly disappeared when tourist came and got taken over by physical enjoyment. The situation worsened over the years because if you can't find intellectual challenges you have to find physical ones. Prostitution, drugs, alcohol, just to have your own dreams. However, I still love the town for what it once was and will always do.&acirc;€
 
 ![](/uploads/versions/india-2843-1---x----1365-2048x---.jpg)
 
