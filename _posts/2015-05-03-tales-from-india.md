@@ -2,11 +2,14 @@
 title: Tales from India
 image: /uploads/HEADERS/India 838a-2.jpg
 location: India
-footer_html: '<p>This is a <a href="#">link</a>.</p>'
+footer_html: >-
+  <p>Click&nbsp;<a
+  href="http://quiet-herring.cloudvent.net/destinations/india/">here</a>&nbsp;to
+  see more photo's of India.&nbsp;</p>
 images:
   - image:
     portrait: false
-    wide: true
+    wide: false
     title:
     subtitle:
     text-color:
