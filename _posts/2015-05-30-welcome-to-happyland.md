@@ -29,7 +29,9 @@ I’ve been travelling to slums in many corners of the world, but the sounds, si
 
 ![](/uploads/versions/tondo5---x----2048-1365x---.jpg)
 
-Although Tondo’s streets are paved with rubbish, there is smiles on every corner and genuine hospitality everywhere you go. And however no photo could capture the sheer magnitude of suffering, the incredible strength and resiliency of the people who live here would be even harder to capture. If you see through all the horror, there is tons of energy, love and hope, more than in many other countries in the world. I haven’t felt so welcomed in a very long time.![](/uploads/versions/tondo32---x----2048-1365x---.jpg)
+Although Tondo’s streets are paved with rubbish, there is smiles on every corner and genuine hospitality everywhere you go. And however no photo could capture the sheer magnitude of suffering, the incredible strength and resiliency of the people who live here would be even harder to capture. If you see through all the horror, there is tons of energy, love and hope, more than in many other countries in the world. I haven’t felt so welcomed in a very long time.
+
+![](/uploads/versions/tondo32---x----2048-1365x---.jpg)
 
 Everywhere you go you see young kids of all ages carrying huge bags of trash around the slums or take apart abandoned refrigerators and parts of metal construct in order to resell the bits and pieces. Even though conditions are horrifying, the smiles on their faces as soon as I popped out the camera is priceless and the amount of excitement and energy is from another planet. For a single moment there’s no heat, hunger or hard work.
 
