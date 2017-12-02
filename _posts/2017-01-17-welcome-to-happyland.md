@@ -17,7 +17,7 @@ images:
 ---
 
 
-When thinking about the Philippines all that comes to mind is probably beaches, coconuts, palm trees, whale sharks and a few terrible headliners about the devastating impact of earthquakes and typhoons. On top of that, when telling friends and family you're heading there, nearly all of them straightaway strongly recommended you to avoid the capital of Manila, Asia's stinky armpit. For that reason, and for the love of Asian sub-urban chaos and city slums, I couldn't resist staying longer than usual in order to see if I could proof the opposite. The findings were remarkable. Let me tell you why in 8 photos.&nbsp;
+##### When thinking about the Philippines all that comes to mind is probably beaches, coconuts, palm trees, whale sharks and a few terrible headliners about the devastating impact of earthquakes and typhoons. On top of that, when telling friends and family you're heading there, nearly all of them straightaway strongly recommended you to avoid the capital of Manila, Asia's stinky armpit. For that reason, and for the love of Asian sub-urban chaos and city slums, I couldn't resist staying longer than usual in order to see if I could proof the opposite. The findings were remarkable. Let me tell you why in 8 photos.&nbsp;
 
 ![](/uploads/versions/tondo10---x----2048-1365x---.jpg)
 
