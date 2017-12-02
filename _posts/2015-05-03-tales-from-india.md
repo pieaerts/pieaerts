@@ -34,17 +34,9 @@ Meet Hari, living and working in the second biggest slum in the world, Dharavi i
 
 <br>“Dharavi is a criticized part of the world my friend. Severe poverty, poor hygiene and living conditions, child labor, corruption, cholera, typhoid, malaria, blackmailing. All has been said. But I'm a proud man calling this place my home town. Over 60 years ago we started off as a small village community in the Maharashtran marshlands and grew - without any form of government support - to become a billion-dollar business miracle providing food and recycled plastic to Mumbai and exporting crafts and goods to the entire world. We are the lungs of this city, the lungs of India, and will always be my son.”&nbsp;
 
-&nbsp;
-
 ![](/uploads/versions/india-2399-1---x----2048-1365x---.jpg)
 
 Meet Deepak, living with his family in the religious Gokarna for generations.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 "Tourism had a significant effect on Gokarna my friend. You know there is a distinction between intellectual and physical enjoyment? The former was once the greatest kind of enjoyment over here, but it slowly disappeared when tourist came and got taken over by physical enjoyment. The situation worsened over the years because if you can't find intellectual challenges you have to find physical ones. Prostitution, drugs, alcohol, just to have your own dreams. However, I still love the town for what it once was and will always do.”
 
@@ -52,6 +44,10 @@ Meet Deepak, living with his family in the religious Gokarna for generations.
 
 Meet Lazo, a 67 year old Indian Ayurvedic doctor we spent the entire morning with.&nbsp;<br>Besides one of the best massages I ever experienced and many interesting insights into Ayurvedic principles and its traditional medicines what especially drew my attention was his vision on the power of the daily food we consume on our health and wellbeing.. Considering his remarkable fit appearance and his clear state of mind, I certainly believe much of his words could have an impact on many of us.. "Our lives are not in the lap of the gods my son but in the lap of our cooks.."&nbsp;
 
+![](/uploads/versions/india-259-1---x----2048-1365x---.jpg)
+
 Meet Anupam, one of the many tannery workers we met &nbsp;at the Calcutta tannery grounds. &nbsp;<br>These guys are constantly exposed to high levels of chromium and sodium in the toxic runoff that is used for the coloring of leather. This causes painful skin rashes and respiratory problems and even has reduced life expectancy to less than 50. Despite the dizzying heat, stench and health hazards, they are glad to be earning $1.50 a day. "It’s hard labor. But what else can I do? So better accept it. Complaining makes it even worse".
 
-![](/uploads/versions/india-2328---x----2048-1365x---.jpg)
+![](/uploads/versions/india-2328---x----2048-1365x---.jpg)Meet Ganesh, a 24-year old student from Bangalore.&nbsp;<br>"I'm studying to become a software engineer in Bangalore but somehow I feel guilty about it.. There are too many gaps in this country.. The people from poor families are the real Indian people and the economic and social pillars of our country.. Not the software engineers.. They just count for nearly 4% of the entire population and if software companies suddenly don't exist anymore I don't think the everyday man who fishes the ocean or farms his land will not survive.. India is facing a challenge my friend.. But still I'll keep trying to once make a contribution to change.."&nbsp;
+
+![](/uploads/versions/india-290---x----2048-1365x---.jpg)But the most impressive personality we met, appeared not to be an Indian, rather a Canadian.&nbsp;<br>Meet Stuart Shaw, 54 years old, decided to leave Canada behind and take his wife and 3 kids on a one-way journey to India in 1999. Ever since, Stuart devoted his life to helping others while sacrificing his own. He started going down the tracks of the Howrah train station in Calcutta, looking for young abandoned children addicted to the most horrifying kinds of drugs, many of them missing limbs due to being overran by trains. Meanwhile his wife started her fight against human trafficking by picking up innocent young girls from the brothels around the notorious Kali Ghat area in town and attempting to provide them with a reason to live. &nbsp;All of their effort came together in 2009 when they established The Calcutta Mercy Centre. A school, situated in a former leather tannery in the Chinese quarter of Tangra, providing education to hundreds of kids that left their life in the Calcutta slums behind. After witnessing all of this I asked him to share one of his life lessons with us.&nbsp;<br>&nbsp;<br>&nbsp;"In a country where 400 million people are living below the poverty line and in a city where 2 million are homeless, it's hard to decide which kids to take, it's a choice who lives and who dies.. I thought I understood life but now that I've spend my time here, I only know less..”&nbsp;
