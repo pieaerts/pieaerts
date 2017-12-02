@@ -1,5 +1,5 @@
 ---
-title: Zazu
+title: The life of Zazu
 image: /uploads/HEADERS/AMG_2781.jpg
 location: Indonesia
 footer_html: >-
