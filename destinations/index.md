@@ -4,4 +4,4 @@ layout: destinations
 ---
 
 
-"It’s the possibility of having a dream come true that makes life interesting. Fight for it."
+Some places you leave, never leave you. These are a few of them.&nbsp;
