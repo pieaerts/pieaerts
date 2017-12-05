@@ -229,7 +229,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_8508.jpg
+  - image: /uploads/bolivia/IMG_7881.jpg
     portrait: false
     wide: true
     title:
@@ -237,13 +237,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/bolivia/IMG_8538.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_7881.jpg
     portrait: false
     wide: true
     title:
@@ -340,4 +333,4 @@ text-color: light
 
 ### Life on the Altiplano
 
-Vanishing into the wilderness, leaving behind paved roads that break into stone, then gravel and eventually only clouds of dust. Welcome to the land of warm smiles, friendly banter, gracious hospitality, colourful festivals and jaw dropping vista’s. Rough around the edges, rugged, vexing and every now and then nerve-racking. Welcome to Bolivia.&nbsp;
+Vanishing into the wilderness, leaving behind paved roads that break into stone, then gravel and eventually only clouds of dust. Welcome to the land of warm smiles, friendly banter, gracious hospitality, colourful festivals and jaw dropping vista’s. Rough around the edges, rugged, vexing and every now and then nerve-racking. Welcome to Bolivia.
