@@ -1,6 +1,6 @@
 ---
 title: TANA TORAJA
-subtitle: 24 hours in the life of Torajans
+subtitle: 24 hours in the life of the Torajans
 date: 2011-03-19 00:00:00
 image: /uploads/Tana/IMG_1969.jpg
 float: left
@@ -177,4 +177,4 @@ text-color: light
 ---
 
 
-### 24 hours in the life of Torajans
+### 24 hours in the life of the Torajans
