@@ -1,5 +1,5 @@
 ---
-title: The tools i use.
+title: The tools i use
 ---
 
 
