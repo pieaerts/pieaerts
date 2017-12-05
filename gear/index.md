@@ -1,19 +1,18 @@
 ---
-title: "The tools i use..."
+title: The tools i use.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at lectus id nibh placerat molestie at id diam. 
 
-## Specs Canon D 9876
+One of those question's I get asked all the time. Let's sum it up.&nbsp;
 
-- APS - CCMOS - sensor van 18 Megapixel
-- Geavanceerde creatieve functies
-- Variangle 7,7cm (3- inch) 3:2 ratio LCD
-- Full HD - movies
-- DIGIC 4
-- ISO 100-6400, H:12.800
-- Maximaal 5,3 fps voor 58 JPEG’s
-- 9-punts ‘cross type’ AF - systeem
-- iFCL-meetsysteem met een 63-zone Dual Layer-meetsensor
+![](/uploads/versions/img-2979-2---x----3235-2384x---.jpg)
+
+1. Canon EOS 5d Mark III&nbsp;
+
+2. Canon EOS 5d Mark III (back-up body)
+
+3.&nbsp;
+
+​​​​​​​
 
 ![Gear](/uploads/gear.png)
