@@ -53,7 +53,7 @@ Luckily, India proved itself to be so much more than finding your inner beliefs 
 
 ![](/uploads/versions/india-2328-1---x----2048-1365x---.jpg)
 
-Meet Ganesh, a 24-year old student from Bangalore.<br>"I'm studying to become a software engineer in Bangalore but somehow I feel guilty about it. There are too many gaps in this country. The people from poor families are the real Indian people and the economic and social pillars of our country. Not the software engineers. They just count for nearly 4% of the entire population and if software companies suddenly don't exist anymore I don't think the everyday man who fishes the ocean or farms his land will not survive. India is facing a challenge my friend. But still, I'll keep trying to once make a contribution to change”.
+*Meet Ganesh, a 24-year old student from Bangalore.*<br>"I'm studying to become a software engineer in Bangalore but somehow I feel guilty about it. There are too many gaps in this country. The people from poor families are the real Indian people and the economic and social pillars of our country. Not the software engineers. They just count for nearly 4% of the entire population and if software companies suddenly don't exist anymore I don't think the everyday man who fishes the ocean or farms his land will not survive. India is facing a challenge my friend. But still, I'll keep trying to once make a contribution to change”.
 
 ![](/uploads/versions/india-290-1---x----2048-1365x---.jpg)
 
