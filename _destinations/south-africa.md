@@ -226,4 +226,6 @@ text-color: light
 ---
 
 
+### Cruising the Garden route
+
 A little stretch of land, just under 300km long, dotted with excellent beaches, lagoons, lakes and rolling hills. Named after the verdant and ecologically diverse vegetation. Wildlife and outdoor activities. When the Garden of Eden would have been accessible by road, I guess this is how it would look like. Welcome to the Garden Route.&nbsp;
