@@ -155,7 +155,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image:
+  - image: /uploads/japan/0H3A8327.jpg
     portrait: false
     wide: true
     title:
