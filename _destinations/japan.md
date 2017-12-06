@@ -155,6 +155,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
   - image: /uploads/japan/0H3A0648.jpg
     portrait: false
     wide: true
@@ -303,6 +309,6 @@ text-color: light
 ---
 
 
-### Kimono's & skyscrapers&nbsp;
+### Kimono's & skyscrapers
 
 Did you know Japanese culture lives up to 9 basic aesthetic principles? One of them is 'Shibui' meaning simple, subtle, unobtrusive. It means that things are more beautiful when they speak for themselves, when they aren't loud and shout in your face. I wish some particular parts of this world could have a bit of Japan these days.
