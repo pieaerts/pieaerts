@@ -87,6 +87,12 @@ function is_vimeolink(url,el) {
 }
 
 $(document).ready(function() {
+	$(".post .col-md-10 > .maxwidth > img").each(function(){
+	    var $img = $(this),
+        href = $img.attr('src');
+    	$img.wrap('<a href="' + href + '" style="display: block;"></a>');
+	});
+
 	//add classes to links to be able to initiate lightboxes
 	$("a").each(function(){
 		var url = $(this).attr('href');
