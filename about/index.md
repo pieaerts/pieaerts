@@ -1,7 +1,6 @@
 ---
-title: HOW ARE YOU?
+title: How are you?
 ---
-
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
 
