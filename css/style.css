@@ -57,49 +57,6 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #e7e6e1; font-family: 'Fu
   .blog .blogitems .row div:nth-child(2) {position: relative; bottom: 23px;}
 }
 
-
-.lightbox {height: 100%;}
-.footer.lightbox {position: fixed; left: 0; top: 0; width: 100%; background: #f6f5ef; height: 100%; z-index: 99; display: none;}
-.lightbox div.table {display: table; height: calc(100% - 90px); width: 100%;}
-.lightbox div.table-cell {display: table-cell; vertical-align: middle;}
-.lightbox .item {width: 80vw; max-width: calc(149vh - 215px); margin: 0 auto;}
-.lightbox .item.portrait {width: calc(69vh - 90px); max-width: calc(69vh - 90px);}
-.lightbox .image {padding-bottom: 68%;}
-.lightbox .item.portrait .image {padding-bottom: 143%;}
-
-.lightbox .overlay {position: absolute; width: 80vw; max-width: calc(149vh - 180px);}
-.lightbox .overlay > div {padding-top: 65%; padding-left: 27px;}
-.lightbox .item.portrait .overlay {width: calc(72vh - 90px); max-width: calc(72vh - 90px);}
-.lightbox .item.portrait .overlay > div {padding-top: 135%; padding-left: 27px;}
-.lightbox .overlay .h1 {color: white; margin-top: -100px; line-height: 1.4em; margin: -75px 0 5px; padding: 0;}
-.lightbox .overlay .h2 {color: white; letter-spacing: 1px; font-size: 12px; line-height: 1.4em; margin: 0; padding: 0;}
-.lightbox .overlay .dark .h1 {color: #3c3c3b;}
-.lightbox .overlay .dark .h2 {color: #3c3c3b;}
-.lightbox footer {position: absolute!important;}
-.lightbox .close {cursor: pointer; position: absolute; right: calc(5vw - 15px); width: 28px; margin-top: 10px;}
-.lightbox .close.white {display: none; top: 15px; right: 15px;}
-.lightbox .next {cursor: pointer; position: absolute; right: calc(5vw - 15px); top: 46vh; width: 28px;}
-.lightbox .prev {cursor: pointer; position: absolute; left: calc(5vw - 15px); top: 46vh; width: 28px;}
-@media screen and (max-height: 600px), screen and (max-width: 600px) {
-  .lightbox .close {display: none;}
-  .lightbox .close.white {display: none;}
-  .lightbox .prev, .lightbox .next {display: none;}
-  .carousel-control {display: none!important;}
-  .lightbox .item .overlay {display: none!important;}
-  .lightbox .item {width: 100vw!important; max-width: 100vw!important; height: 147vw!important; max-height: 147vw!important;}
-}
-@media screen and (max-height: 600px) {
-  .lightbox .item {width: 147vh!important; max-width: 147vh!important; height: 100vh!important; max-height: 100vh!important;}
-}
-@media (max-aspect-ratio: 147/100) and (max-height: 600px), (max-aspect-ratio: 147/100) and (max-width: 600px) {
-  .lightbox .item {width: 100vw!important; max-width: 100vw!important; height: 68vw!important; max-height: 68vw!important;}
-}
-@media screen and (max-width: 600px) {
-  .lightbox .item.portrait {width: 100vw!important; max-width: 100vw!important; height: 143vw!important; max-height: 143vw!important;}
-}
-@media (min-aspect-ratio: 100/143) and (max-height: 600px), (min-aspect-ratio: 100/143) and (max-width: 600px) {
-  .lightbox .item.portrait {width: 70vh!important; max-width: 70vh!important; height: 100vh!important; max-height: 100vh!important;}
-}
 .table {margin-bottom: 0;}
 .site-header {position: absolute; width: 100%; z-index: 98; height: 80px;}
 
@@ -319,7 +276,7 @@ h1 {font-size: 33px; padding-bottom: 15px;}
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
-.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.5);}
+.grid .item a:hover div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.3);}
 .grid .item a div.workthumb .overlay > div {position: absolute; top: 0; width: calc(100% - 50px);}
 .grid .item a div.workthumb .overlay > div > h3 {font-size: 28px; padding-top: 35%; font-family: 'FuturaLTBold'; text-transform: uppercase; padding-bottom: 2px;}
 .grid .item a div.workthumb.portrait .overlay {padding-top: 143%;}
@@ -349,19 +306,6 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 25%;}
-}
-@media screen and (max-height: 600px), screen and (max-width: 600px) {
-  .lightbox {background: black;}
-  .footer.lightbox {background: black;}
-  .lightbox div.table {height: 100%;}
-  .lightbox .item {width: 100%; max-width: 100%;}
-  .lightbox .item.portrait {width: 100%; max-width: 100%;}
-  .lightbox .overlay {width: 100%; max-width: 100%;}
-  .lightbox .item.portrait .overlay {width: 100%; max-width: 100%;}
-  .lightbox footer {display: none;}
-  .lightbox .item .overlay > div, .lightbox .item.portrait .overlay > div {padding-left: 18px;}
-  .lightbox .overlay .h1 {line-height: 1.35em; margin: -61px 0 5px; padding: 0; font-size: 17px;}
-  .lightbox .overlay .h2 {letter-spacing: 1px; font-size: 10px; line-height: 1.4em; margin: 0; padding: 0;}
 }
 @media (max-width: 400px) {
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 23%;}

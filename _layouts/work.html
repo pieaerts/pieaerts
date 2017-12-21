@@ -14,7 +14,7 @@
                 {{ content }}
                 <div class="masonry">
                 {% for item in page.images %}
-                    <div style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" onclick="$('#lightbox{{ forloop.index }}').show();"></div>
+                    <a href="{{ item.image }}" style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}"></a>
                 {% endfor %}
                 </div>
 
@@ -22,31 +22,6 @@
         </div>
     </div>
 
-
-    {% for item in page.images %}
-    <div class="footer lightbox" id="lightbox{{ forloop.index }}">
-      <div class="table"><div class="table-cell">
-            <img class="close" src="/img/close.svg" onclick="$(this).parent().parent().parent().hide();" />
-            <img class="close white" src="/img/close_white.svg" onclick="$(this).parent().parent().parent().hide();" />
-            <img class="next" src="/img/right.svg" onclick="lightbox_next($(this).parent().parent().parent());" />
-            <img class="prev" src="/img/left.svg" onclick="lightbox_prev($(this).parent().parent().parent());" />
-            <div class="item {% if item.portrait %}portrait{% endif %}" style="background: url({{ item.image }}) center center no-repeat; background-size: cover; cursor: pointer;" onclick="$(this).parent().parent().parent().hide();">
-              <div class="image" style="">
-                <div class="overlay">
-                    <div class="{{ item.text-color }}">
-                        {% if item.show-text == true %}
-                        <div class="h1">{{ item.title }}</div>
-                        <div class="h2">{{ item.subtitle }}</div>
-                        {% endif %}
-                    </div>
-                </div>
-              </div>
-            </div>
-
-      </div></div>
-      {% include footer.html %}
-    </div>
-  {% endfor %}
 
   {% include footer.html %}
 </div></body>

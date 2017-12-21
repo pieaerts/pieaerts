@@ -1,5 +1,5 @@
 ---
-title: SCOTLAND
+title: Scotland
 subtitle: A magic Skyefall
 date: 2017-05-09 00:00:00
 image: /uploads/scotland/IMG_0113.jpg

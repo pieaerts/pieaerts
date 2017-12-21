@@ -1,5 +1,5 @@
 ---
-title: INDONESIA
+title: Indonesia
 subtitle: Islands & highlands
 date: 2017-05-12 00:00:00
 image: /uploads/indonesia/IMG_4413.jpg

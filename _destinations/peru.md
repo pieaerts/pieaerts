@@ -1,5 +1,5 @@
 ---
-title: PERU
+title: Peru
 subtitle: Last days of the Incas
 date: 2017-05-13 00:00:00
 image: /uploads/peru/IMG_6209.jpg

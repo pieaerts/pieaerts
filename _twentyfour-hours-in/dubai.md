@@ -1,5 +1,5 @@
 ---
-title: DUBAI
+title: Dubai
 subtitle: 24 hours at the Deira fish market
 date: 2017-10-17 00:00:00
 image: /uploads/Dubai/0H3A8702.jpg

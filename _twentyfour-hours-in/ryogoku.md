@@ -1,5 +1,5 @@
 ---
-title: RYOGOKU
+title: Ryogoku
 subtitle: 24 hours in a sumo stable
 date: 2009-03-19 00:00:00
 image: /uploads/Ryogoku/0H3A9725-2.jpg

@@ -1,5 +1,5 @@
 ---
-title: TANA TORAJA
+title: Tana Toraja
 subtitle: 24 hours in the life of the Torajans
 date: 2011-03-19 00:00:00
 image: /uploads/Tana/IMG_1969.jpg

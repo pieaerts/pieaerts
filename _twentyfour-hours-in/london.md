@@ -1,5 +1,5 @@
 ---
-title: LONDON
+title: London
 subtitle: 24 hours in the suburbs
 date: 2012-03-19 00:00:00
 image: /uploads/London/Londonraw26.jpg
