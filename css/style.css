@@ -293,7 +293,7 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 .contentdiv > img {max-height: 90vh; display: block; position: relative; top: 6px; margin: 0 auto 30px;}
 
 .post p {margin-bottom: 2em;}
-.post .maxwidth > p:nth-child(1) {font-size: 150%; line-height: 1.7em; margin-bottom: 1.3em;}
+/*.post .maxwidth > p:nth-child(1) {font-size: 150%; line-height: 1.7em; margin-bottom: 1.3em;}*/
 .post p a {text-decoration: underline;}
 .post p a:hover {text-decoration: none;}
 .post .maxwidth > h2, .post .maxwidth > h2 {margin-bottom: 0; margin-top: 2em;}

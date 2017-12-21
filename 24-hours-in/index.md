@@ -1,6 +1,6 @@
 ---
 title: 24 hours in
-layout: 24-hours-in
+layout: twentyfour-hours-in
 ---
 
 

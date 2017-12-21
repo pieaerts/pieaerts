@@ -3,8 +3,8 @@ title: Welcome to Happyland
 image: /uploads/HEADERS/Tondo25a-2.jpg
 location: Philippines
 footer_html: >-
-  <p>Click&nbsp;<a
-  href="http://quiet-herring.cloudvent.net/destinations/the-philippines/">here</a>&nbsp;to
+  <p>Click <a
+  href="http://quiet-herring.cloudvent.net/destinations/the-philippines/">here</a> to
   see more photo's of the Philippines.</p>
 images:
   - image:
@@ -17,7 +17,7 @@ images:
 ---
 
 
-##### When thinking about the Philippines all that comes to mind is probably beaches, coconuts, palm trees, whale sharks and a few terrible headliners about the devastating impact of earthquakes and typhoons. On top of that, when telling friends and family you're heading there, nearly all of them straightaway strongly recommended you to avoid the capital of Manila, Asia's stinky armpit. For that reason, and for the love of Asian sub-urban chaos and city slums, I couldn't resist staying longer than usual in order to see if I could proof the opposite. The findings were remarkable. Let me tell you why in 7 photos.&nbsp;
+When thinking about the Philippines all that comes to mind is probably beaches, coconuts, palm trees, whale sharks and a few terrible headliners about the devastating impact of earthquakes and typhoons. On top of that, when telling friends and family you're heading there, nearly all of them straightaway strongly recommended you to avoid the capital of Manila, Asia's stinky armpit. For that reason, and for the love of Asian sub-urban chaos and city slums, I couldn't resist staying longer than usual in order to see if I could proof the opposite. The findings were remarkable. Let me tell you why in 7 photos.
 
 ![](/uploads/versions/tondo10---x----2048-1365x---.jpg)
 
@@ -27,7 +27,7 @@ Far away from the Makati skyline, in the north-west part of town, you’ll find 
 
 I’ve been travelling to slums in many corners of the world, but the sounds, sights and smells of the Manila slums has been so disturbing that I literally couldn’t believe what I was seeing. An area totally unfit for human habitation where garbage is piling up everywhere, crossed by muddy pathways filled with trash and open sewers. Little shacks, mostly housing over 15-20 people, no running water, no toilets, no schools and gangs that control the streets.
 
-The Tondo area is especially known for the scavenging of recyclable goods and making food out of leftovers from garbage bins. They scavenge for a living, collecting garbage and gathering, recooking and reselling discarded food, called Pagpag. Picture that for a minute.. These people pick through food refuse, shake off dirt and maggots, cook it and sell it again. And if that isn’t enough, they all have to pay outrageous amounts of rent for rotted housing, impure water and unreliable electricity. If hell exists, I guess this is what it looks like.&nbsp;&nbsp;
+The Tondo area is especially known for the scavenging of recyclable goods and making food out of leftovers from garbage bins. They scavenge for a living, collecting garbage and gathering, recooking and reselling discarded food, called Pagpag. Picture that for a minute.. These people pick through food refuse, shake off dirt and maggots, cook it and sell it again. And if that isn’t enough, they all have to pay outrageous amounts of rent for rotted housing, impure water and unreliable electricity. If hell exists, I guess this is what it looks like.
 
 ![](/uploads/versions/tondo5---x----2048-1365x---.jpg)
 
@@ -49,6 +49,6 @@ One thing I’ve learned during visiting several slums around the world, is that
 
 After spending quite some time in the Tondo slums, the most horrifying story has been the one about the notorious – difficult to estimate – slum populations. Often landslides, fires or floods kill hundreds of scavengers while no one knows the exact figures. Every now and then whole compounds go up in flames, burning for hours straight while no one knows if the fire was accidental or not, since ‘slum clearings’ are still common. Ultimately, when there’s no birth certificates, there’s no deaths.
 
-During the weeks that followed, while hopping from one bounty beach to another, this disturbing thought is what kept me awake at night. I still can’t believe this really happens, in the capital city after all. However, hearing that one of the most popular slum districts is called ‘Happyland’, a name derived from the Visayan word ‘Hapilan’ meaning ‘smelly garbage’, clearly indicates that their positive mindset is what keeps them alive. Another re-confirmation that some people are so poor, all they have is money.&nbsp;
+During the weeks that followed, while hopping from one bounty beach to another, this disturbing thought is what kept me awake at night. I still can’t believe this really happens, in the capital city after all. However, hearing that one of the most popular slum districts is called ‘Happyland’, a name derived from the Visayan word ‘Hapilan’ meaning ‘smelly garbage’, clearly indicates that their positive mindset is what keeps them alive. Another re-confirmation that some people are so poor, all they have is money.
 
 &nbsp;

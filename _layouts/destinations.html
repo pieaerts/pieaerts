@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="row grid"> 
-    		{% assign sitework = (site.destinations | sort: 'date') | reverse %}
+    		{% assign sitework = site.destinations | sort: 'date' | reverse %}
             {% for work in sitework %}
                 <div class="col-md-4 col-sm-6">
                 <div class="item"><a href="{{ work.url }}">

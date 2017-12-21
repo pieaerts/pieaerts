@@ -17,7 +17,7 @@ images:
 ---
 
 
-##### Indonesia, it’s a place I would love to go back to at least once a year. However, I don’t even think a lifetime of travel would be enough to cover the majority of the nearly 19.000 islands and spend time with at least some of its 255 million people. Whether it’s the Balinese beach parties, the orangutan communities in Borneo, the local tribesman in Papua or some of the best diving you’ll ever experience, I would strongly recommend you to go and check it out with your own eyes.
+Indonesia, it’s a place I would love to go back to at least once a year. However, I don’t even think a lifetime of travel would be enough to cover the majority of the nearly 19.000 islands and spend time with at least some of its 255 million people. Whether it’s the Balinese beach parties, the orangutan communities in Borneo, the local tribesman in Papua or some of the best diving you’ll ever experience, I would strongly recommend you to go and check it out with your own eyes.
 
 ![](/uploads/versions/amg-2781---x----2048-741x---.jpg)
 

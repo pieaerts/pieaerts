@@ -15,7 +15,7 @@ defaults:
       layout: 'work'
   - scope:
       path: ''
-      type: '24-hours-in'
+      type: 'twentyfour-hours-in'
     values:
       layout: 'work'
 
@@ -25,7 +25,7 @@ collections:
   destinations:
     output: true
     permalink: /destinations/:path/
-  24-hours-in:
+  twentyfour-hours-in:
     output: true
     permalink: /24-hours-in/:path/
 
