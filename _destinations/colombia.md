@@ -159,7 +159,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/Colombia 60.jpg
+  - image: /uploads/colombia/IMG_6628.jpg
     portrait: false
     wide: true
     title:
@@ -176,13 +176,6 @@ images:
   - image: /uploads/colombia/IMG_5861-2.jpg
     portrait: false
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/colombia/IMG_6628.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
