@@ -135,3 +135,4 @@ text-color: light
 ---
 
 
+Just when you feel summer is about to kick-off, winter comes back in full force. Weather high up in the Swiss mountains is more indecisive than I am when I order pizza. But I have to say I like it.
