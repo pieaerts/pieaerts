@@ -6,14 +6,6 @@ footer_html: >-
   <p>Click <a
   href="http://quiet-herring.cloudvent.net/24-hours-in/togean-islands/">here</a>
   to see more photo's of our visit to Zazu.</p>
-images:
-  - image: /uploads/indonesia/Togeannew3.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
 ---
 
 
@@ -38,3 +30,5 @@ The next morning, before the sun even showed up, I got pulled out of bed by Zazu
 ![](/uploads/versions/togeannew17---x----2048-1365x---.jpg)
 
 All right. Interesting. Lunch continued. And so did the stories. That same day we met a young boy called Ahmad. An energetic and intelligent kid born and raised in a tiny village on Pulau Kadidiri right in the middle of the Archipelago. In this part of the Togeans, unfortunately like in many others, education is struggling. Follow-on rates to secondary high school appeared only 2-3%, primary school dropout levels are high and teaching materials are poor or sometimes even non-existent. Teachers, not necessarily untalented, are usually unmotivated, partly due to poor salaries. On top of that, Ahmad's parents turned out to believe that schooling tends to create false expectations, and knowledge is something which can’t be taken to heaven. Sigh. Therefore many poor people who have had some experience of primary education often question its relevance to their needs, perceive few benefits and as a result withdraw their children from state education due to the harvest season or major fishing months. Even though it will be very hard I still sincerely hope this young man will ever be strong enough to somehow resist the pressure of his parents and live up to his full potential at some point in his life. And when the sun slowly set, Zazu invited me for one last swim of the day. “Just to wash off the day” he said. &nbsp;<br>&nbsp;<br>During our stay the only things we actually 'did' was fishing, eating and talking, leaving enough room for thinking. Thinking about the differences between growing up in a big city and in an environment like Zazu’s. Thinking about the differences between growing up in the Western world versus this world. Zazu’s world. And although back home so many people insist on making life so complicated, the way these people live it in such a simple and unassuming way without any necessity for possession, success, luxury or publicity has such an obvious effect on body and mind. It was a great honor to be able to experience how this little family gave happiness another dimension. It’s so cheesy, but so true.
+
+![](/uploads/indonesia/Togeannew3.jpg)

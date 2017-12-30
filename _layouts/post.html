@@ -15,13 +15,6 @@
                 <p style="margin-bottom: 4em;">{{ page.date  | date: "%b %d, %Y" }}</p>
                 <div class="maxwidth">
                     {{ content }}
-
-                    {% if page.images[0].image %}<div class="masonry">
-                        {% for item in page.images %}
-                            <a href="{{ item.image }}" style="cursor: pointer; background: url('{{ item.image }}') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}"></a>
-                        {% endfor %}
-                    </div>
-                    {% endif %}
                 </div>
                 <div class="maxwidth center">
                     {% if page.footer_html %}<div style="margin-bottom: 4em;">{{ page.footer_html }}</div>{% endif %}

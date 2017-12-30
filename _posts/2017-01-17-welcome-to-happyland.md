@@ -6,14 +6,6 @@ footer_html: >-
   <p>Click <a
   href="http://quiet-herring.cloudvent.net/destinations/the-philippines/">here</a> to
   see more photo's of the Philippines.</p>
-images:
-  - image:
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 ---
 
 
@@ -50,5 +42,3 @@ One thing I’ve learned during visiting several slums around the world, is that
 After spending quite some time in the Tondo slums, the most horrifying story has been the one about the notorious – difficult to estimate – slum populations. Often landslides, fires or floods kill hundreds of scavengers while no one knows the exact figures. Every now and then whole compounds go up in flames, burning for hours straight while no one knows if the fire was accidental or not, since ‘slum clearings’ are still common. Ultimately, when there’s no birth certificates, there’s no deaths.
 
 During the weeks that followed, while hopping from one bounty beach to another, this disturbing thought is what kept me awake at night. I still can’t believe this really happens, in the capital city after all. However, hearing that one of the most popular slum districts is called ‘Happyland’, a name derived from the Visayan word ‘Hapilan’ meaning ‘smelly garbage’, clearly indicates that their positive mindset is what keeps them alive. Another re-confirmation that some people are so poor, all they have is money.
-
-&nbsp;
