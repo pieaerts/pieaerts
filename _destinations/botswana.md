@@ -415,4 +415,4 @@ text-color: light
 ---
 
 
-Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks walking and living with the African bushmen makes you quickly realise that's a very big shame. &nbsp;The raw, deep-rooted connection with nature, with the core of our existence, the simple life. The vulnerability. The immense power of instinct. The strong presence of purpose. And the joy of the little things. All happening in a world where everything seems bigger than yourself.&nbsp;<br>Botswana gets under your skin, under your nails and across the entire car, leaving you behind longing to return. Call me a hippie but all ever said about this place is true. You can shake the sand from your shoes, but not from your soul because in the end, I guess we could all use a little more Africa in our lives.
+Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks walking and living with the African bushmen made me quickly realise that's a very big shame. &nbsp;
