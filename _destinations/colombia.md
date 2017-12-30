@@ -191,3 +191,4 @@ text-color: light
 ---
 
 
+Caribbean beaches, the Amazon jungle, endless emerald-green hills or desert sunsets. Salsa, Merengue, Soca, Timba, Bachata, Calypso and the best coffee on the planet. And those women. Sigh. No wonder Colombians are ranked as the happiest in the world. Or would it be the amount of Aguerdiente in their veins? I doubt it.&nbsp;
