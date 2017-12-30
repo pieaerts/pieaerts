@@ -52,9 +52,10 @@ $( document ).ready(function() {
 	}
 
 
-  $( "img" ).load(function() {
-  		$( window ).resize();
-  });
+	$( ".contentdiv img" ).each(function() {
+		var img = $(this);
+		if($(this).parent().is('p')) $(this).parent().replaceWith(img);
+	});
 
 
   $('a[href*="#"]:not([href="#"])').click(function() {
