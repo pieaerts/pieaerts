@@ -217,8 +217,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
 }
+.contentdiv a.btn {border-radius: 0; padding: 5px 25px!important; text-decoration: none!important;}
 .btn-primary {background: #3c3c3b!important; color: #d8d8d1!important;}
-.btn-default {color: #3c3c3b!important; background: #d8d8d1!important;} 
+.btn-default {color: #3c3c3b!important; background: transparent!important;} 
 .btn-primary:hover,
 .btn-default:hover {border-color: #db7353!important; background: #db7353!important; color: #eee!important;}
 .btn-warning {border-color: #db7353!important; color: #d8d8d1!important; background: #db7353!important;}
