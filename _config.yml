@@ -25,6 +25,7 @@ defaults:
       layout: 'workshop'
 
 permalink: /blog/:year/:month/:day/:title/
+url: http://quiet-herring.cloudvent.net
 
 collections:
   destinations:
