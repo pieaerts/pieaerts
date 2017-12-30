@@ -331,6 +331,4 @@ text-color: light
 ---
 
 
-### Life on the Altiplano
-
 Vanishing into the wilderness, leaving behind paved roads that break into stone, then gravel and eventually only clouds of dust. Welcome to the land of warm smiles, friendly banter, gracious hospitality, colourful festivals and jaw dropping vista’s. Rough around the edges, rugged, vexing and every now and then nerve-racking. Welcome to Bolivia.

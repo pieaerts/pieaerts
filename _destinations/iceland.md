@@ -352,6 +352,4 @@ text-color: light
 ---
 
 
-### Land of fire and ice
-
 The purity, the drama, the obscurity, or the weirdness. The prehistoric energy, the widespread power of the elements or maybe the magic quality of inaccessibility, the fact that you could hike for weeks without encountering a single soul. Or maybe, maybe it’s the contrast of peaceful silence with the hectic world we nowadays live in. Whatever the reason is, one thing's for sure, Iceland never fails to take your breath away.

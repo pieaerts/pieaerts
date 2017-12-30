@@ -159,7 +159,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/Colombia 60.jpg
+  - image: /uploads/colombia/IMG_6628.jpg
     portrait: false
     wide: true
     title:
@@ -180,14 +180,8 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/colombia/IMG_6628.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 text-color: light
 ---
 
 
+Caribbean beaches, the Amazon jungle, endless emerald-green hills or desert sunsets? Salsa, Merengue, Soca, Timba, Bachata or Calypso? The best coffee on the planet. And those women.. Sigh. No wonder Colombians are ranked as the happiest in the world. Or would it be the amount of Aguerdiente in their veins? I doubt it.&nbsp;
