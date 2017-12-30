@@ -240,4 +240,4 @@ text-color: light
 ---
 
 
-### Last days of the Incas
+Rumor has it Peru houses the birthplace of the sun. Following this Andean folklore brought us deep into the heart and what we found was truly breathtaking.&nbsp;
