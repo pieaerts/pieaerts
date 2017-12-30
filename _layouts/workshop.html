@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="workshop" id="top"><div class="innerbody">
+    {% include header.html %}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 contentdiv text-left">
+
+                <h1>{{ page.title }}</h1>
+                <h2>{{ page.subtitle }}</h2>
+                
+                {{ page.introduction_html }}
+
+                {{ content }}
+
+                {% include image-gallery.html folder="/uploads/aurora/gallery" %}
+
+            </div>
+        </div>
+    </div>
+
+
+  {% include footer.html %}
+</div></body>
+
+</html>

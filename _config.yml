@@ -18,6 +18,11 @@ defaults:
       type: 'twentyfour-hours-in'
     values:
       layout: 'work'
+  - scope:
+      path: ''
+      type: 'workshops'
+    values:
+      layout: 'workshop'
 
 permalink: /blog/:year/:month/:day/:title/
 
@@ -28,6 +33,9 @@ collections:
   twentyfour-hours-in:
     output: true
     permalink: /24-hours-in/:path/
+  workshops:
+    output: true
+    permalink: /workshop/:path/
 
 floats: 
   - left
