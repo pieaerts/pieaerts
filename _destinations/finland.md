@@ -205,6 +205,4 @@ text-color: light
 ---
 
 
-### Live above the Arctic circle
-
 Deep within the winter forest among the snowdrift wide, you can find a magic place where all the fairies hide. Lapland, ever since being a kid, I wanted to visit that place. At an early age to meet Santa Claus, years later to witness the Northern Lights. 7 days in, neither of them happened but magical it was.
