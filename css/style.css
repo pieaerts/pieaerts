@@ -216,6 +216,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
   -moz-transition: all .3s ease-in-out;
   -o-transition: all .3s ease-in-out;
   transition: all .3s ease-in-out;
+  white-space: normal;
 }
 .contentdiv a.btn {border-radius: 0; padding: 5px 25px!important; text-decoration: none!important;}
 .btn-primary {background: #3c3c3b!important; color: #e7e6e1!important;}

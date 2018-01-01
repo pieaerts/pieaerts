@@ -11,14 +11,24 @@
             <div class="col-xs-12 contentdiv text-center">
                 <h1>{{ page.title }}</h1>
                 
-                {{ content }}          
+                {{ page.introduction_html }}
                 
                 <ul>
-                {% assign siteworkshops = site.workshops %}
+                {% assign siteworkshops = site.workshops | sort: 'date' %}
                 {% for item in siteworkshops %}
-                    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                    <li>
+                        {% if item.active %}
+                            <a href="{{ item.url }}">{{ item.title }}</a>
+                        {% else %}
+                            {{ item.title }}
+                        {% endif %}
+                    </li>
                 {% endfor %}
                 </ul>
+                <br />
+
+                {{ content }}   
+
             </div>
         </div>
    </div>
