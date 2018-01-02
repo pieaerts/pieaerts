@@ -317,7 +317,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
-  .grid .item a div.workthumb .overlay > div > h3 {padding-top: 25%;}
+  .grid .item a div.workthumb .overlay > div > h3 {padding-top: 27%;}
 }
 @media (max-width: 400px) {
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 23%;}
