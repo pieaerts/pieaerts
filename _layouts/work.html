@@ -14,7 +14,7 @@
                 {{ content }}
                 <div class="masonry">
                 {% for item in page.images %}
-                    <a href="{{ item.image }}" style="cursor: pointer; background: rgba(0,0,0,0.1) url('/img/blank.png') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" data-echo-background="{{ item.image }}"></a>
+                    <a href="{{ item.image }}" style="cursor: pointer; background: rgba(0,0,0,0.1) url('/img/blank.png') center center no-repeat; background-size: cover;" class="image{% if page.float == 'right' %} right{% endif %}{% if item.portrait == true %} portrait{% endif %}{% if item.wide == true %} wide{% endif %}" data-echo-background="{{ item.image | replace: ' ','%20' }}"></a>
                 {% endfor %}
                 </div>
 
