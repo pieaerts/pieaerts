@@ -9,11 +9,11 @@ subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
 
-![](/uploads/aurora/JO1_2504.jpg)
+![](/uploads/aurora/pics/JO1_2504.jpg)
 
 Photo: Johan Lolos
 
-![](/uploads/aurora/Noorwegen-2256-1.jpg)
+![](/uploads/aurora/pics/Noorwegen-2256-1.jpg)
 
 Photo: Pie Aerts
 
@@ -41,11 +41,11 @@ All rooms will be shared double rooms with separated single beds in a luxury app
 
 3,100€ per person. We kept the price low to allow younger, more adventurous squad, on a tighter budget, to join us. Payment by bank transfer is preferred. Payment by PayPal: +3,6% fee.
 
-![](/uploads/aurora/JO2_3588-1.jpg)
+![](/uploads/aurora/pics/JO2_3588-1.jpg)
 
 Photo: Johan Lolos
 
-![](/uploads/aurora/Noorwegen-1820-1.jpg)
+![](/uploads/aurora/pics/Noorwegen-1820-1.jpg)
 
 Photo: Pie Aerts
 
@@ -127,19 +127,19 @@ Johan Lolos
 
 Johan Lolos: After 5 years studying PR in Belgium, I figured I didn’t want to spend the rest of my life working behind a desk. So once I got my degree, I bought a one-way ticket to Australia and I’d see what would happen. Two years later, after exploring most of Oceania, I returned to Europe as a full time travel photographer, thanks to the power of social media and many features of my work in renowned media such as National Geographic, DailyMail, Buzzfeed and Mashable. I spent the last 4 years traveling all around the world both on assignment or for personal projets, like my most recent one Peaks of Europe, a 5-month road trip around the Old Continent. Wilderness, wide open spaces and mountainous regions of the world are what inspire me the most as a photographer, and the Arctic, and more specifically the Lofoten, is where I feel I belong the most. My experience as a photographer taught me that storytelling is everything and that a good photo isn’t necessary the most jaw-dropping image, but the one that tells a story. I’ve led workshops in the past and I love sharing and teaching my knowledge with likeminded people.
 
-![](/uploads/aurora/DSC_7160.jpg)
+![](/uploads/aurora/pics/DSC_7160.jpg)
 
 Photo: Johan Lolos
 
-![](/uploads/aurora/JLO_4810.jpg)
+![](/uploads/aurora/pics/JLO_4810.jpg)
 
 Photo: Johan Lolos
 
-![](/uploads/aurora/Noorwegen-1737-1.jpg)
+![](/uploads/aurora/pics/Noorwegen-1737-1.jpg)
 
 Photo: Pie Aerts
 
-![](/uploads/aurora/Noorwegen-1893-1.jpg)
+![](/uploads/aurora/pics/Noorwegen-1893-1.jpg)
 
 Photo: Pie Aerts
 
