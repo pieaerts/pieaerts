@@ -11,6 +11,8 @@ footer_html: >-
 
 Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks in the African bush made me realise that’s a very big shame. Let me tell you why.
 
+![](/uploads/versions/0h3a8608---x----2048-559x---.jpg)
+
 After seeing it appear in several BBC documentaries for over a decade, it was finally time to touch ground in what seems to be one of the biggest inland freshwater delta’s of our planet. One big mysterious maze of papyrus reeds, water channels full of lilies and swamps dotted with crocs, hippos, elephants and lions. Welcome to the Okavango Delta.&nbsp;<br>The scale and magnificence of these slushy swamplands are unreal. Vast wetlands full of life as far as the eye can see, the annual flow of water, the daily drama of its wildlife and the untouched wilderness in its purest form. It's hard to put a finger on it, but there's something so elemental to this place. It's like another dimension, one that's non-existent in the western world.
 
 ![](/uploads/versions/0h3a8291---x----1620-1080x---.jpg)
