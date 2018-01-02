@@ -324,4 +324,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 }
 @media (max-width: 1199px) and (min-width: 601px) {
   body .col-sm-6 {width: 50%; float: left;}
+  .grid .item a div.workthumb .overlay > div > h3 {
+    padding-top: calc(21px + 30%);
+  }
 }
