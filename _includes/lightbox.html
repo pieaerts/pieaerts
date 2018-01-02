@@ -100,7 +100,6 @@ $(document).ready(function() {
 		if(is_youtubelink(url) && !$(this).hasClass('no-lightbox')) $(this).addClass('lightbox-youtube').attr('data-id',is_youtubelink(url));
 		if(is_imagelink(url) && !$(this).hasClass('no-lightbox')) $(this).addClass('lightbox-image');
 	});
-	
 	//remove the clicked lightbox
 	$("body").on("click", ".lightbox", function(event){
 		if($(this).hasClass('gallery')) {
@@ -118,10 +117,8 @@ $(document).ready(function() {
 		}
 		else $(this).remove();
 	});
-
 	//prevent image from being draggable (for swipe)
 	$("body").on('dragstart', ".lightbox img", function(event) { event.preventDefault(); });
-
 	//add the youtube lightbox on click
 	$("a.lightbox-youtube").click(function(event){
 		event.preventDefault();
