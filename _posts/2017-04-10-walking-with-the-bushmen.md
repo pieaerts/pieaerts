@@ -8,9 +8,8 @@ footer_html: >-
   see more photo's of Botswana</p>
 ---
 
-Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks in the African bush made me realise that’s a very big shame. Let me tell you why.
 
-> One big mysterious maze of papyrus reeds, water channels full of lilies and swamps dotted with crocs, hippos, elephants and lions. 
+Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks in the African bush made me realise that’s a very big shame. Let me tell you why.
 
 After seeing it appear in several BBC documentaries for over a decade, it was finally time to touch ground in what seems to be one of the biggest inland freshwater delta’s of our planet. One big mysterious maze of papyrus reeds, water channels full of lilies and swamps dotted with crocs, hippos, elephants and lions. Welcome to the Okavango Delta.&nbsp;<br>The scale and magnificence of these slushy swamplands are unreal. Vast wetlands full of life as far as the eye can see, the annual flow of water, the daily drama of its wildlife and the untouched wilderness in its purest form. It's hard to put a finger on it, but there's something so elemental to this place. It's like another dimension, one that's non-existent in the western world.
 
@@ -24,7 +23,7 @@ As a result we got blown away by his ancient tracking skills. It's absolutely nu
 
 The next 7 days we followed the rising and setting of the sun and our lives evolved around a very basic schedule. The only moment that really mattered was the here and now. We engaged with our senses more than ever before, when walking, when eating, when talking and even when sleeping. As a result, we connected, with each other, with our environment, when the animals and even with ourselves. Trust me, there's something utterly stimulating to living out in a place where you have zero cellphone reception, zero connection to the outside world. It's calming, it enhances well-being and puts things in perspective.&nbsp;
 
-On one of these calm mornings, while sitting in a&nbsp;wooden ‘Mokoro’ being pushed forward by Kefentse, one of the local villagers Kane&nbsp;used to hunt with when they where young boys, only a few hours of conversation where enough to realise the strong connection these people are having with their surroundings. But a sudden encounter with a 3000kg bull was enough to keep our minds from drifting away. Once more, a&nbsp;friendly reminder that losing your senses could become fatal pretty quickly.
+On one of these calm mornings, while sitting in a wooden ‘Mokoro’ being pushed forward by Kefentse, one of the local villagers Kane used to hunt with when they where young boys, only a few hours of conversation where enough to realise the strong connection these people are having with their surroundings. But a sudden encounter with a 3000kg bull was enough to keep our minds from drifting away. Once more, a friendly reminder that losing your senses could become fatal pretty quickly.
 
 ![](/uploads/versions/0h3a8401-2---x----2048-1365x---.jpg)
 
