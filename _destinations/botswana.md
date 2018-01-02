@@ -2,10 +2,10 @@
 title: Botswana
 subtitle: Walking with the Bushmen
 date: 2017-05-17 00:00:00
-image: /0H3A8291.jpg
+image: /uploads/botswana/0H3A8285a-2.jpg
 float: left
 images:
-  - image: /0H3A8291.jpg
+  - image: /uploads/botswana/0H3A8285a-2.jpg
     portrait: false
     wide: true
     title:
@@ -415,4 +415,4 @@ text-color: light
 ---
 
 
-Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks walking and living with the African bushmen made me quickly realise that's a very big shame. &nbsp;
+Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks walking and living with the African bushmen made me quickly realise that's a very big shame.
