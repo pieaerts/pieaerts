@@ -21,7 +21,7 @@
             {% for work in sitework %}
                 <div class="col-md-4 col-sm-6">
                 <div class="item"><a href="{{ work.url }}">
-                    <div class="workthumb" style="background: url(//images.weserv.nl/?url={{ site.url }}{{ work.image | replace: ' ','%20' }}&w=500) center center no-repeat; background-size: cover;">
+                    <div class="workthumb" style="background: url(//images.weserv.nl/?url={{ site.url | replace: 'http://', '' }}{{ work.image | replace: ' ','%20' }}&w=500) center center no-repeat; background-size: cover;">
                         <div class="overlay hastext">
                             <div class="{{ work.text-color }}">
                                 <h3>{{ work.title }}</h3>
