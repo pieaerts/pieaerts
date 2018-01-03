@@ -11,7 +11,7 @@
                 {% for item in site.posts %}
                 <div class="row">
                     <div class="col-md-8 {% cycle 'col-md-push-4 ', '' %}">
-                        <div style="cursor: pointer; background: url('//images.weserv.nl/?url={{ site.url | replace: 'http://', '' }}{{ item.image | replace: ' ','%20' }}&w=800&q=50') center center; background-size: cover; padding-top: 31%;" onclick="window.location.href='{{ item.url }}';" ></div>
+                        <div style="cursor: pointer; background: url('//images.weserv.nl/?url={{ site.url | replace: 'http://', '' }}{{ item.image | replace: ' ','%20' }}&w=1100&q=50') center center; background-size: cover; padding-top: 31%;" onclick="window.location.href='{{ item.url }}';" ></div>
                     </div>
                     <div class="col-md-4 {% cycle 'col-md-pull-8 ', '' %}{% cycle 'text-right', 'text-left' %}">
                         <h2>{{ item.title }}</h2>
