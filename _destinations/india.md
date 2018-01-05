@@ -381,5 +381,3 @@ text-color: light
 
 
 Sensory overload, color clash, sound cacophony. Right in your face, in any possible way you could think of. Filthy, crowded, poor, corrupt, illiterate, chaotic, strange and full of gender inequality on the one side, but wealthy, educated, welcoming, cultured, peaceful, happy and well-organised on the other. Welcome to India.
-
-&nbsp;
