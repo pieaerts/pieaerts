@@ -201,13 +201,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7539.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/bolivia/AAA_MG_0063.jpg
     portrait: false
     wide: true
