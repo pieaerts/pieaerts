@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A3827.jpg
+  - image: /uploads/south-africa/0H3A4677.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A4677.jpg
+  - image: /uploads/south-africa/0H3A3827.jpg
     portrait: false
     wide: true
     title:
