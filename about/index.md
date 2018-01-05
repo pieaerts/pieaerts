@@ -9,7 +9,7 @@ title: How are you?
 
 <div>My name is Pie.</div>
 
-<div>Contrary to popular belief my name has nothing to do with apples.</div>
+<div>Contrary to popular belief that has nothing to do with apples.</div>
 
 <div>I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. &nbsp;</div>
 
