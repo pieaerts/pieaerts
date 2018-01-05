@@ -5,14 +5,14 @@ date: 2017-05-08 00:00:00
 image: /uploads/south-africa/0H3A4593.jpg
 float: left
 images:
-  - image: /uploads/south-africa/0H3A3614.jpg
+  - image: /uploads/south-africa/0H3A4593.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A4593.jpg
+  - image: /uploads/south-africa/0H3A3614.jpg
     portrait: false
     wide: true
     title:
@@ -226,4 +226,4 @@ text-color: light
 ---
 
 
-A little stretch of land, just under 300km long, dotted with excellent beaches, lagoons, lakes and rolling hills. Named after the verdant and ecologically diverse vegetation. Wildlife and outdoor activities. When the Garden of Eden would have been accessible by road, I guess this is how it would look like. Welcome to the Garden Route.&nbsp;
+A little stretch of land, just under 300km long, dotted with excellent beaches, lagoons, lakes and rolling hills. Named after the verdant and ecologically diverse vegetation. Wildlife and outdoor activities. When the Garden of Eden would have been accessible by road, I guess this is how it would look like. Welcome to the Garden Route.
