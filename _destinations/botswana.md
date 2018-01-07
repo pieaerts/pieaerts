@@ -2,10 +2,10 @@
 title: Botswana
 subtitle: Walking with the Bushmen
 date: 2017-05-17 00:00:00
-image: /uploads/botswana/0H3A8285a-2aaaaaa.jpg
+image: /uploads/botswana/0H3A8285aab.jpg
 float: left
 images:
-  - image: /uploads/botswana/0H3A8285a-2aaaaaa.jpg
+  - image: /uploads/botswana/0H3A8285aab.jpg
     portrait: false
     wide: true
     title:
