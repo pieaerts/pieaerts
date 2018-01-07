@@ -82,7 +82,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A8950a-3aa.jpg
+  - image: /uploads/botswana/0H3A8950a-3.jpg
     portrait: true
     wide: true
     title:
@@ -152,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A0112-3.jpg
+  - image: /uploads/botswana/0H3A0112-4aaa.jpg
     portrait: false
     wide: true
     title:
