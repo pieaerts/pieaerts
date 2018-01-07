@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_8148.jpg
+  - image: /uploads/bolivia/IMG_8148a.jpg
     portrait: false
     wide: true
     title:
