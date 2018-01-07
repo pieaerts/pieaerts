@@ -2,10 +2,10 @@
 title: Botswana
 subtitle: Walking with the Bushmen
 date: 2017-05-17 00:00:00
-image: /uploads/botswana/0H3A8285a-2.jpg
+image: /uploads/botswana/0H3A8285a-2aaaaaa.jpg
 float: left
 images:
-  - image: /uploads/botswana/0H3A8285a-2.jpg
+  - image: /uploads/botswana/0H3A8285a-2aaaaaa.jpg
     portrait: false
     wide: true
     title:
@@ -47,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A9222.jpg
+  - image: /uploads/botswana/0H3A9222.jpg
     portrait: true
     wide: false
     title:
@@ -82,7 +82,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A8950a-3.jpg
+  - image: /uploads/botswana/0H3A8950a-3aa.jpg
     portrait: true
     wide: true
     title:
@@ -131,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /DJI_01856.jpg
+  - image: /uploads/botswana/DJI_01856aa.jpg
     portrait: false
     wide: true
     title:
@@ -152,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A0112.jpg
+  - image: /uploads/botswana/0H3A0112-3.jpg
     portrait: false
     wide: true
     title:
@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A9481-2.jpg
+  - image: /uploads/botswana/0H3A9481-2a.jpg
     portrait: true
     wide: false
     title:
@@ -194,7 +194,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A8952.jpg
+  - image: /uploads/botswana/0H3A8952a.jpg
     portrait: false
     wide: true
     title:
@@ -299,7 +299,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /IMG_7876a.jpg
+  - image: /uploads/botswana/IMG_7876.jpg
     portrait: false
     wide: true
     title:
@@ -397,7 +397,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/botswana/0H3A0395.jpg
+  - image: /uploads/botswana/0H3A0395a.jpg
     portrait: true
     wide: false
     title:
