@@ -14,7 +14,7 @@ images:
     show-text: false
   - image: /0H3A8281.jpg
     portrait: true
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color: light
