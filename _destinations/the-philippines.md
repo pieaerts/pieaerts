@@ -292,6 +292,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/philippines/0H3A3975.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /PHIL0H3A9188a.jpg
     portrait: false
     wide: true
