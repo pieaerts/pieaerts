@@ -131,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/DJI_0068.jpg
+  - image: /uploads/iceland/DJI_0068-2a.jpg
     portrait: true
     wide: false
     title:
