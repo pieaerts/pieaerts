@@ -7,7 +7,7 @@ headers:
     title: BOLIVIA
     description: Life on the altiplano
     url: 'http://quiet-herring.cloudvent.net/destinations/bolivia/'
-  - image: /uploads/HEADERS/0H3A8291aaa.jpg
+  - image: /uploads/HEADERS/0H3A8285aa.jpg
     portrait_image: /uploads/HEADERS/0H3A9222.jpg
     title: BOTSWANA
     description: Walking with the bushmen
