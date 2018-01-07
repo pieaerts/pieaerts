@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color: light
     show-text: false
-  - image: /0H3A8281.jpg
+  - image: /uploads/botswana/0H3A8275.jpg
     portrait: true
     wide: false
     title:
