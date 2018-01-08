@@ -8,7 +8,7 @@ images:
   - image: /uploads/japan/0H3A8853a.jpg
     portrait: false
     wide: true
-    title:
+    title: Japan
     subtitle:
     text-color: light
   - image: /uploads/japan/0H3A0004.jpg
