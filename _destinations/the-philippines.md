@@ -383,13 +383,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHILDJI_0427-2a.jpg
-    portrait: true
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 text-color: light
 ---
 
