@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/finland/FINLAND_191.jpg
+  - image: /uploads/finland/FINLAND_191a.jpg
     portrait: false
     wide: true
     title:
