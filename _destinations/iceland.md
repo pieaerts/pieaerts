@@ -292,7 +292,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Natgeo_natuur_Pieaerts.jpg
+  - image: /uploads/Natgeo_natuur_Pieaertsaa.jpg
     portrait: false
     wide: true
     title:
