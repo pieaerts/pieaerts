@@ -2,7 +2,7 @@
 title: Faroe Islands
 subtitle: Life in the Atlantic Ocean
 date: 2017-05-10 00:00:00
-image: /uploads/faroe-islands/0H3A1270.jpg
+image: /uploads/faroe-islands/0H3A1270a.jpg
 float: left
 images:
   - image: /uploads/faroe-islands/0H3A2287.jpg
@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/faroe-islands/0H3A0862.jpg
+  - image: /uploads/faroe-islands/0H3A0862a.jpg
     portrait: false
     wide: true
     title:
@@ -40,7 +40,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/faroe-islands/0H3A1270.jpg
+  - image: /uploads/faroe-islands/0H3A1270a.jpg
     portrait: false
     wide: true
     title:
