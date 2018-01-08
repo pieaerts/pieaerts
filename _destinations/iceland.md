@@ -138,7 +138,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/DJI_0113.jpg
+  - image: /DJI_0113aa.jpg
     portrait: false
     wide: true
     title:
@@ -173,7 +173,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/0H3A8129.jpg
+  - image: /uploads/0H3A8129aa.jpg
     portrait: true
     wide: false
     title:
@@ -292,7 +292,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/iceland/DJI_0271-3.jpg
+  - image: /uploads/Natgeo_natuur_Pieaerts.jpg
     portrait: false
     wide: true
     title:
