@@ -5,7 +5,7 @@ date: 2017-05-19 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /uploads/japan/0H3A8853aaa.jpg
+  - image: /uploads/japan/0H3A8853a.jpg
     portrait: false
     wide: true
     title:
@@ -17,13 +17,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/japan/3aaa.jpg
+  - image: /Japan/3.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color: light
-  - image: /uploads/japan/6.jpg
+  - image: /Japan/6.jpg
     portrait: false
     wide: true
     title:
