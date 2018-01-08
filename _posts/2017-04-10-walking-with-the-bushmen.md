@@ -15,7 +15,7 @@ Growing up in the West, understanding the strong connection between humans, anim
 
 After seeing it appear in several BBC documentaries for over a decade, it was finally time to touch ground in what seems to be one of the biggest inland freshwater delta’s of our planet. One big mysterious maze of papyrus reeds, water channels full of lilies and swamps dotted with crocs, hippos, elephants and lions. Welcome to the Okavango Delta.&nbsp;<br>The scale and magnificence of these slushy swamplands are unreal. Vast wetlands full of life as far as the eye can see, the annual flow of water, the daily drama of its wildlife and the untouched wilderness in its purest form. It's hard to put a finger on it, but there's something so elemental to this place. It's like another dimension, one that's non-existent in the western world.
 
-![](/uploads/versions/0h3a8285a-2---x0-49-2048-1365-1620-1080x---.jpg)
+![](/uploads/versions/0h3a8285aab---x0-0-2048-1365-1620-1080x---.jpg)
 
 Unlike the large, commercialised parks in Kenya and Tanzania, most Botswana game reserves only allow a certain amount of vehicles per day in each park. And that's how we found ourselves spending the entire trip completely alone in the Botswana wilderness. Just us and the bush. No other cars. No other people.<br>Furthermore, whereas many African countries chase the "big five" (lion, elephant, cape buffalo, leopard, and rhinoceros) by tracking radio-collared animals, the Okavango region of Botswana does things differently. Trackers are well-trained and intuitive and have spent years perfecting their craft. We had the privilege of experiencing these innate skills with which these trackers chase their animals thanks to the epic bushman skills of our guide Kane, the personification of Bushkarma. A man that feels, smells and reads the bush. Where other guides just follow the freshest tracks, it feels like animals find him instead of the other way around.
 
@@ -27,7 +27,7 @@ The next 7 days we followed the rising and setting of the sun and our lives evol
 
 On one of these calm mornings, while sitting in a wooden ‘Mokoro’ being pushed forward by Kefentse, one of the local villagers Kane used to hunt with when they where young boys, only a few hours of conversation where enough to realise the strong connection these people are having with their surroundings. But a sudden encounter with a 3000kg bull was enough to keep our minds from drifting away. Once more, a friendly reminder that losing your senses could become fatal pretty quickly.
 
-![](/uploads/versions/0h3a8401-2---x----2048-1365x---.jpg)
+![](/uploads/versions/0h3a8401-3---x0-0-2048-1365-2048-1365x---.jpg)
 
 After seeing it from the air, from the water, and from the safety of our game driver, it was finally time to set foot in Big-5-territory in the way it has been done for hundreds of thousands of years, by foot.<br>A walking safari in these conditions puts you in mental state of being I haven't experienced before. A prehistoric state of alertness. An oxpecker suddenly flying off probably indicates there's a herd of buffalo behind the bushes, a distant rumble might warn you there's an elephant at the waterhole or a barking Kudu means a lion is ready to ambush. Tracking signs, smells and footprints of wild predators and analysing your environment step by step forces you to loose control, connect to your environment and let the bush do the rest, oftentimes resulting in eye-to-eye stare downs with lion, elephants and buffalos.&nbsp;
 
@@ -37,7 +37,7 @@ Kane tells us the secret is 'letting go'. "The more you adapt to the situation, 
 
 And then there’s the nights. It feels like the entire bush escapes from the sun and the heat of the day, when the night falls. All predators appear and everyone and everything becomes alert. You smell and hear more because you see less. The moment the sun drops below the horizon, all sound disappears and for 1 single moment the entire bush becomes quiet. In just under 30 minutes Paradise becomes Prehistory. Day becomes night. I’ll never forget the sound of roaring lions next to our tent on the first night. It has been one of the scariest things I've experienced in a very long time. It's like being called from the Ice Age. Even 2km away, it resonates in your bones, vibrations that make you shiver.
 
-![](/uploads/versions/0h3a8952---x0-0-2048-1365-2048-1365x---.jpg)
+![](/uploads/versions/0h3a8952a---x0-0-2048-1365-2048-1365x---.jpg)
 
 After spending some time disconnecting from our busy speedy lives back home and reorganising our systems to the rhythm of the bush, it became pretty clear that the true essence of life is not what the Western world makes you belief it is. Experiencing this raw connection with nature first-hand, puts things back in perspective, there were they belong. The vulnerability, the immense power of instinct, the strong presence of purpose and the joy of the little things. All happening in a world where everything seems bigger than yourself. Africa you did it. Again. <br>Call me a hippie but all ever said about this place is true. You can shake the sand from your shoes, but not from your soul.
 
