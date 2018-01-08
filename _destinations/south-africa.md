@@ -2,10 +2,10 @@
 title: South Africa
 subtitle: Cruising the Garden route
 date: 2017-05-08 00:00:00
-image: /uploads/south-africa/0H3A4593.jpg
+image: /uploads/south-africa/0H3A4593a.jpg
 float: left
 images:
-  - image: /uploads/south-africa/0H3A4593.jpg
+  - image: /uploads/south-africa/0H3A4593a.jpg
     portrait: false
     wide: true
     title:
@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A4677.jpg
+  - image: /uploads/south-africa/0H3A4677a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A3827.jpg
+  - image: /uploads/south-africa/0H3A3827a.jpg
     portrait: false
     wide: true
     title:
@@ -54,7 +54,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A3932.jpg
+  - image: /uploads/south-africa/0H3A3932a.jpg
     portrait: true
     wide: false
     title:
@@ -96,7 +96,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/DJI_0258.jpg
+  - image: /uploads/south-africa/DJI_0258a.jpg
     portrait: true
     wide: false
     title:
@@ -131,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/DJI_0015.jpg
+  - image: /uploads/south-africa/DJI_0015a.jpg
     portrait: false
     wide: true
     title:
@@ -173,7 +173,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/0H3A7664.jpg
+  - image: /uploads/south-africa/0H3A7664a.jpg
     portrait: false
     wide: true
     title:
