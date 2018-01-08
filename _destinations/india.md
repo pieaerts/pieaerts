@@ -2,7 +2,7 @@
 title: India
 subtitle: Kolkata to Kerala
 date: 2017-05-15 00:00:00
-image: /uploads/india/India 1661.jpg
+image: /uploads/india/India 1661a.jpg
 float: left
 images:
   - image: /uploads/india/India 1850.jpg
@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1168a.jpg
+  - image: /uploads/india/India 1168aa.jpg
     portrait: false
     wide: true
     title:
@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1661.jpg
+  - image: /uploads/india/India 1661a.jpg
     portrait: false
     wide: true
     title:
@@ -40,7 +40,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1298.jpg
+  - image: /uploads/india/India 1298a.jpg
     portrait: false
     wide: true
     title:
@@ -61,7 +61,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 2096.jpg
+  - image: /uploads/india/India 2096a.jpg
     portrait: false
     wide: true
     title:
