@@ -47,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A8174.jpg
+  - image: /uploads/italy/0H3A8174a.jpg
     portrait: false
     wide: true
     title:
@@ -68,7 +68,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/DJI_0150.jpg
+  - image: /uploads/italy/DJI_0150a.jpg
     portrait: false
     wide: true
     title:
