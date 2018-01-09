@@ -299,6 +299,8 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 footer {clear: both; padding: 45px 0 25px; width: 100%; bottom: 0;}
 footer img {cursor: pointer; display: inline-block; width: 35px; position: relative; bottom: 2px; right: 4px;}
 
+#createdby {position: absolute; right: 25px; padding-top: 18px;}
+
 @media (max-height: 600px) {
   .navmenu ul {padding: 20px 0;}
 }
@@ -318,6 +320,8 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 27%;}
+  #createdby {right: auto; width: calc(100% - 50px); text-align: center; padding: 0; margin-top: 70px;}
+  footer {padding: 45px 0 45px;}
 }
 @media (max-width: 400px) {
   .grid .item a div.workthumb .overlay > div > h3 {padding-top: 23%;}
