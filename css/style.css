@@ -44,7 +44,9 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #e7e6e1; font-family: 'Fu
 @media (max-width: 1275px) {
  .verttext {right: -174px;}
 }
-.verttext.scrolltotop {top: auto; bottom: 200px; position: fixed;}
+#scrolltotop {display: none; position: fixed; max-width: 2000px; margin: 0 auto; height: 100%; width: 100%;}
+#scrolltotop .verttext {text-decoration: none!important; top: auto; bottom: 28px; position: absolute; right: calc(5vw - 91px);}
+#scrolltotop .verttext span {font-size: 150%; position: relative; top: 3px; display: inline-block;}
 
 .blog .blogitems .row > div {padding-top: 45px;}
 .blog .blogitems .row:first-child {padding-top: 110px;}

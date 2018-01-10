@@ -107,6 +107,16 @@ $( document ).ready(function() {
 });
 
 
+$(window).scroll(function() {
+  if ($(window).scrollTop() >= 250) {
+    // user scrolled 50 pixels or more;
+    // do stuff
+    $('#scrolltotop').fadeIn();
+  } else {
+    $('#scrolltotop').fadeOut();
+  }
+});
+
 $( window ).resize(function() {
 	$('body').css('height','auto');
 	$('footer').css('position','static');
@@ -125,6 +135,8 @@ $( window ).resize(function() {
 			$(this).attr('style',$(this).attr('mobile-style'));
 		});
 	}
+	if(sessionStorage.menuopen == '') $('.navbar-toggle.top').click();
+	console.log(sessionStorage.menuopen);
 	if(sessionStorage.menuopen == 'true') {
 		  $('.navbar-nav > li').css('opacity','1');
 	}
