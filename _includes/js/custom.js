@@ -145,7 +145,7 @@ $( window ).resize(function() {
 	if(sessionStorage.menuopen == 'true') {
 		  $('.navbar-nav > li').css('opacity','1');
 			var el = $('.navbar-toggle.top');
-			if(el.hasClass('white') el.attr('src','/img/close_white.svg');
+			if(el.hasClass('white')) el.attr('src','/img/close_white.svg');
 			else el.attr('src','/img/close.svg');
 	}
 
