@@ -44,6 +44,8 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #e7e6e1; font-family: 'Fu
 @media (max-width: 1275px) {
  .verttext {right: -174px;}
 }
+.verttext.scrolltotop {top: 717px;}
+.home .verttext.scrolltotop {top: 955px;}
 
 .blog .blogitems .row > div {padding-top: 45px;}
 .blog .blogitems .row:first-child {padding-top: 110px;}
