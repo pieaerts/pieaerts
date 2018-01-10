@@ -65,7 +65,7 @@ $( document ).ready(function() {
       if (target.length) {
         $('html, body').animate({
           scrollTop: target.offset().top
-        }, 1000);
+        }, 300);
         return false;
       }
     }
