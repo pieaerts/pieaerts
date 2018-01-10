@@ -135,7 +135,7 @@ $( window ).resize(function() {
 			$(this).attr('style',$(this).attr('mobile-style'));
 		});
 	}
-	if(sessionStorage.menuopen == '') $('.navbar-toggle.top').click();
+	if(!sessionStorage.menuopen) $('.navbar-toggle.top').click();
 	console.log(sessionStorage.menuopen);
 	if(sessionStorage.menuopen == 'true') {
 		  $('.navbar-nav > li').css('opacity','1');
