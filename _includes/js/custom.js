@@ -145,8 +145,8 @@ $( window ).resize(function() {
 	if(sessionStorage.menuopen == 'true') {
 		  $('.navbar-nav > li').css('opacity','1');
 			var el = $('.navbar-toggle.top');
-			if(el.attr('src')=='/img/openmenu_white.svg' || el.attr('data-cms-original-src')=='/img/openmenu_white.svg') el.attr('src','/img/close_white.svg');
-			else if(el.attr('src')=='/img/openmenu.svg' || el.attr('data-cms-original-src')=='/img/openmenu.svg') el.attr('src','/img/close.svg');
+			if(el.hasClass('white') el.attr('src','/img/close_white.svg');
+			else el.attr('src','/img/close.svg');
 	}
 
 });
