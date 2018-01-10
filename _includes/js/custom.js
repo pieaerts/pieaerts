@@ -136,11 +136,11 @@ $( window ).resize(function() {
 		});
 	}
 
-	if(sessionStorage.menuopen != 'false' && sessionStorage.menuopen != 'true') {
-		$('.navbar-toggle.top').click();
+	if($( 'body' ).width() >= 1185) {
+		if(sessionStorage.menuopen != 'false' && sessionStorage.menuopen != 'true') {
+			$('.navbar-toggle.top').click();
+		}
 	}
-
-
 	
 	if(sessionStorage.menuopen == 'true') {
 		  $('.navbar-nav > li').css('opacity','1');
