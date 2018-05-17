@@ -236,6 +236,69 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Namibia/0H3A9807.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A9842.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A9737.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A8751.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A8312.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A8382.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A8651.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Dubai/0H3A8725.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
