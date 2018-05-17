@@ -26,13 +26,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Namibia/440A0264.jpg
     portrait: true
     wide: false
@@ -61,14 +54,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/0H3A1730.jpg
+  - image: /uploads/Namibia/4I9A7731.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/4I9A7731.jpg
+  - image: /uploads/Namibia/0H3A1730.jpg
     portrait: true
     wide: false
     title:
