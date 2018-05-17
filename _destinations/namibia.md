@@ -278,28 +278,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8725.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image:
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Namibia/440A9412.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Namibia/0H3A9516.jpg
+  - image: /uploads/Namibia/0H3A8751.jpg
     portrait: false
     wide: true
     title:
@@ -320,7 +299,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/440A9389.jpg
+  - image: /uploads/Namibia/440A9412.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A9516.jpg
     portrait: false
     wide: true
     title:
