@@ -5,13 +5,31 @@ date: 2017-05-04 00:00:00
 image: /uploads/Namibia/440A0175.jpg
 float: left
 images:
-  - image:
+  - image: /uploads/Namibia/440A0175.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Namibia/440A9619.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A9705.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - {}
+  - {}
+  - {}
+  - {}
 text-color: light
 ---
 
