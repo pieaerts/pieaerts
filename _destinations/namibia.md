@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/440A0584.jpg
+  - image:
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/440A9705.jpg
+  - image:
     portrait: false
     wide: true
     title:
@@ -48,8 +48,57 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Namibia/0H3A1534.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/4I9A7688.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A1730.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/4I9A7731.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A9705.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A9730.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A9817.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A1757.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
