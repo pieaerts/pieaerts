@@ -138,6 +138,27 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Namibia/440A9471.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A9547.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/440A0584.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
