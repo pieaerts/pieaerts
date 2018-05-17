@@ -243,14 +243,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/0H3A9622.jpg
+  - image: /uploads/Namibia/4I9A9863.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/0H3A9851.jpg
+  - image: /uploads/Namibia/0H3A8312.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Namibia/0H3A8651.jpg
     portrait: false
     wide: true
     title:
