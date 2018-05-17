@@ -40,6 +40,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/2G2A0070.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 1849.jpg
     portrait: false
     wide: true
@@ -69,13 +76,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/india/India 2096a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india/2G2A0070.jpg
     portrait: false
     wide: true
     title:
@@ -264,13 +264,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 445.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 764.jpg
     portrait: true
     wide: false
@@ -278,7 +271,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 683.jpg
+  - image: /uploads/india/India 445.jpg
     portrait: false
     wide: true
     title:
