@@ -12,6 +12,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/india/2G2A0107.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/india/India 1168aa.jpg
     portrait: false
     wide: true
@@ -33,7 +40,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 2432.jpg
+  - image: /uploads/india/India 1849.jpg
     portrait: false
     wide: true
     title:
@@ -68,7 +75,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1849.jpg
+  - image: /uploads/india/2G2A0070.jpg
     portrait: false
     wide: true
     title:
@@ -250,13 +257,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 764.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 537.jpg
     portrait: true
     wide: false
@@ -267,6 +267,13 @@ images:
   - image: /uploads/india/India 445.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india/India 764.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
@@ -378,6 +385,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 Sensory overload, color clash, sound cacophony. Right in your face, in any possible way you could think of. Filthy, crowded, poor, corrupt, illiterate, chaotic, strange and full of gender inequality on the one side, but wealthy, educated, welcoming, cultured, peaceful, happy and well-organised on the other. Welcome to India.
