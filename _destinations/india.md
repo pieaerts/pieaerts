@@ -166,13 +166,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/india/India 1169.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/india/India 2399.jpg
     portrait: false
     wide: true
