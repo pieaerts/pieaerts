@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Namibia/440A9619.jpg
+  - image: /440A9619abc.jpg
     portrait: false
     wide: true
     title:
