@@ -14,7 +14,7 @@ Being a 13 year-old kid, I could totally lose myself in the story-telling capabi
 
 With Buddhist philosophy slowly making its way into the West, we decided to give it a try and signed up for an 11-day course called “Discovering Tibetan Buddhism” in Kopan Monastery, situated on a hill 30 minutes outside of Kathmandu. Amongst 150 like-minded people from all ages, all colours and all walks of life, we emerged ourselves in an extensive program to learn more about Buddhist philosophy and the power of our mind.&nbsp;
 
-![](blob:https://app.cloudcannon.com/9b230013-a26a-4047-94a3-77f02bcd47b9)
+![](/uploads/dscf1677-1.jpg)
 
 Spending time in a Buddhist monastery, far away from the buzz of our cities, the noise of our streets and the speed of our lives, can be a very healing thing. Life in there is not dictated by the minutes, but by the rhythm of the cosmos and whereas speed mostly is the key indicator for life in the Western world, these shelters have turned slowness into a virtue. There’s no clocks, no alarm calls, no time. Rather, the days are guided by the setting and the rising of the sun, the morning puja and the serving of the soup.
 
