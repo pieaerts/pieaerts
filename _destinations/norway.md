@@ -117,7 +117,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/493A9341.jpg
+  - image: /uploads/norway/DJI_0572-Pano-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/0H3A9463.jpg
     portrait: false
     wide: true
     title:
