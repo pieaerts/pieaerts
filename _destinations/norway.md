@@ -89,13 +89,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/0H3A9682.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/norway/0H3A9477.jpg
     portrait: false
     wide: true
