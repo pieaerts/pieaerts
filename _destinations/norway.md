@@ -47,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/DJI_0165.jpg
+  - image: /uploads/norway/DJI_0178.jpg
     portrait: true
     wide: false
     title:
@@ -117,13 +117,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/DJI_0304-Pano.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/norway/DJI_0572-Pano-2.jpg
     portrait: false
     wide: true
@@ -153,6 +146,34 @@ images:
     text-color:
     show-text: false
   - image: /uploads/norway/493A9721.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/DJI_0304-Pano.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_9647.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_0820.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_0854.jpg
     portrait: true
     wide: false
     title:
