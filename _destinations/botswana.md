@@ -1,7 +1,7 @@
 ---
 title: Botswana
 subtitle: Walking with the Bushmen
-date: 2017-05-17 00:00:00
+date: 2017-05-18 00:00:00
 image: /uploads/botswana/0H3A8285aab.jpg
 float: left
 images:
@@ -416,4 +416,4 @@ text-color: light
 
 Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks walking and living with the African bushmen made me quickly realise that's a very big shame.
 
-Thanks to [Safari Embassy](https://www.safariembassy.com) and in particular [Kane Motswana](https://www.safariembassy.com/team/kane-motswana/) for showing us the true meaning of ‘bushkarma’ and for making sure we’re still alive. And a big shout-out to [Helicopter Horizons](https://www.helicopterhorizons.com) for some amazing Okavango airtime.&nbsp;
+Thanks to [Safari Embassy](https://www.safariembassy.com) and in particular [Kane Motswana](https://www.safariembassy.com/team/kane-motswana/) for showing us the true meaning of ‘bushkarma’ and for making sure we’re still alive. And a big shout-out to [Helicopter Horizons](https://www.helicopterhorizons.com) for some amazing Okavango airtime.
