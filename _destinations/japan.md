@@ -5,7 +5,7 @@ date: 2017-05-19 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /uploads/japan/0H3A8853a.jpg
+  - image: /uploads/japan/0H3A8853-2ba.jpg
     portrait: false
     wide: true
     title: Japan
@@ -301,6 +301,5 @@ images:
     text-color:
 text-color: light
 ---
-
 
 Did you know Japanese culture lives up to 9 basic aesthetic principles? One of them is 'Shibui' meaning simple, subtle, unobtrusive. It means that things are more beautiful when they speak for themselves, when they aren't loud and shout in your face. I wish some particular parts of this world could have a bit of Japan these days.
