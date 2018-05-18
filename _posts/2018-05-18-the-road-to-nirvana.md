@@ -12,7 +12,7 @@ footer_html: >-
 
 Being a 13 year-old kid, I could totally lose myself in the story-telling capabilities of my history teacher. No one could tell stories like he did and as a result I often dreamt for days about the ancient Greek, the discoveries of Christopher Columbus or the Spanish civil war. He seemed to know everything about those times and when I carefully closed my eyes in the back of the room, it felt as if I was there. With him. With them. Unfortunately, it’s not often that you get to meet such people. People that inspire. People that move you. But when you do, you better make use of it and that’s the reason why I’d like to share Karin’s story with you. Because meeting her last month during our time in Kathmandu, Nepal, made me relive those golden days in High School all over again. Let me tell you why.
 
-![](/uploads/dscf1595.jpg)
+![](/uploads/dscf1595-1.jpg)
 
 With Buddhist philosophy slowly making its way into the West, we decided to give it a try and signed up for an 11-day course called “Discovering Tibetan Buddhism” in [Kopan Monastery](http://kopanmonastery.com/courses-retreats/courses){: target="_blank"}, situated on a hill 30 minutes outside of Kathmandu. Amongst 150 like-minded people from all ages, all colours and all walks of life, we emerged ourselves in an extensive program to learn more about Buddhist philosophy and the power of our mind.&nbsp;
 
