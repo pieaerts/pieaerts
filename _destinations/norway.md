@@ -110,6 +110,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/norway/DJI_0304-Pano.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/493A9341.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
