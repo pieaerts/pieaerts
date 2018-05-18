@@ -131,13 +131,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/south-africa/DJI_0015a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/south-africa/0H3A4670.jpg
     portrait: false
     wide: true
@@ -224,6 +217,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 A little stretch of land, just under 300km long, dotted with excellent beaches, lagoons, lakes and rolling hills. Named after the verdant and ecologically diverse vegetation. Wildlife and outdoor activities. When the Garden of Eden would have been accessible by road, I guess this is how it would look like. Welcome to the Garden Route.
