@@ -5,7 +5,7 @@ date: 2017-05-19 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /uploads/japan/0H3A8853-2ba.jpg
+  - image: /uploads/japan/0H3A8853-2abc.jpg
     portrait: false
     wide: true
     title: Japan
