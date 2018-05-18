@@ -12,13 +12,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/0H3A0448.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/norway/493A9458.jpg
     portrait: false
     wide: true
@@ -26,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/493A9197.jpg
+  - image: /uploads/norway/0H3A0448.jpg
     portrait: false
     wide: true
     title:
@@ -40,9 +33,23 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/norway/493A9197.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/norway/0H3A9810.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_9637.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
@@ -54,9 +61,9 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/JO4_9637.jpg
-    portrait: true
-    wide: false
+  - image:
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
