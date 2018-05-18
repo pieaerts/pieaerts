@@ -82,9 +82,37 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/norway/493A9769.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/0H3A9682.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/0H3A9477.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/0H3A9691.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/493A9341.jpg
+    portrait: true
+    wide: true
     title:
     subtitle:
     text-color:
