@@ -104,15 +104,15 @@ images:
     text-color:
     show-text: false
   - image: /uploads/norway/0H3A9691.jpg
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/norway/493A9341.jpg
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
