@@ -61,9 +61,30 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/norway/0H3A0421.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/493A6398.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/Lofoten-9309.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
