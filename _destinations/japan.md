@@ -5,12 +5,6 @@ date: 2017-05-19 00:00:00
 image: /0H3A8901a.jpg
 float: left
 images:
-  - image: /uploads/japan/0H3A8853-2abc.jpg
-    portrait: false
-    wide: true
-    title: Japan
-    subtitle:
-    text-color: light
   - image: /uploads/japan/0H3A0004.jpg
     portrait: false
     wide: true
@@ -41,6 +35,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/japan/0H3A8853-2abc.jpg
+    portrait: false
+    wide: true
+    title: Japan
+    subtitle:
+    text-color: light
   - image: /uploads/japan/0H3A9070aa.jpg
     portrait: false
     wide: true
