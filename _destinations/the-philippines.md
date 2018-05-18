@@ -1,7 +1,7 @@
 ---
 title: The Philippines
 subtitle: A million reasons to smile
-date: 2017-05-18 00:00:00
+date: 2017-05-17 00:00:00
 image: /PHIL0H3A6082a.jpg
 float: left
 images:
@@ -385,6 +385,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 The Filipinos and their pride. The curiosity and their smiles. Smiles so genuine and powerful, they easily embrace any obstacle in life. Wether it’s extreme poverty, the devastating impact of earthquakes or sudden typhoons. Whatever happens, these people find reasons to smile and eventually it’s not the unique variety in landscapes but the countries warm and welcoming spirit instead that really captivates and ensnares.
