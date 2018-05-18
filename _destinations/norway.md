@@ -40,6 +40,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/norway/0H3A0427.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/DJI_0165.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/norway/0H3A9810.jpg
     portrait: false
     wide: true
@@ -57,13 +71,6 @@ images:
   - image: /uploads/norway/JO4_0241.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/norway/0H3A0421.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
@@ -127,6 +134,27 @@ images:
   - image: /uploads/norway/0H3A9463.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/0H3A0421.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/493A9772.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/493A9721.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
