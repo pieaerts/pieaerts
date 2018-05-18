@@ -1,7 +1,7 @@
 ---
 title: Namibia
 subtitle: A journey back in time
-date: 2017-05-04 00:00:00
+date: 2017-05-20 00:00:00
 image: /uploads/Namibia/440A0175.jpg
 float: left
 images:
