@@ -79,3 +79,5 @@ After having spend 11 days with Karin and listening to her story about the true 
 All of the above are just a matter of everyday choices. Choices I can make, choices you can make, choices Karin has made, choices everyone can make. And especially in times when the abundance of ‘choice’ is bigger than it ever was in the history of mankind, I believe it’s important to make the right ones. Because taking care of yourself means you’ll be able to take more care of your environment too. Our planet needs us.&nbsp;
 
 If you wanna know more about this special course feel free to check the website of [Kopan Monastery](http://kopanmonastery.com/courses-retreats/courses){: target="_blank"}. They offer amazing courses all-year round on various entry levels and I promise you, it will blow your mind. I strongly recommend you to consider taking a few weeks of your valuable time and travel to Nepal to experience first-hand how your mind ‘really’ works and how changing your own behaviour and the way you look at the world, can have such a significant impact on your own happiness and on that of others.&nbsp;
+
+![](/uploads/img-2990-2.jpg)
