@@ -35,12 +35,6 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/japan/0H3A8853-2abc.jpg
-    portrait: false
-    wide: true
-    title: Japan
-    subtitle:
-    text-color: light
   - image: /uploads/japan/0H3A9070aa.jpg
     portrait: false
     wide: true
