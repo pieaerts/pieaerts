@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/493A9721.jpg
+  - image: /uploads/493A9721.jpg
     portrait: true
     wide: false
     title:
