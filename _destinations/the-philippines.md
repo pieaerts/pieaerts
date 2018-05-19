@@ -1,7 +1,7 @@
 ---
 title: The Philippines
 subtitle: A million reasons to smile
-date: 2017-05-17 00:00:00
+date: 2017-05-13 00:00:00
 image: /PHIL0H3A6082a.jpg
 float: left
 images:
