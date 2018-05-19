@@ -1,7 +1,7 @@
 ---
 title: Norway
 subtitle: Winter in the Lofoten
-date: 2017-05-01 00:00:00
+date: 2017-05-17 00:00:00
 image: /uploads/norway/493A6022.jpg
 float: left
 images:
