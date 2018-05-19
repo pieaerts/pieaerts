@@ -1,7 +1,7 @@
 ---
 title: Peru
 subtitle: Last days of the Incas
-date: 2017-05-13 00:00:00
+date: 2017-05-01 00:00:00
 image: /uploads/peru/IMG_6209.jpg
 float: left
 images:
@@ -239,5 +239,4 @@ images:
 text-color: light
 ---
 
-
-Rumor has it Peru houses the birthplace of the sun. Following this Andean folklore brought us deep into the heart and what we found was truly breathtaking.&nbsp;
+Rumor has it Peru houses the birthplace of the sun. Following this Andean folklore brought us deep into the heart and what we found was truly breathtaking.
