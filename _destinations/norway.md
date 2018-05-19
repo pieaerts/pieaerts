@@ -2,7 +2,7 @@
 title: Norway
 subtitle: Winter in the Lofoten
 date: 2017-05-01 00:00:00
-image: /uploads/norway/DJI_0492-Pano.jpg
+image: /uploads/norway/493A6022.jpg
 float: left
 images:
   - image: /uploads/norway/493A6022.jpg
@@ -69,6 +69,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/norway/JO4_0241.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_9647.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_0820.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/norway/JO4_0854.jpg
     portrait: true
     wide: false
     title:
@@ -155,27 +176,6 @@ images:
   - image: /uploads/norway/DJI_0304-Pano.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/norway/JO4_9647.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/norway/JO4_0820.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/norway/JO4_0854.jpg
-    portrait: true
-    wide: false
     title:
     subtitle:
     text-color:
