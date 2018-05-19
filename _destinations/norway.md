@@ -180,6 +180,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
