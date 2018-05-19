@@ -1,7 +1,7 @@
 ---
 title: Iceland
 subtitle: Land of fire and ice
-date: 2017-05-16 00:00:00
+date: 2017-05-15 00:00:00
 image: /uploads/iceland/0H3A0020.jpg
 float: left
 images:
@@ -350,6 +350,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 The purity, the drama, the obscurity, or the weirdness. The prehistoric energy, the widespread power of the elements or maybe the magic quality of inaccessibility, the fact that you could hike for weeks without encountering a single soul. Or maybe, maybe it’s the contrast of peaceful silence with the hectic world we nowadays live in. Whatever the reason is, one thing's for sure, Iceland never fails to take your breath away.
