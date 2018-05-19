@@ -183,3 +183,4 @@ images:
 text-color: light
 ---
 
+Imagine. Rugged, icy peaks rising from the Arctic sea. Waves washing over snow-covered beaches and turquoise waters dotted with traditional fishing villages. All in a place where mountains glow pink from dawn till dusk. Or where dark moody clouds announce the sudden approach of an Arctic storm. This is winter in the Lofoten.
