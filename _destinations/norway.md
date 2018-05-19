@@ -61,7 +61,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/norway/JO4_9637.jpg
+  - image: /JO4_0356.jpg
     portrait: true
     wide: false
     title:
