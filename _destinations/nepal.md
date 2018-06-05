@@ -145,7 +145,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /2G2A7484.jpg
+  - image: /uploads/Nepal/2G2A7525.jpg
     portrait: true
     wide: false
     title:
