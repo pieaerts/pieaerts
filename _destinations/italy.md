@@ -232,5 +232,4 @@ images:
 text-color: light
 ---
 
-
-Life how it’s meant to be lived. Bringing things together that matter. Family, food, tradition, art, passion, architecture, well-being and history. Each region in its own unique way. Such a rich place in every sense of the word. A pursuit of elegance.
+Life how it’s meant to be lived. Bringing things together that matter. Family, food, tradition, art, passion, architecture, well-being and history. Each region in its own unique way. Such a rich place in every sense of the word. A true pursuit of elegance.
