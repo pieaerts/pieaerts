@@ -40,20 +40,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tondo/Tondo31.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Tondo/Tondo27.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Tondo/Tondo5.jpg
     portrait: false
     wide: true
@@ -68,21 +54,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Tondo/Tondo16.jpg
+  - image: /uploads/Tondo/Tondo19.jpg
     portrait: false
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/Tondo/Tondo26.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Tondo/Tondo19.jpg
     portrait: false
     wide: true
     title:
@@ -175,6 +154,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 ### 24 hours in the Tondo slum
