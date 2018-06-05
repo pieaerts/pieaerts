@@ -33,14 +33,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A2780.jpg
+  - image: /uploads/Nepal/2G2A3711.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A3711.jpg
+  - image: /uploads/Nepal/2G2A2780.jpg
     portrait: false
     wide: true
     title:
