@@ -47,7 +47,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A3304.jpg
+  - image: /uploads/Nepal/2G2A2487.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Nepal/2G2A2549.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Nepal/2G2A2592.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Nepal/2G2A2496.jpg
     portrait: false
     wide: true
     title:
