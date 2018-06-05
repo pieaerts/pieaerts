@@ -201,13 +201,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A8583.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 69.jpg
     portrait: false
     wide: true
