@@ -68,14 +68,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A5681a.jpg
+  - image: /PHIL0H3A6973a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A6973a.jpg
+  - image: /PHIL0H3A5681a.jpg
     portrait: false
     wide: true
     title:
@@ -154,14 +154,7 @@ images:
     show-text: false
   - image: /PHIL0H3A3038-1-a.jpg
     portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A3203-1-a.jpg
-    portrait: false
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -208,20 +201,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A2986-1-a.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A3219-1-a.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /PHIL0H3A3176-1-a.jpg
     portrait: false
     wide: true
@@ -250,13 +229,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A6006a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /PHIL0H3A0045a.jpg
     portrait: false
     wide: true
@@ -279,13 +251,6 @@ images:
     text-color:
     show-text: false
   - image: /PHIL0H3A9522aa.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A4485a.jpg
     portrait: false
     wide: true
     title:
