@@ -110,7 +110,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A6735.jpg
+  - image: /uploads/2G2A6735a.jpg
     portrait: false
     wide: true
     title:
