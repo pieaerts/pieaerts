@@ -145,13 +145,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/fish_market/0H3A8181.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/fish_market/0H3A8147.jpg
     portrait: false
     wide: true
@@ -159,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/fish_market/0H3A8201.jpg
+  - image: /uploads/fish_market/0H3A8181.jpg
     portrait: false
     wide: true
     title:
@@ -168,6 +161,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 ### 24 hours at Tsukiji fish market
