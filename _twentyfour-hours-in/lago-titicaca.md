@@ -40,20 +40,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/bolivia/IMG_7212a.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_7482.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/bolivia/IMG_7262.jpg
     portrait: false
     wide: true
@@ -83,13 +69,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/bolivia/IMG_7297a.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/bolivia/IMG_7233.jpg
     portrait: false
     wide: true
     title:
@@ -175,6 +154,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 ### 24 hours in Isla del Sol
