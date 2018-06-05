@@ -103,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8979.jpg
+  - image: /uploads/Dubai/0H3A8944.jpg
     portrait: false
     wide: true
     title:
@@ -124,21 +124,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8944.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Dubai/0H3A8925.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8957.jpg
     portrait: false
     wide: true
     title:
@@ -161,6 +147,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 ### 24 hours at the Deira fish market
