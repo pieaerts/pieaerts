@@ -1,7 +1,7 @@
 ---
 title: Bolivia
 subtitle: Life on the Altiplano
-date: 2017-05-13 00:00:00
+date: 2017-05-19 00:00:00
 image: /uploads/bolivia/IMG_8313.jpg
 float: left
 images:
