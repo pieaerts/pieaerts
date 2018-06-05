@@ -152,14 +152,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A3038-1-a.jpg
+  - image: /PHIL0H3A3649-1-a.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /PHIL0H3A3649-1-a.jpg
+  - image: /PHIL0H3A3038-1-a.jpg
     portrait: false
     wide: true
     title:
@@ -169,20 +169,6 @@ images:
   - image: /PHIL0H3A4815a.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A6125a.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /PHIL0H3A6132a.jpg
-    portrait: false
-    wide: false
     title:
     subtitle:
     text-color:
@@ -218,13 +204,6 @@ images:
   - image: /PHIL0H3A5155a.jpg
     portrait: false
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/philippines/0H3A6053.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
