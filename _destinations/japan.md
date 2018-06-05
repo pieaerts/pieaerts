@@ -107,12 +107,6 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/japan/0H3A8757.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
   - image: /uploads/japan/0H3A8901.jpg
     portrait: false
     wide: true
