@@ -33,6 +33,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/italy/Italy - Sicilia excl watermerk 41.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/italy/0H3A9138.jpg
     portrait: false
     wide: true
@@ -40,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/0H3A8352.jpg
+  - image: /uploads/italy/0H3A8541.jpg
     portrait: false
     wide: true
     title:
@@ -90,13 +97,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/italy/Italy - Sicilia excl watermerk 75.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/italy/Italy - Sicilia excl watermerk 41.jpg
     portrait: false
     wide: true
     title:
@@ -166,13 +166,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/italy/Italy - Sicilia excl watermerk 74.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/italy/0H3A9066.jpg
     portrait: false
     wide: true
@@ -202,13 +195,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/italy/DJI_0174.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/italy/0H3A8541.jpg
     portrait: false
     wide: true
     title:
