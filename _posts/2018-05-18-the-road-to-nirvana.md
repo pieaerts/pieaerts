@@ -3,9 +3,8 @@ title: The road to Nirvana
 image: /uploads/dscf1595.jpg
 location: Nepal
 footer_html: >-
-  <p>Click&nbsp;<a target="_blank"
-  href="http://www.pieaerts.com/destinations/nepal/">here</a>&nbsp;to see more
-  photo's of Nepal</p>
+  <p>Click&nbsp;<a target="_blank" href="/destinations/nepal/">here</a>&nbsp;to
+  see more photo's of Nepal</p>
 ---
 
 ### How a 24-year old Swedish girl became a Buddhist nun
