@@ -68,7 +68,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A2658.jpg
+  - image: /uploads/Nepal/2G2A2487.jpg
     portrait: false
     wide: true
     title:
@@ -82,14 +82,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Nepal/2G2A3653.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A2487.jpg
+  - image: /uploads/Nepal/2G2A2658.jpg
     portrait: false
     wide: true
     title:
@@ -118,6 +118,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Nepal/2G2A3201-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Nepal/2G2A2918.jpg
     portrait: false
     wide: true
     title:
