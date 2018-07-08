@@ -1,7 +1,7 @@
 ---
 title: Sri Lanka
 subtitle: A thousand shades of green
-date: 2017-05-19 00:00:00
+date: 2017-04-29 00:00:00
 image: /uploads/Srilanka/DJI_0334.jpg
 float: left
 images:
@@ -61,6 +61,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Srilanka/2G2A9863.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/Srilanka/DJI_0334.jpg
     portrait: false
     wide: true
@@ -110,41 +117,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A0370.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A9863.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A9941.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A9479.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A1411.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Srilanka/2G2A1164.jpg
     portrait: true
     wide: false
@@ -159,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A6003.jpg
+  - image: /uploads/Srilanka/2G2A1411.jpg
     portrait: false
     wide: true
     title:
@@ -167,6 +139,34 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/2G2A5897.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A9479.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0370.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A6003.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
