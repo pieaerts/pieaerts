@@ -117,7 +117,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A1082.jpg
+  - image: /uploads/Srilanka/2G2A1082a.jpg
     portrait: true
     wide: false
     title:
@@ -125,6 +125,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/2G2A1411.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0661.jpg
     portrait: false
     wide: true
     title:
@@ -146,20 +153,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/2G2A0370.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A6003.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A5897.jpg
     portrait: false
     wide: true
     title:
@@ -188,6 +181,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/2G2A0688.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A8240.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0012.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A1697.jpg
     portrait: false
     wide: true
     title:
