@@ -124,14 +124,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A3201-2.jpg
+  - image: /uploads/Nepal/2G2A2918.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Nepal/2G2A2918.jpg
+  - image: /uploads/Nepal/2G2A3201-2.jpg
     portrait: false
     wide: true
     title:
