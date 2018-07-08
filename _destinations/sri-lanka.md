@@ -54,7 +54,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A0484.jpg
+  - image: /uploads/Srilanka/2G2A0484a.jpg
     portrait: false
     wide: true
     title:
