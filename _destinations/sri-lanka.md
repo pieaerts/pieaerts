@@ -55,8 +55,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/2G2A0484.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -69,8 +69,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/DJI_0252ab.jpg
-    portrait: false
-    wide: true
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
