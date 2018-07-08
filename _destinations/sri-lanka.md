@@ -2,7 +2,7 @@
 title: Sri Lanka
 subtitle: A thousand shades of green
 date: 2017-05-19 00:00:00
-image: /uploads/Srilanka/2G2A8837.jpg
+image: /uploads/Srilanka/DJI_0334.jpg
 float: left
 images:
   - image: /uploads/bolivia/IMG_7628.jpg
