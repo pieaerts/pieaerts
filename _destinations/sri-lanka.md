@@ -61,13 +61,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A9863.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Srilanka/DJI_0334.jpg
     portrait: false
     wide: true
@@ -138,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A5897.jpg
+  - image: /uploads/Srilanka/2G2A9863.jpg
     portrait: false
     wide: true
     title:
@@ -166,7 +159,35 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Srilanka/2G2A5897.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0044.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0157.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A9416.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0688.jpg
     portrait: false
     wide: true
     title:
