@@ -211,3 +211,4 @@ images:
 text-color: light
 ---
 
+Blazing through tea fields and lush forest, passing waterfalls & ancient temples on the way. The wind on our face and smiling people everywhere we looked. After crossing the entire country by rails and finding a thousand shades of green on the way, we’re hooked. Train travel in Sri Lanka is the dream.&nbsp;
