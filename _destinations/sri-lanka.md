@@ -69,8 +69,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Srilanka/DJI_0252ab.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
