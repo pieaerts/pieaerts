@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A0336.jpg
+  - image: /uploads/Srilanka/2G2A8945.jpg
     portrait: false
     wide: true
     title:
@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A8945.jpg
+  - image: /uploads/Srilanka/2G2A0336.jpg
     portrait: false
     wide: true
     title:
@@ -47,7 +47,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A8945.jpg
+  - image: /uploads/Srilanka/2G2A5538.jpg
     portrait: false
     wide: true
     title:
@@ -92,13 +92,6 @@ images:
   - image: /uploads/Srilanka/Drone6.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Srilanka/2G2A5538.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
