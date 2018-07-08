@@ -180,13 +180,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A0688.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Srilanka/2G2A8240.jpg
     portrait: true
     wide: false
@@ -197,6 +190,13 @@ images:
   - image: /uploads/Srilanka/2G2A0012.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Srilanka/2G2A0688.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
