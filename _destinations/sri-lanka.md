@@ -1,7 +1,7 @@
 ---
 title: Sri Lanka
 subtitle: A thousand shades of green
-date: 2017-04-29 00:00:00
+date: 2017-05-22 00:00:00
 image: /uploads/Srilanka/DJI_0334.jpg
 float: left
 images:
@@ -211,4 +211,4 @@ images:
 text-color: light
 ---
 
-Blazing through tea fields and lush forest, passing waterfalls & ancient temples on the way. The wind on our face and smiling people everywhere we looked. After crossing the entire country by rails and finding a thousand shades of green on the way, we’re hooked. Train travel in Sri Lanka is the dream.&nbsp;
+Blazing through tea fields and lush forest, passing waterfalls & ancient temples on the way. The wind on our face and smiling people everywhere we looked. After crossing the entire country by rails and finding a thousand shades of green on the way, we’re hooked. Train travel in Sri Lanka is the dream.
