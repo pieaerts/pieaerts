@@ -54,6 +54,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Srilanka/2G2A0033.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/Srilanka/DJI_0334.jpg
     portrait: false
     wide: true
@@ -92,6 +99,13 @@ images:
   - image: /uploads/Srilanka/Drone6.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
