@@ -110,7 +110,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Srilanka/2G2A1164.jpg
+  - image: /uploads/Srilanka/2G2A1164a.jpg
     portrait: true
     wide: false
     title:
