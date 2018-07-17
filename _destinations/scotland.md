@@ -1,7 +1,7 @@
 ---
 title: Scotland
 subtitle: A magic Skyefall
-date: 2017-05-09 00:00:00
+date: 2017-05-08 00:00:00
 image: /uploads/scotland/IMG_0113.jpg
 float: left
 images:
@@ -252,6 +252,5 @@ images:
     show-text: false
 text-color: light
 ---
-
 
 In the first week of November, a small remote island on the west coast of Scotland prepares for winter lockdown. Tourists flee and sea mist covers the land in shadows. All that’s left is deserted roads curling through rough landscapes dotted with thousands of sheep. Not the best season to visit Scotland, or so you might think. But on an island where history has been dominated by myths and legends, you might be rewarded if you put your trust in the hands of the Gods.
