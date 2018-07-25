@@ -23,6 +23,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/japan/0H3A9167.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
   - image: /Japan/6.jpg
     portrait: false
     wide: true
@@ -86,12 +92,6 @@ images:
   - image: /uploads/japan/0H3A8361.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/japan/0H3A9167.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
