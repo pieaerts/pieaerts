@@ -53,6 +53,144 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/Japan_new/0H3A9372-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW4.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW5.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW6.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW7.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW8.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW10.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW12.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW13.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW16.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW17.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW18.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW19.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW20.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW21.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW22.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW23.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW24.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW27.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW32.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW31.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW33.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
 text-color: light
 ---
 
