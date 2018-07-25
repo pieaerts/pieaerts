@@ -17,31 +17,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW11.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW25.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW26.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
   - image: /uploads/Japan_new/JAPAN_NEW36.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW30.jpg
     portrait: false
     wide: true
     title:
@@ -53,13 +29,43 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/0H3A9372-2.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW30.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW3.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW25.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW11.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW26.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW35.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW16.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW21.jpg
     portrait: false
     wide: true
     title:
@@ -71,37 +77,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW5.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW6.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW7.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
   - image: /uploads/Japan_new/JAPAN_NEW8.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW10.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW12.jpg
     portrait: false
     wide: true
     title:
@@ -113,7 +89,37 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW16.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW6.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW27.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW5.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW7.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW12.jpg
     portrait: false
     wide: true
     title:
@@ -143,12 +149,6 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW21.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
   - image: /uploads/Japan_new/JAPAN_NEW22.jpg
     portrait: false
     wide: true
@@ -167,19 +167,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW27.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW31.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
   - image: /uploads/Japan_new/JAPAN_NEW32.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW31.jpg
     portrait: false
     wide: true
     title:
