@@ -17,6 +17,30 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW11.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW25.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW26.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW36.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
 text-color: light
 ---
 
