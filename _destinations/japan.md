@@ -11,6 +11,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/Japan_new/3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
 text-color: light
 ---
 
