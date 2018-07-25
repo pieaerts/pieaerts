@@ -59,6 +59,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW32.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
   - image: /uploads/Japan_new/JAPAN_NEW21.jpg
     portrait: false
     wide: true
@@ -131,6 +137,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/Japan_new/JAPAN_NEW22.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
   - image: /uploads/Japan_new/JAPAN_NEW18.jpg
     portrait: false
     wide: true
@@ -144,12 +156,6 @@ images:
     subtitle:
     text-color:
   - image: /uploads/Japan_new/JAPAN_NEW20.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW22.jpg
     portrait: false
     wide: true
     title:
@@ -173,13 +179,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW32.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW33.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW33.jpg
+  - image:
     portrait: false
     wide: true
     title:
