@@ -2,7 +2,7 @@
 title: Japan
 subtitle: Kimonos & skyscrapers
 date: 2017-05-13 00:00:00
-image:
+image: /Japan/0H3A8901bb.jpg
 float: left
 images:
   - image: /uploads/Japan_new/JAPAN_NEW1.jpg
@@ -60,8 +60,8 @@ images:
     subtitle:
     text-color:
   - image: /uploads/Japan_new/JAPAN_NEW32.jpg
-    portrait: false
-    wide: false
+    portrait: true
+    wide: true
     title:
     subtitle:
     text-color:
@@ -180,8 +180,8 @@ images:
     subtitle:
     text-color:
   - image: /uploads/Japan_new/JAPAN_NEW33.jpg
-    portrait: false
-    wide: false
+    portrait: true
+    wide: true
     title:
     subtitle:
     text-color:
