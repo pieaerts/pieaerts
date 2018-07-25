@@ -17,18 +17,18 @@ images:
     title:
     subtitle:
     text-color: light
-  - image: /Japan/6.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color: light
   - image: /uploads/japan/7.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
+  - image: /Japan/6.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color: light
   - image: /uploads/japan/0H3A1307.jpg
     portrait: false
     wide: true
@@ -41,18 +41,6 @@ images:
     title:
     subtitle:
     text-color: dark
-  - image: /uploads/japan/0H3A9088aa.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color: light
-  - image: /uploads/japan/0H3A9988.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
   - image: /uploads/japan/0H3A9427.jpg
     portrait: false
     wide: true
