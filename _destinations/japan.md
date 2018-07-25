@@ -173,13 +173,13 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW23.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW31.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/Japan_new/JAPAN_NEW31.jpg
+  - image: /uploads/Japan_new/JAPAN_NEW23.jpg
     portrait: false
     wide: true
     title:
