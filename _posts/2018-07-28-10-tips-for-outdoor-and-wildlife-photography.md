@@ -1,5 +1,5 @@
 ---
-title: 10 tips for outdoor photography
+title: 10 tips for outdoor and wildlife photography
 image: /uploads/HEADERS/0H3A6324 copy 5aaa.jpg
 location: Amsterdam
 footer_html: >-
@@ -9,7 +9,7 @@ footer_html: >-
   use.</p>
 ---
 
-### One of the questions I get asked the most (apart from the obvious gear talk) is what ‘photography tips’ I have for people. Therefore I thought it would be nice to list a few. Hereby my personal top 10 for improving your outdoor & wildlife photography skills. At a later stage I’ll also run one for travel & portrait work.&nbsp;
+### One of the questions I get asked the most (apart from the obvious gear talk) is what ‘photography tips’ I have for people. Therefore I thought it would be nice to list a few. Hereby my personal top 10 for improving your outdoor & wildlife photography skills. At a later stage I’ll also run one for travel & portrait work. 
 
 ## Stop taking about gear
 
@@ -19,7 +19,7 @@ My number 1 advise for becoming a better photographer: Stop talking about gear. 
 
 ## Explore your home
 
-Many people think good photography requires travel. They’re wrong. You better visit that one interesting place close to home a hundred times instead of visiting a hundred different places further away from home only once. In doing so you’ll end up finding the conditions you’ve been dreaming about. Patience & persistence are key for distinct image making. Trust me, in the end, you don't have to go somewhere new for wonder, just look at that same old spot with new eyes. Try it. I’m sure you’ll be surprised.&nbsp;
+Many people think good photography requires travel. They’re wrong. You better visit that one interesting place close to home a hundred times instead of visiting a hundred different places further away from home only once. In doing so you’ll end up finding the conditions you’ve been dreaming about. Patience & persistence are key for distinct image making. Trust me, in the end, you don't have to go somewhere new for wonder, just look at that same old spot with new eyes. Try it. I’m sure you’ll be surprised. 
 
 ![](/uploads/white-out.jpg)
 
@@ -37,13 +37,13 @@ Set your in-camera settings to monochrome. I promise you that the entire game ch
 
 ## Stop zooming
 
-Ditch the zoom lens and learn to love the constraints of dealing with a fixed focal length. Simply because the most important lens you own, are your own legs. Moving ‘them’ instead of a zoom ring will instantly make you a better photographer. It increases the weight of your bag, but deal with it, its worth the pain. So stop zooming, start seeing.&nbsp;
+Ditch the zoom lens and learn to love the constraints of dealing with a fixed focal length. Simply because the most important lens you own, are your own legs. Moving ‘them’ instead of a zoom ring will instantly make you a better photographer. It increases the weight of your bag, but deal with it, its worth the pain. So stop zooming, start seeing. 
 
 ![](/uploads/493a9458-1.jpg)
 
 ## Convey emotion
 
-Some people argue that one needs a human connection in order to feel emotionally connected to an image. But nothing is further from the truth. A still image can convey an even stronger emotion than any facial expression or human interaction ever could. Find that and try to convey it in your visual story telling.&nbsp;
+Some people argue that one needs a human connection in order to feel emotionally connected to an image. But nothing is further from the truth. A still image can convey an even stronger emotion than any facial expression or human interaction ever could. Find that and try to convey it in your visual story telling. 
 
 ![](/uploads/linyanti.jpg)
 
@@ -56,7 +56,7 @@ Make photographs for yourself, not for your audience. Learn to trust your instin
 
 ## Trust your camera
 
-Your camera equipment is tougher than you think. Run towards the rain, not away from it and with the right luck, you’ll catch the electric colours and mist from a clearing storm. Same counts for blazing sun or freezing cold. No matter how heavy the snowstorm or how freezing the subzero temperatures, get out there, get dirty, get wet! Create! You gotta risk it, to get the biscuit.&nbsp;
+Your camera equipment is tougher than you think. Run towards the rain, not away from it and with the right luck, you’ll catch the electric colours and mist from a clearing storm. Same counts for blazing sun or freezing cold. No matter how heavy the snowstorm or how freezing the subzero temperatures, get out there, get dirty, get wet! Create! You gotta risk it, to get the biscuit. 
 
 ![](/uploads/matterhorn.jpg)
 
@@ -68,7 +68,7 @@ Over time I’ve learned that many times in photography, it’s not the grand sc
 
 ## Ask for help
 
-With over 3 billion people only a click away through the Internet, never hesitate about asking for help. Whenever you meet a photographer (offline or online) ask questions. But please come prepared. Always remember: Ask for nothing and you receive nothing. Ask for the world and you will receive the world.&nbsp;
+With over 3 billion people only a click away through the Internet, never hesitate about asking for help. Whenever you meet a photographer (offline or online) ask questions. But please come prepared. Always remember: Ask for nothing and you receive nothing. Ask for the world and you will receive the world. 
 
 ![](/uploads/dji-0113.jpg)
 
