@@ -1,8 +1,11 @@
 ---
 title: 10 tips for outdoor photography
-image: /uploads/dscf1595.jpg
-location: Nepal
+image:
+location: Amsterdam
 footer_html: >-
-  <p>Click&nbsp;<a target="_blank" href="/destinations/nepal/">here</a>&nbsp;to
-  see more photo's of Nepal</p>
+  <p>If you still insist on knowing more about gear, click&nbsp;<a
+  target="_blank" data-cms-editor-link-style="undefined"
+  href="https://www.pieaerts.com/gear/">here</a>&nbsp;to see what equipment I
+  use.</p>
 ---
+
