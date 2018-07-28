@@ -1,8 +1,8 @@
 ---
 title: Myanmar
-subtitle: The land of gold
+subtitle: Crossing the  land of gold
 date: 2017-04-29 00:00:00
-image:
+image: /uploads/Myanmar/2G2A7132.jpg
 float: left
 images:
   - image: /uploads/Myanmar/2G2A7132.jpg
