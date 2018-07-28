@@ -42,3 +42,32 @@ Set your in-camera settings to monochrome. I promise you that the entire game ch
 Ditch the zoom lens and learn to love the constraints of dealing with a fixed focal length. Simply because the most important lens you own, are your own legs. Moving ‘them’ instead of a zoom ring will instantly make you a better photographer. It increases the weight of your bag, but deal with it, its worth the pain. So stop zooming, start seeing.&nbsp;
 
 ![](/uploads/493a9458-1.jpg)
+
+## Convey emotion
+
+Some people argue that one needs a human connection in order to feel emotionally connected to an image. But nothing is further from the truth. A still image can convey an even stronger emotion than any facial expression or human interaction ever could. Find that and try to convey it in your visual story telling.&nbsp;
+
+![](/uploads/linyanti.jpg)
+
+## Create for yourself
+{: .present-before-paste}
+
+Make photographs for yourself, not for your audience. Learn to trust your instincts and don’t always consider what others might like or not. I know this isn’t easy in times of heavy social pressure but YOU are the one that’s supposed to be enjoying the process, not everyone around you. And if you radiate the right energy, your images will start looking better and better which attracts the likes of those around you eventually too.
+
+![](/uploads/dusk.jpg)
+
+## Trust your camera
+
+Your camera equipment is tougher than you think. Run towards the rain, not away from it and with the right luck, you’ll catch the electric colours and mist from a clearing storm. Same counts for blazing sun or freezing cold. No matter how heavy the snowstorm or how freezing the subzero temperatures, get out there, get dirty, get wet! Create! You gotta risk it, to get the biscuit.&nbsp;
+
+![](/uploads/matterhorn.jpg)
+
+## Play with the details
+
+Over time I’ve learned that many times in photography, it’s not the grand scale or epic nature that grabs me the most, but rather the small details that would normally go overlooked. Find them. For that sparkle of life in a place that feels like death, or highlight details in a scene that feels like infinity. It’s too easy to always opt for the vastness of a landscape.
+
+![](/uploads/440a0175.jpg)
+
+&nbsp;
+
+&nbsp;
