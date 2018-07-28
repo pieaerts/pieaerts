@@ -14,3 +14,7 @@ footer_html: >-
 # Stop taking about gear
 
 ##### My number 1 advise for becoming a better photographer: Stop talking about gear. And start taking photos. No matter which camera you own, the truth is that sharper lenses and more megapixels don’t necessarily enhance your ability to tell a story or compose an image. Real improvement only exists through practice and learning from failure. Not through purchase.
+
+![](/uploads/4i9a7922.jpg)
+
+&nbsp;
