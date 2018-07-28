@@ -1,5 +1,5 @@
 ---
-title: 10 tips for outdoor and wildlife photography
+title: 10 tips for outdoor & wildlife photography
 image: /uploads/HEADERS/0H3A6324 copy 5aaa.jpg
 location: Amsterdam
 footer_html: >-
