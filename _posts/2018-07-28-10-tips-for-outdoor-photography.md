@@ -66,6 +66,14 @@ Over time I’ve learned that many times in photography, it’s not the grand sc
 
 ![](/uploads/440a0175.jpg)
 
+## Ask for help
+
+With over 3 billion people only a click away through the Internet, never hesitate about asking for help. Whenever you meet a photographer (offline or online) ask questions. But please come prepared. Always remember: Ask for nothing and you receive nothing. Ask for the world and you will receive the world.&nbsp;
+
+![](/uploads/dji-0113.jpg)
+
+I hope these 10 tips will guide you in finding your own unique visual language. They can be very helpful tools in the day-to-day creative process but always remember that photography is a very personal journey and to me, that’s the most beautiful aspect of it. Everybody sees the world differently. Use that.&nbsp;
+
 &nbsp;
 
 &nbsp;
