@@ -73,3 +73,5 @@ With over 3 billion people only a click away through the Internet, never hesitat
 ![](/uploads/dji-0113.jpg)
 
 I hope these 10 tips will guide you in finding your own unique visual language. They can be very helpful tools in the day-to-day creative process but always remember that photography is a very personal journey and to me, that’s the most beautiful aspect of it. Everybody sees the world differently. Use that.
+
+Feel free to share this post with who ever could benefit from it. Next time I will talk a bit more about travel & portrait photography.
