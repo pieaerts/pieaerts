@@ -152,6 +152,20 @@ images:
     subtitle:
     text-color:
     show-text: true
+  - image: /uploads/Myanmar/2G2A4221.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/Myanmar/2G2A3043.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/Myanmar/2G2A2642.jpg
     portrait: false
     wide: true
@@ -167,6 +181,13 @@ images:
     text-color:
     show-text: true
   - image: /uploads/Myanmar/2G2A3679.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/Myanmar/2G2A4740.jpg
     portrait: false
     wide: true
     title:
@@ -223,6 +244,13 @@ images:
     text-color:
     show-text: true
   - image: /uploads/Myanmar/DJI_0425.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/Myanmar/2G2A6737.jpg
     portrait: false
     wide: true
     title:
