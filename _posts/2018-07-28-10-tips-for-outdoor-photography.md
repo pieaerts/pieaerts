@@ -29,4 +29,16 @@ Many people think good photography requires travel. They’re wrong. You better 
 
 Even if you think you got up early enough, get up earlier! Don’t be one of the people that sleep through the good things. The hour before the sun rises is the most magical hour of the day with often every minute a different lightning situation. Plus the ‘sunset crowds’ are still in a deep sleep which gives you more space to do your own thing.
 
-&nbsp;
+![](/uploads/493a9199.jpg)
+
+## Learn to think in black & white
+
+Set your in-camera settings to monochrome. I promise you that the entire game changes. When colours are absent you learn to look at light & composition in a different way which teaches you so much about image making.
+
+![](/uploads/440a0584.jpg)
+
+## Stop zooming
+
+Ditch the zoom lens and learn to love the constraints of dealing with a fixed focal length. Simply because the most important lens you own, are your own legs. Moving ‘them’ instead of a zoom ring will instantly make you a better photographer. It increases the weight of your bag, but deal with it, its worth the pain. So stop zooming, start seeing.&nbsp;
+
+![](/uploads/493a9458-1.jpg)
