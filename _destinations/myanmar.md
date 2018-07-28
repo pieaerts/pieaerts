@@ -82,7 +82,7 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/Myanmar/DJI_0382-Pano.jpg
+  - image: /DJI_0382-Panoak copy.jpg
     portrait: false
     wide: true
     title:
@@ -160,8 +160,8 @@ images:
     text-color:
     show-text: true
   - image: /uploads/Myanmar/2G2A3043.jpg
-    portrait: false
-    wide: true
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
@@ -260,6 +260,6 @@ images:
 text-color: light
 ---
 
-For over a decade, I’ve been dreaming about visiting this place. About walking it’s streets, about meeting it’s people and about using my camera to capture it’s soul. 10 years & 3 cancelled attempts later I finally made it and what I found was pure magic. These are a few of the moments &nbsp;I saw through my lens.&nbsp;
+For over a decade, I’ve been dreaming about visiting this place. About walking it’s streets, about meeting it’s people and about using my camera to capture it’s soul. 10 years & 3 cancelled attempts later I finally made it and what I found was pure magic. These are a few of the moments  I saw through my lens. 
 
-Thanks to [Visit Myanmar](http://myanmar.travel){: target="_blank"} for inviting us over and for showing us all corners of this amazing country.&nbsp;
+Thanks to [Visit Myanmar](http://myanmar.travel){: target="_blank"} for inviting us over and for showing us all corners of this amazing country.
