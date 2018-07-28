@@ -26,6 +26,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Myanmar/2G2A8364.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/Myanmar/DJI_0308.jpg
     portrait: false
     wide: true
@@ -40,6 +47,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Myanmar/2G2A6601.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/Myanmar/2G2A5440.jpg
     portrait: false
     wide: true
@@ -62,13 +76,6 @@ images:
     text-color:
     show-text: true
   - image: /uploads/Myanmar/2G2A2584.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/Myanmar/2G2A6601.jpg
     portrait: false
     wide: true
     title:
@@ -117,13 +124,6 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/Myanmar/2G2A8364.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
   - image: /uploads/Myanmar/2G2A8718.jpg
     portrait: false
     wide: true
@@ -131,14 +131,14 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/Myanmar/2G2A4626aa.jpg
+  - image: /uploads/Myanmar/2G2A4454.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/Myanmar/2G2A4454.jpg
+  - image: /uploads/Myanmar/2G2A4626aa.jpg
     portrait: false
     wide: true
     title:
@@ -159,7 +159,21 @@ images:
     subtitle:
     text-color:
     show-text: true
+  - image: /uploads/Myanmar/2G2A7040.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/Myanmar/2G2A3679.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image:
     portrait: false
     wide: true
     title:
