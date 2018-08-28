@@ -8,7 +8,7 @@ footer_html: >-
   photos of Nepal.</p>
 ---
 
-Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the Hyatt Regency Kathmandu, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
+Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the [Hyatt Regency Kathmandu](https://www.hyatt.com/en-US/hotel/nepal/hyatt-regency-kathmandu/kathm){: target="_blank"}, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
 
 ![](/uploads/2g2a2918.jpg)
 
@@ -28,7 +28,7 @@ Nepal’s capital is often merely seen as a jumping-off point, overshadowed by t
 
 ![](/uploads/2g2a2457.jpg)
 
-**The Hyatt Regency Kathmandu**<br>While Kathmandu is an eclectic and fascinating city, it can easily be overwhelming and exhausting after walking around in the chaos of ‘Dustmandu’ for an entire day. All the more important to find a safe haven of your own, which for us turned out to be the Hyatt Regency. Built on 37 acres of land, the chaos of the streets disappears as soon as you enter the property. The overload of senses, kept at bay when entering the soothing grounds, the noises feeling far away, while you can glimpse at the top of the Boudhanath Stupa from the lobby terrace, being just a quick 5-minute walk from the back gate. A tranquil spot to reenergise.
+**The Hyatt Regency Kathmandu**<br>While Kathmandu is an eclectic and fascinating city, it can easily be overwhelming and exhausting after walking around in the chaos of ‘Dustmandu’ for an entire day. All the more important to find a safe haven of your own, which for us turned out to be the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/nepal/hyatt-regency-kathmandu/kathm){: target="_blank"}. Built on 37 acres of land, the chaos of the streets disappears as soon as you enter the property. The overload of senses, kept at bay when entering the soothing grounds, the noises feeling far away, while you can glimpse at the top of the Boudhanath Stupa from the lobby terrace, being just a quick 5-minute walk from the back gate. A tranquil spot to reenergise.
 
 ![](/uploads/2g2a3201-2.jpg)
 
