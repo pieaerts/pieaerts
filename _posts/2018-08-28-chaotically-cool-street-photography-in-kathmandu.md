@@ -8,7 +8,7 @@ footer_html: >-
   photos of Nepal.</p>
 ---
 
-Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the Hyatt Regency Kathmandu, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
+#### Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the Hyatt Regency Kathmandu, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
 
 ![](/uploads/2g2a2918.jpg)
 
@@ -33,5 +33,15 @@ Nepal’s capital is often merely seen as a jumping-off point, overshadowed by t
 ![](/uploads/2g2a3201-2.jpg)
 
 Despite Kathmandu’s reputation of being overcrowded and chaotic, it is chaotically cool. Use the constant dust filled air to your advantage, by adding highlights and different moods to your pictures. Creating a unique grace beyond the grime you won’t find anywhere else in the world, but in Kathmandu.
+
+![](/uploads/2g2a2448.jpg)
+
+![](/uploads/2g2a2598.jpg)
+
+![](/uploads/2g2a2549.jpg)
+
+![](/uploads/2g2a2511.jpg)
+
+![](/uploads/2g2a2658.jpg)
 
 &nbsp;
