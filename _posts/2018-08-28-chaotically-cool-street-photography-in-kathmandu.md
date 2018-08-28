@@ -48,4 +48,4 @@ Despite Kathmandu’s reputation of being overcrowded and chaotic, it is chaotic
 
 ![](/uploads/2g2a2459.jpg)
 
-![](blob:https://app.cloudcannon.com/437b1cc6-2ae2-4b3e-b9e4-8f1102631c2e)
+![](/uploads/2g2a2341.jpg)
