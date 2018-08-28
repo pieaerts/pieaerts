@@ -9,7 +9,7 @@ footer_html: >-
   use.</p>
 ---
 
-### One of those questions I get asked most (apart from the non-stop gear talk) is what ‘photography tips’ I have for people. Therefore I thought it could be helpful to list a few of my favourites in my personal 'Top 10 for rocking your outdoor & wildlife photography skills'. At a later stage I’ll also run one for travel & portrait work.&nbsp;
+One of those questions I get asked most (apart from the non-stop gear talk) is what ‘photography tips’ I have for people. Therefore I thought it could be helpful to list a few of my favourites in my personal 'Top 10 for rocking your outdoor & wildlife photography skills'. At a later stage I’ll also run one for travel & portrait work.&nbsp;
 
 ## Stop taking about gear
 
