@@ -1,10 +1,26 @@
 ---
 title: 'Chaotically cool: Street photography in Kathmandu'
-image: /uploads/HEADERS/0H3A6324 copy 5aaa.jpg
-location: Amsterdam
+image:
+location: Kathmandu
 footer_html: >-
-  <p>If you still insist on knowing more about gear, click&nbsp;<a
-  target="_blank" data-cms-editor-link-style="undefined"
+  <p>If you want to see more images of Nepal, click&nbsp;<a target="_blank"
+  data-cms-editor-link-style="undefined"
   href="https://www.pieaerts.com/gear/">here</a>&nbsp;to see what equipment I
   use.</p>
 ---
+
+Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the Hyatt Regency Kathmandu, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
+
+![](/uploads/2g2a2918.jpg)
+
+**Thamel&nbsp;**<br>Thamel is a maze of small streets, lined with restaurants, hotels, shops and tour agencies. Although it’s a busy area filled with tourists, the – still bustling - narrow alleys are what you are looking for. The car free streets (you won’t find these anywhere else in the traffic-jammed city) give you enough time to pause and walk around the winding streets. Although some of the light is blocked by the high buildings and narrow streets, rays of light coming through can make for a unique sight. &nbsp;Start at the Ason Tole morning market at 6:00AM to catch the busiest time and work your way through the narrow streets.
+
+![](/uploads/2g2a2833.jpg)
+
+**Durbar Square & around&nbsp;**<br>Durbar Square is the ‘old’ Kathmandu, and although some parts of the square were damaged during the 2015 earthquake, it is still one of the biggest attractions. The temples, palaces and shrines bustle with pilgrims, flower sellers, Sadhus and tourists. Spend some time walking around the square and then head towards the surrounding streets to get a more local feeling.
+
+![](/uploads/2g2a2780.jpg)
+
+**Boudhanath&nbsp;**<br>This area is the center of Buddhism in Nepal and an important place of pilgrimage and prayer for Buddhists from all over the world. The main draw being one of the biggest Buddhist stupas in the world, just a 5-minute walk from the gates of the Hyatt Regency, allowing for an early start as well as a quick drop in during sunset. The stupa is full of activity during the entire day, especially during sunrise (without the tourist crowds) and surrounded by monasteries making the entire area filled with monks of all ages. An urban street feel with a Buddhist touch. Kathmandu’s ‘Little Tibet’. Definitely my favourite pick.&nbsp;
+
+![](/uploads/2g2a2419.jpg)
