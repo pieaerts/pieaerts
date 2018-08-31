@@ -23,9 +23,14 @@ defaults:
       type: 'workshops'
     values:
       layout: 'workshop'
+  - scope:
+      path: ''
+      type: 'weddings'
+    values:
+      layout: 'work'
 
 permalink: /blog/:year/:month/:day/:title/
-url: http://quiet-herring.cloudvent.net
+url: https://www.pieaerts.com
 
 collections:
   destinations:
@@ -37,6 +42,9 @@ collections:
   workshops:
     output: true
     permalink: /workshop/:path/
+  weddings:
+    output: true
+    permalink: /weddings/:path/
 
 floats: 
   - left
