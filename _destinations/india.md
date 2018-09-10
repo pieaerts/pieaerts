@@ -2,7 +2,7 @@
 title: India
 subtitle: Kolkata to Kerala
 date: 2017-05-16 00:00:00
-image: /uploads/india/India 1661a.jpg
+image: /uploads/india/India 1850.jpg
 float: left
 images:
   - image: /uploads/india/India 1850.jpg
