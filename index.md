@@ -23,7 +23,7 @@ headers:
     description: Crossing lands of gold
     url: /destinations/iceland/
   - image: /uploads/HEADERS/IMG_5035.jpg
-    portrait_image: /uploads/HEADERS/IMG_4413.jpg
+    portrait_image: /uploads/HEADERS/2G2A9956.jpg
     title: INDONESIA
     description: Islands & highlands
     url: /destinations/indonesia/
