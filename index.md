@@ -17,10 +17,10 @@ headers:
     title: INDONESIA
     description: Islands & highlands
     url: /destinations/indonesia/
-  - image: /uploads/HEADERS/2G2A4637.jpg
-    portrait_image: /uploads/HEADERS/DSCF1691.jpg
-    title: NEPAL
-    description: The people that never lost hope
+  - image: /uploads/HEADERS/2G2A5434.jpg
+    portrait_image: /uploads/HEADERS/2G2A8347.jpg
+    title: MYANMAR
+    description: Crossing lands of gold
     url: /destinations/iceland/
   - image: /uploads/HEADERS/India 2357.jpg
     portrait_image: /uploads/HEADERS/Varanasi.jpg
