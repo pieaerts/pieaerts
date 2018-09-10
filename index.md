@@ -17,7 +17,7 @@ headers:
     title: INDONESIA
     description: Islands & highlands
     url: /destinations/indonesia/
-  - image: /uploads/HEADERS/DJI_0382-Pano.jpg
+  - image: /uploads/HEADERS/2G2A7132.jpg
     portrait_image: /uploads/HEADERS/2G2A8347.jpg
     title: MYANMAR
     description: Crossing lands of gold
