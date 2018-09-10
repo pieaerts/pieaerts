@@ -33,14 +33,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Cusco/IMG_6782.jpg
+  - image: /uploads/Cusco/IMG_5885.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Cusco/IMG_5885.jpg
+  - image: /uploads/Cusco/IMG_6782.jpg
     portrait: false
     wide: true
     title:
@@ -83,6 +83,20 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Cusco/IMG_6306.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Cusco/IMG_6232.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Cusco/IMG_6422.jpg
     portrait: false
     wide: true
     title:
