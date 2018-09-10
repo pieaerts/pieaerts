@@ -1,144 +1,88 @@
 ---
 title: Cusco
-subtitle: 24 hours at the Deira fish market
+subtitle: 24 hours above the tree line
 date: 2017-10-17 00:00:00
-image: /uploads/Dubai/0H3A8702.jpg
+image: /uploads/Cusco/IMG_5911.jpg
 float: left
 images:
-  - image: /uploads/Dubai/0H3A8702.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/Dubai/0H3A8834.jpg
+  - image: /uploads/Cusco/IMG_5911.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8715.jpg
+  - image: /uploads/Cusco/IMG_5958.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8753.jpg
+  - image: /uploads/Cusco/IMG_5966.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A9022.jpg
+  - image: /uploads/Cusco/IMG_5787.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8936.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8919.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8779.jpg
+  - image: /uploads/Cusco/IMG_6782.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8868.jpg
+  - image: /uploads/Cusco/IMG_5885.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8725.jpg
+  - image: /uploads/Cusco/IMG_5939.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8899.jpg
+  - image: /uploads/Cusco/IMG_5808.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8906.jpg
+  - image: /uploads/Cusco/IMG_6007.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A9007.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8951.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8944.jpg
+  - image: /uploads/Cusco/IMG_6297.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8708.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8749.jpg
-    portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8925.jpg
+  - image: /uploads/Cusco/IMG_6209.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Dubai/0H3A8867.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Dubai/0H3A8864.jpg
+  - image: /uploads/Cusco/IMG_6306.jpg
     portrait: false
     wide: true
     title:
@@ -147,3 +91,4 @@ images:
     show-text: false
 text-color: light
 ---
+
