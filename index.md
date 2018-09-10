@@ -23,7 +23,7 @@ headers:
     description: Crossing lands of gold
     url: /destinations/iceland/
   - image: /uploads/HEADERS/India 2357.jpg
-    portrait_image: /uploads/HEADERS/Varanasi.jpg
+    portrait_image: /uploads/HEADERS/0H3A8291aaa.jpg
     title: INDIA
     description: Kolkata to Kerala
     url: /destinations/india/
