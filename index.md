@@ -17,10 +17,10 @@ headers:
     title: INDONESIA
     description: Islands & highlands
     url: /destinations/indonesia/
-  - image: /uploads/HEADERS/0H3A0020.jpg
-    portrait_image: /uploads/HEADERS/0H3A9676.jpg
-    title: ICELAND
-    description: Land of fire and ice
+  - image: /uploads/HEADERS/2G2A4637.jpg
+    portrait_image: /uploads/HEADERS/DSCF1691.jpg
+    title: NEPAL
+    description: The people that never lost hope
     url: /destinations/iceland/
   - image: /uploads/HEADERS/India 2357.jpg
     portrait_image: /uploads/HEADERS/Varanasi.jpg
