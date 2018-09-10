@@ -12,11 +12,6 @@ headers:
     title: INDONESIA
     description: Islands & highlands
     url: /destinations/indonesia/
-  - image: /uploads/HEADERS/0H3A8285aabc.jpg
-    portrait_image: /uploads/HEADERS/0H3A9222.jpg
-    title: BOTSWANA
-    description: Walking with the bushmen
-    url: /destinations/botswana/
   - image: /uploads/HEADERS/2G2A7132a.jpg
     portrait_image: /uploads/HEADERS/2G2A8347.jpg
     title: MYANMAR
