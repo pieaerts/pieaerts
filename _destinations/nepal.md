@@ -2,7 +2,7 @@
 title: Nepal
 subtitle: The people that never lost hope
 date: 2017-05-21 00:00:00
-image: /uploads/Nepal/2G2A3665.jpg
+image: /uploads/Nepal/2G2A3345.jpg
 float: left
 images:
   - image: /uploads/Nepal/2G2A3345.jpg
