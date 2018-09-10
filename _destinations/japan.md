@@ -2,7 +2,7 @@
 title: Japan
 subtitle: Kimonos & skyscrapers
 date: 2017-05-19 00:00:00
-image: /Japan/0H3A8901bb.jpg
+image: /uploads/Japan_new/3.jpg
 float: left
 images:
   - image: /uploads/Japan_new/JAPAN_NEW1.jpg
