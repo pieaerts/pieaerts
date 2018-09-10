@@ -1,7 +1,7 @@
 ---
 title: Myanmar
 subtitle: Crossing lands of gold
-date: 2017-05-23 00:00:00
+date: 2017-05-22 00:00:00
 image: /uploads/Myanmar/2G2A7132.jpg
 float: left
 images:
