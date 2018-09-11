@@ -2,7 +2,6 @@
 title: How are you?
 ---
 
-
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
 
 <div>&nbsp;</div>
@@ -17,7 +16,7 @@ title: How are you?
 
 <div>One of the coolest things about taking photo&rsquo;s is that it puts you in a mental state of searching for beauty.&nbsp;</div>
 
-<div>A constant quest for pretty things.&nbsp;</div>
+<div>A constant quest for pretty things, like <a data-cms-editor-link-style="undefined" href="/weddings">weddings</a>.&nbsp;</div>
 
 <div>In doing so, I came across lots of different people, landscapes, tales and stories.</div>
 
