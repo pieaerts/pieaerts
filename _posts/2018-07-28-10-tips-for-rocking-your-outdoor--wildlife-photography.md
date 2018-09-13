@@ -11,7 +11,7 @@ footer_html: >-
 
 One of those questions I get asked most (apart from the non-stop gear talk) is what ‘photography tips’ I have for people. Therefore I thought it could be helpful to list a few of my favourites in my personal 'Top 10 for rocking your outdoor & wildlife photography skills'. At a later stage I’ll also run one for travel & portrait work.&nbsp;
 
-## Stop taking about gear
+## Stop talking about gear
 
 My number 1 advise for becoming a better photographer: Stop talking about gear. And start taking photos. No matter which camera you own, the truth is that sharper lenses and more megapixels don’t necessarily enhance your ability to tell a story or compose an image. Real improvement only exists through practice and learning from failure. Not through purchase.
 
