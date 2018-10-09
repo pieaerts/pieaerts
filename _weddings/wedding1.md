@@ -124,14 +124,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /0H3A6216.jpg
+  - image: /uploads/0H3A6223.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0H3A6223.jpg
+  - image: /uploads/Mathijs_Romee/0H3A6252.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
