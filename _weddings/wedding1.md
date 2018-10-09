@@ -463,4 +463,3 @@ images:
 text-color: light
 ---
 
-Lorem ipsum dolor sit amet…
