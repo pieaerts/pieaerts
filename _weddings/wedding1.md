@@ -124,6 +124,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /0H3A6216.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/0H3A6223.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
