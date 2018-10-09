@@ -90,15 +90,15 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Mathijs_Romee/0H3A6052.jpg
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
   - image:
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
