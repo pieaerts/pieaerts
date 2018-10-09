@@ -1,6 +1,6 @@
 ---
 title: Mathijs & Romee
-subtitle:
+subtitle: Loosdrechtse plassen
 date: 2017-05-19 00:00:00
 image: /uploads/Mathijs_Romee/079A5997.jpg
 float: left
