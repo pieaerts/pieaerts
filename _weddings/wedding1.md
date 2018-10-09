@@ -83,8 +83,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Mathijs_Romee/0H3A6095.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -104,7 +104,7 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Mathijs_Romee/0H3A6104.jpg
-    portrait: true
+    portrait: false
     wide: false
     title:
     subtitle:
