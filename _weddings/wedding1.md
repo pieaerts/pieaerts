@@ -187,13 +187,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Mathijs_Romee/0H3A6085.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Mathijs_Romee/0H3A6402.jpg
     portrait: false
     wide: true
@@ -237,8 +230,15 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Mathijs_Romee/0H3A7054.jpg
-    portrait: false
-    wide: false
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Mathijs_Romee/0H3A7019.jpg
+    portrait: true
+    wide: true
     title:
     subtitle:
     text-color:
@@ -246,13 +246,6 @@ images:
   - image: /uploads/Mathijs_Romee/079A5728.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Mathijs_Romee/0H3A7019.jpg
-    portrait: false
-    wide: false
     title:
     subtitle:
     text-color:
@@ -307,13 +300,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Mathijs_Romee/079A5850.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Mathijs_Romee/0H3A7304.jpg
     portrait: false
     wide: true
     title:
