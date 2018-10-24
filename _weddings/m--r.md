@@ -1,5 +1,5 @@
 ---
-title: M & R
+title: Mathijs & Romee
 subtitle: Loosdrechtse plassen
 date: 2017-05-19 00:00:00
 image: /uploads/M&R86.jpg
@@ -278,6 +278,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/M&R74.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R77.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/M&R39.jpg
     portrait: false
     wide: true
@@ -299,21 +313,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/M&R74.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/M&R77.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/M&R43.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R79.jpg
     portrait: false
     wide: true
     title:
@@ -334,7 +341,91 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/M&R79.jpg
+  - image: /uploads/M&R52.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R53.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R85.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R48.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R47.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R49.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R82.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R54.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R51.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R86.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R88.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R90.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R55.jpg
     portrait: false
     wide: true
     title:
