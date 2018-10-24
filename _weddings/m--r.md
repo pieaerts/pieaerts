@@ -48,36 +48,36 @@ images:
     text-color:
     show-text: false
   - image: /uploads/M&R8.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/M&R17.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/M&R2.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/M&R4.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/M&R13.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -97,14 +97,14 @@ images:
     text-color:
     show-text: false
   - image: /uploads/M&R15.jpg
-    portrait: true
-    wide: false
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/M&R12.jpg
-    portrait: false
+  - image: /uploads/M&R14.jpg
+    portrait: true
     wide: true
     title:
     subtitle:
@@ -153,6 +153,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/M&R25.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
