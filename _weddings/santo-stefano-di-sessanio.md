@@ -75,6 +75,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Santo_stefano/2G2A8520.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/Santo_stefano/2G2A8579.jpg
     portrait: false
     wide: true
@@ -103,14 +110,70 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A8520.jpg
+  - image: /uploads/Santo_stefano/2G2A7547.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Santo_stefano/2G2A7860.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7870.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7874.jpg
+    portrait: true
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7885.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7914.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7931.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A8006.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A8014.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A8036.jpg
     portrait: false
     wide: true
     title:
