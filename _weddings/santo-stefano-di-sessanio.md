@@ -125,15 +125,15 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Santo_stefano/2G2A7870.jpg
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
   - image: /uploads/Santo_stefano/2G2A7874.jpg
-    portrait: true
-    wide: true
+    portrait: false
+    wide: false
     title:
     subtitle:
     text-color:
