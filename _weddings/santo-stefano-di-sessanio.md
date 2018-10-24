@@ -287,21 +287,7 @@ images:
     show-text: false
   - image: /uploads/Santo_stefano/2G2A6881.jpg
     portrait: false
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Santo_stefano/DSCF2325.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Santo_stefano/DSCF2328.jpg
-    portrait: true
-    wide: false
+    wide: true
     title:
     subtitle:
     text-color:
