@@ -1,6 +1,6 @@
 ---
 title: Bart & Christine
-subtitle: Rotterdam
+subtitle: Kralingse Plas
 date: 2017-05-21 00:00:00
 image:
 float: left
