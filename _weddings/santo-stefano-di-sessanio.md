@@ -68,13 +68,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A7756.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Santo_stefano/2G2A8520.jpg
     portrait: false
     wide: true
@@ -111,6 +104,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/Santo_stefano/2G2A7547.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/2G2A7756.jpg
     portrait: false
     wide: true
     title:
