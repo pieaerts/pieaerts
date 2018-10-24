@@ -2,7 +2,7 @@
 title: Bart & Christine
 subtitle: Rotterdam
 date: 2017-05-21 00:00:00
-image: /uploads/M&R54.jpg
+image:
 float: left
 images:
   - image:
