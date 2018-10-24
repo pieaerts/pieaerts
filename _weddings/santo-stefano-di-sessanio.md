@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A8036.jpg
+  - image: /uploads/Santo_stefano/2G2A8036a.jpg
     portrait: false
     wide: true
     title:
@@ -236,7 +236,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/Santo_stefano/2G2A8139.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/DJI_0312.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/DJI_0417.jpg
     portrait: false
     wide: true
     title:
