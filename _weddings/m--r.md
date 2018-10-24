@@ -390,21 +390,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/M&R54.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/M&R51.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/M&R86.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R54.jpg
     portrait: false
     wide: true
     title:
