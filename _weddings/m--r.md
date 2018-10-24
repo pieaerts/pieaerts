@@ -1,13 +1,76 @@
 ---
 title: M & R
-subtitle: Memories of a simple life
+subtitle: Loosdrechtse plassen
 date: 2017-05-19 00:00:00
-image:
+image: /uploads/M&R86.jpg
 float: left
 images:
-  - image:
+  - image: /uploads/M&R26.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R5.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R7.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R16.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R9.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R6.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R8.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R2.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R4.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/M&R15.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
