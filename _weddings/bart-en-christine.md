@@ -1,5 +1,5 @@
 ---
-title: Bart & Christine
+title: Bart en Christine
 subtitle: Kralingse Plas
 date: 2017-05-21 00:00:00
 image:
