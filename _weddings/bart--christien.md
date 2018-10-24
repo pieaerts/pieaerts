@@ -1,6 +1,6 @@
 ---
-title: Bart & Christien
-subtitle: Loosdrechtse plassen
+title: Bart & Christine
+subtitle: Rotterdam
 date: 2017-05-21 00:00:00
 image: /uploads/M&R54.jpg
 float: left
@@ -427,3 +427,4 @@ images:
     show-text: false
 text-color: light
 ---
+
