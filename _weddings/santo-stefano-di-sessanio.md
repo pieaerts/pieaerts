@@ -180,6 +180,27 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/Santo_stefano/2G2A8139.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/DJI_0312.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/Santo_stefano/DJI_0417.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/Santo_stefano/DJI_0351.jpg
     portrait: false
     wide: true
@@ -236,27 +257,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A8139.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Santo_stefano/DJI_0312.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/Santo_stefano/DJI_0417.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/Santo_stefano/2G2A6442.jpg
     portrait: false
     wide: true
@@ -271,14 +271,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A6414.jpg
+  - image: /uploads/Santo_stefano/2G2A6429.jpg
     portrait: false
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/Santo_stefano/2G2A6429.jpg
+  - image: /uploads/Santo_stefano/2G2A6414.jpg
     portrait: false
     wide: false
     title:
