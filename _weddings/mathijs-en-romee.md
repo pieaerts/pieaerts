@@ -2,7 +2,7 @@
 title: Mathijs en Romee
 subtitle: Loosdrechtse plassen
 date: 2017-05-18 00:00:00
-image: /uploads/M&R54.jpg
+image: /uploads/M-R54.jpg
 float: left
 images:
   - image: /uploads/M&R26.jpg
