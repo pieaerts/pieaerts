@@ -397,7 +397,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/M&R54.jpg
+  - image: /uploads/M-R54.jpg
     portrait: false
     wide: true
     title:
