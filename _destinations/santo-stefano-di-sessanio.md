@@ -2,7 +2,7 @@
 title: Santo Stefano di Sessanio
 subtitle: Memories of a simple life
 date: 2017-05-19 00:00:00
-image: /uploads/Santo_stefano/DJI_0351.jpg
+image: /uploads/Santo_stefano/2G2A8207a.jpg
 float: left
 images:
   - image: /uploads/Santo_stefano/2G2A8207a.jpg
