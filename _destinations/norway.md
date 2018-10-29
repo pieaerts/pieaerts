@@ -1,6 +1,6 @@
 ---
-title: Norway
-subtitle: Winter in the Lofoten
+title: Lofoten
+subtitle: Winter above the Arctic circle
 date: 2017-05-17 00:00:00
 image: /uploads/norway/493A6022.jpg
 float: left
