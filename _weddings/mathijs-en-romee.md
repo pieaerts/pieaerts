@@ -1,5 +1,5 @@
 ---
-title: Mathijs en Romee
+title: Matthijs en Romee
 subtitle: Loosdrechtse plassen
 date: 2017-05-18 00:00:00
 image: /uploads/M-R54.jpg
@@ -428,3 +428,4 @@ images:
 text-color: light
 ---
 
+Lovely people, a relaxed vibe and a dreamlike setting right at the water is what made this wedding so much fun to shoot. It really doesn’t get any better than this. Thanks for the love Mathijs & Romee, this is your day, your story, your wedding!
