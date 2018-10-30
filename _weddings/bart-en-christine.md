@@ -1,5 +1,5 @@
 ---
-title: Corneel en Eveline
+title: Corneel & Eveline
 subtitle: Sibberhuuske
 date: 2017-05-21 00:00:00
 image: /uploads/0H3A4635.jpg
@@ -386,6 +386,6 @@ images:
 text-color: light
 ---
 
-Some people you meet in life connect so well together that I always get a bit excited. I belief there’s nothing more exciting than capturing that magic, their love for one another surrounded by great friends and family. Thanks Corneel and Eveline for the confidence in telling the story of the day of your life.&nbsp;
+Some people you meet in life connect so well together that I always get a bit excited. I belief there’s nothing more exciting than capturing that magic, their love for one another surrounded by great friends and family. Thanks Corneel and Eveline for the confidence in telling the story of the day of your life. 
 
 Wedding venue: Sibberhuuske
