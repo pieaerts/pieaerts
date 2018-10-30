@@ -145,6 +145,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/0H3A3253aa.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/0H3A3917.jpg
     portrait: false
     wide: true
@@ -152,7 +159,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0H3A3902.jpg
+  - image: /uploads/0H3A3902aa.jpg
     portrait: false
     wide: true
     title:
@@ -173,7 +180,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/0H3A4002.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/0H3A4025.jpg
     portrait: false
     wide: true
     title:
