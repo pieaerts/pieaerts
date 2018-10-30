@@ -16,13 +16,19 @@ title: How are you?
 
 <div>One of the coolest things about taking photo&rsquo;s is that it puts you in a mental state of searching for beauty.&nbsp;</div>
 
-<div>A constant quest for pretty things, like <a data-cms-editor-link-style="undefined" href="/weddings">weddings</a>.&nbsp;</div>
+<div>A constant quest for pretty things.</div>
 
 <div>In doing so, I came across lots of different people, landscapes, tales and stories.</div>
 
 <div>This website is a culmination of that.&nbsp;</div>
 
 <div>I hope you like it.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>PS. Did you know I shoot <a target="_blank" href="https://www.pieaerts.com/weddings">weddings</a> too?&nbsp;</div>
+
+<div>Click <a target="_blank" href="https://www.pieaerts.com/weddings">here</a> to see some recent weddings I shot and hit me up when you like me to capture yours!</div>
 
 <div>&nbsp;</div>
 
