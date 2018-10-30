@@ -386,3 +386,6 @@ images:
 text-color: light
 ---
 
+Some people you meet in life connect so well together that I always get a bit excited. I belief there’s nothing more exciting than capturing that magic, their love for one another surrounded by great friends and family. Thanks Corneel and Eveline for the confidence in telling the story of the day of your life.&nbsp;
+
+Wedding venue: Sibberhuuske
