@@ -28,7 +28,7 @@ title: How are you?
 
 <div>PS. Did you know I shoot <a target="_blank" href="https://www.pieaerts.com/weddings">weddings</a> too?&nbsp;</div>
 
-<div>Click <a target="_blank" href="https://www.pieaerts.com/weddings">here</a> to see some recent weddings I shot and hit me up when you like me to capture yours!</div>
+<div>Click <a target="_blank" href="https://www.pieaerts.com/weddings">here</a> to see some recent love stories I shot and hit me up when you like me to capture yours!</div>
 
 <div>&nbsp;</div>
 
