@@ -54,6 +54,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/0H3A3425.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/0H3A3352.jpg
     portrait: true
     wide: false
@@ -131,7 +138,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0H3A3253.jpg
+  - image: /uploads/0H3A3253a.jpg
     portrait: false
     wide: true
     title:
