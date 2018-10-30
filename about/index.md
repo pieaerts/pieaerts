@@ -40,4 +40,4 @@ title: How are you?
 
 <div>&nbsp;</div>
 
-![](/uploads/versions/img-8526-3-2---x556-0-2871-2655-2048-1894x---.jpg)
+![](/uploads/0h3a6324-copy-5aa.jpg)
