@@ -1,5 +1,5 @@
 ---
-title: Matthijs en Romee
+title: Matthijs & Romee
 subtitle: Loosdrechtse plassen
 date: 2017-05-18 00:00:00
 image: /uploads/0H3A6437a.jpg
