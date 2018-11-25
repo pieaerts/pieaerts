@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /BCwedding52.jpg
+  - image: /BCwedding36.jpg
     portrait: false
     wide: true
     title:
@@ -243,7 +243,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /BCwedding36.jpg
+  - image: /BCwedding37.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding34.jpg
     portrait: false
     wide: true
     title:
@@ -251,6 +258,48 @@ images:
     text-color:
     show-text: false
   - image: /BCwedding35.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding38.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding33.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding39.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding40.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding41.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding42.jpg
     portrait: false
     wide: true
     title:
