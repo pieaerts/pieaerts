@@ -5,7 +5,7 @@ date: 2016-05-21 00:00:00
 image: /BCwedding15.jpg
 float: left
 images:
-  - image: /uploads/55B2485.jpg
+  - image: /uploads/55B2485a.jpg
     portrait: false
     wide: true
     title:
