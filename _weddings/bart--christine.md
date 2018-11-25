@@ -47,14 +47,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /BCwedding4.jpg
+  - image: /uploads/0H3A9679.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0H3A9679.jpg
+  - image: /BCwedding4.jpg
     portrait: false
     wide: true
     title:
@@ -309,3 +309,10 @@ images:
 text-color: light
 ---
 
+1 day, 3 different locations, sometimes weddings can be hectic. But love is what stitches all those little pieces together. Especially with these two! So much enthusiasm, dancing, eating & laughing. Thanks Bart & Christine for allowing me to be part of it. I had an amazing time. This story is for you!&nbsp;
+
+Wedding venue: Kralingse plas
+
+&nbsp;
+
+&nbsp;
