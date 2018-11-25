@@ -117,6 +117,97 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /BCwedding16.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding17.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding47.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding22.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding19.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding18.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding21.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding51.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding52.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding50.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding49.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding53.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding54.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
