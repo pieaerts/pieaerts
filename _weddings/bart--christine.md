@@ -89,7 +89,35 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /BCwedding12.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding14.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /BCwedding11.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding15.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /BCwedding1.jpg
     portrait: false
     wide: true
     title:
