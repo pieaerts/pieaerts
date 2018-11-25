@@ -54,13 +54,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /BCwedding45.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/0H3A9679.jpg
     portrait: false
     wide: true
