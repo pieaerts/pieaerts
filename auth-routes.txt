@@ -1,3 +1,2 @@
 /weddings/mathijs-en-romee/
 /weddings/mathijs-en-romee/*
-/uploads/M&R*.*
