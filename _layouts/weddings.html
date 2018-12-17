@@ -19,7 +19,7 @@
         <div class="row grid"> 
     		{% assign sitework = site.weddings | sort: 'date' | reverse %}
             {% for work in sitework %}
-            {% unless page.url == '/weddings/' and {{ work.title == 'Matthijs & Romee' %}
+            {% unless page.url == '/weddings/' and work.title == 'Matthijs & Romee' %}
                 <div class="col-md-4 col-sm-6">
                 <div class="item"><a href="{{ work.url }}">
                     <div class="workthumb" style="background: url(//images.weserv.nl/?url={{ site.url | replace: 'http://', '' | replace: 'https://', '' }}{{ work.image | replace: ' ','%20' }}&w=800&q=50) center center no-repeat; background-size: cover;">
