@@ -1,2 +1,4 @@
 /weddings/mathijs-en-romee/
 /weddings/mathijs-en-romee/*
+/weddings/2
+/weddings/2/
