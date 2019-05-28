@@ -10,7 +10,7 @@ introduction_html: >-
   second full-day masterclass in visual story-telling &amp; portrait photography
   on Saturday July 6, 2019.&nbsp;</p>
 gallery_url: /uploads/aurora/pics
-subscribe_url: 'https://forms.gle/pBLjQwxiL2PTgzGq9'
+subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
 active: true
 ---
