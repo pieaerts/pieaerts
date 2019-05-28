@@ -5,10 +5,10 @@ subtitle:
 introduction_html: >-
   <p>Do you feel like you need a new boost in your photography?&nbsp;</p><p>Do
   you want to creatively push yourself?&nbsp;</p><p>Or do you want to broaden
-  your knowledge about visual story-telling?&nbsp;</p><p>Than this is your
+  your knowledge about visual story-telling?&nbsp;</p><h6>Than this is your
   chance! After a very successful first edition, I&rsquo;m hosting a second
   full-day masterclass Visual Story-telling &amp; Portrait photography on
-  Saturday July 6, 2019.&nbsp;</p>
+  Saturday July 6, 2019.&nbsp;</h6>
 gallery_url: /uploads/aurora/pics
 subscribe_url: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdYKgx8LE0spCn91beGIVJmuu3Sieie3fiM-If-w0mk9PiEMQ/viewform
