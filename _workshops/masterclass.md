@@ -1,10 +1,25 @@
 ---
-title: Aurora 2018 – Lofoten photo workshop
+title: Masterclass story-telling & portrait photography
 workshop_date: 2018-02-17 00:00:00
-subtitle: An 8-day Lofoten photo workshop chasing winter lights in the most beautiful islands of Norway, with Johan Lolos & Pie Aerts. February 17-24th, 2018. 
-introduction_html: <p>Imagine.<br />Rugged, icy peaks rising from the Arctic sea.<br />Waves washing over snow-covered beaches.<br />Turquoise waters dotted with traditional fishing villages. <br />And skies full of Auroras. <br />All in a place where mountains glow pink from dawn till dusk. <br />Or where dark moody clouds announce the sudden approach of an Arctic storm.<br />The drama. The unpredictability. <br />The light. The fierce cold. <br />The feeling of being alive. <br />Does that sound like the trip of you dreams? Then you’ve come to the right place. <br />This is AURORA.<br />An 8-day photography adventure workshop lead by Johan Lolos and Pie Aerts. <br />Arctic, adventurous, affordable, active.<br />A rare chance to explore the world famous Norwegian Lofoten archipelago alongside two outdoor & adventure photographers.</p>
+subtitle: >-
+  An 8-day Lofoten photo workshop chasing winter lights in the most beautiful
+  islands of Norway, with Johan Lolos & Pie Aerts. February 17-24th, 2018.
+introduction_html: >-
+  <p>Imagine.<br />Rugged, icy peaks rising from the Arctic sea.<br />Waves
+  washing over snow-covered beaches.<br />Turquoise waters dotted with
+  traditional fishing villages.<br />And skies full of Auroras.<br />All in a
+  place where mountains glow pink from dawn till dusk.<br />Or where dark moody
+  clouds announce the sudden approach of an Arctic storm.<br />The drama. The
+  unpredictability.<br />The light. The fierce cold.<br />The feeling of being
+  alive.<br />Does that sound like the trip of you dreams? Then you&rsquo;ve
+  come to the right place.<br />This is AURORA.<br />An 8-day photography
+  adventure workshop lead by Johan Lolos and Pie Aerts.<br />Arctic,
+  adventurous, affordable, active.<br />A rare chance to explore the world
+  famous Norwegian Lofoten archipelago alongside two outdoor &amp; adventure
+  photographers.</p>
 gallery_url: /uploads/aurora/pics
-subscribe_url: https://docs.google.com/forms/d/e/1FAIpQLSdYKgx8LE0spCn91beGIVJmuu3Sieie3fiM-If-w0mk9PiEMQ/viewform
+subscribe_url: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSdYKgx8LE0spCn91beGIVJmuu3Sieie3fiM-If-w0mk9PiEMQ/viewform
 subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
@@ -23,7 +38,7 @@ February 17th – 24th February (8 days, 7 nights)
 
 ### Group Size
 
-Maximum of 8 participants. 
+Maximum of 8 participants.
 
 ### Application Period
 
@@ -35,7 +50,7 @@ Hattvika Lodge (note of 9.1/10 on Booking.com)
 
 ### Room Occupancy
 
-All rooms will be shared double rooms with separated single beds in a luxury appartment (read more here under Sørbua section). The participants will be paired up according to gender (unless preferred otherwise). Single rooms are available at extra cost. 
+All rooms will be shared double rooms with separated single beds in a luxury appartment (read more here under S&oslash;rbua section). The participants will be paired up according to gender (unless preferred otherwise). Single rooms are available at extra cost.
 
 ### Price
 
@@ -55,7 +70,7 @@ Google them. We guess that says enough. Adding ‘winter’ to your search term 
 
 ### How can I join?
 
-AURORA will be an 8-day workshop accommodating 8 adventure seekers. We decided to keep the group size small to allow optimal interaction between the participants and both the instructors. Furthermore, we’re attempting to attract a different kind of traveler than you might expect. Likeminded spirits that can appreciate the same thrill of adventure as we do. Dealing with the unexpected, the unknown, stepping outside of your comfort zone, diving straight into the experience. If this sounds like your definition of adventure, just as it is for us, apply now! The reason why we ask you to apply is to ensure the entire group will work well together and to encourage mutual learning. 
+AURORA will be an 8-day workshop accommodating 8 adventure seekers. We decided to keep the group size small to allow optimal interaction between the participants and both the instructors. Furthermore, we’re attempting to attract a different kind of traveler than you might expect. Likeminded spirits that can appreciate the same thrill of adventure as we do. Dealing with the unexpected, the unknown, stepping outside of your comfort zone, diving straight into the experience. If this sounds like your definition of adventure, just as it is for us, apply now\! The reason why we ask you to apply is to ensure the entire group will work well together and to encourage mutual learning.
 
 ### Is it open to everyone?
 
@@ -63,55 +78,55 @@ Absolutely. Whether you’re starting out with photography or you’re an advanc
 
 ### What’s the itinerary?
 
-The weather above the Arctic circle and especially in this archipelago, is more indecisive than you when ordering pizza. Ask the locals for an actual update and they’ll tell you to look out of the window. This means, we go with the flow. But don’t worry. We will definitely be hitting some of those Instafamous spots like the fishing village of Reine, the Caribbean-like beach of Kvalvika and world famous Rorbu, the little red cabins. However, oftentimes in adventure photography, the best decisions are those that come spontaneously. So there are no predefined plans that will rush us. No daily routines that affect our shooting schedules. And there are definitely no souvenir stores we need to visit. It’s all about photography. And about having fun. You won’t get bored. Trust us. Though after a full day in the field, we will always return to our cozy cabins at Hattvika lodge to use the down time to review each other’s photos and work on your editing skills applying unique post-processing methods in a beautiful conference room with projector. And when the Aurora lets us down, we might squeeze in a little sauna session too. Sigh. 
+The weather above the Arctic circle and especially in this archipelago, is more indecisive than you when ordering pizza. Ask the locals for an actual update and they’ll tell you to look out of the window. This means, we go with the flow. But don’t worry. We will definitely be hitting some of those Instafamous spots like the fishing village of Reine, the Caribbean-like beach of Kvalvika and world famous Rorbu, the little red cabins. However, oftentimes in adventure photography, the best decisions are those that come spontaneously. So there are no predefined plans that will rush us. No daily routines that affect our shooting schedules. And there are definitely no souvenir stores we need to visit. It’s all about photography. And about having fun. You won’t get bored. Trust us. Though after a full day in the field, we will always return to our cozy cabins at Hattvika lodge to use the down time to review each other’s photos and work on your editing skills applying unique post-processing methods in a beautiful conference room with projector. And when the Aurora lets us down, we might squeeze in a little sauna session too. Sigh.
 
 ### Why join you?
 
-Although, we might not be known as the most well-experienced Arctic guides, we both made several trips to the Archipelago and know our bearings. In fact, of all the places of the world Johan visited in his 4 years as a professional travel photographer, the Lofoten are his favorite, hands down. On the contrary, we ARE known for going headfirst into every trip and will try to convey some of that energy, dedication and knowledge to your experience. Besides that, we both do have experience running workshops with similar group sizes. Therefore, we can guarantee taking you to a wide variety of jaw-dropping locations for sunrise, sunset and nocturnal auroras. Once again, don’t worry. 
+Although, we might not be known as the most well-experienced Arctic guides, we both made several trips to the Archipelago and know our bearings. In fact, of all the places of the world Johan visited in his 4 years as a professional travel photographer, the Lofoten are his favorite, hands down. On the contrary, we ARE known for going headfirst into every trip and will try to convey some of that energy, dedication and knowledge to your experience. Besides that, we both do have experience running workshops with similar group sizes. Therefore, we can guarantee taking you to a wide variety of jaw-dropping locations for sunrise, sunset and nocturnal auroras. Once again, don’t worry.
 
 ### Will it be cold?
 
-Well, what’s cold? Due to the Gulf Stream, the Lofoten are missing out on the harshest temperatures. This means you can expect the thermometer to stay above -5°C during most of the days. Nights won’t drop below -20°C. That sounds freaking cold but comparing it to -45°C up North in Tromso, makes this place feel like a tropical paradise. Just keep in mind that usually, the colder it gets, the clearer the sky. Which means, lots of astrophotography and Northern Lights opportunities!
+Well, what’s cold? Due to the Gulf Stream, the Lofoten are missing out on the harshest temperatures. This means you can expect the thermometer to stay above -5&deg;C during most of the days. Nights won’t drop below -20&deg;C. That sounds freaking cold but comparing it to -45&deg;C up North in Tromso, makes this place feel like a tropical paradise. Just keep in mind that usually, the colder it gets, the clearer the sky. Which means, lots of astrophotography and Northern Lights opportunities\!
 
 ### What’s included?
 
-- Transfers Leknes airport – Hattvika lodge on day 1 and day 8 of the workshop
-- Transportation all around the Lofoten in 2 brand new Toyota RAV4’s
-- Accommodation at Hattvika Lodge for 7 nights
-- Hands-on photography lessons in the field with 2 professional instructors
-- Workflow & editing courses 
-- Social media strategy, how to make a living out of your photography
+* Transfers Leknes airport – Hattvika lodge on day 1 and day 8 of the workshop
+* Transportation all around the Lofoten in 2 brand new Toyota RAV4’s
+* Accommodation at Hattvika Lodge for 7 nights
+* Hands-on photography lessons in the field with 2 professional instructors
+* Workflow & editing courses
+* Social media strategy, how to make a living out of your photography
 
 ### What’s not included?
 
-- Airfare to/from Norway
-- Meals, snacks and drinks
-- Travel insurance
-- Visa
+* Airfare to/from Norway
+* Meals, snacks and drinks
+* Travel insurance
+* Visa
 
 ### What to bring?
 
-We will be staying in a cosy and warm lodge that treats us with decent WiFi. During the workshop, we will move in 2 new Toyota RAV4’s, so you won’t be cold in the car. However, dressing appropriately for Arctic conditions is important. 
+We will be staying in a cosy and warm lodge that treats us with decent WiFi. During the workshop, we will move in 2 new Toyota RAV4’s, so you won’t be cold in the car. However, dressing appropriately for Arctic conditions is important.
 
 Wear:
 
-- Comfortable clothing with several layers (dress like an onion, layer by layer). If you’re getting cold, put on another layer. If you’re getting warm, take one off.
-- Waterproof pants and jacket (preferably GoreTex)
-- Warm jacket (the humidity in the islands is quite high, so better take a synthetic filling rather than down filling)
-- Waterproof boots
-- Wellington boots
-- Warm gloves + warm beanie
-- Casual clothing for the lodge
+* Comfortable clothing with several layers (dress like an onion, layer by layer). If you’re getting cold, put on another layer. If you’re getting warm, take one off.
+* Waterproof pants and jacket (preferably GoreTex)
+* Warm jacket (the humidity in the islands is quite high, so better take a synthetic filling rather than down filling)
+* Waterproof boots
+* Wellington boots
+* Warm gloves + warm beanie
+* Casual clothing for the lodge
 
 Gear:
 
-- Camera equipment (DSLR or mirrorless with manual control of shutter speed, aperture and ISO + liveview)
-- Wide angle lens for landscapes (16-35mm f/4 full frame) ; ultrawide angle for astro and northern lights (anything ranging from 14mm – 24mm full frame) ; standard zoom (24-70mm f2.8). Potentially a tele-zoom (200mm +) if you have one.
-- Headlamp, ideally that charges with USB
-- Sturdy tripod for the Arctic winds
-- Laptop for editing with Adobe Lightroom CC installed (at least the trial version)
-- Chargers. Enough memory cards
-- Rain covers
+* Camera equipment (DSLR or mirrorless with manual control of shutter speed, aperture and ISO + liveview)
+* Wide angle lens for landscapes (16-35mm f/4 full frame) ; ultrawide angle for astro and northern lights (anything ranging from 14mm – 24mm full frame) ; standard zoom (24-70mm f2.8). Potentially a tele-zoom (200mm +) if you have one.
+* Headlamp, ideally that charges with USB
+* Sturdy tripod for the Arctic winds
+* Laptop for editing with Adobe Lightroom CC installed (at least the trial version)
+* Chargers. Enough memory cards
+* Rain covers
 
 ### Who we are
 
@@ -119,7 +134,7 @@ Gear:
 
 Pie Aerts
 
-Pie Aerts: Contrary to popular belief my name has nothing to do with apples. I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. When I’m not on the road, you most likely find me in Amsterdam, living life together with Jessica. One of the coolest things about taking photos is that it puts you in a mental state of searching for beauty. A constant quest for pretty things. I guess it’s that visual pursuit that triggers me most. Conveying my enthusiasm, energy and knowledge of image making is one of the best things in the world. During the last 12 years I’ve travelled extensively, spending most of my time in Asia. However, when visiting the Lofoten for the first time back in 2012, I instantly became a frequent flyer on various Arctic destinations. Can’t wait to share my passion for photography and post-processing with you on location. 
+Pie Aerts: Contrary to popular belief my name has nothing to do with apples. I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. When I’m not on the road, you most likely find me in Amsterdam, living life together with Jessica. One of the coolest things about taking photos is that it puts you in a mental state of searching for beauty. A constant quest for pretty things. I guess it’s that visual pursuit that triggers me most. Conveying my enthusiasm, energy and knowledge of image making is one of the best things in the world. During the last 12 years I’ve travelled extensively, spending most of my time in Asia. However, when visiting the Lofoten for the first time back in 2012, I instantly became a frequent flyer on various Arctic destinations. Can’t wait to share my passion for photography and post-processing with you on location.
 
 ![](/uploads/aurora/Autoportrait-300x300.jpg)
 
@@ -155,10 +170,10 @@ While most of our shooting locations will be accessible within 10 minutes of wal
 
 We ask a 50% registration deposit (1,550€ or 1,425€ if applying before Dec. 4th), and the payment in full 45 days prior to the workshop starting date (January 3rd, 2018 at the latest). If you cancel and the workshop can be filled anyway after your cancellation, we will refund you the full amount you have paid minus a 300€ service charge. If you cancel and the workshop does not fill, then you will be refunded according to the following schedule:
 
-- Cancellation before December 20th, 2017: full refund minus 300€ fee.
-- Cancellation before January 1st, 2018: 75% refund
-- Cancellation before January 15th, 2018: 50% refund
-- Cancellation after January 15th, 2018: no refund
+* Cancellation before December 20th, 2017: full refund minus 300€ fee.
+* Cancellation before January 1st, 2018: 75% refund
+* Cancellation before January 15th, 2018: 50% refund
+* Cancellation after January 15th, 2018: no refund
 
 ### Terms and Conditions
 
