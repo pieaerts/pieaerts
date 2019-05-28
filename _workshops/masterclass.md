@@ -1,7 +1,7 @@
 ---
-title: BECAUSE PEOPLE MATTER | the workshop
+title: BECAUSE PEOPLE MATTER | the masterclass
 workshop_date: 2018-07-06 00:00:00
-subtitle: Story-telling & portrait photography workshop
+subtitle: Story-telling & portrait photography
 introduction_html: >-
   <p>Do you feel like you need a new boost in your photography?&nbsp;</p><p>Do
   you want to creatively push yourself?&nbsp;</p><p>Or do you want to broaden
@@ -16,11 +16,9 @@ subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
 
-# ![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}
+# **![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}**
 
 # &nbsp;
-
-Photo: Pie Aerts
 
 ### Why?
 
