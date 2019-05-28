@@ -15,7 +15,7 @@ subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
 active: true
 ---
 
-# **![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}**
+# ![](/uploads/2g2a4587a-1.jpg){: width="1600" height="1143"}
 
 # &nbsp;
 
