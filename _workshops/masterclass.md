@@ -43,7 +43,7 @@ The program for the day is as following:
 
 17\.30 - 20.00 Practise what you preach on the streets of Amsterdam
 
-20\.00 - 21.00 Evaluation of images & drinks
+20\.00 - 21.00 Evaluation of images while having drinks
 
 ### Who?
 
