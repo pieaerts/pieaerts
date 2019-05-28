@@ -45,6 +45,8 @@ The program for the day is as following:
 
 20\.00 - 21.00 Evaluation of images while having drinks
 
+The reason why we start at 14.00 and finish late, is because we want to hit the streets with beautiful soft lightning conditions.&nbsp;
+
 ### Who?
 
 This masterclass offers space for 15 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
