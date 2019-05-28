@@ -69,6 +69,8 @@ In the past few years, Dutch photographer Pie Aerts has traveled to some of the 
 
 ![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
 
+&nbsp;
+
 ![](/uploads/2g2a3630-1.jpg){: width="1600" height="1067"}
 
 &nbsp;
