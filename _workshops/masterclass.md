@@ -3,8 +3,8 @@ title: BECAUSE PEOPLE MATTER | the masterclass
 workshop_date: 2018-07-06 00:00:00
 subtitle:
 introduction_html: >-
-  <p>Do you want to push yourself?&nbsp;</p><p>Do you feel like you need a new
-  boost in your photography?&nbsp;</p><p>Or do you want to broaden your
+  <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
+  new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
   knowledge about visual story-telling?&nbsp;</p><p>Than this is your
   chance!</p><p>After a very successful first edition, I&rsquo;m hosting a
   second full-day masterclass in visual story-telling &amp; portrait photography
