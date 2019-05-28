@@ -41,7 +41,7 @@ The program for the day is as following:
 
 16\.30 - 17.30 Early dinner
 
-17\.30 - 20.00 Practise what you preach on the streets of Amsterdam
+17\.30 - 20.00 Shooting on the streets of Amsterdam
 
 20\.00 - 21.00 Evaluation of images while having drinks
 
