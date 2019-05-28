@@ -16,7 +16,7 @@ subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
 
-![](/uploads/2g2a4587a.jpg){: width="1600" height="1143"}
+![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}
 
 &nbsp;
 
