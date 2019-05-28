@@ -10,8 +10,7 @@ introduction_html: >-
   full-day masterclass Visual Story-telling &amp; Portrait photography on
   Saturday July 6, 2019.&nbsp;</p>
 gallery_url: /uploads/aurora/pics
-subscribe_url: >-
-  https://docs.google.com/forms/d/e/1FAIpQLSfm6svtHnX4PA4-Jec_Pnf248ds_VcfVK1SsgPj5YQncwrcVA/viewform?usp=sf_link
+subscribe_url: 'https://forms.gle/pBLjQwxiL2PTgzGq9'
 subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
