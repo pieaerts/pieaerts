@@ -1,7 +1,7 @@
 ---
-title: Masterclass story-telling & portrait photography
+title: BECAUSE PEOPLE MATTER
 workshop_date: 2018-07-06 00:00:00
-subtitle:
+subtitle: Masterclass story-telling & portrait photography
 introduction_html: >-
   <p>Do you feel like you need a new boost in your photography?&nbsp;</p><p>Do
   you want to creatively push yourself?&nbsp;</p><p>Or do you want to broaden
