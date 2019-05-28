@@ -16,7 +16,7 @@ subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
 
-![](/uploads/aurora/pics/JO1_2504.jpg)
+![](/uploads/2g2a4587a.jpg){: width="1600" height="1143"}
 
 &nbsp;
 
@@ -62,11 +62,11 @@ If you cancel and the masterclass can be filled anyway after your cancellation, 
 * Cancellation before July 1, 2018: 50% refund
 * Cancellation after July 1, 2018: no refund
 
-![](/uploads/aurora/pics/JO2_3588-1.jpg)
+![](/uploads/2g2a3630.jpg){: width="1600" height="1067"}
 
-![](/uploads/aurora/pics/Noorwegen-1820-1.jpg)
+![](/uploads/2g2a9720.jpg){: width="1600" height="1067"}
 
-&nbsp;
+![](/uploads/2g2a5941aaaa.jpg){: width="1600" height="1067"}
 
 &nbsp;
 
