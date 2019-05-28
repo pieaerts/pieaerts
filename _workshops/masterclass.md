@@ -33,9 +33,9 @@ Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located o
 
 The program for the day is as following:
 
-13\.15 - 13.30 Walk-in
+13\.30 - 14.00 Walk-in
 
-13\.30 - 16.00 Presentation Pie&nbsp;
+14\.00 - 16.30 Presentation Pie&nbsp;
 
 16\.30 - 17.30 Dinner
 
@@ -71,6 +71,12 @@ In the past few years, Dutch photographer Pie Aerts has traveled to some of the 
 
 &nbsp;
 
-![](/uploads/2g2a3630-1.jpg){: width="1600" height="1067"}
+![](/uploads/2g2a9720-1.jpg){: width="1600" height="1067"}
+
+&nbsp;
+
+![](/uploads/2g2a0960a-2aaaa-1.jpg){: width="1600" height="1067"}
+
+&nbsp;
 
 &nbsp;
