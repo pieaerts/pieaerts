@@ -16,9 +16,11 @@ subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
 active: true
 ---
 
-![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}
+# ![](/uploads/2g2a0960a-2aaaa.jpg){: width="1600" height="1067"}
 
-&nbsp;
+# &nbsp;
+
+Photo: Pie Aerts
 
 ### Why?
 
