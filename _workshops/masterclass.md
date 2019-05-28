@@ -11,7 +11,7 @@ introduction_html: >-
   Saturday July 6, 2019.&nbsp;</p>
 gallery_url: /uploads/aurora/pics
 subscribe_url: 'https://forms.gle/pBLjQwxiL2PTgzGq9'
-subscribe_text: CLICK HERE TO SUBMIT YOUR APPLICATION TO THE WORKSHOP
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
 active: true
 ---
 
