@@ -43,7 +43,7 @@ The program for the day is as following:
 
 1730-2000 Individual assignment&nbsp;
 
-2000-2100 Evaluation of images
+2000-2100 Evaluation of images & drinks
 
 ### Who?
 
@@ -61,12 +61,8 @@ If you cancel and the masterclass can be filled anyway after your cancellation, 
 * Cancellation before July 1, 2018: 50% refund
 * Cancellation after July 1, 2018: no refund
 
-![](/uploads/2g2a3630.jpg){: width="1600" height="1067"}
+![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
 
-![](/uploads/2g2a9720.jpg){: width="1600" height="1067"}
-
-![](/uploads/2g2a5941aaaa.jpg){: width="1600" height="1067"}
-
-&nbsp;
+![](/uploads/2g2a3630-1.jpg){: width="1600" height="1067"}
 
 &nbsp;
