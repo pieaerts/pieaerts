@@ -71,14 +71,18 @@ Come join me on July 6, 2019, talking travel, life, photography and many other t
 
 In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
 
-![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
+### Testimonials&nbsp;
 
-&nbsp;
+**Daniel (South Africa)** - I consider Pie’s masterclass as some of the best money I have ever spent. What I loved was that Pie wasn’t there to teach the technical elements of photography (although he very generously shared some fantastic tips) but more he spoke about connection. How he uses photography to connect to the world, to himself and to his purpose in life. Which was incredibly refreshing. I found that because of Pie’s ability to speak about what photography was to him it opened space for the rest of us to do the same. This wasn’t as much a photography masterclass as much as it was a masterclass on photography as a way of truly living life. If you’re a person that finds that being behind your lens is a gateway to connecting to and representing the world then this is the masterclass for you. 10/10 would recommend.
+
+**Sander (Netherlands)** - It was very nice to finally meet Pie in person after years of following his work. This masterclass was not just about photography. It was about the relation between a story and a photo. If you follow Pie's work, you can tell he can capture these two things simultaneously in one beautiful shot. Pie shares his vision, his wisdom, his true opinion and most of all his joy. At the end of the day I left Amsterdam with a smile from ear to ear and I fell in love with photography even more than before.
+
+**Colette (Netherlands)** - I was really excited when I saw that Pie hosted a masterclass\! I didn’t really know what to expect, But I was blown away by the amazing insights he offered into real story-telling. His passion & creativity are beautiful to witness. Can’t wait for the next one.
+
+**Job (Netherlands)** - Joining Pie’s masterclass was a great decision. In his masterclass Pie shares his philosophy about photography and life and this will definitely help you improve your own photography. The masterclass is also very practical, so you’ll have time to go out and shoot for yourself and receive honest feedback on your photos.
+
+![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
 
 ![](/uploads/2g2a9720-1.jpg){: width="1600" height="1067"}
 
-&nbsp;
-
 ![](/uploads/2g2a0960a-2aaaa-1.jpg){: width="1600" height="1067"}
-
-&nbsp;
