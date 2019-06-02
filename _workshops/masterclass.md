@@ -31,7 +31,7 @@ A full day of inspiration in the realm of travel & street photography focusing o
 
 Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located only 5 minutes away from Leidse Square, right in the middle of the city.
 
-\`Check it out here: https://www.bloomroom.nl&nbsp;
+\`Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
 
 The program for the day is as following:
 
