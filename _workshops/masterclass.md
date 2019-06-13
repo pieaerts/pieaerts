@@ -1,9 +1,9 @@
 ---
-title: SOLD OUT! BECAUSE PEOPLE MATTER | the masterclass
+title: FULLY BOOKED!! BECAUSE PEOPLE MATTER | the masterclass
 workshop_date: 2018-07-06 00:00:00
 subtitle:
 introduction_html: >-
-  <p>THIS MASTERCLASS IS SOLD OUT!</p><p>Do you want to push yourself
+  <p>THIS MASTERCLASS IS FULLY BOOKED!</p><p>Do you want to push yourself
   creatively?</p><p>Do you feel like you need a new boost in your
   photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
   story-telling?&nbsp;</p><p>Than this is your chance!</p><p>After a very
