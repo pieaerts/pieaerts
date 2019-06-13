@@ -1,14 +1,15 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass
+title: SOLD OUT! BECAUSE PEOPLE MATTER | the masterclass
 workshop_date: 2018-07-06 00:00:00
 subtitle:
 introduction_html: >-
-  <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
-  new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
-  knowledge about visual story-telling?&nbsp;</p><p>Than this is your
-  chance!</p><p>After a very successful first edition, I&rsquo;m hosting a
-  second full-day masterclass in visual story-telling &amp; portrait photography
-  on Saturday July 6, 2019.&nbsp;</p>
+  <p>THIS MASTERCLASS IS SOLD OUT!</p><p>Do you want to push yourself
+  creatively?</p><p>Do you feel like you need a new boost in your
+  photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
+  story-telling?&nbsp;</p><p>Than this is your chance!</p><p>After a very
+  successful first edition, I&rsquo;m hosting a second full-day masterclass in
+  visual story-telling &amp; portrait photography on Saturday July 6,
+  2019.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
