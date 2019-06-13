@@ -1,22 +1,22 @@
 ---
-title: AURORA – Lofoten photography workshop
+title: FULLY BOOKED! AURORA – Lofoten photography workshop
 workshop_date: 2018-02-17 00:00:00
 subtitle: >-
   An 8-day Lofoten photo workshop chasing winter lights in the most beautiful
   islands of Norway, with Johan Lolos & Pie Aerts. February 17-24th, 2018.
 introduction_html: >-
-  <p>Imagine.<br />Rugged, icy peaks rising from the Arctic sea.<br />Waves
-  washing over snow-covered beaches.<br />Turquoise waters dotted with
-  traditional fishing villages.<br />And skies full of Auroras.<br />All in a
-  place where mountains glow pink from dawn till dusk.<br />Or where dark moody
-  clouds announce the sudden approach of an Arctic storm.<br />The drama. The
-  unpredictability.<br />The light. The fierce cold.<br />The feeling of being
-  alive.<br />Does that sound like the trip of you dreams? Then you&rsquo;ve
-  come to the right place.<br />This is AURORA.<br />An 8-day photography
-  adventure workshop lead by Johan Lolos and Pie Aerts.<br />Arctic,
-  adventurous, affordable, active.<br />A rare chance to explore the world
-  famous Norwegian Lofoten archipelago alongside two outdoor &amp; adventure
-  photographers.</p>
+  <p>THIS WORKSHOP IS FULLY BOOKED!</p><p>Imagine.<br />Rugged, icy peaks rising
+  from the Arctic sea.<br />Waves washing over snow-covered beaches.<br
+  />Turquoise waters dotted with traditional fishing villages.<br />And skies
+  full of Auroras.<br />All in a place where mountains glow pink from dawn till
+  dusk.<br />Or where dark moody clouds announce the sudden approach of an
+  Arctic storm.<br />The drama. The unpredictability.<br />The light. The fierce
+  cold.<br />The feeling of being alive.<br />Does that sound like the trip of
+  you dreams? Then you&rsquo;ve come to the right place.<br />This is AURORA.<br
+  />An 8-day photography adventure workshop lead by Johan Lolos and Pie
+  Aerts.<br />Arctic, adventurous, affordable, active.<br />A rare chance to
+  explore the world famous Norwegian Lofoten archipelago alongside two outdoor
+  &amp; adventure photographers.</p>
 gallery_url: /uploads/aurora/pics
 subscribe_url: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdYKgx8LE0spCn91beGIVJmuu3Sieie3fiM-If-w0mk9PiEMQ/viewform
