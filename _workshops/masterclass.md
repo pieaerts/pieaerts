@@ -1,16 +1,14 @@
 ---
-title: FULLY BOOKED! BECAUSE PEOPLE MATTER | the masterclass
-workshop_date: 2018-07-06 00:00:00
+title: BECAUSE PEOPLE MATTER | the masterclass
+workshop_date: 2018-09-07 00:00:00
 subtitle:
 introduction_html: >-
-  <p><strong>THIS MASTERCLASS IS FULLY BOOKED! Next edition will be hosted in
-  september. Keep an eye out on my social media channels for
-  announcements</strong></p><p>Do you want to push yourself creatively?</p><p>Do
-  you feel like you need a new boost in your photography?&nbsp;</p><p>Or do you
-  want to broaden your knowledge about visual story-telling?&nbsp;</p><p>Than
-  this is your chance!</p><p>After a very successful first edition, I&rsquo;m
+  <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
+  new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
+  knowledge about visual story-telling?&nbsp;</p><p>Than this is your
+  chance!</p><p>After selling out the first edition within 24 hours, I&rsquo;m
   hosting a second full-day masterclass in visual story-telling &amp; portrait
-  photography on Saturday July 6, 2019.&nbsp;</p>
+  photography on Saturday September 07, 2019.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
 subscribe_text: FULLY BOOKED! CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
@@ -65,11 +63,11 @@ The price of the masterclass is € 179,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before June 15, 2018: 75% refund
-* Cancellation before July 1, 2018: 50% refund
-* Cancellation after July 1, 2018: no refund
+* Cancellation before August 1, 2019: 75% refund
+* Cancellation before August 20, 2019: 50% refund
+* Cancellation after August 27, 2019: no refund
 
-Come join me on July 6, 2019, talking travel, life, photography and many other things\!
+Come join me on September 7, 2019, talking travel, life, photography and many other things\!
 
 ### The photographer
 
