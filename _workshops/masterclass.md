@@ -11,7 +11,7 @@ introduction_html: >-
   photography on Saturday September 07, 2019.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
-subscribe_text: FULLY BOOKED! CLICK HERE TO SUBSCRIBE FOR THE MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 7 MASTERCLASS
 active: true
 ---
 
