@@ -40,7 +40,7 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #e7e6e1; font-family: 'Fu
     z-index: 50;
     right: calc(5vw - 195px);
 }
-.home .verttext {top: 755px;}
+.home .verttext {top: calc(100vh + 260px);}
 @media (max-width: 1275px) {
  .verttext {right: -174px;}
 }
