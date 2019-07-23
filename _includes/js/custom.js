@@ -136,10 +136,10 @@ $( window ).resize(function() {
 		});
 	}
 
-	if($( 'body' ).width() >= 1185) {
-		if(sessionStorage.menuopen != 'false' && sessionStorage.menuopen != 'true') {
-			$('.navbar-toggle.top').click();
-		}
+	if($( 'body' ).width() >= 1185 && !$('body').hasClass('home')) {
+		sessionStorage.menuopen = 'true';
+	} else {
+		sessionStorage.menuopen = 'false';
 	}
 	
 	if(sessionStorage.menuopen == 'true') {
