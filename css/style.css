@@ -155,7 +155,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 
 /* navbar */
 .navbar-default {padding-top: 14px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
-.navbar-center {display: inline-block; float: none!important; margin-left: 164px;}
+.navbar-center {display: inline-block; float: none!important; margin-left: 34px;}
 .navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 50px;}
 .navbar-nav>li a {color: #3c3c3b!important; padding: 0; margin: 15px 15px 4px 15px;}
 .navbar-nav>li.active:after {content: "•"; display: block; position: relative; margin-top: -40px; margin-left: -2px; left: 0%; color: #3c3c3b;}

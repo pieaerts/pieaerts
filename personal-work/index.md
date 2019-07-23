@@ -1,6 +1,6 @@
 ---
-title: Destinations
-layout: destinations
+title: Personal work
+layout: personalwork
 ---
 
 

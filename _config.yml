@@ -10,7 +10,7 @@ defaults:
       layout: 'post'
   - scope:
       path: ''
-      type: 'destinations'
+      type: 'personalwork'
     values:
       layout: 'work'
   - scope:
@@ -33,9 +33,9 @@ permalink: /blog/:year/:month/:day/:title/
 url: https://www.pieaerts.com
 
 collections:
-  destinations:
+  personalwork:
     output: true
-    permalink: /destinations/:path/
+    permalink: /personal-work/:path/
   twentyfour-hours-in:
     output: true
     permalink: /24-hours-in/:path/
