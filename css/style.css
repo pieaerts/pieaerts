@@ -105,7 +105,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 .carousel-indicators li:before {content: ""; width: 24px; height: 12px; border: 1px solid white; display: block; position: absolute; margin: -4px 0 0 -10px;}
 
 #myCarousel .overlay {color: white; position: relative; top: 50%; transform: translateY(-50%); padding: 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
-#myCarousel .overlay h3 {font-size: 40px; margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 1px; font-family: 'FuturaLTBold'; text-transform: uppercase;}
+#myCarousel .overlay h3 {font-size: 80px; margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 1px; font-family: 'FuturaLTBold'; text-transform: uppercase;}
+#myCarousel .overlay p {opacity: 0;}
 /* Carousel Fading slide */
 .carousel-fade .carousel-inner { background: #3c3c3b; }
 .carousel-fade .carousel-control { z-index: 2; }  
@@ -314,6 +315,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 .carousel-control.left img {left: 25px;}
 .carousel-control.right img {right: 25px;}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 30%;}
+#myCarousel .overlay h3 {font-size: 40px;}
 }
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
