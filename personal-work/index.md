@@ -1,5 +1,5 @@
 ---
-title: Personal work
+title:
 layout: personalwork
 ---
 
