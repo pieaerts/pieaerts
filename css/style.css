@@ -198,7 +198,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 .navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #3c3c3b; color: #d8d8d1;}
 .navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 16px;}
 .navmenu, .navbar-offcanvas {width: 100%; border: 0;}
-.navmenu .navbar-brand {height: auto; margin: 10px 0 0!important; float: none; display: block; color: white!important; text-align: left;}
+.navmenu .navbar-brand {height: auto; margin: 10px 0 0 12px!important; float: none; display: block; color: white!important; text-align: left;}
 .navmenu ul {padding: 80px 0;}
 .navmenu div.table {display: table; height: calc(95vh - 90px); width: 100%;}
 .navmenu div.table-cell {display: table-cell; vertical-align: middle;}
@@ -304,7 +304,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 .navbar > .container .navbar-brand {margin-left: 6px;}
 .collapse {display: block;}
 .collapse .navbar-nav>li {display: none;}
-.collapse .navbar-center {margin-left: -12px;}
+.collapse .navbar-center {margin-left: 0px;}
 .collapse .navbar-nav>li:nth-child(4) {display: block;}
 .navbar-header {right: 65px;}
 .navbar-toggle {position: relative; bottom: 14px;}
