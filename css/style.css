@@ -69,9 +69,9 @@ body {letter-spacing: 1px; color: #3c3c3b; background: #e7e6e1; font-family: 'Fu
 .segment {padding: 20px 0;}
 
 /* carousel */
-#myCarousel {height: 500px; overflow: hidden; position: relative; bottom: 1px; background: #3c3c3b;}
+#myCarousel {height: 100vh; overflow: hidden; position: relative; bottom: 1px; background: #3c3c3b;}
 #myCarousel.single {height: 400px;} 
-#myCarousel .item, #myCarousel .item > div {height: 500px;}
+#myCarousel .item, #myCarousel .item > div {height: 100vh;}
 #myCarousel .item > div {
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.6+0,0+64 */
 background: -moz-linear-gradient(top,  rgba(0,0,0,0.6) 0%, rgba(0,0,0,0) 64%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
@@ -104,7 +104,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 }
 .carousel-indicators li:before {content: ""; width: 24px; height: 12px; border: 1px solid white; display: block; position: absolute; margin: -4px 0 0 -10px;}
 
-#myCarousel .overlay {color: white; position: relative; padding: 205px 0 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
+#myCarousel .overlay {color: white; position: relative; top: 50%; transform: translateY(-50%); padding: 0; width: auto; display: block; max-width: 400px; margin: 0 auto; font-size: 12px; line-height: 1.8em;}
 #myCarousel .overlay h3 {font-size: 40px; margin-bottom: 0; padding-bottom: 4px; border: 0; max-width: 100%; text-transform: uppercase; letter-spacing: 1px; font-family: 'FuturaLTBold'; text-transform: uppercase;}
 /* Carousel Fading slide */
 .carousel-fade .carousel-inner { background: #3c3c3b; }
