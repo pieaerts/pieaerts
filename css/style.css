@@ -154,7 +154,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 
 
 /* navbar */
-.navbar-default {padding-top: 4px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
+.navbar-default {padding-top: 14px; background-color: transparent; border-color: transparent; text-align: center; font-size: 12px;}
 .navbar-center {display: inline-block; float: none!important; margin-left: 162px;}
 .navbar-nav>li {opacity: 0; padding-left: 2px; padding-right: 2px; position: relative; right: 50px;}
 .navbar-nav>li a {color: #3c3c3b!important; padding: 0; margin: 15px 15px 4px 15px;}
@@ -162,9 +162,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 .navbar-nav>li:nth-child(4) {opacity: 1;}
 
 .navbar-toggle .icon-bar, .navbar-default .navbar-toggle .icon-bar {background: #3c3c3b; height: 1px;}
-.navbar-toggle {cursor: pointer; position: absolute; left: calc(5vw - 15px); margin-top: 28px;}
+.navbar-toggle {cursor: pointer; position: absolute; left: calc(5vw - 15px);}
 
-.navbar-toggle {display: block; width: 28px; border: 0; padding: 0; border-radius: 0; margin-top: 22px;}
+.navbar-toggle {display: block; width: 28px; border: 0; padding: 0; border-radius: 0; margin-top: 32px;}
 .navbar-header .navbar-toggle {display: none;}
 .navbar-toggle.white {display: none;}
 .hascarousel .navbar-toggle {display: none;}
@@ -201,7 +201,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 .navmenu-default, .navbar-default .navbar-offcanvas {z-index: 999; background: #3c3c3b; color: #d8d8d1;}
 .navmenu-default .navmenu-nav > li > a {color: #eee!important; font-weight: normal; font-size: 16px;}
 .navmenu, .navbar-offcanvas {width: 100%; border: 0;}
-.navmenu .navbar-brand {height: auto; margin: 0!important; float: none; display: block; color: white!important;}
+.navmenu .navbar-brand {height: auto; margin: 10px 0 0!important; float: none; display: block; color: white!important;}
 .navmenu ul {padding: 80px 0;}
 .navmenu div.table {display: table; height: calc(95vh - 90px); width: 100%;}
 .navmenu div.table-cell {display: table-cell; vertical-align: middle;}
@@ -307,7 +307,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 .collapse .navbar-nav>li {display: none;}
 .collapse .navbar-center {margin-left: -12px;}
 .collapse .navbar-nav>li:nth-child(4) {display: block;}
-.navbar-toggle {position: relative; bottom: 4px;}
+.navbar-toggle {position: relative; bottom: 14px;}
 .navbar-toggle.top {display: none!important;}
 .navbar-nav>li {right: 0px; left: 4px;}
 .navbar-toggle {left: 25px;}
