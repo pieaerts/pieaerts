@@ -182,7 +182,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', e
 .navbar-collapse {border: 0; -webkit-box-shadow: none; box-shadow: none;}
 .navbar-nav { margin-top: 0; margin-bottom: 0;}
 
-.navbar-brand {font-size: 23px; letter-spacing: 1px; position: relative; top: 3px;}
+.navbar-brand {font-size: 23px; letter-spacing: 2px; position: relative; top: 3px;}
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {background: transparent;}
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin: 11px 60px 4px 55px;}
