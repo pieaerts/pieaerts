@@ -19,6 +19,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a9250.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/2g2a9406.jpg
     portrait: false
     wide: true
@@ -26,7 +33,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9250.jpg
+  - image: /uploads/2g2a2414.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a9332.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a2281.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a2401.jpg
     portrait: false
     wide: true
     title:
@@ -71,41 +99,6 @@ images:
   - image: /uploads/0h3a9143.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a2281.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a2401.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a2348.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a2414.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a9332.jpg
-    portrait: true
-    wide: false
     title:
     subtitle:
     text-color:
@@ -159,7 +152,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9863.jpg
+  - image: /uploads/0h3a9080.jpg
     portrait: false
     wide: true
     title:
@@ -173,14 +166,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0h3a9080.jpg
+  - image: /uploads/2g2a9863.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/2g2a2348.jpg
     portrait: false
     wide: true
     title:
