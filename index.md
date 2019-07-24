@@ -12,10 +12,10 @@ headers:
     title: WHERE THE WILD ONES ROAM
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/India 2357.jpg
-    portrait_image: /uploads/HEADERS/2G2A0091.jpg
-    title: INDIA
-    description: Kolkata to Kerala
+  - image: /uploads/HEADERS/2G2A9720.jpg
+    portrait_image: /uploads/HEADERS/HEADERS_WEBSITE8.jpg
+    title: KARAMOJA
+    description:
     url: /personal-work/
   - image: /uploads/HEADERS/IMG_8148.jpg
     portrait_image: /uploads/HEADERS/IMG_8142.jpg
