@@ -27,5 +27,10 @@ headers:
     title: THE RED ROBED NINJA
     description:
     url:
+  - image: /uploads/HEADERS/2G2A0212.jpg
+    portrait_image:
+    title:
+    description:
+    url:
 ---
 
