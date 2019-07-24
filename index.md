@@ -2,10 +2,10 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/HEADERS/2G2A7132a.jpg
-    portrait_image: /uploads/HEADERS/2G2A8347.jpg
-    title: MYANMAR
-    description: Crossing lands of gold
+  - image: /uploads/headers-website1.jpg
+    portrait_image: /uploads/2g2a1004.jpg
+    title: WHERE THE WILD ONES ROAM
+    description:
     url: /personal-work/
   - image: /uploads/HEADERS/IMG_5035.jpg
     portrait_image: /uploads/HEADERS/2G2A9956.jpg
