@@ -7,7 +7,7 @@ headers:
     title: 'SHOOT TO SCARE, NOT TO KILL'
     description:
     url: /personal-work/
-  - image: /uploads/headers-website1.jpg
+  - image: /uploads/HEADERS/2G2A0932.jpg
     portrait_image: /uploads/2g2a1004.jpg
     title: WHERE THE WILD ONES ROAM
     description:
