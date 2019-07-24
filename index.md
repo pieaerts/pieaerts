@@ -17,7 +17,7 @@ headers:
     title: KARAMOJA
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/HEADERS_WEBSITE10.jpg
+  - image: /uploads/HEADERS/EXPO_PIE_AERTS_5.jpg
     portrait_image: /uploads/HEADERS/2G2A0512.jpg
     title: THIS IS NOT THE END
     description:
