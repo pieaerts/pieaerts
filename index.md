@@ -17,10 +17,10 @@ headers:
     title: KARAMOJA
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/IMG_8148.jpg
-    portrait_image: /uploads/HEADERS/IMG_8142.jpg
-    title: BOLIVIA
-    description: Life on the altiplano
+  - image: /uploads/HEADERS/HEADERS_WEBSITE10.jpg
+    portrait_image: /uploads/HEADERS/2G2A0512.jpg
+    title: THIS IS NOT THE END
+    description:
     url: /personal-work/
 ---
 
