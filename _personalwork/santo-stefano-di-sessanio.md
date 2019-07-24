@@ -1,5 +1,5 @@
 ---
-title: Santo Stefano di Sessanio
+title: Where the wild ones roam
 subtitle: Memories of a simple life
 date: 2017-05-24 00:00:00
 image: /uploads/Santo_stefano/2G2A8207a.jpg
@@ -302,6 +302,6 @@ images:
 text-color: light
 ---
 
-After traveling the world for more than a decade, I decided it was time to bring my biggest fan to one of my favourite places on earth. A place where life is lived how it’s meant to be lived. That brings together things that really matter, family, food, passion, nature, well-being and history. A place that is rich in every sense of the word and that holds a special place in my heart. I brought my mother to Italy, in the height of fall season, to discover the Central Apennines mountain range in Abruzzo. 
+After traveling the world for more than a decade, I decided it was time to bring my biggest fan to one of my favourite places on earth. A place where life is lived how it’s meant to be lived. That brings together things that really matter, family, food, passion, nature, well-being and history. A place that is rich in every sense of the word and that holds a special place in my heart. I brought my mother to Italy, in the height of fall season, to discover the Central Apennines mountain range in Abruzzo.&nbsp;
 
-Thanks to [G-rough](http://www.g-rough.com/){: target="_blank"} for showing us what real Roman hospitality is about and thanks to [Sextantio Santo Stefano di Sessanio](http://santostefano.sextantio.it/en/){: target="_blank"} for conserving one of the most extraordinary corners of Italy and for making this trip a memory that will last for a lifetime.
+Thanks to [G-rough](http://www.g-rough.com/){: target="_blank"}&nbsp;for showing us what real Roman hospitality is about and thanks to [Sextantio Santo Stefano di Sessanio](http://santostefano.sextantio.it/en/){: target="_blank"} for conserving one of the most extraordinary corners of Italy and for making this trip a memory that will last for a lifetime.
