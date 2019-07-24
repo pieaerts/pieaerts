@@ -17,16 +17,16 @@ headers:
     title: KARAMOJA
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/EXPO_PIE_AERTS_5.jpg
-    portrait_image: /uploads/HEADERS/2G2A0512.jpg
-    title: THIS IS NOT THE END
-    description:
-    url: /personal-work/
   - image: /uploads/HEADERS/0H3A1189.jpg
     portrait_image: /uploads/HEADERS/HEADERS_WEBSITE5.jpg
     title: THE RED ROBED NINJA
     description:
     url:
+  - image: /uploads/HEADERS/EXPO_PIE_AERTS_5.jpg
+    portrait_image: /uploads/HEADERS/2G2A0512.jpg
+    title: THIS IS NOT THE END
+    description:
+    url: /personal-work/
   - image: /uploads/HEADERS/2G2A0212.jpg
     portrait_image: /uploads/HEADERS/HEADERS_WEBSITE2.jpg
     title: LEGENDS OF THE VALLEY
