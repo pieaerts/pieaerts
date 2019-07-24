@@ -17,9 +17,9 @@
                 <ul class="nav navmenu-nav">
                   <li><a href="/personal-work/">Personal work</a></li>
                   <li><a href="/blog/">Journal</a></li>      
+                  <li><a href="http://shop.pieaerts.com/collections/">Prints</a></li>
                   <li><a href="/workshops/">Workshops</a></li>
                   <li><a href="/weddings/">Weddings</a></li>
-                  <li><a href="http://shop.pieaerts.com/collections/">Prints</a></li>
                   <li><a href="/about/">About</a></li>
                 </ul>
               </div>
@@ -35,10 +35,10 @@
             <ul class="nav navbar-nav navbar-center">
               <li{% if page.url contains 'personal-work' %} class="active"{% endif %}><a href="/personal-work/">Personal work</a></li>
               <li{% if page.layout == 'blog' or page.layout == 'post' %} class="active"{% endif %}><a href="/blog/">Journal</a></li>   
-              <li{% if page.url contains '/workshop' %} class="active"{% endif %}><a href="/workshops/">Workshops</a></li>
-              <li><a class="navbar-brand" href="/">PIE AERTS</a></li>
-              <li{% if page.url contains 'weddings' %} class="active"{% endif %}><a href="/weddings/">Weddings</a></li>
               <li><a href="http://shop.pieaerts.com/collections/">Prints</a></li>
+              <li><a class="navbar-brand" href="/">PIE AERTS</a></li>
+              <li{% if page.url contains '/workshop' %} class="active"{% endif %}><a href="/workshops/">Workshops</a></li>
+              <li{% if page.url contains 'weddings' %} class="active"{% endif %}><a href="/weddings/">Weddings</a></li>
               <li{% if page.url == '/about/' %} class="active"{% endif %}><a href="/about/">About</a></li>
             </ul>
           </div><!--/.nav-collapse -->

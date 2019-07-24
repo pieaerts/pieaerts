@@ -40,10 +40,10 @@ title: How are you?
 
 <div>&nbsp;</div>
 
-![](/uploads/0h3a6324-copy-5aa.jpg)
-
-<div>&nbsp;</div>
-
 ## Press links
 
 - [Google](https://www.google.com)
+
+<div>&nbsp;</div>
+
+<img src="/uploads/pie-aerts.jpg" alt="Pie Aerts" style="max-width: 400px; margin: 0 auto;" />
