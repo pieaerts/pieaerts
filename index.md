@@ -28,8 +28,8 @@ headers:
     description:
     url:
   - image: /uploads/HEADERS/2G2A0212.jpg
-    portrait_image:
-    title:
+    portrait_image: /uploads/HEADERS/HEADERS_WEBSITE2.jpg
+    title: LEGENDS OF THE VALLEY
     description:
     url:
 ---
