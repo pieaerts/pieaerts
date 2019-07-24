@@ -315,7 +315,7 @@ footer img {cursor: pointer; display: inline-block; width: 35px; position: relat
 .carousel-control.left img {left: 25px;}
 .carousel-control.right img {right: 25px;}
 .grid .item a div.workthumb .overlay > div > h3 {padding-top: 30%;}
-#myCarousel .overlay h3 {font-size: 40px; padding-left: 15px; padding-right: 15px;}
+#myCarousel .overlay h3 {font-size: 40px; padding-left: 25px; padding-right: 25px;}
 }
 @media (max-width: 600px) {
   .grid .item a div.workthumb .overlay {opacity: 1; background: rgba(0,0,0,0.15);}
