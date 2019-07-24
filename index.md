@@ -24,7 +24,7 @@ headers:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A4637.jpg
     portrait_image: /uploads/HEADERS/HEADERS_WEBSITE5.jpg
-    title: THE RED ROBED NINJA
+    title: THE RED ROBED NINJAA
     description:
     url:
 ---
