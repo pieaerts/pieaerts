@@ -22,7 +22,7 @@ headers:
     title: THIS IS NOT THE END
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/2G2A4637.jpg
+  - image: /uploads/HEADERS/2G2A3951.jpg
     portrait_image: /uploads/HEADERS/HEADERS_WEBSITE5.jpg
     title: THE RED ROBED NINJA
     description:
