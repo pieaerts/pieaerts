@@ -8,7 +8,7 @@ headers:
     description:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A0932.jpg
-    portrait_image: /uploads/2g2a1004.jpg
+    portrait_image: /uploads/HEADERS/2G2A0596.jpg
     title: WHERE THE WILD ONES ROAM
     description:
     url: /personal-work/
