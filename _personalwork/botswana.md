@@ -1,8 +1,8 @@
 ---
-title: Botswana
-subtitle: Walking with the Bushmen
+title: This is not the end
+subtitle:
 date: 2017-05-18 00:00:00
-image: /uploads/botswana/Xakanaxa.jpg
+image: /uploads/expo-pie-aerts-5.jpg
 float: left
 images:
   - image: /uploads/botswana/0H3A8285aab.jpg
