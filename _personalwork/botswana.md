@@ -19,9 +19,16 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1330-edit.jpg
-    portrait: false
-    wide: true
+  - image: /uploads/2g2a0512.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/india-576.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
@@ -33,16 +40,9 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0512.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/india-576.jpg
-    portrait: true
-    wide: false
+  - image: /uploads/2g2a1330-edit.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
