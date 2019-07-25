@@ -19,14 +19,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0554.jpg
+  - image: /uploads/dji-0372.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/dji-0372.jpg
+  - image: /uploads/2g2a0554.jpg
     portrait: false
     wide: true
     title:
@@ -40,14 +40,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0845.jpg
+  - image: /uploads/2g2a4631.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a4631.jpg
+  - image: /uploads/2g2a0845.jpg
     portrait: false
     wide: true
     title:
