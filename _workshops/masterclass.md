@@ -1,15 +1,15 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | September 7
-workshop_date: 2018-09-07 00:00:00
+title: BECAUSE PEOPLE MATTER | the masterclass | November 10
+workshop_date: 2018-11-10 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;</p><p>Than this is
-  your chance!</p><p>September 7 in the city centre of Amsterdam.</p>
+  your chance!</p><p>Sunday November 10 in the city centre of Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 7 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NOVEMBER 10 MASTERCLASS
 active: true
 ---
 
@@ -29,23 +29,21 @@ A full day of inspiration in the realm of travel & street photography focusing o
 
 Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located only 5 minutes away from Leidse Square, right in the middle of the city.
 
-\`Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
+Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
 
 The program for the day is as following:
 
-13\.30 - 14.00 Walk-in
+10\.00 - 10.30 Walk-in
 
-14\.00 - 15.30 Ins & outs of story-telling
+10\.30 - 12.30 The power of story-telling&nbsp;
 
-15\.30 - 16.30 Technical aspects & editing&nbsp;
+12:30 - 13:15 Lunch&nbsp;
 
-16\.30 - 17.30 Early dinner
+13:15- 15.15 Technical aspects & editing&nbsp;
 
-17\.30 - 20.00 Shooting on the streets of Amsterdam
+15:30 - 17.30 Shooting on the streets of Amsterdam
 
-20\.00 - 21.00 Evaluation of images while having drinks
-
-The reason why we start at 14.00 and finish late, is because we want to hit the streets with beautiful soft lightning conditions.&nbsp;
+17:30 - 19.00 Evaluation of images while having drinks
 
 ### Who?
 
@@ -55,17 +53,17 @@ I will be hosting the full day program. My girlfriend Jessica will be serving a 
 
 ### Price?
 
-The price of the masterclass is € 179,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
+The price of the masterclass is € 250,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
 ### Cancellation policy
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before August 1, 2019: 75% refund
-* Cancellation before August 20, 2019: 50% refund
-* Cancellation after August 27, 2019: no refund
+* Cancellation before October 1, 2019: 75% refund
+* Cancellation before October 15, 2019: 50% refund
+* Cancellation after November 1, 2019: no refund
 
-Come join me on September 7, 2019, talking travel, life, photography and many other things\!
+Come join me on November 10, 2019, talking travel, life, photography and many other things\!
 
 ### The photographer
 
@@ -74,6 +72,10 @@ In the past few years, Dutch photographer Pie Aerts has traveled to some of the 
 ### Testimonials&nbsp;
 
 ***Daniel (South Africa)*** - I consider Pie’s masterclass as some of the best money I have ever spent. What I loved was that Pie wasn’t there to teach the technical elements of photography (although he very generously shared some fantastic tips) but more he spoke about connection. How he uses photography to connect to the world, to himself and to his purpose in life. Which was incredibly refreshing. I found that because of Pie’s ability to speak about what photography was to him it opened space for the rest of us to do the same. This wasn’t as much a photography masterclass as much as it was a masterclass on photography as a way of truly living life. If you’re a person that finds that being behind your lens is a gateway to connecting to and representing the world then this is the masterclass for you.&nbsp;
+
+***Laurine (Netherlands)*** - My hearts desire was to find a course where passion, quality and authenticity would dance together. Pie totally nailed that. I could not have asked for more. Jess was just the cherry on the cake with her heartfelt hospitality and nourishing food. Give yourself this gift and boost towards your next level as a conscious photographer.&nbsp;
+
+***Deepa (Philippines)*** - Pie's class really made me think about choices I make: How i see the world, what I spend time and energy creating, who I do it for, and most importantly, why?
 
 ***Sander (Netherlands) -***&nbsp;It was very nice to finally meet Pie in person after years of following his work. This masterclass was not just about photography. It was about the relation between a story and a photo. If you follow Pie's work, you can tell he can capture these two things simultaneously in one beautiful shot. Pie shares his vision, his wisdom, his true opinion and most of all his joy. At the end of the day I left Amsterdam with a smile from ear to ear and I fell in love with photography even more than before.
 
