@@ -1,5 +1,5 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass
+title: BECAUSE PEOPLE MATTER | the masterclass | September 7
 workshop_date: 2018-09-07 00:00:00
 subtitle:
 introduction_html: >-
