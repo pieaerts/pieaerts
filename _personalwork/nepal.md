@@ -12,14 +12,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3251.jpg
+  - image: /uploads/2g2a3305.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3305.jpg
+  - image: /uploads/2g2a3251.jpg
     portrait: true
     wide: false
     title:
