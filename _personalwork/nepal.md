@@ -104,8 +104,8 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a2459-1.jpg
-    portrait: false
-    wide: true
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
