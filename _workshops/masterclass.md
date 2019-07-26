@@ -6,9 +6,7 @@ introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;</p><p>Than this is
-  your chance!</p><p>After selling out the first edition within 24 hours,
-  I&rsquo;m hosting a second full-day masterclass in visual story-telling &amp;
-  portrait photography on Saturday September 07, 2019.&nbsp;</p>
+  your chance!</p><p>September 7 in the city centre of Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 7 MASTERCLASS
