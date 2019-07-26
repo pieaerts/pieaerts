@@ -124,13 +124,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2246.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a2072.jpg
     portrait: true
     wide: false
@@ -141,6 +134,13 @@ images:
   - image: /uploads/2g2a3655.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a2246.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
