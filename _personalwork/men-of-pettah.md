@@ -26,14 +26,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a8938.jpg
+  - image: /uploads/2g2a1817.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1817.jpg
+  - image: /uploads/2g2a8938.jpg
     portrait: true
     wide: false
     title:
