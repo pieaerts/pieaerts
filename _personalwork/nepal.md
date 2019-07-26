@@ -110,14 +110,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2871.jpg
+  - image: /uploads/2g2a2810.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2810.jpg
+  - image: /uploads/2g2a2871.jpg
     portrait: false
     wide: true
     title:
