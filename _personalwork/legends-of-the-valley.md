@@ -35,7 +35,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0153.jpg
+  - image: /uploads/0h3a7775.jpg
     portrait: true
     wide: false
     title:
@@ -53,7 +53,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7775.jpg
+  - image: /uploads/2g2a0153-1.jpg
     portrait: true
     wide: false
     title:
