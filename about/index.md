@@ -28,7 +28,7 @@ You got a story to tell? Tell me first. I’d love to help.
 
 Or find me on Instagram:
 
-[Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;/&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
+[Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
 
 #### Want to read more about me?
 
