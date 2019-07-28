@@ -4,11 +4,9 @@ title:
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
 
-<div>&nbsp;</div>
+<div>My name is Pie.</div>
 
-#### My name is Pie.
-
-<div>Contrary to popular belief this has nothing to do with apples.</div>
+<div>Which has, contrary to popular belief, nothing to do with apples.</div>
 
 <div>I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. &nbsp;</div>
 
@@ -24,11 +22,11 @@ title:
 
 I hope you like it.&nbsp;
 
-You got a story to tell? Tell me first. I’d love to help.
+##### You got a story to tell? Tell me first. I’d love to help.
 
 [info@pieaerts.com](mailto:info@pieaerts.com)
 
-Or find me on Instagram:
+##### Or find me on Instagram:
 
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;
 
