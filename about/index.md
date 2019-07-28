@@ -26,7 +26,7 @@ I hope you like it.&nbsp;
 
 You got a story to tell? Tell me first. I’d love to help.
 
-[info@pieaerts.com&nbsp;](mailto:info@pieaerts.com)
+[info@pieaerts.com](mailto:info@pieaerts.com)
 
 Or find me on Instagram:
 
