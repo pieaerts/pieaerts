@@ -18,17 +18,11 @@ title: How are you?
 
 <div>A constant quest for pretty things.</div>
 
-<div>In doing so, I came across lots of different people, landscapes, tales and stories.</div>
+<div>In doing so, I came across lots of different people and their stories.</div>
 
 <div>This website is a culmination of that.&nbsp;</div>
 
 <div>I hope you like it.&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>PS. Did you know I shoot <a target="_blank" href="https://www.pieaerts.com/weddings">weddings</a> too?&nbsp;</div>
-
-<div>Click <a target="_blank" href="https://www.pieaerts.com/weddings">here</a> to see some recent love stories I shot and hit me up when you like me to capture yours!</div>
 
 <div>&nbsp;</div>
 
@@ -40,10 +34,10 @@ title: How are you?
 
 <div>&nbsp;</div>
 
-## Press links
+## Want to read more about me?
 
-- [Google](https://www.google.com)
+* [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}
 
 <div>&nbsp;</div>
 
-<img src="/uploads/pie-aerts.jpg" alt="Pie Aerts" style="max-width: 400px; margin: 0 auto;" />
+![Pie Aerts](/uploads/pie-aerts.jpg)
