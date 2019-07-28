@@ -22,17 +22,17 @@ title:
 
 I hope you like it.&nbsp;
 
-##### You got a story to tell? Tell me first. I’d love to help.
+You got a story to tell? Tell me first. I’d love to help.
 
 [info@pieaerts.com](mailto:info@pieaerts.com)
 
-##### Or find me on Instagram:
+Or find me on Instagram:
 
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;
 
 [Because People Matter](https://www.instagram.com/because.people.matter/)
 
-## Want to read more about me?
+#### Want to read more about me?
 
 * [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}
 
