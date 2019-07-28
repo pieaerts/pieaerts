@@ -162,3 +162,8 @@ images:
 text-color: light
 ---
 
+#### Sierra Baguales, Patagonia, Chile
+
+In the Sierra Baguales in chilean Patagonia, the Sharp family chose to defy the harsh, unpredictable and often brutal natural elements for a life of strenuous work, frequent solitude and undeniable freedom.
+
+The full story is published in&nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
