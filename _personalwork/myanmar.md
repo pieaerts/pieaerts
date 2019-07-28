@@ -5,56 +5,7 @@ date: 2017-07-23 00:00:00
 image: /uploads/2g2a3783.jpg
 float: left
 images:
-  - image: /uploads/2g2a2505.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a2584.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a3030.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a3485.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
   - image: /uploads/2g2a3783-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a4122.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a4360.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a5440.jpg
     portrait: false
     wide: true
     title:
@@ -68,14 +19,63 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image:
+  - image: /uploads/2g2a8353.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5543.jpg
+  - image: /uploads/2g2a3485.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a3030.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4450.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4935.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a5941aaaa-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a2584.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a5440.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a2505.jpg
     portrait: false
     wide: true
     title:
@@ -89,42 +89,14 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5941aaaa-1.jpg
+  - image: /uploads/2g2a5543.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a6601.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a7132.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a7638.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a8353.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/dji-0308.jpg
+  - image: /uploads/2g2a4122.jpg
     portrait: false
     wide: true
     title:
@@ -145,21 +117,28 @@ images:
     subtitle:
     text-color:
     show-text: true
+  - image: /uploads/dji-0308.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4360.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a6601.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/2g2a4027.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a4221.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a4450.jpg
     portrait: true
     wide: false
     title:
@@ -173,9 +152,16 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a4935.jpg
-    portrait: true
-    wide: false
+  - image: /uploads/2g2a7638.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a7132.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
