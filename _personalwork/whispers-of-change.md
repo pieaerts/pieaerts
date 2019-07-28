@@ -155,8 +155,8 @@ images:
 text-color: light
 ---
 
-Pushkar, Rajasthan, India
+#### Pushkar, Rajasthan, India
 
 Rajasthan, like any other state in India, is a place where the pace of change is accelerating faster than ever before. But when venturing deep into its heart, one finds the real Rajasthani's. Is Rajasthan really still the jewel in India's crown or is a new generation ready for change?
 
-The full story is published in&nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
