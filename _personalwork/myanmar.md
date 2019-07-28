@@ -68,13 +68,6 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5440.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
   - image: /uploads/2g2a2505.jpg
     portrait: false
     wide: true
@@ -118,6 +111,13 @@ images:
     text-color:
     show-text: true
   - image: /uploads/dji-0308.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a5440.jpg
     portrait: false
     wide: true
     title:
