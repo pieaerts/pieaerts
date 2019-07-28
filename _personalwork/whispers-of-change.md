@@ -1,7 +1,7 @@
 ---
 title: Whispers of change
 subtitle:
-date: 2017-05-21 00:00:00
+date: 2019-07-29 00:00:00
 image: /uploads/2g2a2826.jpg
 float: left
 images:
