@@ -1,5 +1,5 @@
 ---
-title: How are you?
+title:
 ---
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
