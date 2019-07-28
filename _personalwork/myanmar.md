@@ -166,13 +166,6 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image:
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: true
 text-color: light
 ---
 
