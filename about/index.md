@@ -22,17 +22,17 @@ title: How are you?
 
 <div>This website is a culmination of that.&nbsp;</div>
 
-<div>I hope you like it.&nbsp;</div>
+I hope you like it.&nbsp;
 
-<div>&nbsp;</div>
+You got a story to tell? Tell me first. I’d love to help.
 
-<div>You got a story to tell? Tell me first. I&rsquo;d love to help.</div>
+[info@pieaerts.com&nbsp;](mailto:info@pieaerts.com)
 
-<div>&nbsp;</div>
+Or find me on Instagram:
 
-#### info@pieaerts.com&nbsp;
+[Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;
 
-<div>&nbsp;</div>
+[Because People Matter](https://www.instagram.com/because.people.matter/)
 
 ## Want to read more about me?
 
