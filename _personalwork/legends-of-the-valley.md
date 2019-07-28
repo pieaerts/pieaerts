@@ -1,7 +1,7 @@
 ---
 title: Legends of the valley
 subtitle:
-date: 2017-05-19 00:00:00
+date: 2017-07-27 00:00:00
 image: /uploads/2g2a0212.jpg
 float: left
 images:
@@ -140,3 +140,8 @@ images:
 text-color: light
 ---
 
+#### Baliem Valley, West-Papua, Indonesia&nbsp;
+
+A story about a gathering of tribes deep in the Wamena highlands, coming together to celebrate. These are the legends of the valley.&nbsp;
+
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
