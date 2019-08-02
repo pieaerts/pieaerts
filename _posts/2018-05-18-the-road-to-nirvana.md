@@ -3,7 +3,8 @@ title: The road to Nirvana
 image: /uploads/dscf1595-2.jpg
 location: Nepal
 footer_html: >-
-  <p>Click&nbsp;<a target="_blank" href="/destinations/nepal/">here</a>&nbsp;to
+  <p>Click&nbsp;<a target="_blank"
+  href="https://www.pieaerts.com/personal-work/the-red-robed-ninja/">here</a>&nbsp;to
   see more photo's of Nepal</p>
 ---
 
