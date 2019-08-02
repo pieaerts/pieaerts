@@ -4,8 +4,8 @@ image: /uploads/2g2a2487-2.jpg
 location: Kathmandu
 footer_html: >-
   <p>Click <a data-cms-editor-link-style="undefined" target="_blank"
-  href="https://www.pieaerts.com/destinations/nepal/">here</a>&nbsp;to see more
-  photos of Nepal.</p>
+  href="https://www.pieaerts.com/personal-work/the-red-robed-ninja/">here</a>&nbsp;to
+  see more photos of Nepal.</p>
 ---
 
 Nepal’s capital is often merely seen as a jumping-off point, overshadowed by the call of the Himalayan mountains. Yet, Kathmandu is one of a kind to say the least. It is chaotic, fascinating, exhausting and mesmerising. Its character shines through in ancient architecture, temples and Buddhist stupas which made for its World Heritage Site status, its overwhelming display of sights, smells and sounds and its crowded, narrow streets taking you back to the real Asia. During our visit we chose to stay in the [Hyatt Regency Kathmandu](https://www.hyatt.com/en-US/hotel/nepal/hyatt-regency-kathmandu/kathm){: target="_blank"}, beautifully located in between all various neighbourhoods that breath street photography because the 2015 earthquake might has shaken the city, but it didn’t change its heart. Life happens on the streets, so all you need to do is be at the right place at the right time (with a bit of luck & a good eye) and snap away. But where?&nbsp;
