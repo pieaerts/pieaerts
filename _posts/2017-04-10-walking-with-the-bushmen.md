@@ -1,13 +1,9 @@
 ---
 title: Walking with the Bushmen
-image: /uploads/HEADERS/0H3A8608.jpg
+image: /uploads/tales-botswana1-2.jpg
 location: Botswana
-footer_html: >-
-  <p>Click&nbsp;<a
-  href="http://quiet-herring.cloudvent.net/destinations/botswana/">here</a>&nbsp;to
-  see more photo's of Botswana</p>
+footer_html:
 ---
-
 
 Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks in the African bush made me realise that’s a very big shame. Let me tell you why.
 
@@ -39,6 +35,6 @@ And then there’s the nights. It feels like the entire bush escapes from the su
 
 ![](/uploads/versions/0h3a8952a-1---x----2048-1365x---.jpg)
 
-After spending some time disconnecting from our busy speedy lives back home and reorganising our systems to the rhythm of the bush, it became pretty clear that the true essence of life is not what the Western world makes you belief it is. Experiencing this raw connection with nature first-hand, puts things back in perspective, there were they belong. The vulnerability, the immense power of instinct, the strong presence of purpose and the joy of the little things. All happening in a world where everything seems bigger than yourself. Africa you did it. Again. <br>Call me a hippie but all ever said about this place is true. You can shake the sand from your shoes, but not from your soul.
+After spending some time disconnecting from our busy speedy lives back home and reorganising our systems to the rhythm of the bush, it became pretty clear that the true essence of life is not what the Western world makes you belief it is. Experiencing this raw connection with nature first-hand, puts things back in perspective, there were they belong. The vulnerability, the immense power of instinct, the strong presence of purpose and the joy of the little things. All happening in a world where everything seems bigger than yourself. Africa you did it. Again. <br>Call me a hippie but all ever said about this place is true. You can shake the sand from your shoes, but not from your soul.
 
 ![](/uploads/botswana/0H3A0439.jpg)
