@@ -37,4 +37,4 @@ Or find me on Instagram:
 
 <div>&nbsp;</div>
 
-![Pie Aerts](/uploads/pie-aerts.jpg)
+![Pie Aerts](/uploads/0h3a6324-copy.jpg){: width="1400" height="933"}
