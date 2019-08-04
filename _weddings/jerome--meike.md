@@ -533,3 +533,4 @@ images:
 text-color: light
 ---
 
+When one of your best mates asks you to photograph his wedding, it’s a no brainer to go all in. So that’s what happened. Three full days of love, devotion, laughter and friendship. Thanks for trusting me and for making this a weekend I will never forget. Cheers to you guys\!&nbsp;
