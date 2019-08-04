@@ -1,5 +1,5 @@
 ---
-title: Jerome & Meike
+title: Jérôme & Meike
 subtitle: Limburgse Heuvelland
 date: 2017-05-21 00:00:00
 image: /uploads/2g2a9643.jpg
