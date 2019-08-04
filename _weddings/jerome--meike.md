@@ -12,20 +12,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a7743.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a7649-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a0087.jpg
     portrait: false
     wide: true
