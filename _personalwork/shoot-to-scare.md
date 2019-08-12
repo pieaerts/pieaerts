@@ -1,7 +1,7 @@
 ---
 title: 'Shoot to scare, not to kill'
 subtitle:
-date: 2017-05-19 00:00:00
+date: 2017-07-31 00:00:00
 image: /uploads/2g2a9002.jpg
 float: left
 images:
@@ -183,3 +183,8 @@ images:
 text-color: light
 ---
 
+#### Lake Albert, Murchison Falls National Park, Uganda
+
+The story of Albert Odar, a former poacher turned ranger in Murchison Falls National Park, Uganda. A story about hope, courage and fear.&nbsp;
+
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}

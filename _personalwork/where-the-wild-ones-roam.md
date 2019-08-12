@@ -1,7 +1,7 @@
 ---
 title: Where the wild ones roam
 subtitle:
-date: 2017-05-17 00:00:00
+date: 2017-07-30 00:00:00
 image: /uploads/HEADERS/2G2A0554.jpg
 float: left
 images:
@@ -162,3 +162,8 @@ images:
 text-color: light
 ---
 
+#### Sierra Baguales, Patagonia, Chile
+
+On the foot of the Sierra Baguales mountain range in the heart of chilean Patagonia, the Sharp family chose to defy the harsh, unpredictable and often brutal natural elements for a life of strenuous work, frequent solitude and undeniable freedom.
+
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}

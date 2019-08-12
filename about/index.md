@@ -1,16 +1,14 @@
 ---
-title: How are you?
-image: /uploads/pie-aerts.jpg
+title:
+image: /uploads/0h3a6324-copy.jpg
 layout: about
 ---
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
 
-<div>&nbsp;</div>
-
 <div>My name is Pie.</div>
 
-<div>Contrary to popular belief this has nothing to do with apples.</div>
+<div>Which has, contrary to popular belief, nothing to do with apples.</div>
 
 <div>I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. &nbsp;</div>
 
@@ -20,28 +18,21 @@ layout: about
 
 <div>A constant quest for pretty things.</div>
 
-<div>In doing so, I came across lots of different people, landscapes, tales and stories.</div>
+<div>In doing so, I came across lots of different people and their stories.</div>
 
 <div>This website is a culmination of that.&nbsp;</div>
 
-<div>I hope you like it.&nbsp;</div>
+I hope you like it.&nbsp;
 
-<div>&nbsp;</div>
+You got a story to tell? Tell me first. I’d love to help.
 
-<div>PS. Did you know I shoot <a target="_blank" href="https://www.pieaerts.com/weddings">weddings</a> too?&nbsp;</div>
+[info@pieaerts.com](mailto:info@pieaerts.com)
 
-<div>Click <a target="_blank" href="https://www.pieaerts.com/weddings">here</a> to see some recent love stories I shot and hit me up when you like me to capture yours!</div>
+Or find me on Instagram:
 
-<div>&nbsp;</div>
+[Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
 
-<div>You got a story to tell? Tell me first. I&rsquo;d love to help.</div>
+#### Want to read more about me?
 
-<div>&nbsp;</div>
-
-#### info@pieaerts.com&nbsp;
-
-<div>&nbsp;</div>
-
-## Press links
-
-- [Google](https://www.google.com)
+* [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}
+* [Tales from the roads less Traveled](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/){: target="_blank"}

@@ -1,7 +1,7 @@
 ---
 title: Men of Pettah
 subtitle:
-date: 2017-05-18 00:00:00
+date: 2017-07-26 00:00:00
 image: /uploads/2g2a2301.jpg
 float: left
 images:
@@ -127,3 +127,8 @@ images:
 text-color: light
 ---
 
+#### Pettah, Colombo, Sri Lanka
+
+36 degrees Celsius, the air full of exhaust fumes and the stench of dried fish. Continual yelling over the blasting of speakers. A manic tangle of trucks, carts, bicycles, produce and men. This is the bedlam of Pettah Market.&nbsp;
+
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}

@@ -1,8 +1,8 @@
 ---
-title: Santo Stefano di Sessanio
-subtitle: Memories of a simple life
-date: 2017-05-24 00:00:00
-image: /uploads/Santo_stefano/2G2A8207a.jpg
+title: The height of fall
+subtitle:
+date: 2017-07-24 00:00:00
+image: /uploads/2g2a7694.jpg
 float: left
 images:
   - image: /uploads/Santo_stefano/2G2A8207a.jpg
@@ -301,6 +301,8 @@ images:
     show-text: false
 text-color: light
 ---
+
+#### Santo Stefano di Sessanio, Italy
 
 After traveling the world for more than a decade, I decided it was time to bring my biggest fan to one of my favourite places on earth. A place where life is lived how it’s meant to be lived. That brings together things that really matter, family, food, passion, nature, well-being and history. A place that is rich in every sense of the word and that holds a special place in my heart. I brought my mother to Italy, in the height of fall season, to discover the Central Apennines mountain range in Abruzzo.&nbsp;
 

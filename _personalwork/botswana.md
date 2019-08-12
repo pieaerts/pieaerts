@@ -1,7 +1,7 @@
 ---
 title: This is not the end
 subtitle:
-date: 2017-05-18 00:00:00
+date: 2017-07-25 00:00:00
 image: /uploads/expo-pie-aerts-5.jpg
 float: left
 images:
@@ -113,3 +113,8 @@ images:
 text-color: light
 ---
 
+#### Ganges river, Varanasi, India
+
+Sensory overload: clashing cacophonous. Crowded, corrupt, chaotic, poor and unsettling, with deeply rooted inequalities. Welcoming, cultured, wealthy, peaceful, happy and uniquely timeless. This is Varanasi.&nbsp;
+
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
