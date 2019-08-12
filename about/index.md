@@ -4,8 +4,6 @@ image: /uploads/pie-aerts.jpg
 layout: about
 ---
 
-<div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
-
 <div>My name is Pie.</div>
 
 <div>Which has, contrary to popular belief, nothing to do with apples.</div>
@@ -31,6 +29,8 @@ You got a story to tell? Tell me first. I’d love to help.
 Or find me on Instagram:
 
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
+
+<div>&nbsp;</div>
 
 #### Want to read more about me?
 
