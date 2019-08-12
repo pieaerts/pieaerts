@@ -1,5 +1,7 @@
 ---
 title: How are you?
+image: /uploads/pie-aerts.jpg
+layout: about
 ---
 
 <div><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"></span></div>
@@ -43,7 +45,3 @@ title: How are you?
 ## Press links
 
 - [Google](https://www.google.com)
-
-<div>&nbsp;</div>
-
-<img src="/uploads/pie-aerts.jpg" alt="Pie Aerts" style="max-width: 400px; margin: 0 auto;" />
