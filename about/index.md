@@ -36,3 +36,4 @@ Or find me on Instagram:
 
 * [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}
 * [Tales from the roads less Traveled](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/){: target="_blank"}
+* Or watch this video [Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
