@@ -14,8 +14,8 @@
                 {{ page.introduction_html }}
                 
                 <ul>
-                {% assign siteworkshops = site.workshops | sort: 'date' %}
-                {% for item in siteworkshops %}
+                {% assign sitemasterclasses = site.masterclasses | sort: 'date' %}
+                {% for item in sitemasterclasses %}
                     <li>
                         {% if item.active %}
                             <a href="{{ item.url }}" style="text-decoration: underline;">{{ item.title }}</a>

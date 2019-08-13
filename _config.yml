@@ -20,9 +20,9 @@ defaults:
       layout: 'work'
   - scope:
       path: ''
-      type: 'workshops'
+      type: 'masterclasses'
     values:
-      layout: 'workshop'
+      layout: 'masterclass'
   - scope:
       path: ''
       type: 'weddings'
