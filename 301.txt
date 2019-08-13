@@ -1,1 +1,2 @@
-/workshops/ /masterclasses/
+/workshops/ /masterclass/
+/workshops/masterclass/ /workshop/masterclass/
