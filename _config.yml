@@ -39,9 +39,9 @@ collections:
   twentyfour-hours-in:
     output: true
     permalink: /24-hours-in/:path/
-  workshops:
+  masterclasses:
     output: true
-    permalink: /workshop/:path/
+    permalink: /masterclass/:path/
   weddings:
     output: true
     permalink: /weddings/:path/
