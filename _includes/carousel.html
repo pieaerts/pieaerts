@@ -1,4 +1,4 @@
-<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="none">
+<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="4000" data-pause="none">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     {% for item in page.headers %}
@@ -9,7 +9,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     {% for item in page.headers %}
-    <div class="item{% if forloop.index == 1 %} active{% endif %}" style="background: url({{ item.portrait_image | replace: ' ','%20' }}) center center; background-size: cover;" mobile-style="background: url({{ item.portrait_image | replace: ' ','%20' }}) center center; background-size: cover;" desktop-style="background: url({{ item.image | replace: ' ','%20' }}) center center; background-size: cover;">
+    <div class="item{% if forloop.index == 1 %} active{% endif %}" style="background: url({{ item.portrait_image | replace: ' ','%20' }}) center center; background-size: cover;" mobile-style="background: url({{ item.portrait_image | replace: ' ','%20' }}) center center; background-size: cover;" desktop-style="background: url({{ item.image | replace: ' ','%20' }}) center center; background-size: cover;" data-echo-ignore="true">
       <div onclick="window.location.href='{{ item.url }}';" style="cursor: pointer;">
         <div class="overlay text-center">
           <h3>{{ item.title }}</h3>

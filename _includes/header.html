@@ -1,3 +1,7 @@
+{% for item in page.headers %}
+<img src="{{ item.image }}" style="opacity: 0; position: absolute; z-index: -100; pointer-events: none;" />
+{% endfor %}
+
 <div class="verttext" onclick="window.open('https://www.instagram.com/pie_aerts/');">Follow Pie Aerts on &bull; Instagram</div>
 <div id="scrolltotop"><a class="verttext" href="#top">scroll to top <span>&rarr;</span></a></div>
 
