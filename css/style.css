@@ -288,8 +288,8 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 .grid .item a div.workthumb.portrait .overlay > div > h3 {padding-top: 72%;}
 .grid .item .compass {width: 20px; margin: 20px auto 0;}
 
-.workshop h2 {line-height: 1.6em; margin-bottom: 1.4em;}
-.workshop h3 + .lightbox-image {margin: 10px 0 0;}
+.masterclass h2 {line-height: 1.6em; margin-bottom: 1.4em;}
+.masterclass h3 + .lightbox-image {margin: 10px 0 0;}
 
 /* footer */
 footer {clear: both; padding: 45px 0 25px; width: 100%; bottom: 0;}

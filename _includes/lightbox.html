@@ -87,7 +87,7 @@ function is_vimeolink(url,el) {
 }
 
 $(document).ready(function() {
-	$(".post .col-md-10 > .maxwidth > img, .page .contentdiv > img, .workshop .contentdiv > img").each(function(){
+	$(".post .col-md-10 > .maxwidth > img, .page .contentdiv > img, .masterclass .contentdiv > img").each(function(){
 	    var $img = $(this),
         href = $img.attr('src');
     	$img.wrap('<a href="' + href + '" style="display: block;"></a>');
