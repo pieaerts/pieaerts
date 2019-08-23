@@ -1,16 +1,17 @@
 ---
 title: BECAUSE PEOPLE MATTER goes NYC | October 18
-starting_date: 2019-10-18 10:00:00
+date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
-  <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
-  like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
-  broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Saturday December 28 in the city centre of
-  Amsterdam.</p>
+  <h4>&nbsp;</h4><p>After very succesfull editions in my hometown Amsterdam, I
+  am hosting my first overseas masterclass!</p><p>Do you want to push yourself
+  creatively?</p><p>Do you feel like you need a new boost in your
+  photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
+  story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Friday
+  October 18 in New York City!</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE DECEMBER 28 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NYC OCTOBER 18 MASTERCLASS
 active: true
 ---
 
@@ -24,47 +25,47 @@ Over the past few years, I've learned that growing and developing your talents m
 
 ### What?
 
-A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2019? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
+A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2019? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have a late lunch together and afterwards hit the streets of New York City where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
 
 ### Where?
 
-Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located only 5 minutes away from Leidse Square, right in the middle of the city.
+Harvest HQ. 16 W 22nd St, New York, NY 10010
 
-Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
+We will be using the Harvest Creative space next to the Flatiron building, right in the middle of Manhattan, NYC.&nbsp;
 
 The program for the day is as following:
 
-09\.30 - 10.00 Walk-in
+10\.00 - 10.30 Walk-in
 
-10\.00 - 12.00 The power of story-telling&nbsp;
+10\.30 - 12.30 The power of story-telling&nbsp;
 
-12:00 - 12:45 Lunch&nbsp;
+12:30 - 14.30 Technical aspects & editing
 
-12:45- 14.15 Technical aspects & editing&nbsp;
+14:30 - 15:30 Late Lunch
 
-14:30 - 17.00 Shooting on the streets of Amsterdam
+15:30 - 18.30 Assignment on the streets of New York City
 
-17:00 - 18.30 Evaluation of images while having drinks
+18\.30 - 20.00 Evaluation of images while having drinks
 
 ### Who?
 
 This masterclass offers space for 15 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
 
-I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know.&nbsp;
+I will be hosting the full day program. We will be ordering some take-away food together during the lunch break.&nbsp;
 
 ### Price?
 
-The price of the masterclass is € 250,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
+The price of the masterclass is $ 275,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
 ### Cancellation policy
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before November 15, 2019: 75% refund
-* Cancellation before December 1, 2019: 50% refund
-* Cancellation after December 15, 2019: no refund
+* Cancellation before September 10, 2019: 75% refund
+* Cancellation before September 30, 2019: 50% refund
+* Cancellation after October 10, 2019: no refund
 
-Come join me on December 28, 2019, talking travel, life, photography and many other things\!
+Come join me on October 19, 2019, talking travel, life, photography and many other things\!
 
 ### The photographer
 
