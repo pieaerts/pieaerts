@@ -1,6 +1,6 @@
 ---
 title: BECAUSE PEOPLE MATTER goes NYC | October 18
-date: 2019-10-18 10:00:00
+starting_date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
