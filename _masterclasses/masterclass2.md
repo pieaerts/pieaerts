@@ -1,5 +1,5 @@
 ---
-title: BECAUSE PEOPLE MATTER goes NYC | October 18
+title: 'BECAUSE PEOPLE MATTER goes NYC | October 18, 2019'
 date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
