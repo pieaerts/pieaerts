@@ -14,7 +14,7 @@
                 {{ page.introduction_html }}
                 
                 <ul>
-                {% assign sitemasterclasses = site.masterclasses | sort: 'starting_date' %}
+                {% assign sitemasterclasses = site.masterclasses | sort: 'starting_date' | reverse %}
                 {% for item in sitemasterclasses %}
                     <li>
                         {% if item.active %}
