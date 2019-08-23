@@ -1,6 +1,6 @@
 ---
 title: 'BECAUSE PEOPLE MATTER goes NYC | October 18, 2019'
-start_date: 2019-10-18 10:00:00
+starting_date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>After very succesfull editions in my hometown Amsterdam, I
