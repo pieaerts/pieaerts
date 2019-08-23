@@ -4,11 +4,11 @@ starting_date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>After very succesfull editions in my hometown Amsterdam, I
-  am hosting my first overseas masterclass!</p><p>Do you want to push yourself
-  creatively?</p><p>Do you feel like you need a new boost in your
-  photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
-  story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Friday
-  October 18 in New York City!</p>
+  am hosting my first overseas masterclass.</p><p>IN NEW YORK CITY!</p><p>Do you
+  want to push yourself creatively?</p><p>Do you feel like you need a new boost
+  in your photography?&nbsp;</p><p>Or do you want to broaden your knowledge
+  about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
+  chance!</p><p>Friday October 18 right in the middle of Manhattan!</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NYC OCTOBER 18 MASTERCLASS
@@ -29,9 +29,9 @@ A full day of inspiration in the realm of travel & street photography focusing o
 
 ### Where?
 
-Harvest HQ. 16 W 22nd St, New York, NY 10010
+Harvest HQ, 16 W 22nd St, New York, NY 10010
 
-We will be using the Harvest Creative space next to the Flatiron building, right in the middle of Manhattan, NYC.&nbsp;
+We will be using the Harvest Creative Space next to the Flatiron building, right in the middle of Manhattan, NYC.&nbsp;
 
 The program for the day is as following:
 
