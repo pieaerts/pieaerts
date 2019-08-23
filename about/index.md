@@ -21,19 +21,26 @@ layout: about
 <div>This website is a culmination of that.&nbsp;</div>
 
 I hope you like it.&nbsp;
+{: .present-before-paste}
 
 You got a story to tell? Tell me first. I’d love to help.
+{: .present-before-paste}
 
 [info@pieaerts.com](mailto:info@pieaerts.com)
+{: .present-before-paste}
 
 Or find me on Instagram:
+{: .present-before-paste}
 
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
+{: .present-before-paste}
 
 <div>&nbsp;</div>
 
 #### Want to read more about me?
 
 * [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}
+* [Het Financieele Dagblad](https://fd.nl/fd-persoonlijk/1307273/intussen-elders){: target="_blank"}
 * [Tales from the roads less Traveled](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/){: target="_blank"}
 * Or watch&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
+* Or listen to my [Podcast&nbsp;](https://open.spotify.com/episode/65rArhS9J3QLCwdZoahqmJ){: target="_blank"}
