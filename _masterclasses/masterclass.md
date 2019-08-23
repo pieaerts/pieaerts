@@ -1,6 +1,6 @@
 ---
 title: BECAUSE PEOPLE MATTER | the masterclass | December 28
-date: 2018-12-28 00:00:00
+starting_date: 2018-12-28 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
