@@ -1,15 +1,16 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | November 10
-date: 2018-11-10 00:00:00
+title: BECAUSE PEOPLE MATTER | the masterclass | December 28
+date: 2018-12-28 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Sunday November 10 in the city centre of Amsterdam.</p>
+  is your chance!</p><p>Saturday December 28 in the city centre of
+  Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NOVEMBER 10 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE DECEMBER 28 MASTERCLASS
 active: true
 ---
 
@@ -33,17 +34,17 @@ Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: 
 
 The program for the day is as following:
 
-10\.00 - 10.30 Walk-in
+09\.30 - 10.00 Walk-in
 
-10\.30 - 12.30 The power of story-telling&nbsp;
+10\.00 - 12.00 The power of story-telling&nbsp;
 
-12:30 - 13:15 Lunch&nbsp;
+12:00 - 12:45 Lunch&nbsp;
 
-13:15- 15.15 Technical aspects & editing&nbsp;
+12:45- 14.15 Technical aspects & editing&nbsp;
 
-15:30 - 17.30 Shooting on the streets of Amsterdam
+14:30 - 17.00 Shooting on the streets of Amsterdam
 
-17:30 - 19.00 Evaluation of images while having drinks
+17:00 - 18.30 Evaluation of images while having drinks
 
 ### Who?
 
@@ -59,11 +60,11 @@ The price of the masterclass is € 250,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before October 1, 2019: 75% refund
-* Cancellation before October 15, 2019: 50% refund
-* Cancellation after November 1, 2019: no refund
+* Cancellation before November 15, 2019: 75% refund
+* Cancellation before December 1, 2019: 50% refund
+* Cancellation after December 15, 2019: no refund
 
-Come join me on November 10, 2019, talking travel, life, photography and many other things\!
+Come join me on December 28, 2019, talking travel, life, photography and many other things\!
 
 ### The photographer
 
@@ -83,10 +84,6 @@ In the past few years, Dutch photographer Pie Aerts has traveled to some of the 
 
 ![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
 
-&nbsp;
-
 ![](/uploads/2g2a9720-1.jpg){: width="1600" height="1067"}
-
-&nbsp;
 
 ![](/uploads/2g2a0960a-2aaaa-1.jpg){: width="1600" height="1067"}
