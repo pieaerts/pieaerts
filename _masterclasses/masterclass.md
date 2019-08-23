@@ -1,5 +1,5 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | December 28
+title: 'BECAUSE PEOPLE MATTER | the masterclass | December 28, 2019'
 starting_date: 2018-12-28 00:00:00
 subtitle:
 introduction_html: >-
