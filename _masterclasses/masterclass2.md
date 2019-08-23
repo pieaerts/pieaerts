@@ -15,7 +15,7 @@ subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NYC OCTOBER 18 MASTERCLASS
 active: true
 ---
 
-# ![](/uploads/2g2a4587a-2.jpg){: width="1600" height="1143"}
+# ![](/uploads/bnw1.jpg){: width="1600" height="1143"}
 
 # &nbsp;
 
