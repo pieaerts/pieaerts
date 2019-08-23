@@ -10,7 +10,8 @@ introduction_html: >-
   about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
   chance!</p><p>Friday October 18 right in the middle of Manhattan!</p>
 gallery_url: /none/
-subscribe_url: 'https://forms.gle/cw8yd4ULFuSLC1sW9'
+subscribe_url: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSfAdeMbH2FfqFDo1-Iw47sNst7Ebzz7JAGj18WF1gOMq95Rnw/viewform?usp=sf_link
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE NYC OCTOBER 18 MASTERCLASS
 active: true
 ---
