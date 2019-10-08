@@ -3,8 +3,9 @@ title: 'BECAUSE PEOPLE MATTER goes NYC | October 18, 2019'
 starting_date: 2019-10-18 10:00:00
 subtitle:
 introduction_html: >-
-  <h4>&nbsp;</h4><p>After very succesfull editions in my hometown Amsterdam, I
-  am hosting my first overseas masterclass.</p><p>IN NEW YORK CITY!</p><p>Do you
+  <h4>&nbsp;</h4><p>LAST SEATS FOR REDUCED PRICE OF $ 199 instead of $
+  275</p><p>After very succesfull editions in my hometown Amsterdam, I am
+  hosting my first overseas masterclass.</p><p>IN NEW YORK CITY!</p><p>Do you
   want to push yourself creatively?</p><p>Do you feel like you need a new boost
   in your photography?&nbsp;</p><p>Or do you want to broaden your knowledge
   about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
@@ -56,7 +57,7 @@ I will be hosting the full day program. We will be ordering some take-away food 
 
 ### Price?
 
-The price of the masterclass is $ 275,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
+The price of the masterclass is $ 199,- per person&nbsp; (last-minute price off from $ 275,- per person). As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
 ### Cancellation policy
 
