@@ -45,6 +45,10 @@ collections:
   weddings:
     output: true
     permalink: /weddings/:path/
+  private_weddings:
+    output: true
+    permalink: /private-weddings/:path/
+
 
 floats: 
   - left
