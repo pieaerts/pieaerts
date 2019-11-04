@@ -1478,6 +1478,6 @@ images:
 text-color: light
 ---
 
-Beautiful day
+Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.&nbsp;
 
-Wedding venue: Oude Slot Heemstede
+Locatie: Oude Slot Heemstede
