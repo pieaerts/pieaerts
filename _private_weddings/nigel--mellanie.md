@@ -656,14 +656,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5685.jpg
+  - image: /uploads/2g2a5692.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5692.jpg
+  - image: /uploads/2g2a5685.jpg
     portrait: false
     wide: true
     title:
@@ -719,13 +719,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5714.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a5719.jpg
     portrait: false
     wide: true
@@ -740,14 +733,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5730.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a5734.jpg
+  - image: /uploads/2g2a5714.jpg
     portrait: false
     wide: true
     title:
@@ -768,7 +754,21 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a5730.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/2g2a5740.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a5734.jpg
     portrait: false
     wide: true
     title:
@@ -915,14 +915,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5893.jpg
+  - image: /uploads/2g2a5897.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5897.jpg
+  - image: /uploads/2g2a5893.jpg
     portrait: false
     wide: true
     title:
@@ -972,6 +972,41 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a6074.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a6034.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a6225.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a6069.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a6067.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a6057.jpg
     portrait: false
     wide: true
     title:
