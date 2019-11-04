@@ -292,7 +292,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/2g2a5248.jpg
     portrait: false
     wide: true
     title:
