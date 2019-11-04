@@ -1,4 +1,8 @@
 /weddings/mathijs-en-romee/
 /weddings/mathijs-en-romee/*
+/private-weddings
+/private-weddings/
+/private-weddings/*
 /weddings/portfolio
 /weddings/portfolio/
+/weddings/portfolio/*
