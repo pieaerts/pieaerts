@@ -5,7 +5,7 @@ date: 2016-05-21 00:00:00
 image: /uploads/2g2a5025.jpg
 float: left
 images:
-  - image: /uploads/2g2a5849-2.jpg
+  - image: /uploads/2g2a5025-1.jpg
     portrait: false
     wide: true
     title:
@@ -34,6 +34,20 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a4900.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a4860.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a5022.jpg
     portrait: false
     wide: true
     title:
