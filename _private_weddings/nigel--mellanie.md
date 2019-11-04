@@ -187,14 +187,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5092.jpg
+  - image: /uploads/2g2a5104.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5104.jpg
+  - image: /uploads/2g2a5092.jpg
     portrait: false
     wide: true
     title:
