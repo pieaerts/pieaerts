@@ -1,6 +1,6 @@
 ---
-title: Bart & Christine
-subtitle: Kralingse Plas
+title: Nigel & Mellanie
+subtitle: Oude Slot Heemstede
 date: 2016-05-21 00:00:00
 image: /BCwedding15.jpg
 float: left
@@ -309,6 +309,6 @@ images:
 text-color: light
 ---
 
-1 day, 3 different locations, sometimes weddings can be hectic. But love is what stitches all those little pieces together. Especially with these two! So much enthusiasm, dancing, eating & laughing. Thanks Bart & Christine for allowing me to be part of it. I had an amazing time. This story is for you!&nbsp;
+1 day, 3 different locations, sometimes weddings can be hectic. But love is what stitches all those little pieces together. Especially with these two\! So much enthusiasm, dancing, eating & laughing. Thanks Bart & Christine for allowing me to be part of it. I had an amazing time. This story is for you\!&nbsp;
 
 Wedding venue: Kralingse plas
