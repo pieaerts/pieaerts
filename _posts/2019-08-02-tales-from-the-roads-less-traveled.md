@@ -15,4 +15,4 @@ But all of this has made it, hands down, the most thoughtful, awake, inspiring a
 
 Thank you so much for being part of this journey\! I sincerely hope that this book will inspire you to keep dreaming for a better world for our children and to never lose faith about the impact we can have together if we do the right things.&nbsp;
 
-Read more&nbsp;[HERE](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/) about the reasoning behind the book or just order your own copy [HERE](https://www.mendo.nl/?gclid=Cj0KCQiAtf_tBRDtARIsAIbAKe1HubRcQfjm6j-K7o47OH2CNcH0fF8rjEybzbIq3DTHwIS-0BfzBmwaAq5vEALw_wcB){: target="_blank"}.&nbsp;
+Read more&nbsp;[HERE](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/) about the reasoning behind the book or just order your own copy [HERE](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}.&nbsp;
