@@ -1,6 +1,6 @@
 ---
 title: Nigel & Mellanie
-subtitle: Oude Slot Heemstedee
+subtitle: Oude Slot Heemstede
 date: 2016-05-21 00:00:00
 image: /uploads/2g2a5025.jpg
 float: left
