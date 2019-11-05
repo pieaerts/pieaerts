@@ -2,10 +2,10 @@
 title: Bernard & Dieuwertje
 subtitle: 'Bad Boekelo, Twente'
 date: 2016-05-21 00:00:00
-image: /uploads/2g2a9886.jpg
+image: /uploads/0h3a8388.jpg
 float: left
 images:
-  - image: /uploads/2g2a4860.jpg
+  - image: /uploads/2g2a9886-1.jpg
     portrait: false
     wide: true
     title:
