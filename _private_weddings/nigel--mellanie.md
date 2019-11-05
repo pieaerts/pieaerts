@@ -187,7 +187,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5104.jpg
+  - image: /uploads/2g2a5073.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a5088.jpg
     portrait: false
     wide: true
     title:
@@ -201,7 +208,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a5088.jpg
+  - image: /uploads/2g2a5104.jpg
     portrait: false
     wide: true
     title:
@@ -216,13 +223,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a5139.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a5073.jpg
     portrait: false
     wide: true
     title:
