@@ -1258,7 +1258,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0771.jpg
+  - image: /uploads/2g2a0955.jpg
     portrait: true
     wide: false
     title:
