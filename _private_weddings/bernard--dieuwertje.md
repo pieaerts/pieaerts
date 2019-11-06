@@ -1216,6 +1216,104 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a0750.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0753.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0751.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0758.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0760.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0773.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0771.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0812.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0775.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0777.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0778.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0780.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0787.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0771.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
