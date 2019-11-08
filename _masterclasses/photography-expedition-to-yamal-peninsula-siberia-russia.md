@@ -31,13 +31,13 @@ Yamal Peninsula, Siberia. Yamal in the language of the indigenous Nenets means t
 
 The price of the workshop is € 4200,- per person . There is room for 4-8 participants. Trip starts and ends in Moscow.&nbsp;
 
-Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation, local fly to/from Salekhard-Moscow
+Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation, local fly to/from Salekhard-Moscow.
 
 Price is based on double occupancy: a single supplements of 230 euro will apply\*
 
 *\*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply. During the stay in the Yamal peninsula will not be possible to have single room, all will be sleeping in the traditional tents*
 
-A deposit of 1000 euro is required to hold your spot, balance is due 60 day prior to departure
+A deposit of € 1000,- is required to hold your spot, balance is due 60 day prior to departure.
 
 ### Itinerary
 
@@ -53,7 +53,7 @@ A deposit of 1000 euro is required to hold your spot, balance is due 60 day prio
 
 Another option goes to ice fishing. We can go to the special place on the Sob river. We will drive over 40 km to the South from Salekhard along a “zimnik”. Zimniks are temporary winter roads which do not exist in summer. They are built of compacted snow, or on the surface of frozen rivers. And over than 20 km without any roads, only destination. You will know the Siberian tricks for catching white fish, taste the fish soup with will cook right on the field. (L,D)
 
-After return from the fishing we'll go to the Russian banya (sauna).
+After return from the fishing we'll go to the Russian banya (sauna)
 
 ### The photographer
 
