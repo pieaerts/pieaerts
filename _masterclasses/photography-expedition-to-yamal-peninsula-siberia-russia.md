@@ -8,8 +8,8 @@ introduction_html: >-
   people.&nbsp;</p><p>These reindeer herders have been living in the SIberian
   Arctic for thousands of years, completely isolated from the outside world.</p>
 gallery_url: /none/
-subscribe_url:
-subscribe_text:
+subscribe_url: 'http://remotexpeditions.com/portfolio_page/yamal-photography-expedition/'
+subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 ---
 
@@ -33,7 +33,7 @@ The price of the workshop is € 4200,- per person . There is room for 4-8 parti
 
 ### Itinerary
 
-**Day 1 – 8st March:** Fly into Moscow Domodedovo. Check in at the 4\* Airhotel. 5 minute walking distance from Airport, Meeting with the Photographer Pie Aert
+**Day 1 – 8st March:** Fly into Moscow Domodedovo. Check in at the 4\* Airhotel. 5 minute walking distance from Airport, Meeting with the Photographer Pie Aerts
 
 **Day 2 – 9nd March:** Morning flight to Salekhard-free shuttle-bus from Hotel. At the airport, we will be met by the local English speaking guide. Upload to the cars and go to the Salekhard, where the group can have some snack and coffee (tea). The guides check guest’s equipment. Then we will drive to the Kharp village approx 65 km. Nenets will meet us up there. Upload on the sleds and moving by the snowmobile 30- 80 km to the Nenets camp. Meet with Nenet family. Stay at Chum. (L,D)
 
