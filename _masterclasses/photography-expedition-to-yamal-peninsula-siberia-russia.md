@@ -61,6 +61,14 @@ After return from the fishing we'll go to the Russian banya (sauna)
 
 In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
 
+### RemotExpeditions
+
+I am proudly partnering with RemotExpeditions for this trip, one of the leading companies in hosting photographic adventures to some of the most remote areas around the world.&nbsp;
+
+Remotexpeditions was founded by adventurer photographers with the passion for remote populations, their lifestyle and the desire to understand different culture on a deeper level. During the last ten years they have been travelling in the most remote and neglected countryside areas. Remotexpeditions was born of the desire to share photographic adventures and experiences with fellow photographers—whether amateur or professional, beginner or expert.
+
+They strongly believe that the human race and its diversity is the greatest thing we can experience. When you travel with them on an expedition, you’ll enjoy boundless opportunities to be surrounded by natural wonders and exotic wildlife, to explore remote lifestyle, to learn about different cultures and share local traditions.
+
 ![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
 
 ![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
