@@ -9,7 +9,7 @@ introduction_html: >-
   Arctic for thousands of years, completely isolated from the outside world.</p>
 gallery_url: /none/
 subscribe_url: 'http://remotexpeditions.com/portfolio_page/yamal-photography-expedition/'
-subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
+subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
 active: true
 ---
 
