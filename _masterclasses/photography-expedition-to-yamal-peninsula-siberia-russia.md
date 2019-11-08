@@ -5,9 +5,8 @@ subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Join me on an adventure of a lifetime to the remote Yamal
   Peninsula in Siberia to document the life of the indigenous Nenet
-  people.&nbsp;</p><p>March 8 - 17, 2020</p><p>These reindeer herders have been
-  living in the SIberian Arctic for thousands of years, completely isolated from
-  the outside world.</p><p>&nbsp;</p><p>&nbsp;</p>
+  people.&nbsp;</p><p>These reindeer herders have been living in the SIberian
+  Arctic for thousands of years, completely isolated from the outside world.</p>
 gallery_url: /none/
 subscribe_url:
 subscribe_text:
@@ -16,72 +15,44 @@ active: true
 
 # ![](/uploads/-dsc6365.jpg){: width="1600" height="1067"}
 
-### Why?
+### When?
 
-Over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. Because being an artist, you need a teachable spirit in order to keep growing. Therefore I couldn’t be more stoked to share my love & passion for image-making with you\!
+March 8 - 17, 2020.&nbsp;
 
 ### What?
 
-A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2019? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
+An adventure of a lifetime to the remote Yamal Peninsula in Siberia, Russia. For 9 days we will live the life of the indigenous Nenet people, follow their daily rhythm, and document their century-old customs. While doing so, I will teach you all I know about visual story-telling and portrait photography. A unique opportunity to learn more about this beautiful culture and to expand your knowledge about photography.&nbsp;
 
-### Where?
+### Where and who?
 
-Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located only 5 minutes away from Leidse Square, right in the middle of the city.
-
-Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
-
-The program for the day is as following:
-
-09\.30 - 10.00 Walk-in
-
-10\.00 - 12.00 The power of story-telling&nbsp;
-
-12:00 - 12:45 Lunch&nbsp;
-
-12:45- 14.15 Technical aspects & editing&nbsp;
-
-14:30 - 17.00 Shooting on the streets of Amsterdam
-
-17:00 - 18.30 Evaluation of images while having drinks
-
-### Who?
-
-This masterclass offers space for 15 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
-
-I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know.&nbsp;
+Yamal Peninsula, Siberia. With temperatures often plummeting below -50&deg;C and fierce winds these Arctic nomads live in one of the world's most challenging environments. A strong work ethic and a robust and vibrant culture is what unites these reindeer herders. One of the last in its kind.&nbsp;
 
 ### Price?
 
-The price of the masterclass is € 250,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
+The price of the workshop is € 4200,- per person . There is room for 4-8 participants. Trip starts and ends in Moscow.&nbsp;
 
-### Cancellation policy
+### Itinerary
 
-If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
+**Day 1 – 8st March:** Fly into Moscow Domodedovo. Check in at the 4\* Airhotel. 5 minute walking distance from Airport, Meeting with the Photographer Pie Aert
 
-* Cancellation before November 15, 2019: 75% refund
-* Cancellation before December 1, 2019: 50% refund
-* Cancellation after December 15, 2019: no refund
+**Day 2 – 9nd March:** Morning flight to Salekhard-free shuttle-bus from Hotel. At the airport, we will be met by the local English speaking guide. Upload to the cars and go to the Salekhard, where the group can have some snack and coffee (tea). The guides check guest’s equipment. Then we will drive to the Kharp village approx 65 km. Nenets will meet us up there. Upload on the sleds and moving by the snowmobile 30- 80 km to the Nenets camp. Meet with Nenet family. Stay at Chum. (L,D)
 
-Come join me on December 28, 2019, talking travel, life, photography and many other things\!
+**Day 3-7 / 10rd-11th-12th-13th -14th March:** Live with the nomads, eating and sleeping in their chums (reindeer fur teepees). There will be no fixed itinerary for these days. Guests will merely observe and take part in the daily lives, hunting for the Northern lights. Daily life could include herding reindeer (up to 700 in one herd), lassoing reindeer with reindeer rawhide lassoes. Cutting trees for firewood, collecting ice or snow for water, help with making new sleds, cleaning reindeer skins (fur), sewing fur clothing and such. We can also do short hikes by the snowshoes in the Polar Ural mountains. Try ice fishing and hunting depends on the time of year, location(s) and weather conditions. (L,B,D)
+
+**Day 8 – 15th March:** After a shared breakfast with the family we will go by snowmobile to the Kharp village, where we will be picked up by car(s) and transport to Salekhard. Accommodate in the hotel, personal time. Overnight in hotel, double room. (B)
+
+**Day 9 – 16th March:** Free day in Salekhard in case of bad weather delaying our return. On this day we can visit the museum, visit the 16th century fortress of Obdursk, the first Russian settlement built on this site, visit the market square where nomads sell meat, fish and furs.
+
+Another option goes to ice fishing. We can go to the special place on the Sob river. We will drive over 40 km to the South from Salekhard along a “zimnik”. Zimniks are temporary winter roads which do not exist in summer. They are built of compacted snow, or on the surface of frozen rivers. And over than 20 km without any roads, only destination. You will know the Siberian tricks for catching white fish, taste the fish soup with will cook right on the field. (L,D)
+
+After return from the fishing we'll go to the Russian banya (sauna).
 
 ### The photographer
 
 In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
 
-### Testimonials&nbsp;
+![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
 
-***Daniel (South Africa)*** - I consider Pie’s masterclass as some of the best money I have ever spent. What I loved was that Pie wasn’t there to teach the technical elements of photography (although he very generously shared some fantastic tips) but more he spoke about connection. How he uses photography to connect to the world, to himself and to his purpose in life. Which was incredibly refreshing. I found that because of Pie’s ability to speak about what photography was to him it opened space for the rest of us to do the same. This wasn’t as much a photography masterclass as much as it was a masterclass on photography as a way of truly living life. If you’re a person that finds that being behind your lens is a gateway to connecting to and representing the world then this is the masterclass for you.&nbsp;
+![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
 
-***Laurine (Netherlands)*** - My hearts desire was to find a course where passion, quality and authenticity would dance together. Pie totally nailed that. I could not have asked for more. Jess was just the cherry on the cake with her heartfelt hospitality and nourishing food. Give yourself this gift and boost towards your next level as a conscious photographer.&nbsp;
-
-***Deepa (Philippines)*** - Pie's class really made me think about choices I make: How i see the world, what I spend time and energy creating, who I do it for, and most importantly, why?
-
-***Sander (Netherlands) -***&nbsp;It was very nice to finally meet Pie in person after years of following his work. This masterclass was not just about photography. It was about the relation between a story and a photo. If you follow Pie's work, you can tell he can capture these two things simultaneously in one beautiful shot. Pie shares his vision, his wisdom, his true opinion and most of all his joy. At the end of the day I left Amsterdam with a smile from ear to ear and I fell in love with photography even more than before.
-
-***Colette (Netherlands)*** - I was really excited when I saw that Pie hosted a masterclass\! I didn’t really know what to expect, But I was blown away by the amazing insights he offered into real story-telling. His passion & creativity are beautiful to witness. Can’t wait for the next one.
-
-![](/uploads/2g2a5538.jpg){: width="1600" height="1067"}
-
-![](/uploads/2g2a9720-1.jpg){: width="1600" height="1067"}
-
-![](/uploads/2g2a0960a-2aaaa-1.jpg){: width="1600" height="1067"}
+![](/uploads/-dsc3112.jpg){: width="1600" height="1067"}
