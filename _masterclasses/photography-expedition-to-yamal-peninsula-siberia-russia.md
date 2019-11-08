@@ -21,15 +21,23 @@ March 8 - 17, 2020.&nbsp;
 
 ### What?
 
-An adventure of a lifetime to the remote Yamal Peninsula in Siberia, Russia. For 9 days we will live the life of the indigenous Nenet people, follow their daily rhythm, and document their century-old customs. While doing so, I will teach you all I know about visual story-telling and portrait photography. A unique opportunity to learn more about this beautiful culture and to expand your knowledge about photography.&nbsp;
+An adventure of a lifetime to the remote Yamal Peninsula in Siberia, Russia. For 9 days we will live the life of the indigenous Nenet people, follow their daily rhythm, and document their century-old customs. While doing so, I will teach you all I know about visual story-telling & portrait photography. A unique opportunity to learn more about this beautiful culture and to expand your knowledge about photography.&nbsp;
 
 ### Where and who?
 
-Yamal Peninsula, Siberia. With temperatures often plummeting below -50&deg;C and fierce winds these Arctic nomads live in one of the world's most challenging environments. A strong work ethic and a robust and vibrant culture is what unites these reindeer herders. One of the last in its kind.&nbsp;
+Yamal Peninsula, Siberia. Yamal in the language of the indigenous Nenets means the end of the world; it is a remote, windblasted place of permafrost, serpentine rivers and dwarf shrubs, and has been home to the reindeer herding Nenets people for over a thousand years. The Nenets people of the Siberian arctic are the guardians of a style of reindeer herding that is the last of its kind. Through a yearly migration of over a thousand kilometers, these people move gigantic herds of reindeer from summer pastures in the north to winter pastures just south of the Arctic Circle. No-one knows for certain whether it is the reindeer that lead the people or vice versa. With temperatures often plummeting below -50&deg;C and fierce winds these Arctic nomads live in one of the world's most challenging environments. A strong work ethic and a robust and vibrant culture is what unites these reindeer herders. One of the last in its kind.&nbsp;
 
 ### Price?
 
 The price of the workshop is € 4200,- per person . There is room for 4-8 participants. Trip starts and ends in Moscow.&nbsp;
+
+Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation, local fly to/from Salekhard-Moscow
+
+Price is based on double occupancy: a single supplements of 230 euro will apply\*
+
+*\*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply. During the stay in the Yamal peninsula will not be possible to have single room, all will be sleeping in the traditional tents*
+
+A deposit of 1000 euro is required to hold your spot, balance is due 60 day prior to departure
 
 ### Itinerary
 
