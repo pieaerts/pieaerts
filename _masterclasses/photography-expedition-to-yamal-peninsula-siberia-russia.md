@@ -1,6 +1,6 @@
 ---
-title: 'PHOTOGRAPHY EXPEDITION | Yamal Peninsula, Siberia, Russia, March 2020'
-starting_date: 2018-12-28 00:00:00
+title: 'PHOTOGRAPHY EXPEDITION | Yamal Peninsula, Siberia, Russia, March 8-17, 2020'
+starting_date: 2019-03-08 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Join me on an adventure of a lifetime to the remote Yamal
