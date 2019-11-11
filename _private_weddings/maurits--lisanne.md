@@ -5,7 +5,7 @@ date: 2016-05-21 00:00:00
 image: /uploads/2g2a8986.jpg
 float: left
 images:
-  - image: /uploads/2g2a9610.jpg
+  - image: /uploads/2g2a8066-1.jpg
     portrait: false
     wide: true
     title:
