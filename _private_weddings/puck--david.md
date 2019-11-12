@@ -2,7 +2,7 @@
 title: Puck & David
 subtitle: Ameland
 date: 2016-05-21 00:00:00
-image:
+image: /uploads/2g2a3164-1.jpg
 float: left
 images:
   - image: /uploads/2g2a1506.jpg
