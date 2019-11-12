@@ -1146,21 +1146,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3035.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3039.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a2983.jpg
     portrait: false
     wide: true
     title:
@@ -1202,7 +1188,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3265.jpg
+  - image: /uploads/2g2a3316.jpg
     portrait: false
     wide: true
     title:
@@ -1223,7 +1209,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3316.jpg
+  - image: /uploads/2g2a3265.jpg
     portrait: false
     wide: true
     title:
@@ -1440,13 +1426,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3610.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3622.jpg
     portrait: false
     wide: true
@@ -1511,13 +1490,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a3746.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3757.jpg
     portrait: false
     wide: true
     title:
