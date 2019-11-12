@@ -1,6 +1,6 @@
 ---
 title: Puck & David
-subtitle: Oude Slot Heemstede
+subtitle: Ameland
 date: 2016-05-21 00:00:00
 image:
 float: left
@@ -17,4 +17,4 @@ text-color: light
 
 Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.&nbsp;
 
-Locatie: Oude Slot Heemstede
+Locatie: Ameland
