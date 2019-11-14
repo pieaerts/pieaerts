@@ -670,13 +670,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2470.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a2471.jpg
     portrait: false
     wide: true
@@ -880,13 +873,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2644.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a2652.jpg
     portrait: false
     wide: true
@@ -985,6 +971,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a2820.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a2814.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/2g2a2789.jpg
     portrait: false
     wide: true
@@ -1062,13 +1062,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2926.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a2937.jpg
     portrait: false
     wide: true
@@ -1090,7 +1083,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2954.jpg
+  - image: /uploads/2g2a2956.jpg
     portrait: false
     wide: true
     title:
@@ -1188,21 +1181,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3046.jpg
+  - image: /uploads/2g2a3047.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3164.jpg
+  - image: /uploads/2g2a3136.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3265.jpg
+  - image: /uploads/2g2a3152.jpg
     portrait: false
     wide: true
     title:
