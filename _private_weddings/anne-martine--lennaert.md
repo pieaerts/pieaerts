@@ -488,13 +488,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a0495.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1b8a0500.jpg
     portrait: true
     wide: false
@@ -510,6 +503,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a0511.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1b8a0495.jpg
     portrait: true
     wide: false
     title:
