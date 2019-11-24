@@ -2,10 +2,10 @@
 title: Anne-Martine & Lennaert
 subtitle: Wilde Westen Amsterdam
 date: 2016-05-21 00:00:00
-image: /uploads/2g2a6253-1.jpg
+image: /uploads/2g2a0025.jpg
 float: left
 images:
-  - image: /uploads/2g2a5022.jpg
+  - image: /uploads/1b8a0126.jpg
     portrait: false
     wide: true
     title:
