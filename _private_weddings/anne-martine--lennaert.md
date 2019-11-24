@@ -852,6 +852,34 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a0053-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0052.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0053-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0055.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/1b8a0799.jpg
     portrait: false
     wide: true
@@ -859,21 +887,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a0790.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a0801.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1b8a0815.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1b8a0790.jpg
     portrait: false
     wide: true
     title:
@@ -888,6 +909,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a0851.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0065.jpg
     portrait: false
     wide: true
     title:
@@ -922,13 +950,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a0824.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1b8a0831.jpg
     portrait: false
     wide: true
@@ -936,35 +957,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0052.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0053-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0053-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0055.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0065.jpg
+  - image: /uploads/1b8a0824.jpg
     portrait: false
     wide: true
     title:
@@ -1006,13 +999,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0112.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a0116-1.jpg
     portrait: false
     wide: true
@@ -1027,21 +1013,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0145.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0153-2.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0161.jpg
+  - image: /uploads/2g2a0112.jpg
     portrait: false
     wide: true
     title:
@@ -1063,6 +1035,27 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a0172.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0153-2.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0145.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0161.jpg
     portrait: false
     wide: true
     title:
