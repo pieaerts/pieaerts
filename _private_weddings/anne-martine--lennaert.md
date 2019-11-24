@@ -26,7 +26,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a0313.jpg
+  - image: /uploads/1b8a0313-1.jpg
     portrait: false
     wide: true
     title:
