@@ -852,21 +852,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0053-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a0052.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0053-1.jpg
     portrait: false
     wide: true
     title:
@@ -1028,13 +1014,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a0170.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0172.jpg
     portrait: false
     wide: true
     title:
