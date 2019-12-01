@@ -13,7 +13,7 @@ subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITIO
 active: true
 ---
 
-# ![](/uploads/-dsc6365.jpg){: width="1600" height="1067"}
+# ![](/uploads/-dsc6463-22.jpg){: width="1107" height="1600"}
 
 ### When?
 
@@ -65,6 +65,8 @@ A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior
 
 **Day 12: 29th May Departure**\: In the morning, check out from the hotel and leave for the airport to catch your flight back to the next destination.. Ladakh expedition ends with lots of memories and adventures to relate back once back home.
 
+### ![](/uploads/-dsc7792.jpg){: width="1600" height="1068"}
+
 ### The photographer
 
 In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
@@ -77,8 +79,8 @@ Remotexpeditions was founded by adventurer photographers with the passion for re
 
 They strongly believe that the human race and its diversity is the greatest thing we can experience. When you travel with them on an expedition, you’ll enjoy boundless opportunities to be surrounded by natural wonders and exotic wildlife, to explore remote lifestyle, to learn about different cultures and share local traditions.
 
-![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
+![](/uploads/-dsc6671.jpg){: width="1600" height="1068"}
 
-![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
+![](/uploads/-dsc6529.jpg){: width="1600" height="1068"}
 
-![](/uploads/-dsc3112.jpg){: width="1600" height="1067"}
+![](/uploads/-dsc6734.jpg){: width="1068" height="1600"}
