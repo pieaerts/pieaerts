@@ -1,5 +1,5 @@
 ---
-title: 'PHOTOGRAPHY EXPEDITION | Ladakh, India, May 18-29'
+title: 'PHOTOGRAPHY EXPEDITION | Ladakh, India, May 18-29, 2020'
 starting_date: 2019-03-08 00:00:00
 subtitle:
 introduction_html: >-
