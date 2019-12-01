@@ -6,7 +6,8 @@ introduction_html: >-
   <h4>&nbsp;</h4><p>Join me on an adventure of a lifetime to the remote Ladakh
   region in Northen India to explore the high-altitude lifestyle of the Ladakhi
   people.</p><p>A unique opportunity to learn more about this beautiful culture
-  and to expand your knowledge about photography.&nbsp;</p>
+  and to expand your knowledge about photography.&nbsp;</p><p>Scroll down to
+  read the full itinerary.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'http://remotexpeditions.com/portfolio_page/ladakh-photography-expedition/'
 subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
@@ -27,6 +28,8 @@ An adventure of a lifetime to the remote Ladakh region in Northern India on the 
 
 Spectacularly jagged, arid mountains enfold this magical Buddhist ex-kingdom. Picture-perfect gompas (Tibetan Buddhist monasteries) surrounded by dramatic rocky outcrops amid whitewashed stupas and mani walls. Colourful fluttering prayer flags share their spiritual messages metaphorically with the mountain breeze. Prayer wheels spun clockwise release more merit-making mantras. Ladakh has much to teach. Most Ladakhis are cash poor yet their traditional mud-brick homesteads are large and virtually self-sufficient in fuel and dairy products, organic vegetables, and barley used to make tsampa (roast barley flour) and chang (barley beer). This expedition to Ladakh is a fantastic opportunity to explore the roof of the world alongside the professional guidance of Pie Aerts. Discover ancient cultures, the historic Silk Route, and the fascinating landscapes of the Tibetan Plateau and the Trans-Himalayas. This is an expedition for those who love to dig deeper and interact with places, people, and cultures along the way. We will look for opportunities to tell meaningful stories about this special place and about the people who live there.
 
+![](/uploads/-dsc6671-1.jpg){: width="1600" height="1068"}
+
 ### Price?
 
 The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India.&nbsp;
@@ -38,6 +41,8 @@ Price is based on double occupancy: a single supplements of $ 380 will apply\*
 *\*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply.&nbsp;*
 
 A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior to departure.
+
+![](/uploads/-dsc7792-1.jpg){: width="1600" height="1068"}
 
 ### Itinerary
 
@@ -65,7 +70,7 @@ A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior
 
 **Day 12: 29th May Departure**\: In the morning, check out from the hotel and leave for the airport to catch your flight back to the next destination.. Ladakh expedition ends with lots of memories and adventures to relate back once back home.
 
-### ![](/uploads/-dsc7792.jpg){: width="1600" height="1068"}
+### ![](/uploads/-dsc6529-1.jpg){: width="1600" height="1068"}
 
 ### The photographer
 
@@ -78,9 +83,5 @@ I am proudly partnering with RemotExpeditions for this trip, one of the leading 
 Remotexpeditions was founded by adventurer photographers with the passion for remote populations, their lifestyle and the desire to understand different culture on a deeper level. During the last ten years they have been travelling in the most remote and neglected countryside areas. Remotexpeditions was born of the desire to share photographic adventures and experiences with fellow photographers—whether amateur or professional, beginner or expert.
 
 They strongly believe that the human race and its diversity is the greatest thing we can experience. When you travel with them on an expedition, you’ll enjoy boundless opportunities to be surrounded by natural wonders and exotic wildlife, to explore remote lifestyle, to learn about different cultures and share local traditions.
-
-![](/uploads/-dsc6671.jpg){: width="1600" height="1068"}
-
-![](/uploads/-dsc6529.jpg){: width="1600" height="1068"}
 
 ![](/uploads/-dsc6734.jpg){: width="1068" height="1600"}
