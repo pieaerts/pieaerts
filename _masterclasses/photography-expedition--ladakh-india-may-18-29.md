@@ -30,6 +30,8 @@ Spectacularly jagged, arid mountains enfold this magical Buddhist ex-kingdom. Pi
 
 ![](/uploads/-dsc6671-1.jpg){: width="1600" height="1068"}
 
+### &nbsp;
+
 ### Price?
 
 The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India.&nbsp;
@@ -43,6 +45,8 @@ Price is based on double occupancy: a single supplements of $ 380 will apply\*
 A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior to departure.
 
 ![](/uploads/-dsc7792-1.jpg){: width="1600" height="1068"}
+
+### &nbsp;
 
 ### Itinerary
 
@@ -71,6 +75,8 @@ A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior
 **Day 12: 29th May Departure**\: In the morning, check out from the hotel and leave for the airport to catch your flight back to the next destination.. Ladakh expedition ends with lots of memories and adventures to relate back once back home.
 
 ### ![](/uploads/-dsc6529-1.jpg){: width="1600" height="1068"}
+
+### &nbsp;
 
 ### The photographer
 
