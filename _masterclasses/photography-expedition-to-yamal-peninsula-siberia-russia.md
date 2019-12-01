@@ -8,7 +8,8 @@ introduction_html: >-
   people.&nbsp;</p><p>These reindeer herders have been living in the SIberian
   Arctic for thousands of years, completely isolated from the outside
   world.</p><p>A unique opportunity to learn more about this beautiful culture
-  and to expand your knowledge about photography.&nbsp;</p>
+  and to expand your knowledge about photography.&nbsp;</p><p>Scroll down to
+  read the full itinerary.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'http://remotexpeditions.com/portfolio_page/yamal-photography-expedition/'
 subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
@@ -28,6 +29,8 @@ An adventure of a lifetime to the remote Yamal Peninsula in Siberia, Russia. For
 ### Where and who?
 
 Yamal Peninsula, Siberia. Yamal in the language of the indigenous Nenets means the end of the world; it is a remote, windblasted place of permafrost, serpentine rivers and dwarf shrubs, and has been home to the reindeer herding Nenets people for over a thousand years. The Nenets people of the Siberian arctic are the guardians of a style of reindeer herding that is the last of its kind. Through a yearly migration of over a thousand kilometers, these people move gigantic herds of reindeer from summer pastures in the north to winter pastures just south of the Arctic Circle. No-one knows for certain whether it is the reindeer that lead the people or vice versa. With temperatures often plummeting below -50&deg;C and fierce winds these Arctic nomads live in one of the world's most challenging environments. A strong work ethic and a robust and vibrant culture is what unites these reindeer herders. One of the last in its kind.&nbsp;
+
+### ![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
 
 ### Price?
 
@@ -57,6 +60,8 @@ Another option goes to ice fishing. We can go to the special place on the Sob ri
 
 After return from the fishing we'll go to the Russian banya (sauna)
 
+![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
+
 ### The photographer
 
 In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
@@ -68,9 +73,5 @@ I am proudly partnering with RemotExpeditions for this trip, one of the leading 
 Remotexpeditions was founded by adventurer photographers with the passion for remote populations, their lifestyle and the desire to understand different culture on a deeper level. During the last ten years they have been travelling in the most remote and neglected countryside areas. Remotexpeditions was born of the desire to share photographic adventures and experiences with fellow photographers—whether amateur or professional, beginner or expert.
 
 They strongly believe that the human race and its diversity is the greatest thing we can experience. When you travel with them on an expedition, you’ll enjoy boundless opportunities to be surrounded by natural wonders and exotic wildlife, to explore remote lifestyle, to learn about different cultures and share local traditions.
-
-![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
-
-![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
 
 ![](/uploads/-dsc3112.jpg){: width="1600" height="1067"}
