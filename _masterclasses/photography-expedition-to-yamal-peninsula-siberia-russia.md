@@ -32,6 +32,8 @@ Yamal Peninsula, Siberia. Yamal in the language of the indigenous Nenets means t
 
 ### ![](/uploads/-dsc2477.jpg){: width="1600" height="1067"}
 
+### &nbsp;
+
 ### Price?
 
 The price of the workshop is € 4200,- per person . There is room for 4-8 participants. Trip starts and ends in Moscow.&nbsp;
@@ -61,6 +63,8 @@ Another option goes to ice fishing. We can go to the special place on the Sob ri
 After return from the fishing we'll go to the Russian banya (sauna)
 
 ![](/uploads/-dsc6412.jpg){: width="1600" height="1067"}
+
+### &nbsp;
 
 ### The photographer
 
