@@ -33,20 +33,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a2020.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2008.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1b8a1999.jpg
     portrait: false
     wide: true
@@ -76,13 +62,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a2003.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2040.jpg
     portrait: false
     wide: true
     title:
@@ -475,13 +454,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a2496.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2502.jpg
     portrait: false
     wide: true
     title:
