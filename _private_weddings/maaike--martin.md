@@ -1,6 +1,6 @@
 ---
 title: Maaike & Martin
-subtitle: 'Polleplaets, Friesland'
+subtitle: 'Pollepleats, Friesland'
 date: 2016-05-21 00:00:00
 image: /uploads/1b8a2626.jpg
 float: left
@@ -873,20 +873,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a2797.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2804.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1b8a2807.jpg
     portrait: false
     wide: true
@@ -1319,4 +1305,4 @@ text-color: light
 
 Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.&nbsp;
 
-Locatie: Polleplaets, Friesland&nbsp;
+Locatie: Pollepleats, Friesland&nbsp;
