@@ -1258,13 +1258,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a3182.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a0862.jpg
     portrait: false
     wide: true
