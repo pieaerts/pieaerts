@@ -936,6 +936,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/1b8a2908.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/1b8a2872.jpg
     portrait: false
     wide: true
@@ -958,13 +965,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a2898.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2908.jpg
     portrait: false
     wide: true
     title:
@@ -1034,14 +1034,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a2951.jpg
+  - image: /uploads/1b8a2956.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1b8a2956.jpg
+  - image: /uploads/1b8a2951.jpg
     portrait: false
     wide: true
     title:
@@ -1056,20 +1056,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a2965.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2967.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1b8a2976.jpg
     portrait: false
     wide: true
     title:
@@ -1118,6 +1104,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/1b8a2967.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/1b8a3013.jpg
     portrait: false
     wide: true
@@ -1135,6 +1128,13 @@ images:
   - image: /uploads/1b8a3038.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1b8a2976.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
@@ -1175,6 +1175,20 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1b8a3086.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1b8a3097.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
     portrait: false
     wide: true
     title:
