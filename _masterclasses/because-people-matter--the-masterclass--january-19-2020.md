@@ -47,7 +47,7 @@ The program for the day is as following:
 
 ### Who?
 
-This masterclass offers space for 15 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
+This masterclass offers space for 20 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
 
 I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know.&nbsp;
 
