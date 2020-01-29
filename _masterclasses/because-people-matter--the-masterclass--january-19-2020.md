@@ -33,17 +33,17 @@ Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: 
 
 The program for the day is as following:
 
-09\.30 - 10.00 Walk-in
+08\.00 - 08.30 Walk-in
 
-10\.00 - 12.00 The power of story-telling&nbsp;
+08\.30 - 10.30 The power of story-telling&nbsp;
 
-12:00 - 12:45 Lunch&nbsp;
+10:30 - 11:30 Technical aspects & editing
 
-12:45- 14.15 Technical aspects & editing&nbsp;
+11:30 - 12:15 Lunch&nbsp;
 
-14:30 - 17.00 Shooting on the streets of Amsterdam
+12:15 - 15:30 Shooting on the streets of Amsterdam
 
-17:00 - 18.30 Evaluation of images while having drinks
+15:30 - 17.30 Evaluation of images
 
 ### Who?
 
