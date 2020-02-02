@@ -23,7 +23,7 @@ Over the past few years, I've learned that growing and developing your talents m
 
 ### What?
 
-A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2019? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
+A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2020? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
 
 ### Where?
 
