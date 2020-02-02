@@ -53,7 +53,7 @@ I will be hosting the full day program. My girlfriend Jessica will be serving a 
 
 ### Price?
 
-The price of the masterclass is € 250,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
+The price of the masterclass is € 300,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
 ### Cancellation policy
 
