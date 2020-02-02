@@ -1,15 +1,15 @@
 ---
-title: 'BECAUSE PEOPLE MATTER | the masterclass | February 1, 2020'
-starting_date: 2019-02-01 00:00:00
+title: 'BECAUSE PEOPLE MATTER | the masterclass | June 6, 2020'
+starting_date: 2019-06-06 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Saturday February 1 in the city centre of Amsterdam.</p>
+  is your chance!</p><p>Saturday June 6 in the city centre of Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/ggwtVkUoymFGMoDh9'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE FEBRUARY 1 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE JUNE 6 MASTERCLASS
 active: true
 ---
 
@@ -33,17 +33,17 @@ Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: 
 
 The program for the day is as following:
 
-08\.00 - 08.30 Walk-in
+13\.00 - 13.30 Walk-in
 
-08\.30 - 10.30 The power of story-telling&nbsp;
+13\.30 - 15.00 The power of story-telling&nbsp;
 
-10:30 - 11:30 Technical aspects & editing
+15:00 - 16:30 Technical aspects & editing
 
-11:30 - 12:15 Lunch&nbsp;
+16:30 - 17:30 Dinner
 
-12:15 - 15:30 Shooting on the streets of Amsterdam
+17:30 - 21:00 &nbsp;Shooting on the streets of Amsterdam
 
-15:30 - 17.30 Evaluation of images
+21:00 - 23.00 Evaluation of images & drinks&nbsp;
 
 ### Who?
 
@@ -59,11 +59,11 @@ The price of the masterclass is € 250,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before January 1, 2020: 75% refund
-* Cancellation before January 15, 2020: 50% refund
-* Cancellation after February 1, 2020: no refund
+* Cancellation before May 1, 2020: 75% refund
+* Cancellation before May 15, 2020: 50% refund
+* Cancellation after May 29, 2020: no refund
 
-Come join me on February 1, 2020, talking travel, life, photography and many other things\!
+Come join me on June 6, 2020, talking travel, life, photography and many other things\!
 
 ### The photographer
 
