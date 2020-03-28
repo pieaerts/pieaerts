@@ -117,21 +117,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0768.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a0758-1.jpg
+  - image: /uploads/2g2a0747.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0747.jpg
+  - image: /uploads/2g2a0758-1.jpg
     portrait: true
     wide: false
     title:
