@@ -775,7 +775,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1832.jpg
+  - image: /uploads/2g2a1830.jpg
     portrait: false
     wide: true
     title:
@@ -797,13 +797,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a1852.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a1830.jpg
     portrait: false
     wide: true
     title:
