@@ -3,9 +3,10 @@ title: 'RESCHEDULED!!! BECAUSE PEOPLE MATTER | the masterclass | June 6, 2020'
 starting_date: 2019-06-06 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION WILL BE
-  RESCHEDULED TO LATER THIS YEAR</h4><p>&nbsp;</p><p>Do you want to push
-  yourself creatively?</p><p>Do you feel like you need a new boost in your
+  <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS MASTERCLASS WILL BE
+  RESCHEDULED TO LATER THIS YEAR. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL
+  CHANNELS. STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Do you want to push yourself
+  creatively?</p><p>Do you feel like you need a new boost in your
   photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
   story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday June
   6 in the city centre of Amsterdam.</p>
