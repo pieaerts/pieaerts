@@ -4,7 +4,7 @@ image: /uploads/0h3a6324-copy-5-1.JPG
 layout: about
 ---
 
-<div><p>My name is Pie.<br />Which has, contrary to popular belief, nothing to do with apples.<br />Trough my viewfinder I am examining the relationship between humans, animals and the natural world in an attempt to find answers why we all seem increasingly disconnected from each other and from our natural environment.<br />A visual journey towards the essence of our existence.<br />This website is a culmination of that.&nbsp;</p></div>
+<div><p>My name is Pie.<br />Which has, contrary to popular belief, nothing to do with apples.<br />Trough my viewfinder I am examining the relationship between humans, animals and the natural world in an attempt to find answers<br />why we all seem increasingly disconnected from each other and from our natural environment.<br />A visual journey towards the essence of our existence.<br />This website is a culmination of that.&nbsp;</p></div>
 
 You got a story to tell? Tell me first. I’d love to help.
 {: .present-before-paste}
