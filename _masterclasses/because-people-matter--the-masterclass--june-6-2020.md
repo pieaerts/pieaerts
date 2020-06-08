@@ -1,18 +1,15 @@
 ---
-title: 'RESCHEDULED!!! BECAUSE PEOPLE MATTER | the masterclass | June 6, 2020'
-starting_date: 2019-06-06 00:00:00
+title: 'BECAUSE PEOPLE MATTER | the masterclass | August 8, 2020'
+starting_date: 2020-08-08 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS MASTERCLASS WILL BE
-  RESCHEDULED TO LATER THIS YEAR. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL
-  CHANNELS. STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Do you want to push yourself
-  creatively?</p><p>Do you feel like you need a new boost in your
-  photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
-  story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday June
-  6 in the city centre of Amsterdam.</p>
+  <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
+  like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
+  broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
+  is your chance!</p><p>Saturday August 8 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/ggwtVkUoymFGMoDh9'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE JUNE 6 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE AUGUST 8 MASTERCLASS
 active: true
 ---
 
@@ -26,27 +23,29 @@ Over the past few years, I've learned that growing and developing your talents m
 
 ### What?
 
-A full day of inspiration in the realm of travel & street photography focusing on the main question: what does it mean to be a story-teller in 2020? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
+A full day of inspiration in the realm of visual story-telling focusing on the main question: what does it mean to be a story-teller in 2020? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
 
 ### Where?
 
-Bloom Room, Derde Helmersstraat 30H, Amsterdam. This creative space is located only 5 minutes away from Leidse Square, right in the middle of the city.
+Amsterdam Fashion Centre, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance.&nbsp;&nbsp;
 
 Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
 
 The program for the day is as following:
 
-13\.00 - 13.30 Walk-in
+12\.30 - 13.00 Walk-in
 
-13\.30 - 15.00 The power of story-telling&nbsp;
+13\.00 - 14.30 The power of story-telling&nbsp;
 
-15:00 - 16:30 Technical aspects & editing
+14\.30 - 15.30 Technical aspects & post-production&nbsp;&nbsp;
+
+15:30 - 16:30 Social Media & building your personal brand as a photographer&nbsp;
 
 16:30 - 17:30 Dinner
 
-17:30 - 21:00 &nbsp;Shooting on the streets of Amsterdam
+17:30 - 21:30 Shooting on the streets of Amsterdam
 
-21:00 - 23.00 Evaluation of images & drinks&nbsp;
+21:30 - 23.00 Evaluation of images & drinks&nbsp;
 
 ### Who?
 
@@ -62,11 +61,11 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before May 1, 2020: 75% refund
-* Cancellation before May 15, 2020: 50% refund
-* Cancellation after May 29, 2020: no refund
+* Cancellation before July 1, 2020: 75% refund
+* Cancellation before July 15, 2020: 50% refund
+* Cancellation after July 15, 2020: no refund
 
-Come join me on June 6, 2020, talking travel, life, photography and many other things\!
+Come join me on August 8, 2020, talking travel, life, photography and many other things\!
 
 ### The photographer
 
