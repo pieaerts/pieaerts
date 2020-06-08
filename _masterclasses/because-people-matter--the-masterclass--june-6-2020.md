@@ -8,7 +8,8 @@ introduction_html: >-
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
   is your chance!</p><p>Saturday August 8 in Amsterdam.</p>
 gallery_url: /none/
-subscribe_url: 'https://forms.gle/ggwtVkUoymFGMoDh9'
+subscribe_url: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSdILjJm900iyJeW8W-DHXj6DiVX0-7gc1Sbu8NaaLdYH9ieMA/viewform
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE AUGUST 8 MASTERCLASS
 active: true
 ---
