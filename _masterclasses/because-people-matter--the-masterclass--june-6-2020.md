@@ -20,27 +20,25 @@ active: true
 
 ### Why?
 
-Over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. Because being an artist, you need a teachable spirit in order to keep growing. Therefore I couldn’t be more stoked to share my love & passion for image-making with you\!
+Because I freaking love sharing my passion for story-telling with people\! And because over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. You simply need a teachable spirit in order to keep growing. So let's get ready and fine-tune your story-telling skills to be ready when the world opens up again\!&nbsp;
 
 ### What?
 
-A full day of inspiration in the realm of visual story-telling focusing on the main question: what does it mean to be a story-teller in 2020? We will start the day with an interactive session in which I will teach you all I know about the emotional power of story-telling, the technical aspects of photography and the ins & outs of post production. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work.&nbsp;
+A full day of inspiration in the realm of visual story-telling focusing on the main question: what does it mean to be a story-teller in 2020?&nbsp; I will teach you all I know about the emotional power of story-telling, the technical aspects of photography, the digital and analogue gear I use and the ins & outs of post production. On top I will help you in understanding how to build a successful brand as a photographer and how to make your work stand-out in this social media age. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work and have some drinks.&nbsp;
 
 ### Where?
 
-Amsterdam Fashion Centre, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance.&nbsp;&nbsp;
-
-Check it out here: [https://www.bloomroom.nl&nbsp;](https://www.bloomroom.nl){: target="_blank"}
-
-The program for the day is as following:
+Amsterdam Fashion Centre, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
 
 12\.30 - 13.00 Walk-in
 
-13\.00 - 14.30 The power of story-telling&nbsp;
+13\.00 - 14.00 What is a story?&nbsp;
 
-14\.30 - 15.30 Technical aspects & post-production&nbsp;&nbsp;
+14\.00 - 15.00 Technical aspects & gear
 
-15:30 - 16:30 Social Media & building your personal brand as a photographer&nbsp;
+15:00 - 16:00 Post production&nbsp;
+
+16:00 - 16:30 Social Media & building your personal brand as a photographer&nbsp;
 
 16:30 - 17:30 Dinner
 
