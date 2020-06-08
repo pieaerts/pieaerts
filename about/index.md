@@ -10,18 +10,7 @@ layout: about
 
 <div>I love road trips, the universe, sunlight and the 70s, but above all else, telling stories. &nbsp;</div>
 
-<div>When I&rsquo;m not on the road, you most likely find me in Amsterdam, living life together with Jessica.&nbsp;</div>
-
-<div>One of the coolest things about taking photo&rsquo;s is that it puts you in a mental state of searching for beauty.&nbsp;</div>
-
-<div>A constant quest for pretty things.</div>
-
-<div>In doing so, I came across lots of different people and their stories.</div>
-
-<div>This website is a culmination of that.&nbsp;</div>
-
-I hope you like it.&nbsp;
-{: .present-before-paste}
+<div><p>Trough my viewfinder I am examining the relationship between humans, animals and the natural world in an attempt to find answers why we all seem increasingly disconnected from each other and from our natural environment.<br />A visual journey towards the essence of our existence.<br />This website is a culmination of that.&nbsp;</p></div>
 
 You got a story to tell? Tell me first. I’d love to help.
 {: .present-before-paste}
