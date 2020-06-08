@@ -1,6 +1,6 @@
 ---
 title: How are you?
-image: /uploads/pie-aerts.jpg
+image: /uploads/0h3a6324-copy-5-1.JPG
 layout: about
 ---
 
