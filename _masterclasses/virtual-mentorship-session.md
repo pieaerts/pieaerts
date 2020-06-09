@@ -3,7 +3,7 @@ title: VIRTUAL MENTORSHIP SESSION
 starting_date: 2020-07-01 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>&nbsp;</h4><p>For the first time ever I am launching virtual mentorship
+  <p>For the first time ever I am launching virtual mentorship
   sessions.&nbsp;</p><p>For those of you that can't travel to
   Amsterdam!</p><p>Do you feel like you need a new boost in your
   photography?&nbsp;</p><p>Or do you want me to review your portfolio, this is
