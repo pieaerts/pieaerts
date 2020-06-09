@@ -14,9 +14,7 @@ subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE AUGUST 8 MASTERCLASS
 active: true
 ---
 
-# ![](/uploads/2g2a4587a-2.jpg){: width="1600" height="1143"}
-
-# &nbsp;
+# ![](/uploads/2g2a9064.jpg){: width="1600" height="1067"}
 
 ### Why?
 
@@ -28,19 +26,19 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 ### Where?
 
-Amsterdam Fashion Centre, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
+Berghaus Plaza, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
 
 12\.30 - 13.00 Walk-in
 
-13\.00 - 14.00 What is a story?&nbsp;
+13\.00 - 14.00 What is a story? How to build a story from scratch to publication
 
-14\.00 - 15.00 Technical aspects & gear
+14\.00 - 15.00 Technical aspects & gear (digital & film)
 
-15:00 - 16:00 Post production&nbsp;
+15:00 - 16:00 Post production
 
 16:00 - 16:30 Social Media & building your personal brand as a photographer&nbsp;
 
-16:30 - 17:30 Dinner
+16:30 - 17:30 Vegetarian dinner&nbsp;
 
 17:30 - 21:30 Shooting on the streets of Amsterdam
 
@@ -68,7 +66,7 @@ Come join me on August 8, 2020, talking travel, life, photography and many other
 
 ### The photographer
 
-In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.&nbsp;
+After studying at the Hogere Hotelschool Maastricht and an eventful corporate career at Ahold Delhaize, Pie Aerts decided to change course. He says goodbye to his comfortable life in the Netherlands and ventures into the world. In all but everyday locations in more than twenty countries, Aerts explores what it means to be "human", with an emphasis on the simple, imperfect and mysterious of our daily existence. He spends weeks with gauchos in Patagonia, chases poachers in Uganda, lives with Buddhist monks in monasteries high in the Himalayas and travels deep into the heart of Papua. The photographs of Aerts, a self-taught talent unique at this time, unleash an engaging sense of connection and invite us to reflect on the essence of our existence. Through his lens, he not only examines the relationship between humans, animals and nature, but also tries to find an answer to the question of how it may be that we seem to become increasingly distant from each other and from ourselves.
 
 ### Testimonials&nbsp;
 
