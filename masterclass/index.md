@@ -2,7 +2,7 @@
 title: Masterclasses
 introduction_html: >-
   <p>Do you want to learn about the power of visual story-telling? Subscribe to
-  Because People Matter | the masterclass</p>
+  any of below events</p>
 layout: masterclasses
 ---
 
