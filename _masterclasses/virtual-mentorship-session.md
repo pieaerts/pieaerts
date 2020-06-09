@@ -25,12 +25,6 @@ Because I freaking love sharing my passion for story-telling with people\! And b
 
 A 1+ hour session between you and me. I will video-call you and we will chat about anything you like, business strategy, social media, gear, about how to find your own voice. There’s room for as much open questions as you want, critique of your portfolio and advice about future steps in building your personal brand. You are in control of this 1 hour session and I'm there to help you\!&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Price?
 
 The price of a virtual mentorship session is EUR 250,- for a 1+ hour session. As soon as your time slot is approved, you will be send a payment link.&nbsp;
