@@ -3,11 +3,10 @@ title: 'BECAUSE PEOPLE MATTER | the masterclass | August 8, 2020'
 starting_date: 2020-08-08 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>WE ARE BACK! WITH A NEW COVID-PROOF MASTERCLASS!</h4><p>Do you want to
-  push yourself creatively?</p><p>Do you feel like you need a new boost in your
-  photography?&nbsp;</p><p>Or do you want to broaden your knowledge about visual
-  story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday
-  August 8 in Amsterdam.</p>
+  <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
+  like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
+  broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
+  is your chance!</p><p>Saturday August 8 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdILjJm900iyJeW8W-DHXj6DiVX0-7gc1Sbu8NaaLdYH9ieMA/viewform
