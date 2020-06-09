@@ -1,6 +1,6 @@
 ---
-title: Virtual Mentorship Session
-starting_date: 2020-08-08 00:00:00
+title: VIRTUAL MENTORSHIP SESSION
+starting_date: 2020-07-01 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>For the first time ever I am launching virtual mentorship
