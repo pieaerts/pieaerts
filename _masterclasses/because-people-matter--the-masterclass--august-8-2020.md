@@ -30,15 +30,17 @@ Berghaus Plaza, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allo
 
 12\.30 - 13.00 Walk-in
 
-13\.00 - 14.00 What is a story? How to build a story from scratch to publication
+13\.00 - 14.00 What is a story? Building a story from scratch to publication
 
 14\.00 - 15.00 Technical aspects & gear (digital & film)
 
 15:00 - 16:00 Post production
 
-16:00 - 16:30 Social Media & building your personal brand as a photographer&nbsp;
+16:00 - 16:30 Finding your own voice as an artist
 
-16:30 - 17:30 Vegetarian dinner&nbsp;
+16:30 - 17:00 Social Media & building your personal brand as a photographer&nbsp;
+
+17:00 - 17:30 Vegetarian dinner&nbsp;
 
 17:30 - 21:30 Shooting on the streets of Amsterdam
 
