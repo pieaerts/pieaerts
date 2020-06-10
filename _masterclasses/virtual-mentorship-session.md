@@ -1,5 +1,5 @@
 ---
-title: VIRTUAL MENTORSHIP SESSION
+title: VIRTUAL MENTORSHIP SESSION | pick your own date & time
 starting_date: 2020-07-01 00:00:00
 subtitle:
 introduction_html: >-
