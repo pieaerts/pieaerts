@@ -1,5 +1,5 @@
 ---
-title: 'Masterclasses, expeditions & more'
+title: 'masterclasses, expeditions & more'
 introduction_html: >-
   <p>Do you want to learn about the power of visual story-telling? Subscribe to
   any of below events</p>
