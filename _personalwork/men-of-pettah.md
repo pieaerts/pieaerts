@@ -131,4 +131,4 @@ text-color: light
 
 36 degrees Celsius, the air full of exhaust fumes and the stench of dried fish. Continual yelling over the blasting of speakers. A manic tangle of trucks, carts, bicycles, produce and men. This is the bedlam of Pettah Market.&nbsp;
 
-Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
