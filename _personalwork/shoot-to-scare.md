@@ -187,4 +187,4 @@ text-color: light
 
 The story of Albert Odar, a former poacher turned ranger in Murchison Falls National Park, Uganda. A story about hope, courage and fear.&nbsp;
 
-Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
