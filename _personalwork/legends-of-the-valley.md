@@ -144,4 +144,4 @@ text-color: light
 
 A story about a gathering of tribes deep in the Wamena highlands, coming together to celebrate. These are the legends of the valley.&nbsp;
 
-Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
