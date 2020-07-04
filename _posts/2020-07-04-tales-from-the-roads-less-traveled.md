@@ -15,4 +15,4 @@ But all of this has made it, hands down, the most thoughtful, awake, inspiring a
 
 Thank you so much for being part of this journey\! I sincerely hope that this book will inspire you to keep dreaming for a better world for our children and to never lose faith about the impact we can have together if we do the right things.&nbsp;
 
-Order your own copy [HERE](https://shop.pieaerts.com/collections/book/products/tales-from-the-roads-less-traveled){: target="_blank"}.&nbsp;
+Order your own copy [HERE](https://shop.pieaerts.com/collections/book){: target="_blank"}.&nbsp;
