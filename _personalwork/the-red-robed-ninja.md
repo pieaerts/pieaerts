@@ -131,4 +131,4 @@ text-color: light
 
 The spiritual calling of a 6 year old boy at Thrangu Tashi Yangtse Monastery, Nepal.
 
-Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
