@@ -117,4 +117,4 @@ text-color: light
 
 Sensory overload: clashing cacophonous. Crowded, corrupt, chaotic, poor and unsettling, with deeply rooted inequalities. Welcoming, cultured, wealthy, peaceful, happy and uniquely timeless. This is Varanasi.&nbsp;
 
-Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://www.mendo.nl/product/tales-from-the-roads-less-traveled/){: target="_blank"}
+Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
