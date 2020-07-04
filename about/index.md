@@ -25,6 +25,6 @@ Or find me on Instagram:
 * [Het Parool](https://www.parool.nl/ps/reisfotograaf-pie-aerts-wat-kunnen-wij-leren-van-far-away~b41ec25a/){: target="_blank"}&nbsp;(NL)
 * [Het Financieele Dagblad](https://fd.nl/fd-persoonlijk/1307273/intussen-elders){: target="_blank"}&nbsp;(NL)
 * [World Traveller Magazine](https://worldtravellermagazine.com/2019/08/21/interview-with-travel-photographer-pie-aerts/){: target="_blank"} (ENG)
-* [Tales from the roads less Traveled](https://www.mendo.nl/journal/stories/photographer-pie-aerts-on-capturing-beauty/){: target="_blank"}&nbsp;(ENG)
+* [Tales from the roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}&nbsp;(ENG)
 * Or watch&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}&nbsp;(ENG)
 * Or listen to my [Podcast](https://open.spotify.com/episode/65rArhS9J3QLCwdZoahqmJ){: target="_blank"}&nbsp;(NL)
