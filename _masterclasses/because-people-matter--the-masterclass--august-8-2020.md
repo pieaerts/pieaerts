@@ -26,7 +26,7 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 ### Where?
 
-Berghaus Plaza, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
+Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
 
 12\.30 - 13.00 Walk-in
 
