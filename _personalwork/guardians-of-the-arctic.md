@@ -5,13 +5,6 @@ date: 2020-07-08 00:00:00
 image: /uploads/2g2a9064-1.jpg
 float: left
 images:
-  - image: /uploads/2g2a9064-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a9989.jpg
     portrait: false
     wide: true
@@ -26,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1z8a0244-2.jpg
+  - image: /uploads/1z8a0244-3.jpg
     portrait: true
     wide: false
     title:
