@@ -1,7 +1,7 @@
 ---
 title: white out
 subtitle:
-date: 2017-07-30 00:00:00
+date: 2020-07-06 00:00:00
 image: /uploads/2g2a9064-1.jpg
 float: left
 images:
