@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0688.jpg
+  - image: /uploads/2g2a0688-3.jpg
     portrait: false
     wide: true
     title:
@@ -208,6 +208,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/dji-0101-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/2g2a0272-2.jpg
     portrait: true
     wide: false
@@ -222,13 +229,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/dji-0101-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/dji-0016.jpg
     portrait: false
     wide: true
@@ -237,6 +237,62 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a9507.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a9306.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0095-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0565.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1z8a9992.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a9267.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1z8a0183.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/1z8a0318.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a0724a.jpg
     portrait: false
     wide: true
     title:
