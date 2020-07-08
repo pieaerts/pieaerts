@@ -1,5 +1,5 @@
 ---
-title: 'Shoot to scare, not to kill'
+title: 'shoot to scare, not to kill'
 subtitle:
 date: 2017-07-31 00:00:00
 image: /uploads/2g2a9002.jpg
