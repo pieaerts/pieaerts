@@ -54,7 +54,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9669a-2.jpg
+  - image: /uploads/2g2a9795.jpg
     portrait: false
     wide: true
     title:
@@ -75,7 +75,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9795.jpg
+  - image: /uploads/2g2a9669a-2.jpg
     portrait: false
     wide: true
     title:
