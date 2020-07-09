@@ -1,5 +1,5 @@
 ---
-title: Legends of the valley
+title: legends of the valley
 subtitle:
 date: 2017-07-27 00:00:00
 image: /uploads/2g2a0212.jpg
