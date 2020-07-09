@@ -304,4 +304,4 @@ text-color: light
 
 #### Yamalo-Nenets Autonomous Okrug, Siberia, Russia
 
-Guardians of the Arctic. Living a life in solitary existence. Resilient. Robust. Quiet. Persistent. Crossing the Siberian tundra on one of the longest migrational routes on earth. Year after year, for thousands of years. Because the tundra is home, and the reindeer are life.
+Guardians of the Arctic. Living a life in solitary existence. Resilient. Robust. Quiet. Persistent. Crossing the Siberian tundra on one of the longest migrational routes on earth. Year after year, for thousands of years. Because the tundra is home, and the reindeer are life. But whether it’s the reindeer that lead the people or vice versa will forever be a mystery.
