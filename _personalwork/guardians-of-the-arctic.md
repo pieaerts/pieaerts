@@ -2,7 +2,7 @@
 title: white out
 subtitle:
 date: 2020-07-08 00:00:00
-image: /uploads/2g2a9064-1.jpg
+image: /uploads/2g2a9064-3.jpg
 float: left
 images:
   - image: /uploads/2g2a9989-2.jpg
@@ -103,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9064-2.jpg
+  - image: /uploads/2g2a9041-2.jpg
     portrait: false
     wide: true
     title:
@@ -243,6 +243,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/2g2a9064-3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/2g2a9306.jpg
     portrait: true
     wide: false
@@ -258,13 +265,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a0565.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a9041-1.jpg
     portrait: false
     wide: true
     title:
