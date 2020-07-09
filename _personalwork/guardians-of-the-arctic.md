@@ -103,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9041.jpg
+  - image: /uploads/2g2a9064-2.jpg
     portrait: false
     wide: true
     title:
@@ -152,13 +152,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1z8a9992.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/dji-0044-2.jpg
     portrait: false
     wide: true
@@ -166,14 +159,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0540-2.jpg
+  - image: /uploads/1z8a9992.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0475-3.jpg
+  - image: /uploads/2g2a0540-2.jpg
     portrait: false
     wide: true
     title:
@@ -265,6 +258,13 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a0565.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a9041-1.jpg
     portrait: false
     wide: true
     title:
