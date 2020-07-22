@@ -80,7 +80,6 @@ $( document ).ready(function() {
 					if(el.hasClass('white')) el.attr('src','/img/close_white.svg');
 					else el.attr('src','/img/close.svg');
 					//show nav
-					sessionStorage.menuopen = 'true';
 					$('.navbar-nav > li').stop( true, true ).delay(300).animate({
 						opacity: 1
 					}, 200, function() {
@@ -90,7 +89,6 @@ $( document ).ready(function() {
 					if(el.hasClass('white')) el.attr('src','/img/openmenu_white.svg');
 					else el.attr('src','/img/openmenu.svg');
 					//hide nav
-					sessionStorage.menuopen = 'false';
 					$('.navbar-nav > li:visible').not(':nth-child(4)').stop( true, true ).delay(300).animate({
 						opacity: 0
 					}, 200, function() {
@@ -135,19 +133,6 @@ $( window ).resize(function() {
 		$('#myCarousel > div.carousel-inner > div').each(function() {
 			$(this).attr('style',$(this).attr('mobile-style'));
 		});
-	}
-
-	if($( 'body' ).width() >= 1185 && !$('body').hasClass('home')) {
-		sessionStorage.menuopen = 'true';
-	} else {
-		sessionStorage.menuopen = 'false';
-	}
-	
-	if(sessionStorage.menuopen == 'true') {
-		  $('.navbar-nav > li').css('opacity','1');
-			var el = $('.navbar-toggle.top:visible');
-			if(el.hasClass('white')) el.attr('src','/img/close_white.svg');
-			else el.attr('src','/img/close.svg');
 	}
 
 });
