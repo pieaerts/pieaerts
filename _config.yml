@@ -41,6 +41,9 @@ collections:
   personalwork:
     output: true
     permalink: /personal-work/:path/
+  commissioned:
+    output: true
+    permalink: /commissioned/:path/
   twentyfour-hours-in:
     output: true
     permalink: /24-hours-in/:path/

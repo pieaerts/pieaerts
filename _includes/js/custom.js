@@ -102,6 +102,7 @@ $( document ).ready(function() {
 				}, 300);
 			}
 	});
+	$('.navbar-toggle.top').click();
 	$( window ).resize();
 
 });
