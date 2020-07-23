@@ -19,7 +19,7 @@ headers:
     url: /personal-work/
   - image: /uploads/HEADERS/0H3A1189.jpg
     portrait_image: /uploads/2g2a3959.jpg
-    title: THE RED ROBED NINJA
+    title:
     description:
     url:
   - image: /uploads/HEADERS/EXPO_PIE_AERTS_5.jpg
