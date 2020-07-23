@@ -24,7 +24,7 @@ headers:
     url:
   - image: /uploads/HEADERS/EXPO_PIE_AERTS_5.jpg
     portrait_image: /uploads/2g2a0512-1.jpg
-    title: THIS IS NOT THE END
+    title:
     description:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A0212.jpg
