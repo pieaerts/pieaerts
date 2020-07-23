@@ -14,7 +14,7 @@ headers:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A9720.jpg
     portrait_image: /uploads/2g2a9640.jpg
-    title: KARAMOJA
+    title:
     description:
     url: /personal-work/
   - image: /uploads/HEADERS/0H3A1189.jpg
