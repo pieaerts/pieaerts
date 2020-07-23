@@ -7,8 +7,8 @@ headers:
     title:
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/2G2A0554.jpg
-    portrait_image: /uploads/2g2a1004-1.jpg
+  - image: /uploads/2g2a9720-2.jpg
+    portrait_image: /uploads/headers-website8.jpg
     title:
     description:
     url: /personal-work/
