@@ -17,7 +17,7 @@ headers:
     title:
     description:
     url: /personal-work/
-  - image: /uploads/HEADERS/0H3A1189.jpg
+  - image: /uploads/weqeqwew-2.jpg
     portrait_image: /uploads/2g2a3959.jpg
     title:
     description:
