@@ -29,7 +29,7 @@ headers:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A0212.jpg
     portrait_image: /uploads/0h3a7301-1.jpg
-    title: LEGENDS OF THE VALLEY
+    title:
     description:
     url:
 ---
