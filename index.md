@@ -4,7 +4,7 @@ layout: home
 headers:
   - image: /uploads/headers-website9.jpg
     portrait_image: /uploads/HEADERS/HEADERS_WEBSITE4.jpg
-    title: 'SHOOT TO SCARE, NOT TO KILL'
+    title:
     description:
     url: /personal-work/
   - image: /uploads/HEADERS/2G2A0554.jpg
