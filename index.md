@@ -2,8 +2,8 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/headers-website9.jpg
-    portrait_image: /uploads/HEADERS/HEADERS_WEBSITE4.jpg
+  - image: /uploads/eweweq-2.jpg
+    portrait_image: /uploads/123123-2.jpg
     title:
     description:
     url: /personal-work/
