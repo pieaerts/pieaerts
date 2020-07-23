@@ -2,7 +2,7 @@
 title: Home
 layout: home
 headers:
-  - image: /uploads/eweweq-2.jpg
+  - image: /uploads/eweweq-3.jpg
     portrait_image: /uploads/123123-2.jpg
     title:
     description:
