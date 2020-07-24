@@ -26,4 +26,4 @@ Or find me on Instagram:
 * [Het Financieele Dagblad](https://fd.nl/fd-persoonlijk/1307273/intussen-elders){: target="_blank"}&nbsp;(NL)
 * [Tales from the roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}&nbsp;(ENG)
 * Or watch&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}&nbsp;(ENG)
-* Or listen to my [Podcast](https://open.spotify.com/episode/65rArhS9J3QLCwdZoahqmJ){: target="_blank"}&nbsp;(NL)
+* Or listen to this&nbsp;[Podcast](https://open.spotify.com/episode/65rArhS9J3QLCwdZoahqmJ){: target="_blank"}&nbsp;(NL)
