@@ -2,7 +2,7 @@
 title: a world before now
 subtitle:
 date: 2017-07-25 00:00:00
-image: /uploads/2g2a2003.jpg
+image: /uploads/2g2a1940-1.jpg
 float: left
 images:
   - image: /uploads/dji-0939.jpg
@@ -169,13 +169,6 @@ images:
   - image: /uploads/2g2a1548.jpg
     portrait: true
     wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a1458.jpg
-    portrait: false
-    wide: true
     title:
     subtitle:
     text-color:
