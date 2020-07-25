@@ -107,6 +107,12 @@ images:
     title:
     subtitle:
     text-color:
+  - image: /uploads/0h3a7953-3.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
   - image: /uploads/2g2a0816-2.jpg
     portrait: false
     wide: true
