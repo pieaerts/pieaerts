@@ -2,31 +2,31 @@
 title: where the wild ones roam
 subtitle:
 date: 2017-07-30 17:00:00
-image: /uploads/HEADERS/2G2A0554.jpg
+image: /uploads/2g2a0554-2.jpg
 float: left
 images:
-  - image: /uploads/2g2a1009.jpg
+  - image: /uploads/2g2a1009-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0932.jpg
+  - image: /uploads/2g2a0932-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/dji-0372.jpg
+  - image: /uploads/dji-0372-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0554.jpg
+  - image: /uploads/2g2a0554-2.jpg
     portrait: false
     wide: true
     title:
@@ -61,14 +61,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0291.jpg
+  - image: /uploads/2g2a0291-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1161.jpg
+  - image: /uploads/2g2a1161-2.jpg
     portrait: true
     wide: false
     title:
@@ -131,7 +131,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1173.jpg
+  - image: /uploads/2g2a1173-1.jpg
     portrait: true
     wide: false
     title:
