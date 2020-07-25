@@ -2,136 +2,166 @@
 title: legends of the valley
 subtitle:
 date: 2017-07-29 00:00:00
-image: /uploads/2g2a0212.jpg
+image: /uploads/2g2a0212-2.jpg
 float: left
 images:
-  - image: /uploads/2g2a0212-1.jpg
+  - image: /uploads/0h3a7953-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7301.jpg
+  - image: /uploads/2g2a0442-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/0h3a7301-2.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a9956.jpg
+  - image: /uploads/0h3a7370.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7617.jpg
+  - image: /uploads/2g2a9918-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0476.jpg
+  - image: /uploads/2g2a0738pp.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7775.jpg
+  - image: /uploads/2g2a1070-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7349.jpg
+  - image: /uploads/2g2a0212-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0012.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/2g2a0153-1.jpg
+  - image: /uploads/2g2a9956-2.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7460.jpg
+  - image: /uploads/0h3a7795.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7561.jpg
+  - image: /uploads/0h3a7661.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0288.jpg
+  - image: /uploads/0h3a7617-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7953-edit.jpg
+  - image: /uploads/2g2a0288-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7914.jpg
+  - image: /uploads/2g2a3133.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a1070.jpg
+  - image: /uploads/2g2a3287.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0650.jpg
+  - image: /uploads/0h3a7762.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0808.jpg
+  - image: /uploads/0h3a7775-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0153-3.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0816-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0816.jpg
+  - image: /uploads/2g2a1129-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0919.jpg
+  - image: /uploads/2g2a0655.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a1123-2.jpg
+  - image: /uploads/0h3a7914-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a1099.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0919-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a1129.jpg
+  - image: /uploads/2g2a0699.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0442.jpg
+  - image: /uploads/2g2a0668-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0783.jpg
     portrait: false
     wide: true
     title:
