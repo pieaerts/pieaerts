@@ -5,14 +5,14 @@ date: 2020-07-07 00:00:00
 image: /uploads/2g2a9002-2.jpg
 float: left
 images:
-  - image: /uploads/2g2a1486-1.jpg
+  - image: /uploads/2g2a1486-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9250.jpg
+  - image: /uploads/2g2a9250-1.jpg
     portrait: false
     wide: true
     title:
@@ -26,21 +26,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9406.jpg
+  - image: /uploads/2g2a9406-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2414.jpg
+  - image: /uploads/2g2a2414-2.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9332.jpg
+  - image: /uploads/2g2a9332-1.jpg
     portrait: true
     wide: false
     title:
@@ -54,28 +54,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2401.jpg
+  - image: /uploads/2g2a2401-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1823.jpg
+  - image: /uploads/2g2a1823-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1787.jpg
+  - image: /uploads/2g2a1787-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1842.jpg
+  - image: /uploads/2g2a1842-1.jpg
     portrait: false
     wide: true
     title:
@@ -124,7 +124,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a1704.jpg
+  - image: /uploads/2g2a1704-1.jpg
     portrait: false
     wide: true
     title:
