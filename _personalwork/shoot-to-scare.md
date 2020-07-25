@@ -26,13 +26,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9406-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a2414-2.jpg
     portrait: true
     wide: false
@@ -47,14 +40,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2281.jpg
+  - image: /uploads/2g2a2401-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2401-1.jpg
+  - image: /uploads/2g2a2281-1.jpg
     portrait: false
     wide: true
     title:
@@ -82,7 +75,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9903.jpg
+  - image: /uploads/2g2a9406-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a9903-1.jpg
     portrait: false
     wide: true
     title:
@@ -117,7 +117,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0357.jpg
+  - image: /uploads/2g2a0357-1.jpg
     portrait: false
     wide: true
     title:
@@ -131,28 +131,28 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0511.jpg
+  - image: /uploads/2g2a0511-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0528.jpg
+  - image: /uploads/2g2a0528-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0582.jpg
+  - image: /uploads/2g2a0582-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0h3a9080.jpg
+  - image: /uploads/0h3a9080-1.jpg
     portrait: false
     wide: true
     title:
@@ -166,7 +166,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9863.jpg
+  - image: /uploads/2g2a9863-1.jpg
     portrait: false
     wide: true
     title:
