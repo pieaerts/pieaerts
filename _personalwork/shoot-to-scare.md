@@ -2,7 +2,7 @@
 title: 'shoot to scare, not to kill'
 subtitle:
 date: 2020-07-07 00:00:00
-image: /uploads/2g2a9002.jpg
+image: /uploads/2g2a9002-2.jpg
 float: left
 images:
   - image: /uploads/2g2a1486-1.jpg
@@ -19,7 +19,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9002-1.jpg
+  - image: /uploads/2g2a9002-2.jpg
     portrait: false
     wide: true
     title:
