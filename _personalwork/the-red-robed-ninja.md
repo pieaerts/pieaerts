@@ -1,7 +1,7 @@
 ---
 title: The red-robed Ninja
 subtitle:
-date: 2017-07-25 00:00:00
+date: 2012-07-25 00:00:00
 image: /uploads/0h3a1189.jpg
 float: left
 images:
