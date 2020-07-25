@@ -173,7 +173,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a2348.jpg
+  - image: /uploads/2g2a2354.jpg
     portrait: false
     wide: true
     title:
