@@ -1,7 +1,7 @@
 ---
 title: a world before now
 subtitle:
-date: 2017-07-31 00:00:00
+date: 2018-07-31 00:00:00
 image: /uploads/2g2a1666-2.jpg
 float: left
 images:
