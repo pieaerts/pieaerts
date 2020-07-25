@@ -103,14 +103,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0287.jpg
+  - image: /uploads/2g2a0287-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a0294.jpg
+  - image: /uploads/2g2a0294-1.jpg
     portrait: false
     wide: true
     title:
