@@ -1,7 +1,7 @@
 ---
 title: 'shoot to scare, not to kill'
 subtitle:
-date: 2010-07-08 00:00:00
+date: 2020-07-08 00:00:00
 image: /uploads/2g2a9002-2.jpg
 float: left
 images:
