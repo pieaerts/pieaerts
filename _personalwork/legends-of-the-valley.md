@@ -5,13 +5,7 @@ date: 2017-07-29 00:00:00
 image: /uploads/2g2a0212-2.jpg
 float: left
 images:
-  - image: /uploads/0h3a7953-2.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-  - image: /uploads/2g2a0442-1.jpg
+  - image: /uploads/2g2a0442-2.jpg
     portrait: false
     wide: true
     title:
