@@ -77,9 +77,21 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/2g2a0288-1.jpg
+  - image: /uploads/2g2a0288-2.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0738pp-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a1070-2.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
