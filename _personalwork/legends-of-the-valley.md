@@ -59,7 +59,7 @@ images:
     title:
     subtitle:
     text-color:
-  - image: /uploads/0h3a7661.jpg
+  - image: /uploads/0h3a7661-2.jpg
     portrait: false
     wide: true
     title:
@@ -144,6 +144,12 @@ images:
     subtitle:
     text-color:
   - image: /uploads/2g2a0699.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+  - image: /uploads/2g2a0633.jpg
     portrait: false
     wide: true
     title:
