@@ -1,7 +1,7 @@
 ---
 title: Men of Pettah
 subtitle:
-date: 2017-07-26 00:00:00
+date: 2014-07-26 00:00:00
 image: /uploads/2g2a2301.jpg
 float: left
 images:
