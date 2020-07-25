@@ -2,7 +2,7 @@
 title: a world before now
 subtitle:
 date: 2017-07-31 00:00:00
-image: /uploads/2g2a1940-1.jpg
+image: /uploads/2g2a1666-2.jpg
 float: left
 images:
   - image: /uploads/dji-0939.jpg
@@ -182,6 +182,8 @@ images:
     show-text: false
 text-color: light
 ---
+
+Korowai, West-Papua, Indonesia
 
 Forest-dwellers, hunters, gatherers. The Korowai in West-Papua were only discovered in 1974. Until then, the entire tribe was unaware of the existence of an outside world. But after living in harmony with nature for thousands of years, only a few decades of imperialism and human greed were enough to destroy their homes forever.
 
