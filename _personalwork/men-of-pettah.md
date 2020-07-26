@@ -1,5 +1,5 @@
 ---
-title: Men of Pettah
+title: men of Pettah
 subtitle:
 date: 2014-07-26 00:00:00
 image: /uploads/2g2a2301.jpg
