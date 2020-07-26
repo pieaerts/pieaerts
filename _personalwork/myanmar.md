@@ -1,5 +1,5 @@
 ---
-title: Crossing lands of gold
+title: crossing lands of gold
 subtitle:
 date: 2017-07-23 00:00:00
 image: /uploads/2g2a3783-2.jpg
