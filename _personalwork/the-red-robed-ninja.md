@@ -2,31 +2,31 @@
 title: The red-robed Ninja
 subtitle:
 date: 2012-07-25 00:00:00
-image: /uploads/0h3a1189.jpg
+image: /uploads/2g2a4637-1.jpg
 float: left
 images:
-  - image: /uploads/2g2a4637.jpg
+  - image: /uploads/2g2a4637-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a4650.jpg
+  - image: /uploads/2g2a3806-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3865.jpg
+  - image: /uploads/2g2a3865-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a4435.jpg
+  - image: /uploads/2g2a3977.jpg
     portrait: true
     wide: false
     title:
@@ -40,23 +40,23 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3806.jpg
+  - image: /uploads/2g2a3951-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3951.jpg
-    portrait: false
-    wide: true
+  - image: /uploads/dscf1720.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a4011.jpg
-    portrait: false
-    wide: true
+  - image: /uploads/img-2990-2-2.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
