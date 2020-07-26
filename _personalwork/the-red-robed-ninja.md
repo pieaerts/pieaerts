@@ -162,8 +162,8 @@ images:
 text-color: light
 ---
 
-#### Namo Buddha, Kathmandu Valley, Nepal
+#### Kathmandu Valley, Nepal
 
-The spiritual calling of a 6 year old boy at Thrangu Tashi Yangtse Monastery, Nepal.
+The spiritual calling of a 6 year old boy in a monastery on the foothills of the Himalayas.&nbsp;
 
 Read the full story in my new book &nbsp;[Tales from the Roads less Traveled](https://shop.pieaerts.com/collections/book){: target="_blank"}
