@@ -2,10 +2,10 @@
 title: The red-robed Ninja
 subtitle:
 date: 2012-07-25 00:00:00
-image: /uploads/2g2a4637-1.jpg
+image: /uploads/2g2a4637-2.jpg
 float: left
 images:
-  - image: /uploads/2g2a4637-1.jpg
+  - image: /uploads/2g2a4637-2.jpg
     portrait: false
     wide: true
     title:
