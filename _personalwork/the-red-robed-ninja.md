@@ -1,5 +1,5 @@
 ---
-title: The red-robed Ninja
+title: the red-robed Ninja
 subtitle:
 date: 2012-07-25 00:00:00
 image: /uploads/2g2a4637-2.jpg
