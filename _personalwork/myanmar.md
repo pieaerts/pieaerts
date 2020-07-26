@@ -2,157 +2,171 @@
 title: Crossing lands of gold
 subtitle:
 date: 2017-07-23 00:00:00
-image: /uploads/2g2a3783.jpg
+image: /uploads/2g2a3783-2.jpg
 float: left
 images:
-  - image: /uploads/2g2a3783-1.jpg
+  - image: /uploads/2g2a3783-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5500.jpg
+  - image: /uploads/2g2a5500-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a8353.jpg
+  - image: /uploads/2g2a8353-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a3485.jpg
+  - image: /uploads/2g2a3485-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a3030.jpg
+  - image: /uploads/2g2a3030-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a4450.jpg
+  - image: /uploads/2g2a4450-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a4935.jpg
+  - image: /uploads/2g2a4935-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5941aaaa-1.jpg
+  - image: /uploads/2g2a5941aaaa-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a2584.jpg
+  - image: /uploads/2g2a2584-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a2505.jpg
+  - image: /uploads/2g2a2505-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5673.jpg
+  - image: /uploads/2g2a5673-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a5543.jpg
+  - image: /uploads/2g2a5543-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a4122.jpg
+  - image: /uploads/2g2a4122-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a3608.jpg
+  - image: /uploads/2g2a4140.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a3653.jpg
+  - image: /uploads/2g2a3608-1.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/dji-0308.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a5440.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a6601.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a4027.jpg
+  - image: /uploads/2g2a3653-2.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a4746.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: true
-  - image: /uploads/2g2a7638.jpg
+  - image: /uploads/dji-0308-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a7132.jpg
+  - image: /uploads/2g2a4068.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4075.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a5440-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a6601-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4027-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a4746-1.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a7638-1.jpg
     portrait: false
     wide: true
     title:
