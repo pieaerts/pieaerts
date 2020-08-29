@@ -915,13 +915,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/1z8a3448.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/1z8a3452.jpg
     portrait: false
     wide: true
@@ -1245,13 +1238,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1z8a4149.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image:
     portrait: false
     wide: true
     title:
