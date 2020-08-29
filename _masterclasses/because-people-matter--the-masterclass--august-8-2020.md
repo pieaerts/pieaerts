@@ -1,16 +1,16 @@
 ---
-title: 'BECAUSE PEOPLE MATTER | the masterclass | August 8, 2020'
-starting_date: 2020-08-08 00:00:00
+title: 'BECAUSE PEOPLE MATTER | the masterclass | October 24, 2020'
+starting_date: 2020-10-24 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Saturday August 8 in Amsterdam.</p>
+  is your chance!</p><p>Saturday October 24 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: >-
   https://docs.google.com/forms/d/e/1FAIpQLSdILjJm900iyJeW8W-DHXj6DiVX0-7gc1Sbu8NaaLdYH9ieMA/viewform
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE AUGUST 8 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE OCTOBER 24 MASTERCLASS
 active: true
 ---
 
@@ -26,25 +26,25 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 ### Where?
 
-Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet in the new Corona standard of keeping 1,5m distance. The program for the day is as following:
+Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet while keeping a safe 1,5m distance. The program for the day is as following:
 
-12\.30 - 13.00 Walk-in
+11\.00 - 11.30 Walk-in
 
-13\.00 - 14.00 What is a story? Building a story from scratch to publication
+11\.30 - 12.30 What is a story? Building a story from scratch to publication
 
-14\.00 - 15.00 Technical aspects & gear (digital & film)
+12\.30 - 13.30 Technical aspects & gear (digital & film)
+
+13:30 - 14:00 Finding your own voice as an artist
+
+14:00 - 14:30 Vegetarian Lunch
+
+14:30 - 15:00 Social Media & building your personal brand as a photographer&nbsp;
 
 15:00 - 16:00 Post production
 
-16:00 - 16:30 Finding your own voice as an artist
+16:00 - 19:00 Shooting on the streets of Amsterdam
 
-16:30 - 17:00 Social Media & building your personal brand as a photographer&nbsp;
-
-17:00 - 17:30 Vegetarian dinner&nbsp;
-
-17:30 - 21:30 Shooting on the streets of Amsterdam
-
-21:30 - 23.00 Evaluation of images & drinks&nbsp;
+19:00 - 21.00 Evaluation of images & drinks&nbsp;
 
 ### Who?
 
@@ -60,11 +60,11 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before July 1, 2020: 75% refund
-* Cancellation before July 15, 2020: 50% refund
-* Cancellation after July 15, 2020: no refund
+* Cancellation before September 1, 2020: 100% refund
+* Cancellation before September 24, 2020: 50% refund
+* Cancellation after October 10, 2020: no refund
 
-Come join me on August 8, 2020, talking travel, life, photography and many other things\!
+Come join me on October 24, 2020, talking travel, life, photography and many other things\!
 
 ### The photographer
 
