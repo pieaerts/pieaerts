@@ -1202,6 +1202,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/1z8a4122.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/1z8a4119.jpg
     portrait: false
     wide: true
@@ -1210,13 +1217,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/1z8a4142.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/1z8a4122.jpg
     portrait: false
     wide: true
     title:
