@@ -35,21 +35,21 @@ Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us 
 
 13:30 - 14:00 Finding your own voice as an artist
 
-14:00 - 14:30 Vegetarian Lunch
+14:00 - 14:30 Social Media & building your personal brand as a photographer&nbsp;
 
-14:30 - 15:00 Social Media & building your personal brand as a photographer&nbsp;
+14:30 - 15:30 Late Vegetarian Lunch
 
-15:00 - 16:00 Post production
+15:30 - 19:00 Shooting on the streets of Amsterdam
 
-16:00 - 19:00 Shooting on the streets of Amsterdam
+19:00 - 20.30 Evaluation of images
 
-19:00 - 21.00 Evaluation of images & drinks&nbsp;
+20:30 - 21:30 Post production & drinks&nbsp;
 
 ### Who?
 
 This masterclass offers space for 20 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
 
-I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know.&nbsp;
+I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know. Since the lunch will be served late (2.30pm) it's recommended to have a big breakfast.&nbsp;
 
 ### Price?
 
