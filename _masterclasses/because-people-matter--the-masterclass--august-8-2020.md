@@ -8,8 +8,7 @@ introduction_html: >-
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
   is your chance!</p><p>Saturday October 24 in Amsterdam.</p>
 gallery_url: /none/
-subscribe_url: >-
-  https://docs.google.com/forms/d/e/1FAIpQLSdILjJm900iyJeW8W-DHXj6DiVX0-7gc1Sbu8NaaLdYH9ieMA/viewform
+subscribe_url: 'https://forms.gle/qSFSZbrqLDGCpQq5A'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE OCTOBER 24 MASTERCLASS
 active: true
 ---
