@@ -817,6 +817,20 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/1z8a3437.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
