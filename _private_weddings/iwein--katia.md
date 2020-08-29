@@ -2,7 +2,7 @@
 title: Iwein & Katia
 subtitle: '''t Verstand van Leven'
 date: 2016-05-21 00:00:00
-image:
+image: /uploads/1z8a3452-1.jpg
 float: left
 images:
   - image: /uploads/1z8a4166.jpg
