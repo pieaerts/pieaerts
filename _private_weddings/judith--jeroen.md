@@ -537,13 +537,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3398-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3344.jpg
     portrait: false
     wide: true
@@ -566,13 +559,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a3408.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3376.jpg
     portrait: false
     wide: true
     title:
@@ -656,13 +642,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3451-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3452.jpg
     portrait: false
     wide: true
@@ -705,13 +684,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3491-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3498.jpg
     portrait: false
     wide: true
@@ -733,14 +705,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3507-1.jpg
+  - image: /uploads/2g2a3512.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3512.jpg
+  - image: /uploads/2g2a3507-1.jpg
     portrait: false
     wide: true
     title:
@@ -859,13 +831,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3554-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3558.jpg
     portrait: false
     wide: true
@@ -873,14 +838,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3559-1.jpg
+  - image: /uploads/2g2a3565-1.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3565-1.jpg
+  - image: /uploads/2g2a3559-1.jpg
     portrait: false
     wide: true
     title:
@@ -911,20 +876,6 @@ images:
   - image: /uploads/2g2a3577-1.jpg
     portrait: false
     wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3591-1.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3597-1.jpg
-    portrait: true
-    wide: false
     title:
     subtitle:
     text-color:
@@ -1076,21 +1027,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3696-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3698.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3702-1.jpg
     portrait: false
     wide: true
     title:
@@ -1112,13 +1049,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a3730-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3744-1.jpg
     portrait: false
     wide: true
     title:
@@ -1189,13 +1119,6 @@ images:
     text-color:
     show-text: false
   - image: /uploads/2g2a3797.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3799-1.jpg
     portrait: false
     wide: true
     title:
@@ -1510,13 +1433,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a4005.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a4007-1.jpg
     portrait: false
     wide: true
@@ -1818,16 +1734,9 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
 text-color: light
 ---
 
 Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.&nbsp;
 
-Locatie: Kasteel Amstenrade
+Locatie: Kasteel Terworm & Kasteel Amstenrade
