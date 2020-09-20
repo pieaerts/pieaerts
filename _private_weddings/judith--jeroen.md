@@ -1,5 +1,5 @@
 ---
-title: Tessa & Daan
+title: Judith & Jeroen
 subtitle: Wilde Westen Amsterdam
 date: 2016-05-21 00:00:00
 image:
