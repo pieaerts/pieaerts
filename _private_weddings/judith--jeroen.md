@@ -1,6 +1,6 @@
 ---
 title: Judith & Jeroen
-subtitle: Wilde Westen Amsterdam
+subtitle: Kasteel Amstenrade
 date: 2016-05-21 00:00:00
 image:
 float: left
@@ -537,28 +537,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a3344.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3348-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/2g2a3353-1.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/2g2a3398-1.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/2g2a3344.jpg
     portrait: false
     wide: true
     title:
