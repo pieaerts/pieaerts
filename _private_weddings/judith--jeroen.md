@@ -2,7 +2,7 @@
 title: Judith & Jeroen
 subtitle: Kasteel Amstenrade
 date: 2016-05-21 00:00:00
-image:
+image: /uploads/2g2a3633-1-1.jpg
 float: left
 images:
   - image: /uploads/2g2a2872.jpg
@@ -1828,3 +1828,6 @@ images:
 text-color: light
 ---
 
+Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.&nbsp;
+
+Locatie: Kasteel Amstenrade
