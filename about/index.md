@@ -18,8 +18,6 @@ Or find me on Instagram:
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
 {: .present-before-paste}
 
-<div>&nbsp;</div>
-
 Want this to learn more about what I do:&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
 
 &nbsp;
