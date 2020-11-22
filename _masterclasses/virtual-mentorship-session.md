@@ -1,5 +1,5 @@
 ---
-title: VIRTUAL MENTORSHIP SESSION | pick your own date & time
+title: VIRTUAL MENTORSHIP SESSION | 1+ hour zoom or skype call
 starting_date: 2020-07-01 00:00:00
 subtitle:
 introduction_html: >-
