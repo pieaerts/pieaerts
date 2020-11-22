@@ -25,7 +25,7 @@ Because I freaking love sharing my passion for photographic story-telling with p
 
 ### Price?
 
-The price of a virtual mentorship session is EUR 300,- for a 2 hour session. As soon as your time slot is approved, you will be send a payment link.
+The price of a virtual mentorship session is EUR 250,- for a 2 hour session. As soon as your time slot is approved, you will be send a payment link.
 
 ### Who?
 
