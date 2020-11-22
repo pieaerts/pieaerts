@@ -7,10 +7,10 @@ subtitle:
 introduction_html: >-
   <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION WILL BE
   RESCHEDULED TO 2021. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL CHANNELS.
-  STAY TUNED.&nbsp;</h4><p>Join me on an adventure of a lifetime to the remote
-  Yamal Peninsula in Siberia to document the life of the indigenous Nenet
-  people.&nbsp;</p><p>These reindeer herders have been living in the SIberian
-  Arctic for thousands of years, completely isolated from the outside
+  STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Join me on an adventure of a lifetime to
+  the remote Yamal Peninsula in Siberia to document the life of the indigenous
+  Nenet people.&nbsp;</p><p>These reindeer herders have been living in the
+  SIberian Arctic for thousands of years, completely isolated from the outside
   world.</p><p>A unique opportunity to learn more about this beautiful culture
   and to expand your knowledge about photography.&nbsp;</p><p>Scroll down to
   read the full itinerary.&nbsp;</p>
