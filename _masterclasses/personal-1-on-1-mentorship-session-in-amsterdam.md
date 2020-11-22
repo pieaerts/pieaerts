@@ -1,5 +1,5 @@
 ---
-title: Personal 1-on-1 Mentorship Session in Amsterdam
+title: PERSONAL 1-ON-1 MENTORSHIP SESSION |  in my studio in Amsterdam
 starting_date: 2020-07-01 00:00:00
 subtitle:
 introduction_html: >-
