@@ -1,8 +1,8 @@
 ---
-title: 'masterclasses, expeditions & more'
+title: 'masterclasses, ,mentorships, expeditions & more'
 introduction_html: >-
   <p>Do you want to learn about the power of visual story-telling? Subscribe to
-  any of below events</p>
+  a future masterclass or book a 1-on-1 mentorship session below</p>
 layout: masterclasses
 ---
 
