@@ -1,12 +1,12 @@
 ---
-title: 'BECAUSE PEOPLE MATTER | the masterclass | October 24, 2020'
-starting_date: 2020-10-24 00:00:00
+title: 'BECAUSE PEOPLE MATTER | the masterclass | March 20, 2021'
+starting_date: 2021-03-20 00:00:00
 subtitle:
 introduction_html: >-
   <h4>&nbsp;</h4><p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Saturday October 24 in Amsterdam.</p>
+  is your chance!</p><p>Saturday March 20 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/qSFSZbrqLDGCpQq5A'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE OCTOBER 24 MASTERCLASS
@@ -21,7 +21,7 @@ Because I freaking love sharing my passion for story-telling with people\! And b
 
 ### What?
 
-A full day of inspiration in the realm of visual story-telling focusing on the main question: what does it mean to be a story-teller in 2020?&nbsp; I will teach you all I know about the emotional power of story-telling, the technical aspects of photography, the digital and analogue gear I use and the ins & outs of post production. On top I will help you in understanding how to build a successful brand as a photographer and how to make your work stand-out in this social media age. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work and have some drinks.&nbsp;
+A full day of inspiration in the realm of visual story-telling focusing on the main question: what does it mean to be a story-teller in 2021?&nbsp; I will teach you all I know about the emotional power of story-telling, the technical aspects of photography, the digital and analogue gear I use and the ins & outs of post production. On top I will help you in understanding how to build a successful brand as a photographer and how to make your work stand-out in this social media age. We will have dinner together and afterwards hit the streets where I will help you building confidence in predicting unfolding scenes and approaching strangers. Eventually we regroup to evaluate each others work and have some drinks.&nbsp;
 
 ### Where?
 
@@ -59,11 +59,11 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before September 1, 2020: 100% refund
-* Cancellation before September 24, 2020: 50% refund
-* Cancellation after October 10, 2020: no refund
+* Cancellation before January 15, 2021: 100% refund
+* Cancellation before February 15, 2021: 50% refund
+* Cancellation after March 1, 2021: no refund
 
-Come join me on October 24, 2020, talking travel, life, photography and many other things\!
+Come join me on March 20, 2021 talking travel, life, photography and many other things\!
 
 ### The photographer
 
