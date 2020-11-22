@@ -4,11 +4,11 @@ starting_date: 2019-03-08 00:00:00
 subtitle:
 introduction_html: >-
   <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION WILL BE
-  RESCHEDULED TO LATER THIS YEAR. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL
-  CHANNELS. STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Join me on an adventure of a
-  lifetime to the remote Ladakh region in Northen India to explore the
-  high-altitude lifestyle of the Ladakhi people.</p><p>A unique opportunity to
-  learn more about this beautiful culture and to expand your knowledge about
+  RESCHEDULED TO 2021. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL CHANNELS.
+  STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Join me on an adventure of a lifetime to
+  the remote Ladakh region in Northen India to explore the high-altitude
+  lifestyle of the Ladakhi people.</p><p>A unique opportunity to learn more
+  about this beautiful culture and to expand your knowledge about
   photography.&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: 'http://remotexpeditions.com/portfolio_page/ladakh-photography-expedition/'
@@ -20,7 +20,7 @@ active: true
 
 ### When?
 
-May 18 - 29, 2020 (due to the recent corona outbreak, this expedition will be rescheduled to later this year, please wait for further notice).
+May 18 - 29, 2020 (due to the recent corona outbreak, this expedition will be rescheduled to 2021, please wait for further notice).
 
 ### What?
 
