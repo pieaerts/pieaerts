@@ -1,7 +1,7 @@
 ---
 title: >-
-  BECAUSE PEOPLE MATTER | the masterclass | March 20, 2021 + free 20x30cm
-  fine-art print of choice!
+  BECAUSE PEOPLE MATTER | the masterclass | March 20 + free 20x30cm fine-art
+  print of choice!
 starting_date: 2021-03-20 00:00:00
 subtitle:
 introduction_html: >-
