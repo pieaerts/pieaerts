@@ -5,8 +5,8 @@ title: >-
 starting_date: 2021-03-20 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>BOOK BEFORE DEC 31 AND GET A FREE 20x30cm FINE-ART PRINT OF
-  CHOICE!</h4><p>Do you want to push yourself creatively?</p><p>Do you feel like
+  <p>BOOK BEFORE DEC 31 AND GET A FREE 20x30cm FINE-ART PRINT OF
+  CHOICE!</p><p>Do you want to push yourself creatively?</p><p>Do you feel like
   you need a new boost in your photography?&nbsp;</p><p>Or do you want to
   broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
   is your chance!</p><p>Saturday March 20 in Amsterdam.</p>
