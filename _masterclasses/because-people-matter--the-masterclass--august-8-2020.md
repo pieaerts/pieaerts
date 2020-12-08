@@ -58,6 +58,8 @@ I will be hosting the full day program. My girlfriend Jessica will be serving a 
 
 The price of the masterclass is € 300,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
+All 'masterclass' bookings made before December 31st will receive a free 20x30cm fine-art print of choice (choose from [Wild Creatures](https://shop.pieaerts.com/collections/wildlife), [Wild Places](https://shop.pieaerts.com/collections/nature), [Wild Stories](https://shop.pieaerts.com/collections/travel)&nbsp;).&nbsp;
+
 ### Cancellation policy
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
