@@ -64,9 +64,9 @@ All 'masterclass' bookings made before December 31st will receive a free 20x30cm
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before January 15, 2021: 100% refund
-* Cancellation before February 15, 2021: 50% refund
-* Cancellation after March 1, 2021: no refund
+* Cancellation before January 1, 2021: 100% refund
+* Cancellation before February 1, 2021: 50% refund
+* Cancellation after Feb 20, 2021: no refund
 
 Come join me on March 20, 2021 talking travel, life, photography and many other things\!
 
