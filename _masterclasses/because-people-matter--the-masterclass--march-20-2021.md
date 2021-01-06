@@ -1,15 +1,12 @@
 ---
-title: >-
-  BECAUSE PEOPLE MATTER | the masterclass | March 20 + free 20x30cm fine-art
-  print of choice!
+title: BECAUSE PEOPLE MATTER | the masterclass | March 20
 starting_date: 2021-03-20 00:00:00
 subtitle:
 introduction_html: >-
-  <p>BOOK BEFORE DEC 31 AND GET A FREE 20x30cm FINE-ART PRINT OF
-  CHOICE!</p><p>Do you want to push yourself creatively?</p><p>Do you feel like
-  you need a new boost in your photography?&nbsp;</p><p>Or do you want to
-  broaden your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this
-  is your chance!</p><p>Saturday March 20 in Amsterdam.</p>
+  <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
+  new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
+  knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
+  chance!</p><p>Saturday March 20 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/pGE7hmUMi2G1EC6VA'
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MARCH 20 MASTERCLASS
