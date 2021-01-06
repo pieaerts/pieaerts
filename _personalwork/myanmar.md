@@ -33,14 +33,14 @@ images:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a8353-1.jpg
+  - image: /uploads/2g2a3485-2.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: true
-  - image: /uploads/2g2a3485-2.jpg
+  - image: /uploads/2g2a8353-1.jpg
     portrait: false
     wide: true
     title:
@@ -103,9 +103,30 @@ images:
     subtitle:
     text-color:
     show-text: true
+  - image: /uploads/2g2a5634.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
   - image: /uploads/2g2a4122-1.jpg
     portrait: false
     wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/2g2a3594.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: true
+  - image: /uploads/img-6783.jpg
+    portrait: true
+    wide: false
     title:
     subtitle:
     text-color:
