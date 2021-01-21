@@ -103,7 +103,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a9418-1.jpg
+  - image: /uploads/2g2a9418-2.jpg
     portrait: true
     wide: false
     title:
