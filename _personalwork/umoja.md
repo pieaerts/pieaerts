@@ -194,7 +194,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0o0a7939.jpg
+  - image: /uploads/0o0a7939-copy.jpg
     portrait: false
     wide: true
     title:
@@ -257,28 +257,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a1278.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/771a1748.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/0o0a6247.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/771a2362.jpg
     portrait: false
     wide: true
     title:
@@ -292,6 +271,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image: /uploads/771a2362-copy.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
   - image: /uploads/tafakiri.jpg
     portrait: false
     wide: true
@@ -299,14 +285,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/untitled-3-3.jpg
+  - image: /uploads/untitled-3-3-copy.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a2370.jpg
+  - image: /uploads/771a2370-copy.jpg
     portrait: true
     wide: false
     title:
@@ -320,14 +306,98 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/oolmeuti.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a9756.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/0o0a8211.jpg
     portrait: false
     wide: true
     title:
     subtitle:
     text-color:
     show-text: false
-  - image:
+  - image: /uploads/0o0a9604.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a1375.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a1762.jpg
+    portrait: true
+    wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a7399.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a1389.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a0085.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/untitled2-3-3-2-4.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a1193.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/koo-la-siri.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/kichwa.jpg
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/771a7124.jpg
     portrait: false
     wide: true
     title:
