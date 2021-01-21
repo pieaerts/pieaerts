@@ -110,7 +110,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a6693.jpg
+  - image: /uploads/771a6693-copy.jpg
     portrait: true
     wide: false
     title:
@@ -327,13 +327,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/0o0a9604.jpg
-    portrait: false
-    wide: true
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/771a1375-copy.jpg
     portrait: true
     wide: false
@@ -344,6 +337,13 @@ images:
   - image: /uploads/771a1762-copy.jpg
     portrait: true
     wide: false
+    title:
+    subtitle:
+    text-color:
+    show-text: false
+  - image: /uploads/0o0a9604.jpg
+    portrait: false
+    wide: true
     title:
     subtitle:
     text-color:
