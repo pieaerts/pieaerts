@@ -1,7 +1,7 @@
 ---
 title: Umoja
 subtitle:
-date: 2021-07-26 00:00:00
+date: 2020-12-27 00:00:00
 image: /uploads/masai-mara.jpg
 float: left
 images:
