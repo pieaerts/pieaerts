@@ -2,7 +2,7 @@
 title: Umoja
 subtitle:
 date: 2014-07-26 00:00:00
-image:
+image: /uploads/masai-mara.jpg
 float: left
 images:
   - image: /uploads/2g2a8729.jpg
