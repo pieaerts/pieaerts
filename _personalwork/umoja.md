@@ -334,21 +334,21 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a1375.jpg
+  - image: /uploads/771a1375-copy.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a1762.jpg
+  - image: /uploads/771a1762-copy.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a7399.jpg
+  - image: /uploads/771a7399-copy.jpg
     portrait: false
     wide: true
     title:
