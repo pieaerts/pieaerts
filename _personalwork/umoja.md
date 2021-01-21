@@ -421,7 +421,7 @@ images:
 text-color: light
 ---
 
-#### Masai Mara Reserve & Amboseli National Park
+#### Masai Mara Reserve & Amboseli National Park, Kenya
 
 2020 has been a hectic year, our lives were put on pause. In the midst of it, I traveled to Kenya for a period of 6 weeks, to emerge myself in the true wilderness of the Masai Mara Game Reserve and Amboseli National Park.
 
