@@ -320,14 +320,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/oolmeuti.jpg
+  - image: /uploads/oolmeuti-copy.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a9756.jpg
+  - image: /uploads/771a9756-copy.jpg
     portrait: true
     wide: false
     title:
