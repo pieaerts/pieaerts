@@ -222,20 +222,6 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a1765.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
-  - image: /uploads/untitled2-3-5.jpg
-    portrait: true
-    wide: false
-    title:
-    subtitle:
-    text-color:
-    show-text: false
   - image: /uploads/771a1463.jpg
     portrait: false
     wide: true
