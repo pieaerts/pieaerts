@@ -327,6 +327,13 @@ images:
     subtitle:
     text-color:
     show-text: false
+  - image:
+    portrait: false
+    wide: true
+    title:
+    subtitle:
+    text-color:
+    show-text: false
 text-color: light
 ---
 
@@ -336,6 +343,6 @@ text-color: light
 
 Never before did silence feel so confusing, fearful, and liberating all at the same time. In fact, in the absence of the usual herds of tourists, but with wildlife in full effect, I felt a deeper connection with Africa than ever before. And in that particular space of not knowing what’s ahead of us, ‘Umoja’ was born, a collection of 20 images that describe my emotional connection with these landscapes.
 
-The word 'Umoja' is Swahili for ’oneness’, for ‘unity’ and I sincerely hope that this collection of images will serve in homes around the world as a daily reminder that ‘we are one’. I believe that's 1 lesson we all learned this year.&nbsp;
+The word 'Umoja' is Swahili for ’oneness’, for ‘unity’ and I sincerely hope that this collection of images will serve in homes around the world as a daily reminder that ‘we are one’. I believe that's 1 lesson we all learned this year. Because in the end, it’s so easy to get caught in the grandness of our egos when we are disconnected from the grandness of Mother Nature.&nbsp;
 
-For me personally, being amongst these incredible creatures demonstrated once again that hope may never be seen as a weakness because it takes so much strength and courage to enter that space of vulnerability of being open to the possibilities. Because in the end, it’s so easy to get caught in the grandness of our egos when we are disconnected from the grandness of Mother Nature.&nbsp;
+Want to get a print of this collection check out my [print store](https://shop.pieaerts.com/collections/){: target="_blank" rel="noopener"}.&nbsp;
