@@ -201,14 +201,14 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/tawi.jpg
+  - image: /uploads/tawi-copy.jpg
     portrait: true
     wide: false
     title:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/771a9750.jpg
+  - image: /uploads/771a9750-copy.jpg
     portrait: true
     wide: false
     title:
