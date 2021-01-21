@@ -425,8 +425,8 @@ text-color: light
 
 2020 has been a hectic year, our lives were put on pause. In the midst of it, I traveled to Kenya for a period of 6 weeks, to emerge myself in the true wilderness of the Masai Mara Game Reserve and Amboseli National Park.
 
-Never before did silence feel so confusing, fearful, and liberating all at the same time. In fact, in the absence of the usual herds of tourists, but with wildlife in full effect, I felt a deeper connection with Africa than ever before. And in that particular space of not knowing what’s ahead of us, ‘Umoja’ was born, a series of images that describe my emotional connection with these landscapes.&nbsp;
+Never before did silence feel so confusing, fearful, and liberating all at the same time. In fact, in the absence of the usual herds of tourists, but with wildlife in full effect, I felt a deeper connection with Africa than ever before. And in that particular space of not knowing what’s ahead of us, ‘Umoja’ was born, a collection of images that describe my emotional connection with these landscapes.&nbsp;
 
-The word 'Umoja' is Swahili for ’oneness’, for ‘unity’ and I sincerely hope that this collection of images will serve as a daily reminder that ‘we are one’. I believe that's 1 lesson we all learned this year. Because in the end, it’s so easy to get caught in the grandness of our egos when we are disconnected from the grandness of Mother Nature.&nbsp;&nbsp;
+The word 'Umoja' is Swahili for ’oneness’, for ‘unity’ and I sincerely hope that this collection of images will serve as a reminder that ‘we are one’. I believe that's 1 lesson we all learned this year. Because in the end, it’s so easy to get caught in the grandness of our egos when we are disconnected from the grandness of Mother Nature.&nbsp;&nbsp;
 
 Want to get a print of this collection check out my [print store](https://shop.pieaerts.com/collections/){: target="_blank" rel="noopener"}.&nbsp;
