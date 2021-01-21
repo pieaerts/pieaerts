@@ -1,5 +1,5 @@
 ---
-title: Umoja
+title: umoja
 subtitle:
 date: 2020-12-27 00:00:00
 image: /uploads/masai-mara.jpg
@@ -421,7 +421,7 @@ images:
 text-color: light
 ---
 
-#### Umoja
+#### Masai Mara Reserve & Amboseli National Park
 
 2020 has been a hectic year, our lives were put on pause. In the midst of it, I traveled to Kenya for a period of 6 weeks, to emerge myself in the true wilderness of the Masai Mara Game Reserve and Amboseli National Park.
 
