@@ -429,4 +429,6 @@ Never before did silence feel so confusing, fearful, and liberating all at the s
 
 The word 'Umoja' is Swahili for ’oneness’, for ‘unity’ and I sincerely hope that this collection of images will serve as a reminder that ‘we are one’. I believe that's 1 lesson we all learned this year. Because in the end, it’s so easy to get caught in the grandness of our egos when we are disconnected from the grandness of Mother Nature.&nbsp;&nbsp;
 
+A big shout-out to my partners on this trip. Thank you for believing in my work, [Alex Walker Serian](https://serian.com){: target="_blank" rel="noopener"}, [Elewana Collection](https://www.elewanacollection.com){: target="_blank" rel="noopener"}, [Emboo Camp](https://www.emboo.camp){: target="_blank" rel="noopener"}, [Angama Mara](https://angama.com){: target="_blank" rel="noopener"}&nbsp;and&nbsp;[Big Life Foundation](https://biglife.org){: target="_blank" rel="noopener"}.&nbsp;
+
 Want to get a print of this collection check out my [print store](https://shop.pieaerts.com/collections/){: target="_blank" rel="noopener"}.&nbsp;
