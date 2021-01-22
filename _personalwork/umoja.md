@@ -12,7 +12,7 @@ images:
     subtitle:
     text-color:
     show-text: false
-  - image: /uploads/2g2a8388a.jpg
+  - image: /uploads/2g2a8388a-1.jpg
     portrait: false
     wide: true
     title:
