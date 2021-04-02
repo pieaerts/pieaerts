@@ -10,7 +10,8 @@ introduction_html: >-
   personal tips in terms of brand building, finding your voice as an artist and
   social media.&nbsp;</p>
 gallery_url: /none/
-subscribe_url: 'https://forms.gle/pniLS94yK76gkx1u5'
+subscribe_url: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSdILjJm900iyJeW8W-DHXj6DiVX0-7gc1Sbu8NaaLdYH9ieMA/viewform?usp=sf_link
 subscribe_text: CLICK HERE TO BOOK YOUR PERSONAL SLOT
 active: true
 ---
