@@ -16,5 +16,3 @@ Or find me on Instagram:
 {: .present-before-paste}
 
 Want this to learn more about what I do:&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
-
-&nbsp;
