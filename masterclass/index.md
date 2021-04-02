@@ -7,4 +7,4 @@ introduction_html: >-
 layout: masterclasses
 ---
 
-![](/uploads/0h3a6324-copy-1.jpg){: width="1400" height="933"}​​​​​​
+![](/uploads/757a4672-a-1.jpg){: width="1600" height="1067"}​​​​​​
