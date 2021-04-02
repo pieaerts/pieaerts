@@ -1,15 +1,15 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | March 20
-starting_date: 2021-03-20 00:00:00
+title: BECAUSE PEOPLE MATTER | the masterclass | May 22
+starting_date: 2021-05-22 00:00:00
 subtitle:
 introduction_html: >-
   <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
   new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
   knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
-  chance!</p><p>Saturday March 20 in Amsterdam.</p>
+  chance!</p><p>Saturday May 22 in Amsterdam.</p>
 gallery_url: /none/
 subscribe_url: 'https://forms.gle/pGE7hmUMi2G1EC6VA'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MARCH 20 MASTERCLASS
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MAY 22 MASTERCLASS
 active: true
 ---
 
@@ -27,49 +27,47 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet while keeping a safe 1,5m distance. The program for the day is as following:
 
-11\.00 - 11.30 Walk-in
+12\.30 - 13.00 Walk-in
 
-11\.30 - 12.30 What is a story? Building a story from scratch to publication
+13\.00 - 14.00 What is a story? Building a story from scratch to publication
 
-12\.30 - 13.30 Technical aspects & gear (digital & film)
+14\.00 - 15.00 Technical aspects & gear (digital & film)
 
-13:30 - 14:00 Finding your own voice as an artist
+15:00 - 15:30 Finding your own voice as an artist
 
-14:00 - 14:30 Social Media & building your personal brand as a photographer&nbsp;
+15:30 - 16:00 Social Media & building your personal brand as a photographer&nbsp;
 
-14:30 - 15:30 Late Vegetarian Lunch
+16:00 - 17:00 Early Vegetarian Dinner
 
-15:30 - 19:00 Shooting on the streets of Amsterdam
+17:00 - 20:00 Shooting on the streets of Amsterdam
 
-19:00 - 20.30 Evaluation of images
+20:00 - 22.00 Post production & evaluation of images
 
-20:30 - 21:30 Post production & drinks&nbsp;
+22:00 - 23:00 Drinks&nbsp;
 
 ### Who?
 
 This masterclass offers space for 20 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
 
-I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know. Since the lunch will be served late (2.30pm) it's recommended to have a big breakfast.&nbsp;
+I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know. Since dinner will be served early (4pm) it's recommended to have an early lunch that day.&nbsp;
 
 ### Price?
 
 The price of the masterclass is € 300,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.&nbsp;
 
-All 'masterclass' bookings made before December 31st will receive a free 20x30cm fine-art print of choice (choose from [Wild Creatures](https://shop.pieaerts.com/collections/wildlife), [Wild Places](https://shop.pieaerts.com/collections/nature), [Wild Stories](https://shop.pieaerts.com/collections/travel)&nbsp;).&nbsp;
-
 ### Cancellation policy
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before January 1, 2021: 100% refund
-* Cancellation before February 1, 2021: 50% refund
-* Cancellation after Feb 20, 2021: no refund
+* Cancellation before April 1, 2021: 100% refund
+* Cancellation before April 15, 2021: 50% refund
+* Cancellation after May 1, 2021: no refund
 
-Come join me on March 20, 2021 talking travel, life, photography and many other things\!
+Come join me on May 22, 2021 talking travel, life, photography and many other things\!
 
 ### The photographer
 
-After studying at the Hogere Hotelschool Maastricht and an eventful corporate career at Ahold Delhaize, Pie Aerts decided to change course. He says goodbye to his comfortable life in the Netherlands and ventures into the world. In all but everyday locations in more than twenty countries, Aerts explores what it means to be "human", with an emphasis on the simple, imperfect and mysterious of our daily existence. He spends weeks with gauchos in Patagonia, chases poachers in Uganda, lives with Buddhist monks in monasteries high in the Himalayas and travels deep into the heart of Papua. The photographs of Aerts, a self-taught talent unique at this time, unleash an engaging sense of connection and invite us to reflect on the essence of our existence. Through his lens, he not only examines the relationship between humans, animals and nature, but also tries to find an answer to the question of how it may be that we seem to become increasingly distant from each other and from ourselves.
+Pie Aerts is a Dutch documentary photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature. And, as we become increasingly distant from the natural world, each other and ourselves, he uses photography to search for the cause of this disconnect in an attempt to understand the mysterious and imperfect nature of being human. The photographs of Aerts unleash an engaging sense of connection and invite us to reflect on the essence of our existence. Pie is official Canon Europe Ambassador and founder of ‘Prints for Wildlife’, a month-long fundraiser that collected 660.000 dollars for conservation areas badly affected by COVID-19. He is a firm believer that art can be an incredibly powerful tool in restoring that lost and damaged connection he investigates.
 
 ### Testimonials&nbsp;
 
