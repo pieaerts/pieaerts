@@ -1,6 +1,6 @@
 ---
 title: How are you?
-image: /757A4672.jpg
+image: /uploads/757a4672-a.jpg
 layout: about
 ---
 
