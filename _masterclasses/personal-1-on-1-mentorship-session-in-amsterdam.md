@@ -17,7 +17,7 @@ active: true
 
 ### What?
 
-A 2 hour session between you and me in my studio in Amsterdam. We will chat about anything you like. About finding your voice as an artist, creating stories from scratch to publication, building your name on social media, gear, post-production, publishing books, printing your work and much more. There’s room for as much open questions as you want, critique of your portfolio and advice about future steps in building your personal brand.
+A 2,5 hour session between you and me in my studio in Amsterdam. We will chat about anything you like. About finding your voice as an artist, creating stories from scratch to publication, building your name on social media, gear, post-production, publishing books, printing your work and much more. See it as a personal version of my visual story-telling masterclass. There’s room for as much open questions as you want, critique of your portfolio and advice about future steps in building your personal brand. Do you want any advise on how to further build your creative career, this session will show you the way.&nbsp;
 
 ### Why?
 
@@ -25,7 +25,7 @@ Because I absolutely love sharing my passion for photographic story-telling with
 
 ### Price?
 
-The price of a virtual mentorship session is EUR 250,- for a 2 hour session. As soon as your time slot is approved, you will be send a payment link.&nbsp;
+The price of a virtual mentorship session is EUR 300,- for a 2,5 hour session. As soon as your time slot is approved, you will be send a payment link.&nbsp;
 
 ### Who?
 
