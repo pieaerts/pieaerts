@@ -1,15 +1,15 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | May 22
+title: BECAUSE PEOPLE MATTER | the masterclass | September 25
 starting_date: 2021-05-22 00:00:00
 subtitle:
 introduction_html: >-
   <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
   new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
   knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
-  chance!</p><p>Saturday May 22 in Amsterdam.</p>
+  chance!</p><p>Saturday&nbsp; September 25 in Amsterdam.</p>
 gallery_url: /none/
-subscribe_url: 'https://forms.gle/pGE7hmUMi2G1EC6VA'
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE MAY 22 MASTERCLASS
+subscribe_url: https://forms.gle/pGE7hmUMi2G1EC6VA
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 25 MASTERCLASS
 active: true
 ---
 
@@ -17,7 +17,7 @@ active: true
 
 ### Why?
 
-Because I freaking love sharing my passion for story-telling with people\! And because over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. You simply need a teachable spirit in order to keep growing. So let's get ready and fine-tune your story-telling skills to be ready when the world opens up again\!&nbsp;
+Because I love sharing my passion for story-telling with people\! And because over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. You simply need a teachable spirit in order to keep growing. So let's get ready and fine-tune your story-telling skills to be ready when the world opens up again\!&nbsp;
 
 ### What?
 
@@ -59,11 +59,11 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before April 1, 2021: 100% refund
-* Cancellation before April 15, 2021: 50% refund
-* Cancellation after May 1, 2021: no refund
+* Cancellation before August 15, 2021: 100% refund
+* Cancellation before September 1, 2021: 50% refund
+* Cancellation after September 10, 2021: no refund
 
-Come join me on May 22, 2021 talking travel, life, photography and many other things\!
+Come join me on September 25, 2021 talking travel, life, photography and many other things\!
 
 ### The photographer
 
