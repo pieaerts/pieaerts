@@ -6,9 +6,9 @@ introduction_html: >-
   <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
   new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
   knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
-  chance!</p><p>Saturday&nbsp; September 25 in Amsterdam.</p>
+  chance!</p><p>Saturday September 25 in Amsterdam.</p>
 gallery_url: /none/
-subscribe_url: https://forms.gle/pGE7hmUMi2G1EC6VA
+subscribe_url: https://forms.gle/zLu3rUkuATGLzCsM8
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 25 MASTERCLASS
 active: true
 ---
@@ -59,7 +59,7 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before August 15, 2021: 100% refund
+* Cancellation before August 20, 2021: 100% refund
 * Cancellation before September 1, 2021: 50% refund
 * Cancellation after September 10, 2021: no refund
 
