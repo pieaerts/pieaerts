@@ -5,6 +5,7 @@
   <title>{% if page.title %}{{ page.title }} &bull; {{ site.data.settings.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
   <meta id="viewport" name="viewport" content="width=device-width">
+  <meta name="facebook-domain-verification" content="qduyj9es3fxfe5n80juqzbo7l2c9z0" />
   <link rel="canonical" href="http://www.koffijberg.nl{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
