@@ -4,8 +4,7 @@ image: /uploads/tles-feed-tekengebied-36a-2.jpg
 location: Amsterdam
 footer_html:
 ---
-
-It’s a powerful feeling, to put something out in the world and see what happens. It’s scary, exciting and dizzying all at the same time. It can crash and burn. Or it can take off and fly. Never before in my life I have worked so hard for something. Never before I have put so much love, feeling, dedication and time in 1 project.&nbsp;
+It’s a powerful feeling, to put something out in the world and see what happens. It’s scary, exciting and dizzying all at the same time. It can crash and burn. Or it can take off and fly. Never before in my life I have worked so hard for something. Never before I have put so much love, feeling, dedication and time in one project.&nbsp;
 
 ![](/uploads/tles-feed-tekengebied-36.jpg){: width="1400" height="933"}
 
