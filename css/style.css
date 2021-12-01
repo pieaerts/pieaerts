@@ -291,6 +291,31 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 .masterclass h2 {line-height: 1.6em; margin-bottom: 1.4em;}
 .masterclass h3 + .lightbox-image {margin: 10px 0 0;}
 
+.lightbox-youtube {
+  position: relative; display: inline-block;
+}
+.lightbox-youtube::before, .lightbox-youtube::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+} 
+.lightbox-youtube::before {
+  background: url(/img/youtube_button.svg) center center / auto 4rem no-repeat;
+}
+.lightbox-youtube:hover::before {
+  background: url(/img/youtube_button_hover.svg) center center / auto 4rem no-repeat;
+}
+.lightbox-youtube::after {
+  background: url(/img/youtube.svg) calc(100% - 1rem) calc(100% - 1rem) / auto 2rem no-repeat;
+}
+.lightbox-youtube img {
+  display: block;
+  max-width: 600px;
+}
+
 /* footer */
 footer {clear: both; padding: 45px 0 25px; width: 100%; bottom: 0;}
 footer img {cursor: pointer; display: inline-block; width: 35px; position: relative; bottom: 2px; right: 4px;}

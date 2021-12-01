@@ -15,4 +15,6 @@ Or find me on Instagram:
 [Pie Aerts](https://www.instagram.com/pie_aerts/){: target="_blank"}&nbsp;&&nbsp;[Because People Matter](https://www.instagram.com/because.people.matter/)
 {: .present-before-paste}
 
-Want this to learn more about what I do:&nbsp;[Because People Matter](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
+Want this to learn more about what I do:
+
+[![Because People Matter](/uploads/757a4672-a.jpg)](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
