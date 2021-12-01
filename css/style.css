@@ -314,6 +314,7 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 .lightbox-youtube img {
   display: block;
   max-width: 600px;
+  width: 100%;
 }
 
 /* footer */
