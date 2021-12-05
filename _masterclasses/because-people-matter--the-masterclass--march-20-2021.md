@@ -1,15 +1,15 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | September 25
-starting_date: 2021-05-22 00:00:00
+title: BECAUSE PEOPLE MATTER | the masterclass | February 5
+starting_date: 2022-02-05 00:00:00
 subtitle:
 introduction_html: >-
   <p>Do you want to push yourself creatively?</p><p>Do you feel like you need a
   new boost in your photography?&nbsp;</p><p>Or do you want to broaden your
   knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your
-  chance!</p><p>Saturday September 25 in Amsterdam.</p>
+  chance!</p><p>Saturday February 5 in Amsterdam.</p>
 gallery_url: /none/
-subscribe_url: https://forms.gle/zLu3rUkuATGLzCsM8
-subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 25 MASTERCLASS
+subscribe_url: https://forms.gle/AVCbJEM9PovfEP1p8
+subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE FEBRUARY 5 MASTERCLASS
 active: true
 ---
 
@@ -27,29 +27,27 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet while keeping a safe 1,5m distance. The program for the day is as following:
 
-12\.30 - 13.00 Walk-in
+09\.30 - 10.00 Walk-in
 
-13\.00 - 14.00 What is a story? Building a story from scratch to publication
+10\.00 - 13.00 What is a story? Building a story from scratch to publication
 
-14\.00 - 15.00 Technical aspects & gear (digital & film)
+13\.00 - 14.00 Technical aspects & gear (digital & film)
 
-15:00 - 15:30 Finding your own voice as an artist
+14:00 - 14:30 Finding your own voice as an artist
 
-15:30 - 16:00 Social Media & building your personal brand as a photographer&nbsp;
+14:30 - 15:00 Social Media & building your personal brand as a photographer&nbsp;
 
-16:00 - 17:00 Early Vegetarian Dinner
+15:00 - 16:00 Early Vegetarian Dinner
 
-17:00 - 20:00 Shooting on the streets of Amsterdam
+16:00 - 19:00 Shooting on the streets of Amsterdam
 
-20:00 - 22.00 Post production & evaluation of images
-
-22:00 - 23:00 Drinks&nbsp;
+19:00 - 21.00 Post production & evaluation of images
 
 ### Who?
 
 This masterclass offers space for 20 participants. You don’t need any professional experience but it helps if you know your way around your own camera. If not, don’t worry, I’m there to help you\!&nbsp;
 
-I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know. Since dinner will be served early (4pm) it's recommended to have an early lunch that day.&nbsp;
+I will be hosting the full day program. My girlfriend Jessica will be serving a beautiful vegetarian meal. If you have any allergies or dietary restrictions, please let me know.&nbsp;
 
 ### Price?
 
@@ -59,11 +57,11 @@ The price of the masterclass is € 300,- per person . As soon as your subscript
 
 If you cancel and the masterclass can be filled anyway after your cancellation, we will refund you the full amount you have paid. If you cancel and the masterclass does not fill, then you will be refunded according to the following schedule:
 
-* Cancellation before August 20, 2021: 100% refund
-* Cancellation before September 1, 2021: 50% refund
-* Cancellation after September 10, 2021: no refund
+* Cancellation before January 1, 2022: 100% refund
+* Cancellation before January 10, 2022: 50% refund
+* Cancellation after January 21, 2022: no refund
 
-Come join me on September 25, 2021 talking travel, life, photography and many other things\!
+Come join me on February 5, 2022 talking travel, life, photography and many other things\!
 
 ### The photographer
 
