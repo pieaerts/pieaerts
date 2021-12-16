@@ -2,7 +2,7 @@
 title: Anouk & Maarten
 subtitle: De Landgoederij
 date: 2016-05-21 00:00:00
-image: /uploads/1j2a2153.jpg
+image: /uploads/1j2a2073-1.jpg
 float: left
 images:
   - image: /uploads/1y6a1611.jpg
