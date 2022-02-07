@@ -12,8 +12,7 @@ introduction_html: "<h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION 
 gallery_url: "/none/"
 subscribe_url: http://remotexpeditions.com/portfolio_page/ladakh-photography-expedition/
 subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
-active: true
-published: false
+active: false
 
 ---
 # ![](/uploads/-dsc6463-22.jpg){: width="1107" height="1600"}
