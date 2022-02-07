@@ -3,21 +3,20 @@ title: Kenya - Photographic Expedition - January 25 till February 3, 2023
 starting_date: 2019-03-08 00:00:00
 subtitle:
 introduction_html: >-
-  <h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION WILL BE
-  RESCHEDULED TO 2021. MORE INFORMATION WILL FOLLOW THROUGH MY SOCIAL CHANNELS.
-  STAY TUNED.&nbsp;</h4><p>&nbsp;</p><p>Join me on an adventure of a lifetime to
-  the remote Yamal Peninsula in Siberia to document the life of the indigenous
-  Nenet people.&nbsp;</p><p>These reindeer herders have been living in the
-  SIberian Arctic for thousands of years, completely isolated from the outside
-  world.</p><p>A unique opportunity to learn more about this beautiful culture
-  and to expand your knowledge about photography.&nbsp;</p><p>Scroll down to
-  read the full itinerary.&nbsp;</p>
+  <h4>&nbsp;</h4><p>Do you want to join me visiting two of my favourite corners
+  of Kenya? Then this is your chance!</p><p>After selling out the first edition
+  - in January 2022 - in the blink of an eye, we are now offering a second
+  edition of this mind-blowing itinerary to some of Kenya's wildest
+  conservancies.&nbsp;</p><p>From January 25 till February 3, 2022, you can join
+  me visiting Chyulu Hills as well as Naboisho Conservancy.&nbsp;</p><p>Scroll
+  down to read the full itinerary.&nbsp;</p>
 gallery_url: /none/
 subscribe_url: http://remotexpeditions.com/portfolio_page/yamal-photography-expedition/
 subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
-active: true
+active: false
 ---
-# ![](/uploads/-dsc6365.jpg){: width="1600" height="1067"}
+
+# ![](/uploads/oldonyo-trippromotion-4.jpg){: width="1200" height="799"}
 
 ### When?
 
