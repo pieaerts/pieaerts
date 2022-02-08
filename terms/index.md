@@ -1,6 +1,20 @@
 ---
 title: Terms and Conditions
+
 ---
+**TERMS & CONDITIONS |** PIE AERTS PHOTOGRAPHY
+
+PAYMENT OF YOUR DEPOSIT CONFIRMS THAT YOU AGREE TO OUR TERMS & CONDITIONS
+
+**RESERVATION & PAYMENT**
+
+The payment schedule is clearly indicated on the expedition website and varies per expedition. Payment can be made using any of the following methods:
+
+\- International bank transfer
+
+\- With a credit card through PayPal. Please note that PayPal charges banking fees for receiving funds outside of The Netherlands. These banking fees should be covered by you and will be added to the amount payable. The height of the banking fees differs per country
+
+The banking details will be mentioned on the invoice you will receive after making the booking.
 
 ## Registration
 
