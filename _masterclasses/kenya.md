@@ -13,7 +13,9 @@ subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: false
 
 ---
-# ![](/uploads/weqeqwew-3.jpg)
+# Let's go to Africa!
+
+![](/uploads/img_5134.JPG)
 
 I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
 
