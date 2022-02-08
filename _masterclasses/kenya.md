@@ -18,14 +18,14 @@ active: false
 
 For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
 
-![](/uploads/ndugu.jpg)
+![](/uploads/slide7.jpg)
 
-### Important information 
+### Important information
 
 * Dates: Oct 22 - 31, 2022
 * Tour starts/ends in: Nairobi, Kenya
-* Price: $
-* Deposit: $
+* Price: $ .... (based on twin sharing accommodation)
+* Deposit: $ 2500 (paid upon booking in order to hold your seat)
 * Single supplement: $ 1750
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
@@ -44,7 +44,7 @@ Early in the morning we travel to Wilson Airport where we will board our flight 
 
 We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will lead to unique photographic opportunities.
 
-![](/uploads/kitirua.jpg)
+![](/uploads/slide8.jpg)
 
 On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
 
@@ -61,8 +61,6 @@ On the morning of the 10th day, we will check out to make our way back to Wilson
 Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
 
 The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
-
-### ![](/uploads/sinet.jpg)
 
 We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Maasai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Maasai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Maasai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.
 
@@ -158,13 +156,13 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry. 
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
 
 ### **Do I need any photography experience?**
 
 Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
 
-![](/uploads/2g2a9369.jpg)
+![](/uploads/slide9.jpg)
 
 ### **What type of gear do I need?**
 
@@ -174,11 +172,13 @@ As soon as you have confirmed your booking, we will share an extensive list of r
 
 In the past 2 years I have spent 45+ weeks in Kenya and I know the country and its people inside out. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living, and conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted based on photographic opportunity, which means I deliberated chose certain areas camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We have off-road access and full flexibility everywhere we go. In between game drives – I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
 
-![](/uploads/ositet.jpg)
-
 ### **Can I cancel my seat when I change my mind?**
 
-In order to secure your seat, you will have to pay a deposit of $ 2500. This happens upon booking. The remaining balance will then need to be settled maximum 3 months before departure. For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
+For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
+
+### **Is there an option to book a private room?**
+
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 1750 will give you a private room in both lodges. 
 
 ### **Will you advise what documents to organize in order to travel?**
 
@@ -188,7 +188,7 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
 
-![](/uploads/dji_0262.jpg)
+![](/uploads/slide10.jpg)
 
 ### The host
 
