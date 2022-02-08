@@ -35,23 +35,21 @@ Group size: min 5, max 8
 
 Level: Anyone is welcome, from beginners to professionals
 
-![](/uploads/-dsc6671-1.jpg)
-
 ### Day-to-day itinerary
 
-The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India.
+_Day 1_
 
-Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation.
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
 
-Price is based on double occupancy: a single supplements of $ 380 will apply*
+_Day 2 – 6_
 
-_*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply._
+Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to our lodge right on the edge of Kitirua Conservancy.
 
-A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior to departure.
+We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will lead to unique photographic opportunities.
 
-![](/uploads/-dsc7792-1.jpg){: width="1600" height="1068"}
+_Day 6_
 
-### 
+On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
 
 ### Itinerary
 
