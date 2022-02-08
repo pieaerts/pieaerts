@@ -15,25 +15,27 @@ active: false
 ---
 # ![](/uploads/weqeqwew-3.jpg)
 
-### When?
+I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
 
-Jan 23 - Feb 5
+### Expedition information
 
-![](/uploads/weqeqwew-3.jpg)
+Dates: Oct 22 - 31, 2022
 
-### What?
+Tour starts/ends in: Nairobi, Kenya
 
-An adventure of a lifetime to the remote Ladakh region in Northern India on the border with Tibet. For 12 days we will traverse the high Tibetan plateau on the look-out for real stories about the Ladakhi people. While doing so, I will teach you all I know about visual story-telling & portrait photography. A unique opportunity to learn more about this beautiful Himalayan culture and to expand your knowledge about photography.
+Price: $
 
-### Where and who?
+Deposit: $
 
-Spectacularly jagged, arid mountains enfold this magical Buddhist ex-kingdom. Picture-perfect gompas (Tibetan Buddhist monasteries) surrounded by dramatic rocky outcrops amid whitewashed stupas and mani walls. Colourful fluttering prayer flags share their spiritual messages metaphorically with the mountain breeze. Prayer wheels spun clockwise release more merit-making mantras. Ladakh has much to teach. Most Ladakhis are cash poor yet their traditional mud-brick homesteads are large and virtually self-sufficient in fuel and dairy products, organic vegetables, and barley used to make tsampa (roast barley flour) and chang (barley beer). This expedition to Ladakh is a fantastic opportunity to explore the roof of the world alongside the professional guidance of Pie Aerts. Discover ancient cultures, the historic Silk Route, and the fascinating landscapes of the Tibetan Plateau and the Trans-Himalayas. This is an expedition for those who love to dig deeper and interact with places, people, and cultures along the way. We will look for opportunities to tell meaningful stories about this special place and about the people who live there.
+Single supplement: $ 1750
 
-![](/uploads/-dsc6671-1.jpg){: width="1600" height="1068"}
+Group size: min 5, max 8
 
-### 
+Level: Anyone is welcome, from beginners to professionals
 
-### Price?
+![](/uploads/-dsc6671-1.jpg)
+
+### Day-to-day itinerary
 
 The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India.
 
