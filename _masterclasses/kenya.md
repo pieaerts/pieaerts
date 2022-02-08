@@ -2,12 +2,12 @@
 title: Kenya Photography Expedition
 starting_date: 2022-02-08 00:00:00 +0000
 subtitle: 
-introduction_html: "</p><p>Do you want to join me on my travels to Africa? In October
-  2022 I will take a group of like-minded people with a passion and appreciation for
-  wild places to two of my favourite corners in all of Africa. Kitirua Conservancy
-  in  Amboseli as well as Mara North Conservancy in the Masai Mara. A once-in-a-lifetime
-  trip focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down
-  to read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>Do you want to join me on my
+  travels to Africa? In October 2022 I will take a group of like-minded people with
+  a passion and appreciation for wild places to two of my favourite corners in all
+  of Africa. Kitirua Conservancy in  Amboseli as well as Mara North Conservancy in
+  the Masai Mara. A once-in-a-lifetime trip focused on creating meaningful stories
+  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -52,8 +52,6 @@ We will stay at this amazing camp for 4 nights and will spend full days in the f
 
 ![](/uploads/kitirua.jpg)
 
-_Day 6_
-
 On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
 
 _Day 6 – 10_
@@ -61,8 +59,6 @@ _Day 6 – 10_
 After spending 4 full days with elephants in Amboseli, we change our focus to Big Cats! Because you just arrived in Big Cats Heaven. Mara North, my favorite conservancy in the Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. Once again, it will be mostly us and the animals. We spend 4 nights in Elephant Pepper Camp, located in the best possible location, right in the middle of the conservancy. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Mara.
 
 ![](/uploads/slide3.jpg)
-
-_Day 10_
 
 On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Upon return everybody will proceed his/her own travels.
 
@@ -88,9 +84,9 @@ The days are warm, rising to a maximum of 30 degrees centigrade, but very comfor
 
 The lush rolling hills of Mara North will be a welcome break from the dry & dusty Amboseli. These vast, fertile plains boast a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the migration, classified amoung the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually in November.
 
-![](/uploads/slide5.jpg)
-
 All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer spacious ensuite bathroom areas.
+
+![](/uploads/slide5.jpg)
 
 ### **Included in the expedition price**
 
@@ -138,8 +134,6 @@ Champagne, private cellar wines & spirits
 
 Optional Hot air balloon
 
-Baggage/travel insurance, cancellation insurance, health insurance
-
 ### **How does an average day look like?**
 
 0500 – 0530 wake up + coffee/tea
@@ -172,29 +166,29 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
 
-### **Do I need any experience with photography?**
+### **Do I need any photography experience?**
 
 Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
 
 ![](/uploads/2g2a9369.jpg)
 
-### **What type of gear will we need?**
+### **What type of gear do I need?**
 
 As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advise for every level, from amateurs and beginners to full professional photographers.
 
-### **Why is this photography expedition different from any other trip?**
+### **How is this photography expedition different from any regular safari?**
 
 In the past 2 years I have spent 45+ weeks in Kenya and I know the country and its people inside out. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living, and conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted based on photographic opportunity, which means I deliberated chose certain areas camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We have off-road access and full flexibility everywhere we go. In between game drives – I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
 
 ![](/uploads/ositet.jpg)
 
-### **Can I cancel my participation when I change my mind?**
+### **Can I cancel my seat when I change my mind?**
 
 In order to secure your seat, you will have to pay a deposit of $ 2500. This happens upon booking. The remaining balance will then need to be settled maximum 3 months before departure. For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
 
 ### **Will you advise what documents to organize in order to travel?**
 
-Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. This might change overtime and we will keep you posted accordingly.
+Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. This might change overtime and we will keep you posted accordingly. 
 
 ### **Optional: Hot air balloon safaris**
 
@@ -202,7 +196,7 @@ During both legs of the trip, it is possible to embark on a once-of-a-lifetime h
 
 ![](/uploads/dji_0262.jpg)
 
-### The photographer
+### The host
 
 Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as Hahnemühle Natural Line Ambassador.
 
