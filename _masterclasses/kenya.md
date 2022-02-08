@@ -1,30 +1,26 @@
 ---
-title: Kenya Photographic Expedition - October 22 - 31, 2022
+title: Kenya Photography Expedition
 starting_date: 2022-02-08 00:00:00 +0000
 subtitle: 
 introduction_html: "</p><p>Do you want to join me on my travels to Africa? In October
   2022 I will take a group of like-minded people with a passion and appreciation for
-  wild places to two of my favourite corners in all of Kenya, Amboseli as well as
-  Masai Mara. A once-in-a-lifetime itinerary focused on creating meaningful stories
-  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
+  wild places to two of my favourite corners in all of Africa. Kitirua Conservancy
+  in  Amboseli as well as Mara North Conservancy in the Masai Mara. A once-in-a-lifetime
+  trip focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down
+  to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: false
 
 ---
-
 ![](/uploads/presentation1-1.jpg)
 
 For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
 
-For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats. Read more about the itinerary in detail below. For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
-
 ![](/uploads/ndugu.jpg)
 
-### Expedition information
-
-Dates: Oct 22 - 31, 2022 
+Dates: Oct 22 - 31, 2022
 
 Tour starts/ends in: Nairobi, Kenya
 
@@ -210,4 +206,4 @@ During both legs of the trip, it is possible to embark on a once-of-a-lifetime h
 
 Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as Hahnemühle Natural Line Ambassador.
 
-**Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.** 
+**Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**

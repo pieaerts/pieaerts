@@ -1,7 +1,0 @@
----
-title: 24 hours in
-layout: twentyfour-hours-in
----
-
-
-Brief visits. Quick in. Quick out. Sometimes 12, sometimes 48, but most of the times 24 hours. Just to show you the simple, imperfect but mysterious nature of being human. Because there’s something very strange and touching about that. Something I can’t get enough of. These series are a tribute to that, a tribute to humankind.&nbsp;
