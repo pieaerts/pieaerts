@@ -158,7 +158,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry. 
 
 ### **Do I need any photography experience?**
 
