@@ -12,7 +12,8 @@ introduction_html: "<h4>DUE TO THE RECENT CORONA VIRUS OUTBREAK THIS EXPEDITION 
 gallery_url: "/none/"
 subscribe_url: http://remotexpeditions.com/portfolio_page/ladakh-photography-expedition/
 subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
-active: true
+active: false
+
 ---
 # ![](/uploads/-dsc6463-22.jpg){: width="1107" height="1600"}
 
@@ -20,9 +21,11 @@ active: true
 
 Jan 23 - Feb 5
 
+![](/uploads/weqeqwew-3.jpg)
+
 ### What?
 
-An adventure of a lifetime to the remote Ladakh region in Northern India on the border with Tibet. For 12 days we will traverse the high Tibetan plateau on the look-out for real stories about the Ladakhi people. While doing so, I will teach you all I know about visual story-telling & portrait photography. A unique opportunity to learn more about this beautiful Himalayan culture and to expand your knowledge about photography. 
+An adventure of a lifetime to the remote Ladakh region in Northern India on the border with Tibet. For 12 days we will traverse the high Tibetan plateau on the look-out for real stories about the Ladakhi people. While doing so, I will teach you all I know about visual story-telling & portrait photography. A unique opportunity to learn more about this beautiful Himalayan culture and to expand your knowledge about photography.
 
 ### Where and who?
 
@@ -30,23 +33,23 @@ Spectacularly jagged, arid mountains enfold this magical Buddhist ex-kingdom. Pi
 
 ![](/uploads/-dsc6671-1.jpg){: width="1600" height="1068"}
 
-###  
+### 
 
 ### Price?
 
-The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India. 
+The price of the workshop is $ 3930,- per person . There is room for 4-8 participants. Trip starts and ends in Leh Airport, India.
 
-Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation. 
+Cost includes: All the accommodation and meals as mention in the expeditions program (BLD), around the clock photography guidance by Pie Aerts, local English speaking guide, airport transfer and ground transportation.
 
 Price is based on double occupancy: a single supplements of $ 380 will apply*
 
-_*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply._ 
+_*Note: We will make every effort to connect you with a roommate should you like to share a room, however, if unable to make a match, the single supplements will be apply._
 
 A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior to departure.
 
 ![](/uploads/-dsc7792-1.jpg){: width="1600" height="1068"}
 
-###  
+### 
 
 ### Itinerary
 
@@ -60,7 +63,7 @@ A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior
 
 **Day 5: 22th May Leh To Nubra Valley Via Khardongla**: Today we will ride northward from Leh to Nubra valley, which is considered one of the most scenic valleys in the entire trans-Himalayan region. The valley boasts a unique landscape with sand dunes, lush green oasis and snow peaks, along with beautiful monasteries and villages. We will be crossing the Khardungla pass (18,380ft), considered the Highest all weather motorable pass in the world. The Pass has become a dream destination for bikes and adventurous souls from all across the world, we can click some photos, grab a hot tea from the cafeteria and start riding towards Nubra valley. We will drive past the North pull check post, and through the narrow road sand blind curves to reach Diskit in the afternoon. We will visit the Diskit monastery, and the Maitreya Buddha statue which ideally sits atop a small hill overlooking the Shyok valley, the view from there is incredible. Further, we will drive to the Hunder Sand dunes, which is among the most visited place in Ladakh and also enjoy the camel ride. Nubra is the only place in India where these camels exist. OverNight stay at Hunder SandDune view.
 
-**Day 6: 23th May Nubra To Turtuk**: After breakfast at the camp/Guest House, we will then drive to Turtuk village – a beautiful balti village at the edge of the Line of control. The road runs somewhat alongside the Shayok river and pass through some of the most scenic landscapes and river body. Turtuk, along with the adjacent villages used to be a part of Baltistan and was administered by Pakistan till 1971 before India reclaimed it during the Indo-Pak war. The inhabitants of these villages are ethnic Balti people and has a unique identity and culture distinct from the rest of Ladakh. The region is also known for its beautiful landscape, agriculture. Overnight stay at village Lodge. 
+**Day 6: 23th May Nubra To Turtuk**: After breakfast at the camp/Guest House, we will then drive to Turtuk village – a beautiful balti village at the edge of the Line of control. The road runs somewhat alongside the Shayok river and pass through some of the most scenic landscapes and river body. Turtuk, along with the adjacent villages used to be a part of Baltistan and was administered by Pakistan till 1971 before India reclaimed it during the Indo-Pak war. The inhabitants of these villages are ethnic Balti people and has a unique identity and culture distinct from the rest of Ladakh. The region is also known for its beautiful landscape, agriculture. Overnight stay at village Lodge.
 
 **Day 7: 24th May Turtuk To Sumoor/Panamik**: Early morning after having breakfast, explore the villages of Turtuk, interact with the local Balti people and take some good photography. Later drive back towards Diskit along the same way and further drive towards Sumur village. We will visit the Sumur village and the Samstanling Monastery – one of the most important monasteries in the region. Later, drive further to Panamik known for its Hot Spring , we can also visit the Yarab Tso lake. Overnight stay ta Sumoor eco lodge.
 
@@ -76,15 +79,15 @@ A deposit of $ 1000,- is required to hold your spot, balance is due 60 day prior
 
 ### ![](/uploads/-dsc6529-1.jpg){: width="1600" height="1068"}
 
-###  
+### 
 
 ### The photographer
 
-In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life. 
+In the past few years, Dutch photographer Pie Aerts has traveled to some of the most remote corners of our planet. From the deep jungles of West Papua to the high plains of Bolivia and from the tiniest Himalayan mountain villages to the beating heart of the Okavango Delta, always on a quest to connect with people through photography and to capture the unfiltered reality of everyday life.
 
 ### RemotExpeditions
 
-I am proudly partnering with RemotExpeditions for this trip, one of the leading companies in hosting photographic adventures to some of the most remote areas around the world. 
+I am proudly partnering with RemotExpeditions for this trip, one of the leading companies in hosting photographic adventures to some of the most remote areas around the world.
 
 Remotexpeditions was founded by adventurer photographers with the passion for remote populations, their lifestyle and the desire to understand different culture on a deeper level. During the last ten years they have been travelling in the most remote and neglected countryside areas. Remotexpeditions was born of the desire to share photographic adventures and experiences with fellow photographers—whether amateur or professional, beginner or expert.
 
