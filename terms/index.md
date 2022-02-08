@@ -2,14 +2,11 @@
 title: Terms and Conditions
 
 ---
-**Payment of deposit confirms that you agree to the Terms & Conditions.** 
+**Payment of deposit confirms that you agree to the Terms & Conditions.**
 
 ## Reservation & Payment
 
-The payment schedule is clearly indicated on the expedition website and varies per expedition. Payment can be made using any of the following methods:
-
-* International bank transfer
-* With a credit card through PayPal. Please note that PayPal charges banking fees for receiving funds outside of The Netherlands. These banking fees should be covered by you and will be added to the amount payable. The height of the banking fees differs per country
+The payment schedule is clearly indicated on the expedition website and varies per expedition. Payment can be made using any of the following methods: International bank transfer or Credit Card through PayPal. Please note that PayPal charges banking fees for receiving funds outside of The Netherlands. These banking fees should be covered by you and will be added to the amount payable. The height of the banking fees differs per country
 
 The banking details will be mentioned on the invoice you will receive after making the booking.
 
@@ -45,4 +42,4 @@ Pie Aerts Photography reserves the right to cancel a tour up to 12 weeks prior t
 
 We assume no responsibility whatsoever caused for injury, loss or damage to person or property in connection with any service resulting directly from: acts of God, detention, annoyance, delays, expenses arising from quarantine, strikes, thefts, pilferage, failure of any means of conveyance to arrive or depart as scheduled, civil disturbances, terrorism, government restrictions or regulations and discrepancies or changes in transit or hotel services over which it has no control. Reasonable changes in the itinerary may be made where deemed advisable for the comfort and well being of the participants. In case of a medical problem arising during the expedition, which results in costs for evacuation, use of aircraft or repatriation, the responsibility for payment of these costs belongs solely to the passenger. We strongly advise that passengers ensure that such eventualities are covered by travel insurance. If not covered by travel insurance the responsibility still remains with the passenger and Pie Aerts Photography specifically declines any responsibility whatsoever.
 
-**Payment of deposit confirms that you agree to the Terms & Conditions.** 
+**Payment of deposit confirms that you agree to the Terms & Conditions.**
