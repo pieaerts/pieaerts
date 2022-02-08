@@ -8,8 +8,8 @@ introduction_html: "</p><p>Do you want to join me visiting two of my favourite p
   as Masai Mara in Kenya. A once-in-a-lifetime itinerary focused on creating meaningful
   stories about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
-subscribe_url: http://remotexpeditions.com/portfolio_page/ladakh-photography-expedition/
-subscribe_text: CLICK HERE FOR MORE INFORMATION AND TO SIGN UP FOR THE EXPEDITION
+subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
+subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: false
 
 ---
