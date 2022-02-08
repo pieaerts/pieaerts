@@ -1,6 +1,6 @@
 ---
 title: Kenya Photographic Expedition - October 22 - 31, 2022
-starting_date: 2019-03-08T00:00:00.000+00:00
+starting_date: 2022-02-08 00:00:00 +0000
 subtitle: 
 introduction_html: "</p><p>Do you want to join me on my travels to Africa? In October
   2022 I will take a group of like-minded people with a passion and appreciation for
