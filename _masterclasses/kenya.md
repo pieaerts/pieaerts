@@ -36,8 +36,6 @@ Experience level: Anyone is welcome, from beginners to professionals
 
 ### Day-to-day itinerary
 
-_Day 1_
-
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
 
 ![](/uploads/slide1.jpg)
@@ -188,7 +186,7 @@ In order to secure your seat, you will have to pay a deposit of $ 2500. This hap
 
 ### **Will you advise what documents to organize in order to travel?**
 
-Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. This might change overtime and we will keep you posted accordingly. 
+Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. This might change overtime and we will keep you posted accordingly.
 
 ### **Optional: Hot air balloon safaris**
 
