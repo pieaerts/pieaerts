@@ -134,25 +134,25 @@ Optional Hot air balloon
 
 ### **How does an average day look like?**
 
-0500 – 0530 wake up + coffee/tea
+05\.00 – 05.30 wake up + coffee/tea
 
-0530 – 0900 photography in the field with focus on soft morning light
+05\.30 – 09.00 photography in the field with focus on soft morning light
 
-0900 – 0930 bush breakfast or packed breakfast
+09\.00 – 09.30 bush breakfast or packed breakfast
 
-0900 – 1100 continue photography in the field focusing on B&W photography
+09\.00 – 11.00 continue photography in the field focusing on B&W photography
 
-1100 – 1300 lunch in camp + lectures by Pie
+11\.00 – 13.00 lunch in camp + lectures by Pie
 
-1300 – 1500 have a swim, rest, edit, back-up
+13\.00 – 15.00 have a swim, rest, edit, back-up
 
-1500 – 1800 photography in the field with focus on soft afternoon light
+15\.00 – 18.00 photography in the field with focus on soft afternoon light
 
-1800 – 1930 optional night drive
+18\.00 – 19.30 optional night drive
 
-2000 – 2130 campfire drinks & dinner
+20\.00 – 21.30 campfire drinks & dinner
 
-2130 off to bed to rest for another day of adventures in the bush
+21\.30 off to bed to rest for another day of adventures in the bush
 
 ![](/uploads/slide6.jpg)
 
