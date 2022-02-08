@@ -2,26 +2,22 @@
 title: Terms and Conditions
 
 ---
-**TERMS & CONDITIONS |** PIE AERTS PHOTOGRAPHY
-
-PAYMENT OF YOUR DEPOSIT CONFIRMS THAT YOU AGREE TO OUR TERMS & CONDITIONS
-
-**RESERVATION & PAYMENT**
+## Reservation & Payment
 
 The payment schedule is clearly indicated on the expedition website and varies per expedition. Payment can be made using any of the following methods:
 
-\- International bank transfer
-
-\- With a credit card through PayPal. Please note that PayPal charges banking fees for receiving funds outside of The Netherlands. These banking fees should be covered by you and will be added to the amount payable. The height of the banking fees differs per country
+* International bank transfer
+* With a credit card through PayPal. Please note that PayPal charges banking fees for receiving funds outside of The Netherlands. These banking fees should be covered by you and will be added to the amount payable. The height of the banking fees differs per country
 
 The banking details will be mentioned on the invoice you will receive after making the booking.
 
-## Registration
+As soon as the deposit payment has been received, your seat is reserved. This deposit payment is non-refundable unless we are able to replace your seat on the expedition by someone else. In that case you will get a full refund. You will receive the final invoice 120 days in advance and full payment is due 90 days prior to departure date of your trip.
 
-Registration is completed with the initial deposit per person.
-Note: The balance of payment must be paid in accordance with the payment terms and conditions. The whole participation fee must be paid within 45 days prior to the workshop starting date.
+Trips are quoted in Euros or USD, depending on the currency our costs are in. All tour fees are inclusive of taxes. Payment to us can be made in Euros or USD (based on the exchange rate of the day the invoice was made).
 
-## Cancellation and Refund Policy
+Trips are offered based on sharing a room. A single room is often available at extra costs. In case you want to share a room but we cannot find a roommate for you, a single room will be booked for you and a single supplement will need to be charged.
+
+## Insurance 
 
 Cancellation must be made in writing immediately if you are prevented from traveling. If you cancel and the workshop can be filled anyway after your cancellation, we will refund you the full amount you have paid minus a 300€ service charge. If you cancel and the workshop does not fill, then you will be refunded according to the schedule found on the workshop page. Once the tour is started there shall be no refunds made. Prices are based upon group participation and no refunds shall be made on any segments of the program in which you do not wish to participate.
 
