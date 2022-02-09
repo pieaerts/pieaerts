@@ -11,8 +11,7 @@ introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>Do you want to join me on m
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
-active: false
-
+active: true
 ---
 ![](/uploads/presentation1-1.jpg)
 
