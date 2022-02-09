@@ -9,10 +9,9 @@ introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to jo
   focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to
   read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
-subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
+subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: false
-published: false
 
 ---
 ![](/uploads/presentation1-1.jpg)
@@ -23,7 +22,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 
 ### Important information
 
-* Dates: Oct 22 - 31, 2022
+* Dates: Jan 25 - Feb 3, 2023
 * Tour starts/ends in: Nairobi, Kenya
 * Price: $ .... (based on twin sharing accommodation)
 * Deposit: $ 2500 (paid upon booking in order to hold your seat)
@@ -169,7 +168,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 1750 will give you a private room in both lodges. 
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 1750 will give you a private room in both lodges.
 
 ### **Will you advise what documents to organize in order to travel?**
 
