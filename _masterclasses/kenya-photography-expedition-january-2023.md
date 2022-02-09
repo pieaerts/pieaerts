@@ -1,6 +1,6 @@
 ---
-title: Kenya Photography Expedition - January 2023
-starting_date: 2022-02-08 00:00:00 +0000
+title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023
+starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
 introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to join
   me on my travels to Africa? In January 2023 I will take a group of like-minded people
@@ -12,6 +12,7 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
+
 ---
 ![](/uploads/presentation1-1.jpg)
 
@@ -24,28 +25,28 @@ After successfully selling out the first edition of this unique photography expe
 * Dates: Jan 25 - Feb 3, 2023
 * Tour starts/ends in: Nairobi, Kenya
 * Price: $ .... (based on twin sharing accommodation)
-* Deposit: $ 2500 (paid upon booking in order to hold your seat)
-* Single supplement: $ 1750
+* Deposit: $ ... (paid upon booking in order to hold your seat)
+* Single supplement: $ ....
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport and are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills. 
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport and are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills.
 
 ![](/uploads/slide1.jpg)
 
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Chyulu Hills Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we touch down on a dusty airstrip on the edge of the might Chyulu mountain range, with Kilimanjaro welcoming us in the background. Our guides at Ol Donyo will be waiting for us at the airstrip and the first game drive is a fact. 
+Early in the morning we travel to Wilson Airport where we will board our flight to Chyulu Hills Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we touch down on a dusty airstrip on the edge of the might Chyulu mountain range, with Kilimanjaro welcoming us in the background. Our guides at Ol Donyo will be waiting for us at the airstrip and the first game drive is a fact.
 
 ![](/uploads/slide2.jpg)
 
-In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 hectares Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground. 
+In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 hectares Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground.
 
 ![](/uploads/slide8.jpg)
 
-On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara Naboisho Airstrip. 
+On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara Naboisho Airstrip.
 
 _Day 6 – 10_
 
@@ -57,7 +58,7 @@ On the morning of the 10th day, we will check out to make our way back to Wilson
 
 ### **Chyulu Hills & the Mbirikani Group Ranch**
 
-The philosophy of Great Plains Conservation is all about conserving nature and culture. And the Mbirikani Group Ranch is a perfect example of what happens if people come together. The lodge we visit lies in a 275.000 hectare area that belongs to the local Maasai. 
+The philosophy of Great Plains Conservation is all about conserving nature and culture. And the Mbirikani Group Ranch is a perfect example of what happens if people come together. The lodge we visit lies in a 275.000 hectare area that belongs to the local Maasai.
 
 Due to a unique cooperation, they benefit directly from the profit of the lodge and ensure the conservation of the ranch and wildlife. This resulted in an area rich of wildlife, even with some of Africa's 'great tuskers' roaming freely. Centuries ago, a safari was a journey for pioneers with the focus on adventure and exploration. Even though the essence of safari is still that, more and more travelers are looking for experiences that bring a deeper connection, an immersive experience in nature that has a positive impact on both human, wildlife and nature. Ol Donyo offers, besides gamedrives and hosted bushwalks, a lot of other activities. Mountainbiking, learning more about nature and culture preservation, supporting the anti-poaching units, horseriding and yoga-classes are some examples of activities you can enjoy at the lodge.
 

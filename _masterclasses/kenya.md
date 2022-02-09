@@ -1,6 +1,6 @@
 ---
-title: Kenya Photography Expedition - October 2022
-starting_date: 2022-02-08 00:00:00 +0000
+title: KENYA PHOTOGRAPHY EXPEDITION - October 2022
+starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
 introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>Do you want to join me on my
   travels to Africa? In October 2022 I will take a group of like-minded people with
@@ -12,6 +12,7 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
+
 ---
 ![](/uploads/presentation1-1.jpg)
 
