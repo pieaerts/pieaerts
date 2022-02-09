@@ -32,17 +32,19 @@ After successfully selling out the first edition of this unique photography expe
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport. We are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills. 
 
 ![](/uploads/slide1.jpg)
 
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to our lodge right on the edge of Kitirua Conservancy.
+Early in the morning we travel to Wilson Airport where we will board our flight to Chyulu Hills Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we touch down on a dusty airstrip on the edge of the might Chyulu mountain range, with Kilimanjaro welcoming us in the background. Our guides at Ol Donyo will be waiting for us at the airstrip and the first game drive is a fact. 
 
 ![](/uploads/slide2.jpg)
 
-We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will lead to unique photographic opportunities.
+We will stay at the amazing Ol Donyo Lodge for 4 nights and will spend full days in the field. 
+
+This particular camp is the only camp in Amboseli that has access to the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will lead to unique photographic opportunities.
 
 ![](/uploads/slide8.jpg)
 
