@@ -10,7 +10,7 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/AVCbJEM9PovfEP1p8
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE FEBRUARY 5 MASTERCLASS
 active: true
-published: true
+published: false
 ---
 # ![](/uploads/2g2a9064.jpg){: width="1600" height="1067"}
 
