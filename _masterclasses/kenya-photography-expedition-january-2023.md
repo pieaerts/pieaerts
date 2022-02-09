@@ -29,13 +29,13 @@ After successfully selling out the first edition of this unique photography expe
 * Single supplement: $ ....
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
-* Each participating will receive a free set of professional Canon equipment in both camps to use during the expedition, more information below
+* Each participant will receive a free set of professional Canon equipment in both camps to use during the expedition, more information below
 
 ### Day-to-day itinerary
 
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport and are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills.
 
-![](/uploads/slide_talisman_8.jpg)
+![](/uploads/slide111111.jpg)
 
 _Day 2 – 6_
 
@@ -43,7 +43,7 @@ Early in the morning we travel to Wilson Airport where we will board our flight 
 
 ![](/uploads/slide_talisman_12.jpg)
 
-In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 acres Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground. 
+In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 acres Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground.
 
 ![](/uploads/slide_talisman_11.jpg)
 
