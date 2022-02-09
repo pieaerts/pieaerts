@@ -29,7 +29,7 @@ After successfully selling out the first edition of this unique photography expe
 * Single supplement: $ ....
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
-* Each participating will receive a free set of professional Canon gear in both camps to use during the expedition, more information below
+* Each participating will receive a free set of professional Canon equipment in both camps to use during the expedition, more information below
 
 ### Day-to-day itinerary
 
@@ -73,23 +73,19 @@ The days in January are warm, rising to a maximum of around 28/30 degrees centig
 
 ### **Naboisho Conservancy**
 
-Mara Nyika Camp, meaning “Large Plains or Great Plains,” is an intimate tented camp set in a valley and there could not be a better location for the second leg of this trip. The camp tucked away under the treetop canopy straddles a small stream on the western side of Naboisho Conservancy, a 50000 acre conservancy bordering the Masai Mara.
+Mara Nyika Camp, meaning “Large Plains or Great Plains,” is an intimate tented camp set in a valley and there could not be a better location for the second leg of this trip. The camp tucked away under the treetop canopy straddles a small stream on the western side of Naboisho Conservancy, a 50.000 acre private conservancy bordering the Masai Mara. “Naboisho” means “coming together” in the Maasai’s Maa language and represents the 500 local landowners who established the conservancy. The conservancy model strives to conserve natural and cultural heritage, tourism, and livelihoods for the local communities. Each guest’s stay supports over 500 Maasai families with a sustainable livelihood and helps to ensure the conservation of this vital corner of the Maasai Mara eco-system.
 
- 
-
-The five light-colored canvas tents are designed to optimally enjoy the environment. All canvas tents actually consist of three separate tents: a bedroom, a lounge and a bathroom with a beautiful copper bathtub. With a spacious wooden veranda and a fantastic view over the vast plains. Each tent also has a professional Canon camera set, with a Canon 5D body and two lenses. The photos you take with the camera during your stay are included on a memory stick.
-
-Mara Nyika Camp and its light-coloured canvas suites are designed to sit under the canopy of umbrella thorn trees. All the suites offer guests unforgettable views out over the plains. Walkways from the guest suites to the main area evoke the feeling of a treehouse under canvas. The camp’s ethics and inspiration are one of exploration and adventure. Privacy is the key to Mara Nyika Camp. Privacy to live, think, explore, be romantic and be pampered – all the while with one of the most spectacular backdrops Africa can provide.
+The five light-colored canvas tents are designed to optimally enjoy the environment. All canvas tents actually consist of three separate tents: a bedroom, a lounge and a bathroom with a beautiful copper bathtub. A spacious wooden veranda and a fantastic view over the vast Masai Mara plains make this experience complete. Walkways from the guest suites to the main area evoke the feeling of a treehouse under canvas. Once again, we have exclusively booked this camp, which means there won't be any other guests around. It will just be our group and the staff, an amazing intimate safari experience.
 
 ![](/uploads/slide5.jpg)
 
 ### **Included in the expedition price**
 
-1 x night at Hemingways Nairobi based on B&B
+1 x night at Emakoko Lodge 
 
-4 x nights at Tortilis Camp
+4 x nights at Ol Donyo Lodge
 
-4 x nights at Elephant Pepper Camp
+4 x nights at Mara Nyika Lodge 
 
 All accommodation based on twin sharing
 
@@ -99,9 +95,11 @@ All domestic flight tickets
 
 Full board in both lodges incl all meals, wines & spirits
 
-Conservancy fees Kiritua Conservancy
+A free set of Canon camera equipment for usage in both camps 
 
-Conservancy fees Mara North
+Conservancy fees Mbirikani Group Ranch
+
+Conservancy fees Naboisho Conservancy 
 
 Daily laundry
 
@@ -124,8 +122,6 @@ Travel & cancellation insurance
 Tips & gratuities for staff
 
 PCR testing and Visa
-
-Champagne, private cellar wines & spirits
 
 Optional Hot air balloon
 
@@ -159,7 +155,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 3 people sitting in the back, creating enough space for everyone to move around. This means every person has its own row of seats, leaving you with enough space for your bags as well. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
 
 ### **Do I need any photography experience?**
 
@@ -171,6 +167,8 @@ Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a 
 
 As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advise for every level, from amateurs and beginners to full professional photographers.
 
+An incredible feature or working with these 2 camps, is that every participant will receive a Canon kit of equipment. In each lodge you will receive a Canon 5d Mark IV body + 24-105mm lens + 100-400mm lens + batteries & memory cards. The photos you take with the camera during your stay are presented to you on a memory stick which you can bring home. A feature that no other photography trip offers! 
+
 ### **How is this photography expedition different from any regular safari?**
 
 In the past 2 years I have spent 45+ weeks in Kenya and I know the country and its people inside out. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living, and conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted based on photographic opportunity, which means I deliberated chose certain areas camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We have off-road access and full flexibility everywhere we go. In between game drives – I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
@@ -181,7 +179,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 1750 will give you a private room in both lodges.
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ .... will give you a private room in both lodges.
 
 ### **Will you advise what documents to organize in order to travel?**
 
@@ -189,7 +187,7 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 ### **Optional: Hot air balloon safaris**
 
-During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
+During the second leg of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari which means you can explore the Masai Mara from the air! Witnessing the sun rise over the plains, photographing the Mara River and seeing big herds of wildlife move in the open. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in the Masai Mara. 
 
 ![](/uploads/slide10.jpg)
 
