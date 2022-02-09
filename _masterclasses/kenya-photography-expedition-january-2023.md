@@ -16,7 +16,7 @@ active: false
 ---
 ![](/uploads/presentation1-1.jpg)
 
-After successfully selling out the first edition of this unique photography expedition in January 2022, I am back with a second edition, this time in January 2023. Together with Talisman Travel Design and Great Plains Conservation, we're offering the exact same itinerary as last year! We will visit Great Plains Ol Donyo Lodge in the incredible Chyulu Hills and Great Plains Mara Nyika Camp in Naboisho Conservancy. In the past few years, I have visited both areas multiple times, which results in a very elaborate understanding of the wildlife, the guides, the seasonality, the light and the photographic opportunities. For a period of 9 nights, we will emerge ourselves in some of Africa’s wildest flora and fauna. 
+After successfully selling out the first edition of this unique photography expedition in January 2022 in the blink of an eye, we are back with a second edition, this time in January 2023. Together with Talisman Travel Design and Great Plains Conservation, we're offering the exact same itinerary as last year! We will visit Great Plains Ol Donyo Lodge in the incredible Chyulu Hills and Great Plains Mara Nyika Camp in Naboisho Conservancy. In the past few years, I have visited both areas multiple times, which results in a very elaborate understanding of the wildlife, the guides, the seasonality, the light and the photographic opportunities. For a period of 9 nights, we will emerge ourselves in some of Africa’s wildest flora and fauna and stay in top-notch Great Plains properties.
 
 ![](/uploads/slide7.jpg)
 
@@ -32,7 +32,7 @@ After successfully selling out the first edition of this unique photography expe
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport. We are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills. 
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport and are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills. 
 
 ![](/uploads/slide1.jpg)
 
@@ -42,13 +42,11 @@ Early in the morning we travel to Wilson Airport where we will board our flight 
 
 ![](/uploads/slide2.jpg)
 
-We will stay at the amazing Ol Donyo Lodge for 4 nights and will spend full days in the field. 
-
-This particular camp is the only camp in Amboseli that has access to the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will lead to unique photographic opportunities.
+In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 acres Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscape of the Chyulu region. We will climb some hills to enjoy sunset views over Kilimanjaro, have the possibility to go horseback riding amongst giraffes, elephants and cheetahs. We have the option to embark on exhilarating walking safaris, night drives, or venture into the mountains. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground. 
 
 ![](/uploads/slide8.jpg)
 
-On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
+On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara Naboisho Airstrip. 
 
 _Day 6 – 10_
 
@@ -58,7 +56,11 @@ After spending 4 full days with elephants in Amboseli, we change our focus to Bi
 
 On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Upon return everybody will proceed his/her own travels.
 
-### **Amboseli National Park & Kitirua Conservancy**
+### **Chyulu Hills & the Mbirikani Group Ranch**
+
+No suite is the same, but all are highly comfortable and have their own plunge pool. The decor is inspired by the surrounding landscapes and is a mix of modern and colonial. Very special is the rooftop terrace on every suite, where you will find a starbed. Enjoy a night under the African sky, with only the stars to cover you.
+
+The family suite with two bedrooms is perfectly suited for families with children.
 
 Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
 
