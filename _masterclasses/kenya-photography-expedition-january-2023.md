@@ -33,17 +33,17 @@ After successfully selling out the first edition of this unique photography expe
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport and are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. The next morning we board an early flight to Chyulu Hills.
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport. We are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. If your flight arrives on time, you can even join your first afternoon game drive. The next morning we board an early flight to Chyulu Hills.
 
 ![](/uploads/slide111111.jpg)
 
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Chyulu Hills Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we touch down on a dusty airstrip on the edge of the might Chyulu mountain range, with Kilimanjaro welcoming us in the background. Our guides at Ol Donyo will be waiting for us at the airstrip and the first game drive is a fact.
+Early in the morning we travel to Wilson Airport where we will board our flight to Chyulu Hills Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we touch down on a dusty airstrip on the edge of the mighty Chyulu Hills mountain range, with Kilimanjaro welcoming us in the background. Our guides for the next 5 days will be waiting for us at the airstrip and the first game drive is a fact.
 
 ![](/uploads/slide_talisman_12.jpg)
 
-In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 acres Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground.
+In the heart of the lush Chyulu Hills, in between Tsavo East and Amboseli National Park, you will find Ol Donyo Lodge, our home for the next 4 nights. The lodge is small and intimate and with only seven suites, exclusivity is guaranteed. For this trip we have therefore booked this lodge exclusively for our group, no other tourist will be around. On top of that, Ol Donyo is the only lodge with access to the 275.000 acres Mbirikani Group Ranch, which means it will be just us and the animals, no other vehicles. The next 4 days we will spend in the field, exploring all aspects of this mind-blowing landscape. Since it's predominantly known for its big Supertusker elephants, this will be our main focus. Especially this time of the year, they will frequently come to the waterhole right in front of the lodge. A sunken photography hide on the edge of the waterhole will give us prime access to experiencing some of the biggest elephants on the planet from only a few foot away. But there's more, we will also explore the diverse landscapes of the Chyulu region, spend time with the several resident prides of lions, we will climb hills to enjoy sunset views over Kilimanjaro, embark on exhilarating walking safaris or night drives, venture into the mountains and have the possibility to go horseback riding with giraffes, elephants and cheetahs. In between all activities, there's the option to relax at your own private plunge pool that comes with every suite, do some editing in your room, or attend one of my lectures around lunch-time about several photography related topics. Anything is possible, for 5 days the Chyulu Hills are our playground.
 
 ![](/uploads/slide_talisman_11.jpg)
 
@@ -51,7 +51,7 @@ On day 6 after our morning game drive we will transfer to the airstrip and board
 
 _Day 6 – 10_
 
-After spending 5 days in the Chyulu Hills we shift our focus to Big Cats! Because you just arrived in one of the Masai Mara's most abundant conservancies, Naboisho Conservancy. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. Once again, it will be mostly us and the animals. We spend 4 nights in Mara Nyika Camp, run by Great Plains. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Mara.
+After spending 5 days in the Chyulu Hills we shift our focus to Big Cats! Because you just arrived in one of the Masai Mara's most abundant conservancies, Naboisho Conservancy. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. Once again, it will be mostly us and the animals. We will spend 4 nights in Mara Nyika Camp, run by Great Plains, an amazing intimate tented camp in the middle of the action. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Masai Mara.
 
 ![](/uploads/slide_talisman_211.jpg)
 
@@ -61,7 +61,7 @@ On the morning of the 10th day, we will check out to make our way back to Wilson
 
 Great Plains' philosophy is all about conserving nature and culture and the Mbirikani Group Ranch is a perfect example of what happens if people come together. The lodge we visit lies in a 275.000 acres area that is owned by 4000 local Maasai. Due to a unique cooperation, they benefit directly from the profit of the lodge and ensure the conservation of the ranch and wildlife. This resulted in a safe haven where animals can freely roam.
 
-Each suite at ol Donyo Lodge offers its own window to the soul of the East African safari. Their views look out over the suite’s plunge pool and across the rolling plains to Mount Kilimanjaro. The movie 'Out of Africa' has been partially recorded in this area and when seeing it with your own eyes, you will understand immediately why. The lodge is one of 3 Relais & Chateaux properties in all of Kenya, a standard that stands for excellence in fine dining, wine and service. The decor of the entire lodge is inspired by the surrounding landscapes and is a mix of modern and colonial. Very special is the rooftop terrace on every suite, where you will find a starbed. Enjoy a night under the African sky, with only the stars to cover you and the sound of roaring lions and hyenas in the background.
+Each suite at ol Donyo Lodge offers its own window to the soul of the East Africa. Their views look out over the suite’s plunge pool and across the rolling plains to Mount Kilimanjaro. The movie 'Out of Africa' has been partially recorded in this area and when seeing it with your own eyes, you will understand immediately why. The lodge is one of 3 Relais & Chateaux properties in all of Kenya, a standard that stands for excellence in fine dining, wine and service. Very special is the rooftop terrace on every suite, where you will find a starbed. Enjoy a night under the African sky, with only the stars to cover you and the sound of roaring lions and hyenas in the background.
 
 From every corner of the conservancy, we have a view on Kilimanjaro, which makes a perfect backdrop for photography. But even more so, the area is known for its big elephant bulls. Lone bulls with huge tusks that have been roaming these valleys for centuries. We will work with 2 incredible guides that I have been working with for years. They not only know the area like the back of their hand, but also every single individual elephant, which will provide incredible photographic opportunities.
 
@@ -69,11 +69,11 @@ From every corner of the conservancy, we have a view on Kilimanjaro, which makes
 
 Even though our focus of the first leg of the trip is on elephants and landscapes, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe and lots and lots of birdlife. It is a true photographers paradise!
 
-The days in January are warm, rising to a maximum of around 28/30 degrees centigrade, but very comfortable with minimum humidity. The mornings and evenings are cool so bring some warm clothes.
+The days in January are warm, rising to a maximum of around 28/30 degrees centigrade, but very comfortable with minimum humidity. The mornings and evenings are cool so bring some warm clothes. 
 
 ### **Naboisho Conservancy**
 
-Mara Nyika Camp, meaning “Large Plains or Great Plains,” is an intimate tented camp set in a valley and there could not be a better location for the second leg of this trip. The camp tucked away under the treetop canopy straddles a small stream on the western side of Naboisho Conservancy, a 50.000 acre private conservancy bordering the Masai Mara. “Naboisho” means “coming together” in the Maasai’s Maa language and represents the 500 local landowners who established the conservancy. The conservancy model strives to conserve natural and cultural heritage, tourism, and livelihoods for the local communities. Each guest’s stay supports over 500 Maasai families with a sustainable livelihood and helps to ensure the conservation of this vital corner of the Maasai Mara eco-system.
+Mara Nyika Camp, meaning “Large Plains or Great Plains,” is an intimate tented camp set in a valley and there could not be a better location for the second leg of this trip. The camp tucked away under the treetop canopy straddles a small stream on the western side of Naboisho Conservancy, a 50.000 acre private conservancy bordering the Masai Mara. “Naboisho” means “coming together” in the Masai’s Maa language and represents the 500 local landowners who established the conservancy. The conservancy model strives to conserve natural and cultural heritage, tourism, and livelihoods for the local communities. Each guest’s stay supports over 500 Masai families with a sustainable livelihood and helps to ensure the conservation of this vital corner of the Masai Mara eco-system.
 
 The five light-colored canvas tents are designed to optimally enjoy the environment. All canvas tents actually consist of three separate tents: a bedroom, a lounge and a bathroom with a beautiful copper bathtub. A spacious wooden veranda and a fantastic view over the vast Masai Mara plains make this experience complete. Walkways from the guest suites to the main area evoke the feeling of a treehouse under canvas. Once again, we have exclusively booked this camp, which means there won't be any other guests around. It will just be our group and the staff, an amazing intimate safari experience.
 
@@ -86,8 +86,6 @@ The five light-colored canvas tents are designed to optimally enjoy the environm
 4 x nights at Ol Donyo Lodge
 
 4 x nights at Mara Nyika Lodge
-
-All accommodation based on twin sharing
 
 All domestic airport transfers
 
@@ -112,6 +110,8 @@ Photographic lectures & image review sessions
 1-on-1 tuition in the field
 
 Optional walking and night safaris
+
+All other activities i.e horseback riding, mountain biking etc. 
 
 ### **Not included in the expedition price**
 
@@ -167,7 +167,7 @@ Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a 
 
 As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advise for every level, from amateurs and beginners to full professional photographers.
 
-An incredible feature or working with these 2 camps, is that every participant will receive a Canon kit of equipment. In each lodge you will receive a Canon 5d Mark IV body + 24-105mm lens + 100-400mm lens + batteries & memory cards. The photos you take with the camera during your stay are presented to you on a memory stick which you can bring home. A feature that no other photography trip offers!
+An incredible feature or working with these 2 camps, is that every participant will receive a Canon kit of equipment. In each lodge you will receive a Canon 5d Mark IV body + 24-105mm lens + 100-400mm lens + batteries & memory cards. The photos you take with the camera during your stay are presented to you on a memory stick which you can bring home. On top of that, every participant will also receive a pair of Swarovski binoculars to use during the trip! A feature that no other photography trip offers!
 
 ### **How is this photography expedition different from any regular safari?**
 
@@ -179,7 +179,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ .... will give you a private room in both lodges.
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. But don't worry, the rooms and tents are so spacious that twin sharing means having separate bedrooms. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ .... will give you a private room in both lodges.
 
 ### **Will you advise what documents to organize in order to travel?**
 
