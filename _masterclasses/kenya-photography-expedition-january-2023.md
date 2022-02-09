@@ -11,8 +11,7 @@ introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to jo
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
-active: false
-
+active: true
 ---
 ![](/uploads/presentation1-1.jpg)
 
