@@ -14,7 +14,8 @@ subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 
 ---
-![](/uploads/presentation1-1.jpg)
+
+![](/uploads/slide2.jpg)
 
 After successfully selling out the first edition of this unique photography expedition in January 2022 in the blink of an eye, we are back with a second edition, this time in January 2023. Together with Talisman Travel Design and Great Plains Conservation, we're offering the exact same itinerary as last year! We will visit Great Plains Ol Donyo Lodge in the incredible Chyulu Hills and Great Plains Mara Nyika Camp in Naboisho Conservancy. In the past few years, I have visited both areas multiple times, which results in a very elaborate understanding of the wildlife, the guides, the seasonality, the light and the photographic opportunities. For a period of 9 nights, we will emerge ourselves in some of Africa’s wildest flora and fauna and stay in top-notch Great Plains properties.
 
