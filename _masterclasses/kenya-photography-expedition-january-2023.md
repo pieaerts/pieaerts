@@ -24,10 +24,9 @@ After successfully selling out the first edition of this unique photography expe
 
 * Dates: Jan 25 - Feb 3, 2023
 * Tour starts/ends in: Nairobi, Kenya
-* Price: $ .... (based on twin sharing accommodation)
-* Deposit: $ ... (paid upon booking in order to hold your seat)
-* Single supplement: $ ....
-* Group size: min 5, max 8
+* Price: € 12.070 (based on double room / sharing accommodation)
+* Price: € 14.090 (based on single room) 
+* Please note: maximum 2 single rooms available, first come, first serve
 * Experience level: Anyone is welcome, from beginners to professionals
 * Each participant will receive a free set of professional Canon equipment in both camps to use during the expedition, more information below
 
@@ -69,7 +68,7 @@ From every corner of the conservancy, we have a view on Kilimanjaro, which makes
 
 Even though our focus of the first leg of the trip is on elephants and landscapes, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe and lots and lots of birdlife. It is a true photographers paradise!
 
-The days in January are warm, rising to a maximum of around 28/30 degrees centigrade, but very comfortable with minimum humidity. The mornings and evenings are cool so bring some warm clothes. 
+The days in January are warm, rising to a maximum of around 28/30 degrees centigrade, but very comfortable with minimum humidity. The mornings and evenings are cool so bring some warm clothes.
 
 ### **Naboisho Conservancy**
 
@@ -111,7 +110,7 @@ Photographic lectures & image review sessions
 
 Optional walking and night safaris
 
-All other activities i.e horseback riding, mountain biking etc. 
+All other activities i.e horseback riding, mountain biking etc.
 
 ### **Not included in the expedition price**
 
