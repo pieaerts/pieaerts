@@ -28,7 +28,7 @@ After successfully selling out the first edition of this unique photography expe
 * Price: € 14.090 (based on single room) 
 * Please note: maximum 2 single rooms available, first come, first serve
 * Experience level: Anyone is welcome, from beginners to professionals
-* Each participant will receive a free set of professional Canon equipment in both camps to use during the expedition, more information below
+* In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 
 ### Day-to-day itinerary
 
@@ -154,7 +154,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 3 people sitting in the back, creating enough space for everyone to move around. This means every person has its own row of seats, leaving you with enough space for your bags as well. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum 4 people sitting in the back, creating enough space for everyone to move around. This means every person has its own row of seats, leaving you with enough space for your bags as well. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
 
 ### **Do I need any photography experience?**
 
@@ -178,7 +178,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. But don't worry, the rooms and tents are so spacious that twin sharing means having separate bedrooms. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ .... will give you a private room in both lodges.
+Yes, there is. We are offering 2 rates, one based on twin sharing and one based on single occupancy. Please know that the twin sharing option at both camps offers very spacious rooms with 2 double beds. As soon as the group is complete, we will make a roomplan taking into account personal preferences. 
 
 ### **Will you advise what documents to organize in order to travel?**
 
