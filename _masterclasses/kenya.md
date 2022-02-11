@@ -22,11 +22,11 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 
 ### Important information
 
-* Dates: Oct 22 - 31, 2022 / 9 nights in total 
+* Dates: Oct 22 - 31, 2022 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
 * Price: € 9.750 (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
-* Single supplement: € 1.950 
+* Single supplement: € 1.950
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 
@@ -38,7 +38,7 @@ With everybody traveling towards Kenya from different directions, the first day 
 
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to our lodge right on the edge of Kitirua Conservancy.
+Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy.
 
 ![](/uploads/elewana_slide_0101.jpg)
 
