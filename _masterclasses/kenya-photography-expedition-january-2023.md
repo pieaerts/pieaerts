@@ -22,10 +22,10 @@ After successfully selling out the first edition of this unique photography expe
 
 ### Important information
 
-* Dates: Jan 25 - Feb 3, 2023
+* Dates: Jan 25 - Feb 3, 2023 / 9 nights in total 
 * Tour starts/ends in: Nairobi, Kenya
 * Price: € 12.070 (based on double room / sharing accommodation)
-* Price: € 14.090 (based on single room) 
+* Price: € 14.090 (based on single room)
 * Please note: maximum 2 single rooms available, first come, first serve
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
@@ -178,7 +178,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. We are offering 2 rates, one based on twin sharing and one based on single occupancy. Please know that the twin sharing option at both camps offers very spacious rooms with 2 double beds. As soon as the group is complete, we will make a roomplan taking into account personal preferences. 
+Yes, there is. We are offering 2 rates, one based on twin sharing and one based on single occupancy. Please know that the twin sharing option at both camps offers very spacious rooms with 2 double beds. As soon as the group is complete, we will make a roomplan taking into account personal preferences.
 
 ### **Will you advise what documents to organize in order to travel?**
 
