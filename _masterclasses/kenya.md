@@ -44,7 +44,7 @@ Early in the morning we travel to Wilson Airport where we will board our flight 
 
 We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around, which is a unique experience. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will consequently lead to unique once-in-a-lifetime photographic opportunities.
 
-Even though our focus of the first leg of the trip is on elephants, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe, hippo’s, lots and lots of birdlife and maybe even a leopard. It is a true photographers paradise!
+Even though our focus of the first leg of the trip is on elephants, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe and lots and lots of birdlife. It is a true photographers paradise!
 
 ![](/uploads/slide8.jpg)
 
@@ -64,7 +64,7 @@ Amboseli National Park covers 392 sq kms, only a small portion of the surroundin
 
 The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
 
-We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Masai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and a great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size. 
+We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Masai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and a great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.
 
 ![](/uploads/slide4.jpg)
 
@@ -72,7 +72,7 @@ The days are warm, rising to a maximum of 30 degrees centigrade, but very comfor
 
 ### **Mara North Conservancy**
 
-The lush rolling hills of Mara North will be a welcome break from the dry & dusty Amboseli plains. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography. 
+The lush rolling hills of Mara North will be a welcome break from the dry & dusty Amboseli plains. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
 
 All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
 
@@ -90,7 +90,7 @@ All accommodation based on twin / double sharing
 
 All domestic airport transfers
 
-All domestic flight tickets + additional luggage 
+All domestic flight tickets + additional luggage
 
 Full board in both lodges incl all meals, wines & spirits
 
@@ -150,7 +150,7 @@ Optional Hot air balloon
 
 We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
 
-As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind. 
+As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
 
 ### **Which kind of vehicles will we use?**
 
