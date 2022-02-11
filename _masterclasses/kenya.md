@@ -178,7 +178,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 1750 will give you a private room in both lodges.
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of € 1750 will give you a private room in both lodges.
 
 ### **Will you advise what documents to organize in order to travel?**
 
