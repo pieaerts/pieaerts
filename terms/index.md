@@ -1,5 +1,5 @@
 ---
-title: Terms and Conditions
+title: Terms and Conditions October 2022 Expedition
 
 ---
 **Payment of deposit confirms that you agree to the Terms & Conditions.**

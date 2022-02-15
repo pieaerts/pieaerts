@@ -1,5 +1,5 @@
 ---
-title: 'Terms and Conditions January 2023 '
+title: Terms and Conditions January 2023 Expedition
 
 ---
 **Payment of deposit confirms that you agree to the Terms & Conditions.**
