@@ -10,21 +10,9 @@ The payment schedule is clearly indicated on the expedition website and varies p
 
 The banking details will be mentioned on the invoice you will receive after making the booking.
 
-**For the October 2022 expedition** 
+**For the October 2022 expedition:** As soon as the deposit payment has been received, your seat is reserved. This deposit payment is non-refundable unless we are able to replace your seat on the expedition by someone else. In that case you will get a full refund. You will receive the final invoice 120 days in advance and full payment is due 90 days prior to departure date of your trip.
 
-As soon as the deposit payment has been received, your seat is reserved. This deposit payment is non-refundable unless we are able to replace your seat on the expedition by someone else. In that case you will get a full refund. You will receive the final invoice 120 days in advance and full payment is due 90 days prior to departure date of your trip.
-
-**For the January 2023 expedition**
-
-As soon as the deposit payment of 25% has been received, your seat is reserved. If you cancel the agreement, we will charge you the following cancellation fee:
-
-Up to 8 weeks before departure: the 25% deposit, or the amount according to the deviating deposit
-
-From 8 weeks before departure to 4 weeks before departure: 50% of the travel sum
-
-From 4 weeks to 2 weeks before departure: 75% of the travel sum
-
-From 2 weeks before departure: 100%. No refund possible
+**For the January 2023 expedition:** Slightly different cancellation conditions apply, please send an email to info@pieaerts.com for more information.
 
 Trips are quoted in Euros or USD, depending on the currency our costs are in. All tour fees are inclusive of taxes. Payment to us can be made in Euros or USD (based on the exchange rate of the day the invoice was made).
 
@@ -38,7 +26,7 @@ Cancellation insurance usually covers the damage you suffer by circumstances bey
 
 ## Cancellations & Refund
 
-All cancellations must be sent by email. For the October 2022 expedition the following policy applies. In case you need to cancel, but your seat on the tour can be filled by another participant, all payments made by you will be refunded. In case your seat was filled while offering a discount, you will be refunded the full amount paid, minus the costs of that discount. If there is no replacement candidate available for your seat at the moment of cancelling, there won’t be a refund. For the January 2023 expedition, please refer to above cancellation guidelines. 
+All cancellations must be sent by email. For the October 2022 expedition the following policy applies. In case you need to cancel, but your seat on the tour can be filled by another participant, all payments made by you will be refunded. In case your seat was filled while offering a discount, you will be refunded the full amount paid, minus the costs of that discount. If there is no replacement candidate available for your seat at the moment of cancelling, there won’t be a refund. For the January 2023 expedition, slight adjustments to the cancellation policy apply, please send an email to info@pieaerts.com for more information. 
 
 The most urgent reasons for not being able to travel are usually covered by cancellation insurance (in case you lose your job, if a health-related issue prevents you from traveling, or if something happens to one of your loved ones). Should you need to cancel this expedition, it is very likely your cancellation insurance will cover all payments made by you. Therefore, we can not stress enough how much trouble this insurance saves you, should you need to cancel. This is the reason we urgently stress all participants to organize cancellation insurance.
 
