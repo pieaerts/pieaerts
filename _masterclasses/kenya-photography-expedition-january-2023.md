@@ -22,7 +22,7 @@ After successfully selling out the first edition of this unique photography expe
 
 ### Important information
 
-* Dates: Jan 25 - Feb 3, 2023 / 9 nights in total 
+* Dates: Jan 25 - Feb 3, 2023 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
 * Price: € 12.070 (based on double room / sharing accommodation)
 * Price: € 14.090 (based on single room)
@@ -174,7 +174,7 @@ In the past 2 years I have spent 45+ weeks in Kenya and I know the country and i
 
 ### **Can I cancel my seat when I change my mind?**
 
-For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
+Terms & Conditions of Talisman Travel Design apply. Please contact mclaessens@talisman.nl for more information. 
 
 ### **Is there an option to book a private room?**
 
