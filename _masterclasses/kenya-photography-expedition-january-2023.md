@@ -174,7 +174,7 @@ In the past 2 years I have spent 45+ weeks in Kenya and I know the country and i
 
 ### **Can I cancel my seat when I change my mind?**
 
-Terms & Conditions of Talisman Travel Design apply. Please contact mclaessens@talisman.nl for more information. 
+For this particular trip, the Terms & Conditions of Talisman Travel Design apply. Please contact info@pieaerts.com for more information. 
 
 ### **Is there an option to book a private room?**
 
