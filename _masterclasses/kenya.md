@@ -29,6 +29,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 * Single supplement: € 1.950
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
+* Above price is incl VAT
 
 ### Day-to-day itinerary
 

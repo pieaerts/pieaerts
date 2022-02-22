@@ -29,6 +29,7 @@ After successfully selling out the first edition of this unique photography expe
 * Please note: maximum 2 single rooms available, first come, first serve
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
+* Above price is incl VAT
 
 ### Day-to-day itinerary
 
@@ -174,7 +175,7 @@ In the past 2 years I have spent 45+ weeks in Kenya and I know the country and i
 
 ### **Can I cancel my seat when I change my mind?**
 
-For this particular trip, the Terms & Conditions of Talisman Travel Design apply. Please contact info@pieaerts.com for more information. 
+For this particular trip, the Terms & Conditions of Talisman Travel Design apply. Please contact info@pieaerts.com for more information.
 
 ### **Is there an option to book a private room?**
 
