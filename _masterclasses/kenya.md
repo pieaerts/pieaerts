@@ -1,5 +1,5 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION - October 2022 - 2 more spots available!
+title: KENYA PHOTOGRAPHY EXPEDITION - October 2022 - 2 more seats available!
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
 introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>ONLY 2 MORE SEATS AVAILABLE ON
@@ -28,7 +28,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 * Price: € 9.750 (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
-* Group size: min 5, max 8 - **2 more spots available!** 
+* Group size: min 5, max 8 - **at the moment only 2 more seats available!** 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 

@@ -1,13 +1,13 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023
+title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - only 2 more seats available
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
-introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to join
-  me on my travels to Africa? In January 2023 I will take a group of like-minded people
-  with a passion and appreciation for wild places to Kenya. We will visit Chyulu Hills
-  in Amboseli and Naboisho Conservancy in the Masai Mara. A once-in-a-lifetime trip
-  focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to
-  read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
+  ON THIS EXPEDITION!</p><p>Do you want to join me on my travels to Africa? In January
+  2023 I will take a group of like-minded people with a passion and appreciation for
+  wild places to Kenya. We will visit Chyulu Hills in Amboseli and Naboisho Conservancy
+  in the Masai Mara. A once-in-a-lifetime trip focused on creating meaningful stories
+  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -27,7 +27,7 @@ After successfully selling out the first edition of this unique photography expe
 * Price: € 12.070 (based on double room / sharing accommodation)
 * Price: € 14.090 (based on single room)
 * Please note: maximum 2 single rooms available, first come, first serve
-* Group size: min 5, max 8
+* Group size: min 5, max 8 - **at the moment only 2 more seats available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 * Above price is incl VAT
