@@ -1,5 +1,5 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION - October 2022 - 2 more seats available!
+title: KENYA PHOTOGRAPHY EXPEDITION - October 2022 - only 2 more seats available!
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
 introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>ONLY 2 MORE SEATS AVAILABLE ON
