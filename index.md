@@ -9,9 +9,9 @@ headers:
   url: https://shop.pieaerts.com/password
 - image: " /uploads/1j2a9627-2-sharpenai-softness.jpg"
   portrait_image: "/uploads/1y6a0387.jpg"
-  title: ''
+  title: MY NEW PRINT STORE IS COMING!
   description: ''
-  url: ''
+  url: https://shop.pieaerts.com/password
 - image: "/uploads/537a1373-sharpenai-softness-standard-scale-1_60x-gigapixel.jpg"
   title: ''
   description: ''
@@ -23,3 +23,4 @@ headers:
   image: "/uploads/1j2a0339.jpg"
 
 ---
+Get the Catalogue
