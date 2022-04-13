@@ -8,7 +8,7 @@ headers:
   description: ''
   url: https://shop.pieaerts.com/password
 - image: "/uploads/537a1373-sharpenai-softness-standard-scale-1_60x-gigapixel.jpg"
-  title: ''
+  title: MAY 26, 2022
   description: ''
   url: ''
   portrait_image: "/uploads/1j2a8368.jpg"
@@ -16,9 +16,10 @@ headers:
   description: ''
   url: ''
   image: "/uploads/1j2a0339.jpg"
+  title: CLICK HERE TO RECEIVE THE PRINT CATALOGUE
 - image: "/uploads/6f2a8241.jpg"
   portrait_image: ''
-  title: ''
+  title: INCLUDING LAUNCH SALE DISCOUNT CODES
   description: ''
   url: ''
 
