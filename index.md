@@ -11,14 +11,14 @@ headers:
   title: MAY 26, 2022
   description: ''
   url: ''
-  portrait_image: "/uploads/1j2a8368.jpg"
-- portrait_image: "/uploads/1j2a8670.jpg"
+  portrait_image: "/uploads/1y6a0387.jpg"
+- portrait_image: "/uploads/1j2a8368.jpg"
   description: ''
   url: ''
   image: "/uploads/1j2a0339.jpg"
   title: CLICK HERE TO RECEIVE THE PRINT CATALOGUE
 - image: "/uploads/6f2a8241.jpg"
-  portrait_image: ''
+  portrait_image: "/uploads/1j2a1624-nieuw-gigapixel-already.jpg"
   title: INCLUDING LAUNCH SALE DISCOUNT CODES
   description: ''
   url: ''
