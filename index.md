@@ -7,20 +7,19 @@ headers:
   title: UMOJA IS COMING!
   description: GET THE CATALOGUE
   url: https://shop.pieaerts.com/password
-- image: "/uploads/pie-aerts-a098-5.jpg"
-  portrait_image: "/uploads/123123-2.jpg"
-  title: 
-  description: 
-  url: "/personal-work/"
-- image: "/uploads/2g2a9720-2.jpg"
-  portrait_image: "/uploads/headers-website8.jpg"
-  title: 
-  description: 
-  url: "/personal-work/"
-- image: "/uploads/2g2a0554-1.jpg"
-  portrait_image: "/uploads/2g2a1004-2.jpg"
-  title: 
-  description: 
-  url: "/personal-work/"
+- image: " /uploads/1j2a9627-2-sharpenai-softness.jpg"
+  portrait_image: "/uploads/1y6a0387.jpg"
+  title: ''
+  description: ''
+  url: ''
+- image: "/uploads/537a1373-sharpenai-softness-standard-scale-1_60x-gigapixel.jpg"
+  title: ''
+  description: ''
+  url: ''
+  portrait_image: "/uploads/1j2a8368.jpg"
+- portrait_image: "/uploads/1j2a8670.jpg"
+  description: ''
+  url: ''
+  image: "/uploads/1j2a0339.jpg"
 
 ---
