@@ -4,7 +4,7 @@ layout: home
 headers:
 - image: "/uploads/1y6a0533-2.jpg"
   portrait_image: "/uploads/1j2a8670.jpg"
-  title: UMOJA IS COMING!
+  title: UMOJA Pt II IS COMING!
   description: GET THE CATALOGUE
   url: https://shop.pieaerts.com/password
 - image: " /uploads/1j2a9627-2-sharpenai-softness.jpg"
