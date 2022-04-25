@@ -17,4 +17,6 @@ Or find me on Instagram:
 
 Want this to learn more about what I do:
 
+[![Because People Matter](/uploads/youtube2.jpg)](https://www.youtube.com/watch?v=jBzQQHD_77s&t=5s){: target="_blank"}
+
 [![Because People Matter](/uploads/757a4672-a.jpg)](https://www.youtube.com/watch?v=oJcbenttvIA&amp;t=3s){: target="_blank"}
