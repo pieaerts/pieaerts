@@ -2,12 +2,13 @@
 title: KENYA PHOTOGRAPHY EXPEDITION - October 2022 - FULLY BOOKED!
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
-introduction_html: "</p><p>OCTOBER 22-31, 2022</p><p>Do you want to join me on my
-  travels to Africa? In October 2022 I will take a group of like-minded people with
-  a passion and appreciation for wild places to two of my favourite corners in all
-  of Africa. Kitirua Conservancy in  Amboseli as well as Mara North Conservancy in
-  the Masai Mara. A once-in-a-lifetime trip focused on creating meaningful stories
-  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>OCTOBER 22-31, 2022 - THIS EXPEDITION IS FULLY BOOKED</p><p>Do
+  you want to join me on my travels to Africa? In October 2022 I will take a group
+  of like-minded people with a passion and appreciation for wild places to two of
+  my favourite corners in all of Africa. Kitirua Conservancy in  Amboseli as well
+  as Mara North Conservancy in the Masai Mara. A once-in-a-lifetime trip focused on
+  creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to read the
+  full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
