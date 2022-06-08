@@ -25,7 +25,7 @@ For this expedition, I am collaborating with Chiawa Safaris, an award-winning co
 
 * Dates: Aug 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
-* Price: € 14.250 (based on twin sharing / double sharing accommodation)
+* Price: € .... (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
 * Group size: min 4, max 8 
@@ -136,7 +136,7 @@ Premium spirits
 
 11\.00 – 13.00 lunch in camp + lectures by Pie
 
-13\.00 – 15.00 have a swim, rest, edit, back-up
+13\.00 – 15.00 rest, edit, back-up
 
 15\.00 – 18.00 photography in the field with focus on soft afternoon light
 
@@ -154,13 +154,13 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum of 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant his/her own row of seats and creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry. 
 
 ### **Do I need any photography experience?**
 
 Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
 
-![](/uploads/slide9.jpg)
+![](/uploads/zambia_13.jpg)
 
 ### **What type of gear do I need?**
 
@@ -168,7 +168,7 @@ As soon as you have confirmed your booking, we will share an extensive list of r
 
 ### **How is this photography expedition different from any regular safari?**
 
-In the past 2 years I have spent 45+ weeks in Kenya and I know the country and its people inside out. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We have off-road access and full flexibility everywhere we go. In between game drives – I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
+In the past 3 years I have spent more than 45 weeks in Africa spread across Kenya, Zambia and Botswana. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We work with an award-winning guiding team in both lodges on this trip. I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
 
 ### **Can I cancel my seat when I change my mind?**
 
@@ -180,16 +180,12 @@ Yes, there is. However, the aforementioned price is based on twin sharing, which
 
 ### **Will you advise what documents to organize in order to travel?**
 
-Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. This might change overtime and we will keep you posted accordingly.
+Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that many African countries, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. 
 
-### **Optional: Hot air balloon safaris**
-
-During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
-
-![](/uploads/slide10.jpg)
+![](/uploads/zambia_16.jpg)
 
 ### The host
 
-Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as Hahnemühle Natural Line Ambassador.
+Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Africa, visualising his personal relationship with the African landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
 
 **Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**
