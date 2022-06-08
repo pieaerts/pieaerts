@@ -1,16 +1,16 @@
 ---
-title: ZAMBIA PHOTOGRAPHY EXPEDITION - September 2023
+title: ZAMBIA PHOTOGRAPHY EXPEDITION - Aug 28 - Sept 7, 2023
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: 
-introduction_html: "</p><p>AUGUST 29 - SEPTEMBER 7, 2023 </p><p>Do you want to join
+introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023 </p><p>Do you want to join
   me on my travels to Africa? In September 2023 I will take a group of like-minded
   people with a passion and appreciation for wild places to Zambia. A once-in-a-lifetime
   trip focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down
   to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
-subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
+subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
-active: true
+active: false
 published: false
 
 ---
@@ -23,7 +23,7 @@ For this expedition, I am collaborating with Chiawa Safaris, an award-winning co
 
 ### Important information
 
-* Dates: Aug 28 - September 7, 2023 / 10 nights in total
+* Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
 * Price: € .... (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
@@ -34,13 +34,13 @@ For this expedition, I am collaborating with Chiawa Safaris, an award-winning co
 
 ### Day-to-day itinerary
 
-With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Latitude 15, a luxury boutique guesthouse in the capital city Lusaka. The next morning our adventure starts!
+The expedition starts on August 28, 2023 in Lusaka. With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatising. We are spending the first night at Latitude 15, a luxury boutique guesthouse in the capital city. The next morning our adventure starts!
 
 ![](/uploads/zambia_3.jpg)
 
 _Day 2 – 5_
 
-Early in the morning we travel to the domestic Airport where we will board out flight to Lower Zambezi National Park. After a short flight of only 35 minutes, we will be picked up from Jeki Airstrip by vehicle transfer and make our way to the first camp, Old Mondoro.
+Early in the morning of August 29 we travel to the domestic Airport where we will board out flight to Lower Zambezi National Park. After a short flight of only 35 minutes, we will be picked up from Jeki Airstrip by vehicle transfer and make our way to the first camp, Old Mondoro.
 
 ![](/uploads/zambia_4.jpg)Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine. Elephants are literally residing inside the camp, under the canopy of winterthorn trees on the banks of the Zambezi River. Big cat sightings (some of the most prolific leopard sightings to be had in Africa) are very common as well, with the magic of the water providing island-hopping buffalo and elephants at your doorstep, as well as an extreme concentration of hippo. “Mondoro” in Goba language means Lion. The camp name honours a mythical white lion that used to prowl nearby – although “Old Mondoro” is long gone, his descendants still roam the wilderness of the Lower Zambezi, wild and free.
 
@@ -76,7 +76,7 @@ For 3 nights we will explore this exciting ecosystem. In many ways it is very di
 
 Day 11
 
-On the morning of Day 11 we will board our plane back to Lusaka and the trip comes to an end. We will arrive in Lusaka around mid-day so you can connect on your flight home that same night.
+On the morning of Day 11, on September 7, we will board our plane back to Lusaka and the trip comes to an end. We will arrive in Lusaka around mid-day so you can connect on your flight home that same night.
 
 ### **Included in the expedition price**
 
@@ -168,7 +168,7 @@ As soon as you have confirmed your booking, we will share an extensive list of r
 
 ### **How is this photography expedition different from any regular safari?**
 
-In the past 3 years I have spent more than 45 weeks in Africa spread across Kenya, Zambia and Botswana. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We work with an award-winning guiding team in both lodges on this trip. I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
+In the past 3 years I have spent more than 45 weeks in Africa spread across Kenya, Zambia and Botswana. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximise time in the field and won’t be restricted by gate opening hours. We work with an award-winning guiding team in both lodges on this trip. I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
 
 ### **Can I cancel my seat when I change my mind?**
 

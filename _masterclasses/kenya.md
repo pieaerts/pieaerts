@@ -28,7 +28,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 * Price: € 9.750 (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
-* Group size: min 5, max 8 - **at the moment only 2 more seats available!** 
+* Group size: min 5, max 8 - **at the moment only 2 more seats available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
@@ -192,6 +192,6 @@ During both legs of the trip, it is possible to embark on a once-of-a-lifetime h
 
 ### The host
 
-Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as Hahnemühle Natural Line Ambassador.
+Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
 
 **Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**
