@@ -14,11 +14,12 @@ active: true
 published: false
 
 ---
-![](/uploads/presentation1-1.jpg)Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. A journey back in time almost, to the nostalgic essentials of a true African safari. During this trip we will explore the bush with vehicles, on boats, in canoes and on foot. A combination of means of transport that only exists in a handful of African destinations.
+
+![](/uploads/zambia_1.jpg)Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. A journey back in time almost, to the nostalgic essentials of a true African safari. During this trip we will explore the bush with vehicles, on boats, in canoes and on foot. A combination of means of transport that only exists in a handful of African destinations.
 
 For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps. Last year, in 2021, I ventured on a 14-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same trip, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
 
-On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
+![](/uploads/zambia_2.jpg)On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
 
 ![](/uploads/slide7.jpg)
 
