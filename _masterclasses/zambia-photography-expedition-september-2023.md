@@ -21,74 +21,72 @@ For this expedition, I am collaborating with Chiawa Safaris, an award-winning co
 
 ![](/uploads/zambia_2.jpg)On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
 
-![](/uploads/slide7.jpg)
-
 ### Important information
 
-* Dates: Oct 22 - 31, 2022 / 9 nights in total
-* Tour starts/ends in: Nairobi, Kenya
-* Price: € 9.750 (based on twin sharing / double sharing accommodation)
+* Dates: Aug 28 - September 7, 2023 / 10 nights in total
+* Tour starts/ends in: Lusaka, Zambia
+* Price: € 14.250 (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
-* Group size: min 5, max 8 - **at the moment only 2 more seats available!**
+* Group size: min 4, max 8 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
+With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Latitude 15, a luxury boutique guesthouse in the capital city Lusaka. The next morning our adventure starts!
 
-![](/uploads/slide1.jpg)
+![](/uploads/zambia_3.jpg)
 
-_Day 2 – 6_
+_Day 2 – 5_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy.
+Early in the morning we travel to the domestic Airport where we will board out flight to Lower Zambezi National Park. After a short flight of only 35 minutes, we will be picked up from Jeki Airstrip by vehicle transfer and make our way to the first camp, Old Mondoro.
 
-![](/uploads/elewana_slide_0101.jpg)
+![](/uploads/zambia_4.jpg)Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine. Elephants are literally residing inside the camp, under the canopy of winterthorn trees on the banks of the Zambezi River. Big cat sightings (some of the most prolific leopard sightings to be had in Africa) are very common as well, with the magic of the water providing island-hopping buffalo and elephants at your doorstep, as well as an extreme concentration of hippo. “Mondoro” in Goba language means Lion. The camp name honours a mythical white lion that used to prowl nearby – although “Old Mondoro” is long gone, his descendants still roam the wilderness of the Lower Zambezi, wild and free.
 
-We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around, which is a unique experience. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will consequently lead to unique once-in-a-lifetime photographic opportunities.
+![](/uploads/zambia_5.jpg)
 
-Even though our focus of the first leg of the trip is on elephants, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe and lots and lots of birdlife. It is a true photographers paradise!
+The 5 chalets are constructed of reed and canvas, each with a beautiful and comfortable shaded deck that overlooks the Zambezi River. Each room has an en-suite bathroom with hot and cold water during the day as well as the night, an outdoor shower and even a bath tub that overlooks the river. The area is particularly know for walking safari’s as well as water based activity and of course we will experience both, under the guidance of some of Africa’s best guides.
 
-![](/uploads/slide8.jpg)
+![](/uploads/zambia_6.jpg)The reason I picked September to be our month, is because it’s the end of the dry season. It will be hot which means animals come to drink at the last remaining waterholes and concentrate around the river. It’s the best month of the year to visit Lower Zambezi, and given the fact that our camp is situated right at the Zambezi banks, the animals will literally be everywhere you look.
 
-On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
+_Day 5 – 8_
 
-_Day 6 – 10_
+On the morning of Day 5 we get picked up at Old Mondoro by boat and transfer via water to our second camp, called Chiawa Camp. After staying in a ground-level bush camp for 3 nights, we now switch to Chiawa Safari’s flagship luxury camp. An award-wininig camp that combines the best of two worlds; first-class service and top-notch luxury accommodation as well as some of the most exceptional game viewing in the world.
 
-After spending 4 full days with elephants in Amboseli, we change our focus to Big Cats! Because you just arrived in big cats heaven. Mara North, my favorite conservancy in the Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. Once again, it will be mostly us and the animals. We will spend 4 nights in Elephant Pepper Camp, located in the best possible location, right in the middle of the conservancy. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Mara.
+The camp is consisting of 9 spacious and luxurious tents and each tent is equipped with an ensuite bathroom. All tents are covered by big thatched roofs which ensures for cool mid-days in the blazing Zambian heat. A wonderful place to relax in between game drives and activities.
 
-![](/uploads/slide3.jpg)
+![](/uploads/zambia_7.jpg)During our stay at Chiawa Camp we will experience a totally different side of Lower Zambezi National Park then Old Mondoro. Even though both camps are only 1,5 hours apart, the vegetation is completely different which makes again for unique photographic opportunities. During long days in the bush and on the water, we will come across lions, leopards, wild dogs and large elephant herds, but also spend up and close time with buffalo’s, hippo’s, antelope, crocodiles, serval, an amazing array of birds and many more amazing species.
 
-On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Upon return everybody will proceed his/her own travels.
+![](/uploads/zambia_8.jpg)During sunrise the low light pours across the floodplains, igniting the tops of the winterthorn glades where elephants are feeding on fallen seedpods (better known as elephant cookies). The area around our camp is the perfect hunting ground for lions, leopards and wild dogs; but above all this timeless valley is a land of giants, of towering, ancient trees and the elephant herds that find sanctuary beneath their dappled shade.
 
-### **Amboseli National Park & Kitirua Conservancy**
+![](/uploads/zambia_9.jpg)Day 8 – 11
 
-Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
+On the morning of Day 9 we get transferred by boat and later by car to Jeki Airstrip again, where we will board our flight to South Luangwa National Park, our second destination of the trip. It will be tough leaving this magical place behind but in front of us lies another top-notch Zambian safari destination.
 
-The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
+After arrival we will be picked up from the airstrip and transferred to Puku Ridge, a newly renovated lodge in the middle of South Luangwa National Park, build on a ridge and overlooking a private waterhole and private floodplain.
 
-We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Masai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and a great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.
+![](/uploads/zambia_11.jpg)The South Luangwa is 9,050 square kilometres and is colloquially referred to as the “Valley of the Leopard” due to such a high density of this elusive African animal being found in the park. Both day and night sightings are waiting for you! While modest in size, the South Luangwa is still largely uninhabited and unexplored, providing guests with a remote and private feel. The area is arguably home to Africa’s best bush walks exploring the valley on foot and even with the likely possibility of encountering some very rare African wild dogs.
 
-![](/uploads/slide4.jpg)
+![](/uploads/zambia_14.jpg)
 
-The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
+For 3 nights we will explore this exciting ecosystem. In many ways it is very different from Lower Zambezi, but both areas have 1 thing in common, wildlife is abundant. Each of the 8 luxury safari tents are set on an elevated ridge overlooking woodlands and plains full of wildlife. Every room has a multi-level veranda with a plunge pool plus a towering star bed for nights under the vast African sky.
 
-### **Mara North Conservancy**
+![](/uploads/zambia_15.jpg)
 
-The lush rolling hills of Mara North will be a welcome break from the dry & dusty Amboseli plains. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
+Day 11
 
-All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
-
-![](/uploads/slide5.jpg)
+On the morning of Day 11 we will board our plane back to Lusaka and the trip comes to an end. We will arrive in Lusaka around mid-day so you can connect on your flight home that same night.
 
 ### **Included in the expedition price**
 
-1 x night at Hemingways Nairobi based on B&B
+1 x night at Latitude 15 in Lusaka based on B&B
 
-4 x nights at Tortilis Camp
+3 x nights at Old Mondoro Camp
 
-4 x nights at Elephant Pepper Camp
+3 x nights at Chiawa Camp
+
+3 x nights at Puku Ridge Lodge
 
 All accommodation based on twin / double sharing
 
@@ -96,13 +94,11 @@ All domestic airport transfers
 
 All domestic flight tickets + additional luggage
 
-Full board in both lodges incl all meals, wines & spirits
+Full board in all 3 camps incl all meals, wines & spirits
 
-Conservancy fees Kiritua Conservancy
+Entrance fees to the National Parks
 
-Conservancy fees Mara North
-
-Daily laundry
+Daily Laundry
 
 Daily sundowners
 
@@ -112,7 +108,7 @@ Photographic lectures & image review sessions
 
 1-on-1 tuition in the field
 
-Optional walking and night safaris
+All activities: walking safaris, canoe safaris, boat safaris, night safaris
 
 ### **Not included in the expedition price**
 
@@ -122,11 +118,11 @@ Travel & cancellation insurance
 
 Tips & gratuities for staff
 
-PCR testing and Visa
+PCR testing and visa
 
-Champagne, private cellar wines & spirits
+Premium spirits
 
-Optional Hot air balloon
+![](/uploads/zambia_12.jpg)
 
 ### **How does an average day look like?**
 
@@ -150,7 +146,7 @@ Optional Hot air balloon
 
 21\.30 off to bed to rest for another day of adventures in the bush
 
-![](/uploads/slide6.jpg)
+![](/uploads/zambia_10.jpg)
 
 We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
 
