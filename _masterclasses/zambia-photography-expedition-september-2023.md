@@ -3,10 +3,11 @@ title: ZAMBIA PHOTOGRAPHY EXPEDITION - Aug 28 - Sept 7, 2023
 starting_date: 2022-02-08 00:00:00 +0000
 subtitle: ''
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023 </p><p>I'm incredibly stoked
-  to launch a brand-new expedition to one of the most special corners of Africa: Zambia!
-  A journey that takes you back in time, to the nostalgic essentials of a true African
-  safari. Get ready for a wild adventure! &nbsp;</p><p>Scroll down to read the full
-  itinerary.&nbsp;</p>\n"
+  to launch a brand-new photography expedition to one of the most special corners
+  of Africa: Zambia! A journey that takes you back in time, to the nostalgic essentials
+  of a true African safari. An expedition like no other, with a wide variety of vehicle
+  safaris, walking safaris, canoe safaris and boat safaris. Get ready for a wild adventure!
+  &nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -15,15 +16,15 @@ active: true
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
 
-Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps.
+Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people describe as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps. 
 
-Last year, in 2021, I ventured on a 14-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same trip, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
+Last year, in 2021, I ventured on a 18-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same itinerary, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
 
-During this trip we will explore the bush with vehicles, on boats, in canoes and on foot. A combination of means of transport that only exists in a handful of African destinations.
+During this trip we will explore the bush not only with vehicles but even more so on boats, in canoes and on foot. Because Zambia is particularly known for walking safaris - one of the most incredible and honest interactions you can have with wild animals - this is an expedition like no other. 
 
 ![](/uploads/zambia_pie_aerts_2.jpg)
 
-On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
+On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna.
 
 ### Important information
 
