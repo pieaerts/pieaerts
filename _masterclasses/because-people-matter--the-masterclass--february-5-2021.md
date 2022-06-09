@@ -1,7 +1,7 @@
 ---
 title: BECAUSE PEOPLE MATTER | the masterclass | February 5
 starting_date: 2022-02-05T00:00:00.000+00:00
-subtitle: 
+subtitle: ''
 introduction_html: "<p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to broaden
   your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday
@@ -11,6 +11,7 @@ subscribe_url: https://forms.gle/AVCbJEM9PovfEP1p8
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE FEBRUARY 5 MASTERCLASS
 active: true
 published: false
+
 ---
 # ![](/uploads/2g2a9064.jpg){: width="1600" height="1067"}
 

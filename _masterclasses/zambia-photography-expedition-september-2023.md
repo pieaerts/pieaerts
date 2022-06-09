@@ -10,7 +10,7 @@ introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023 </p><p>Do you want to j
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
-active: false
+active: true
 
 ---
 ![](/uploads/zambia_1.jpg)Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. A journey back in time almost, to the nostalgic essentials of a true African safari. During this trip we will explore the bush with vehicles, on boats, in canoes and on foot. A combination of means of transport that only exists in a handful of African destinations.
