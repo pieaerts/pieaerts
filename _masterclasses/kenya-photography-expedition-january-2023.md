@@ -24,8 +24,8 @@ After successfully selling out the first edition of this unique photography expe
 
 * Dates: Jan 25 - Feb 3, 2023 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
-* Price: € 12.070 (based on double room / sharing accommodation)
-* Price: € 14.090 (based on single room)
+* Price: € 12.070 per person (based on double room / sharing accommodation)
+* Price: € 14.090 per person (based on single room)
 * Please note: maximum 2 single rooms available, first come, first serve
 * Group size: min 5, max 8 - **at the moment only 1 more seat is available!**
 * Experience level: Anyone is welcome, from beginners to professionals

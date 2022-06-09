@@ -29,8 +29,8 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 
 * Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
-* Price: € 13.500 (based on twin sharing or double sharing accommodation)
-* Deposit: € 2.500 (paid upon booking in order to hold your seat)
+* Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
+* Deposit: € 2.500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
 * Group size: min 4, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
@@ -48,7 +48,7 @@ Early in the morning of August 29 we travel to the domestic Airport where we wil
 
 ![](/uploads/zambia_pie_aerts_5.jpg)
 
-Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine. 
+Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine.
 
 ![](/uploads/3423423.jpg)
 
