@@ -1,6 +1,6 @@
 ---
 title: ZAMBIA PHOTOGRAPHY EXPEDITION - Aug 28 - Sept 7, 2023
-starting_date: 2022-02-08T00:00:00.000+00:00
+starting_date: 2022-02-08 00:00:00 +0000
 subtitle: 
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023 </p><p>Do you want to join
   me on my travels to Africa? In September 2023 I will take a group of like-minded
