@@ -39,9 +39,7 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 
 ### Day-to-day itinerary
 
-The expedition starts on August 28, 2023 in Lusaka. With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatising. We are spending the first night at Latitude 15, a luxury boutique guesthouse in the capital city. The next morning our adventure starts!
-
-![](/uploads/zambia_pie_aerts_3.jpg)
+The expedition starts on August 28, 2023 in Lusaka. With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatising. We are spending the first night at Protea Towers, a Marriott hotel in the capital city Lusaka. The next morning our adventure starts!
 
 Day 2 – 5
 
