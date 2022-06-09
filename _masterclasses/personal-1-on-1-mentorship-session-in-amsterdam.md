@@ -1,7 +1,7 @@
 ---
 title: PERSONAL 1-ON-1 MENTORSHIP SESSION |  in my studio in Amsterdam
 starting_date: 2020-07-01T00:00:00.000+00:00
-subtitle: 
+subtitle: ''
 introduction_html: "<p>Next to Virtual online Mentorship session, I am now also offering
   personal 1-on-1 sessions in Amsterdam.</p><p>We will meet in my studio and chat
   for 2 hours about anything you like.</p><p>I will give you a new boost in creativity

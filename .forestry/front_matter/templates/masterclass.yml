@@ -1,0 +1,31 @@
+---
+label: Masterclass
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: starting_date
+  label: starting_date
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: introduction_html
+  label: introduction_html
+- type: text
+  name: gallery_url
+  label: gallery_url
+- type: text
+  name: subscribe_url
+  label: subscribe_url
+- type: text
+  name: subscribe_text
+  label: subscribe_text
+- type: boolean
+  name: active
+  label: active
+pages:
+- _masterclasses/personal-1-on-1-mentorship-session-in-amsterdam.md
+- _masterclasses/zambia-photography-expedition-september-2023.md
