@@ -17,7 +17,9 @@ active: true
 
 For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps. Last year, in 2021, I ventured on a 14-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same trip, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
 
-![](/uploads/zambia_2.jpg)On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
+![](/uploads/zambia_2.jpg)
+
+On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 9 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna
 
 ### Important information
 
@@ -26,7 +28,7 @@ For this expedition, I am collaborating with Chiawa Safaris, an award-winning co
 * Price: € .... (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
-* Group size: min 4, max 8 
+* Group size: min 4, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
@@ -152,7 +154,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant his/her own row of seats and creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry. 
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant his/her own row of seats and creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
 
 ### **Do I need any photography experience?**
 
@@ -178,7 +180,7 @@ Yes, there is. However, the aforementioned price is based on twin sharing, which
 
 ### **Will you advise what documents to organize in order to travel?**
 
-Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that many African countries, in addition to a negative PCR result, also requires a double vaccination in order to enter the country. 
+Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that many African countries, in addition to a negative PCR result, also requires a double vaccination in order to enter the country.
 
 ![](/uploads/zambia_16.jpg)
 
