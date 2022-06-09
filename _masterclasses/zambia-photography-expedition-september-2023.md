@@ -91,3 +91,115 @@ For 3 nights we will explore this exciting ecosystem. In many ways it is very di
 Day 11
 
 On the morning of Day 11, on September 7, we will board our plane back to Lusaka and the trip comes to an end. We will arrive in Lusaka around mid-day so you can connect on your flight home that same night.
+
+![](/uploads/zambia_pie_14.jpg)
+
+### Included in the expedition price
+
+1 x night at Latitude 15 in Lusaka based on B&B
+
+3 x nights at Old Mondoro Camp
+
+3 x nights at Chiawa Camp
+
+3 x nights at Puku Ridge Lodge
+
+All accommodation based on twin / double sharing
+
+All domestic airport transfers
+
+All domestic flight tickets + additional luggage
+
+Full board in all 3 camps incl all meals, wines & spirits
+
+Entrance fees to the National Parks
+
+Daily Laundry
+
+Daily sundowners
+
+All game drives
+
+Photographic lectures & image review sessions
+
+1-on-1 tuition in the field
+
+All activities: walking safaris, canoe safaris, boat safaris, night safaris
+
+![](/uploads/zambia_pie_13.jpg)
+
+### Not included in the expedition price
+
+International flight tickets
+
+Travel & cancellation insurance
+
+Tips & gratuities for staff
+
+PCR testing and visa
+
+Premium spirits
+
+### How does an average day look like?
+
+05\.00 – 05.30 wake up + coffee/tea
+
+05\.30 – 09.00 photography in the field with focus on soft morning light
+
+09\.00 – 09.30 bush breakfast or packed breakfast
+
+09\.00 – 11.00 continue photography in the field focusing on B&W photography
+
+11\.00 – 13.00 lunch in camp + lectures by Pie
+
+13\.00 – 15.00 rest, edit, back-up
+
+15\.00 – 18.00 photography in the field with focus on soft afternoon light
+
+18\.00 – 19.30 optional night drive
+
+20\.00 – 21.30 campfire drinks & dinner
+
+21\.30 off to bed to rest for another day of adventures in the bush
+
+![](/uploads/zambia_pie_8.jpg)
+
+We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
+
+As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
+
+### Which kind of vehicles will we use?
+
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant his/her own row of seats and creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+
+### Do I need any photography experience?
+
+Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
+
+![](/uploads/zambia_pie_9.jpg)
+
+### What type of gear do I need?
+
+As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advise for every level, from amateurs and beginners to full professional photographers.
+
+### How is this photography expedition different from any regular safari?
+
+In the past 3 years I have spent more than 45 weeks in Africa spread across Kenya, Zambia and Botswana. This has generated an in-detail understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximise time in the field and won’t be restricted by gate opening hours. We work with an award-winning guiding team in both lodges on this trip. I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
+
+### Can I cancel my seat when I change my mind?
+
+For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
+
+### Is there an option to book a private room?
+
+Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. This can be organised as twin beds or as a double bed for couples. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of € 1950 will give you a private room in both lodges.
+
+### Will you advise what documents to organize in order to travel?
+
+Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that many African countries, in addition to a negative PCR result, also requires a double vaccination in order to enter the country.
+
+### The host
+
+Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Africa, visualising his personal relationship with the African landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
+
+**Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**
