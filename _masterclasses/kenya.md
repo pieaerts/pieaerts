@@ -11,7 +11,7 @@ introduction_html: "</p><p>OCTOBER 22-31, 2022 - THIS EXPEDITION IS FULLY BOOKED
   full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
-subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
+subscribe_text: THIS EXPEDITION IS FULLY BOOKED
 active: true
 
 ---
@@ -19,7 +19,7 @@ active: true
 
 For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies multiple times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. I also took some of my best wildlife images in both places, so you better get ready for a wild ride. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. The first half is spent in Amboseli, focusing on elephants, whereas the second half of the trip is spent in the Masai Mara, focusing on Big Cats.
 
-![](/uploads/slide7.jpg)
+![](/uploads/kenya_piea_3.jpg)
 
 ### Important information
 
@@ -28,7 +28,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 * Price: € 9.750 (based on twin sharing / double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * Single supplement: € 1.950
-* Group size: min 5, max 8 - **at the moment only 2 more seats available!**
+* Group size: min 5, max 8 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
@@ -36,19 +36,19 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
 
-![](/uploads/slide1.jpg)
-
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy. 
+Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy.
 
 ![](/uploads/elewana_slide_0101.jpg)
 
 We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know that October is the best month of the year to visit this place. It’s the end of the dry season and the lake has completely dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Herds of elephants up to 60-80 or even more individuals cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. On top of it all, the arrival of rains in November will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to this area, there won’t be any other vehicles around, which is a unique experience. It will be just us and the elephants. We have organized off-road permits which means that we are free to move around anywhere we want, on the Conservancy side as well as the National Park side, which will consequently lead to unique once-in-a-lifetime photographic opportunities.
 
+![](/uploads/kenya_piea_5.jpg)
+
 Even though our focus of the first leg of the trip is on elephants, it is very likely that we will bump into lions, cheetah, hyena’s, zebra, giraffe and lots and lots of birdlife. It is a true photographers paradise!
 
-![](/uploads/slide8.jpg)
+![](/uploads/kenya_piea_1.jpg)
 
 On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to Mara North Airstrip.
 
@@ -56,7 +56,7 @@ _Day 6 – 10_
 
 After spending 4 full days with elephants in Amboseli, we change our focus to Big Cats! Because you just arrived in big cats heaven. Mara North, my favorite conservancy in the Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. Once again, it will be mostly us and the animals. We will spend 4 nights in Elephant Pepper Camp, located in the best possible location, right in the middle of the conservancy. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Mara.
 
-![](/uploads/slide3.jpg)
+![](/uploads/kenya_piea_4.jpg)
 
 On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Upon return everybody will proceed his/her own travels.
 
@@ -68,7 +68,7 @@ The area is famous for the dramatic views of Kilimanjaro, the highest free-stand
 
 We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Masai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and a great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.
 
-![](/uploads/slide4.jpg)
+![](/uploads/kenya_piea_2.jpg)
 
 The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
 
@@ -78,7 +78,7 @@ The lush rolling hills of Mara North will be a welcome break from the dry & dust
 
 All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
 
-![](/uploads/slide5.jpg)
+![](/uploads/kenya_piea_6.jpg)
 
 ### **Included in the expedition price**
 
@@ -159,8 +159,6 @@ In both lodges we will use Toyota Land Cruisers that are specially modified for 
 ### **Do I need any photography experience?**
 
 Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
-
-![](/uploads/slide9.jpg)
 
 ### **What type of gear do I need?**
 
