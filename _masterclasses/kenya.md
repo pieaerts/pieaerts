@@ -40,7 +40,7 @@ With everybody traveling towards Kenya from different directions, the first day 
 
 _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy.
+Early in the morning we travel to Wilson Airport where we will board our flight to Amboseli National Park Airstrip. We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive in Amboseli and transfer to Tortilis Camp, right on the edge of Kitirua Conservancy. 
 
 ![](/uploads/elewana_slide_0101.jpg)
 
