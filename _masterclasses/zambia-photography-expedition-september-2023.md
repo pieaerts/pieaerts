@@ -15,7 +15,7 @@ active: true
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
 
-Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps. 
+Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people described as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps.
 
 Last year, in 2021, I ventured on a 14-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same trip, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
 
@@ -29,12 +29,12 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 
 * Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
-* Price: € .... (based on twin sharing / double sharing accommodation)
+* Price: € 13.500  (based on twin sharing or double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
-* Single supplement: € 1.950
+* No single supplement available
 * Group size: min 4, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
-* Above price is incl VAT 
+* Above price is incl VAT
 
 ### Day-to-day itinerary
 

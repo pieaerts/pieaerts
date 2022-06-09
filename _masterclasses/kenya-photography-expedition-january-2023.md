@@ -27,7 +27,7 @@ After successfully selling out the first edition of this unique photography expe
 * Price: € 12.070 (based on double room / sharing accommodation)
 * Price: € 14.090 (based on single room)
 * Please note: maximum 2 single rooms available, first come, first serve
-* Group size: min 5, max 8 - **at the moment only 2 more seats available!**
+* Group size: min 5, max 8 - **at the moment only 1 more seat is available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 * Above price is incl VAT
