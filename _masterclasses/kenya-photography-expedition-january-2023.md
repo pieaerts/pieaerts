@@ -1,8 +1,8 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - only 2 more seats available
+title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - only 1 more seat available
 starting_date: 2022-02-08T00:00:00.000+00:00
 subtitle: ''
-introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
+introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>ONLY 1 MORE SEAT AVAILABLE
   ON THIS EXPEDITION!</p><p>Do you want to join me on my travels to Africa? In January
   2023 I will take a group of like-minded people with a passion and appreciation for
   wild places to Kenya. We will visit Chyulu Hills in Amboseli and Naboisho Conservancy

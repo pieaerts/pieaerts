@@ -34,7 +34,7 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 
 ### Day-to-day itinerary
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts! 
+With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Hemingways, a luxury five-star hotel in Nairobi. The next morning our adventure starts!
 
 ![](/uploads/slide1.jpg)
 
@@ -148,8 +148,6 @@ Optional Hot air balloon
 
 21\.30 off to bed to rest for another day of adventures in the bush
 
-![](/uploads/slide6.jpg)
-
 We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
 
 As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
@@ -188,7 +186,7 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
 
-![](/uploads/slide10.jpg)
+![](/uploads/slide_talisman_3.jpg)
 
 ### The host
 
