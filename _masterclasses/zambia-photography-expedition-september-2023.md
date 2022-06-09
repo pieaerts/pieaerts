@@ -29,7 +29,7 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 
 * Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
-* Price: € 13.500  (based on twin sharing or double sharing accommodation)
+* Price: € 13.500 (based on twin sharing or double sharing accommodation)
 * Deposit: € 2.500 (paid upon booking in order to hold your seat)
 * No single supplement available
 * Group size: min 4, max 8
@@ -48,7 +48,11 @@ Early in the morning of August 29 we travel to the domestic Airport where we wil
 
 ![](/uploads/zambia_pie_aerts_5.jpg)
 
-Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine. Elephants are literally residing inside the camp, under the canopy of winterthorn trees on the banks of the Zambezi River. Big cat sightings (some of the most prolific leopard sightings to be had in Africa) are very common as well, with the magic of the water providing island-hopping buffalo and elephants at your doorstep, as well as an extreme concentration of hippo. “Mondoro” in Goba language means Lion. The camp name honours a mythical white lion that used to prowl nearby – although “Old Mondoro” is long gone, his descendants still roam the wilderness of the Lower Zambezi, wild and free.
+Old Mondoro has been hands down the most intimate bush experience I had in all my years in Africa. It’s a small camp consisting of only 5 chalets and the concept is simple - to provide guests with an authentic and unedited Zambian safari, providing a “back to the bush” atmosphere that centralizes on the wildlife and wilderness experience. We will be completely disconnected from the internet for the next 3 nights and experience some of the most incredible wildlife encounters on the planet. Wild animals are part of the camp and part of our daily routine. 
+
+![](/uploads/3423423.jpg)
+
+Elephants are literally residing inside the camp, under the canopy of winterthorn trees on the banks of the Zambezi River. Big cat sightings (some of the most prolific leopard sightings to be had in Africa) are very common as well, with the magic of the water providing island-hopping buffalo and elephants at your doorstep, as well as an extreme concentration of hippo. “Mondoro” in Goba language means Lion. The camp name honours a mythical white lion that used to prowl nearby – although “Old Mondoro” is long gone, his descendants still roam the wilderness of the Lower Zambezi, wild and free.
 
 ![](/uploads/zambia_pie_aerts_4.jpg)
 
