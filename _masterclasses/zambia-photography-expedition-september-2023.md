@@ -24,7 +24,7 @@ During this trip we will explore the bush not only with vehicles but even more s
 
 ![](/uploads/zambia_pie_aerts_2.jpg)
 
-On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna.
+On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna. And all of that, in the best possible season, the end of the dry season, which makes for spectacular game viewing. 
 
 ### Important information
 
@@ -33,7 +33,7 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 * Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
 * Deposit: € 2.500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
-* Group size: min 4, max 8
+* Group size: min 4, max 6
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
@@ -101,7 +101,7 @@ On the morning of Day 11, on September 7, we will board our plane back to Lusaka
 
 ### Included in the expedition price
 
-1 x night at Latitude 15 in Lusaka based on B&B
+1 x night at Marriott Protea Towers in Lusaka based on B&B
 
 3 x nights at Old Mondoro Camp
 
@@ -113,7 +113,7 @@ All accommodation based on twin / double sharing
 
 All domestic airport transfers
 
-All domestic flight tickets + additional luggage
+All domestic flight tickets 
 
 Full board in all 3 camps incl all meals, wines & spirits
 
@@ -175,7 +175,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### Which kind of vehicles will we use?
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant his/her own row of seats and creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 4 people sitting in the back giving each participant enough space to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry, award-winning guiding teams in all 3 camps. 
 
 ### Do I need any photography experience?
 
@@ -194,10 +194,6 @@ In the past 3 years I have spent more than 45 weeks in Africa spread across Keny
 ### Can I cancel my seat when I change my mind?
 
 For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
-
-### Is there an option to book a private room?
-
-Yes, there is. However, the aforementioned price is based on twin sharing, which means you will share the room with another person in the group. This can be organised as twin beds or as a double bed for couples. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of € 1950 will give you a private room in both lodges.
 
 ### Will you advise what documents to organize in order to travel?
 
