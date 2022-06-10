@@ -24,7 +24,7 @@ A full day of inspiration in the realm of visual story-telling focusing on the m
 
 ### Where?
 
-Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. This brand-new venue allows us to meet while keeping a safe 1,5m distance. The program for the day is as following:
+Rebel HQ, Koningin Wilhelminaplein 4, Amsterdam. The program for the day is as following:
 
 13\.00 - 13.30 Walk-in
 
