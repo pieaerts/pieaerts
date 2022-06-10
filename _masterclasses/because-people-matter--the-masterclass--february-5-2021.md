@@ -5,7 +5,7 @@ subtitle: ''
 introduction_html: "<p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to broaden
   your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday
-  February 5 in Amsterdam.</p>"
+  September 17 in Amsterdam.</p>"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/mLLhh8vpPjfNrXGo9
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 17 MASTERCLASS
