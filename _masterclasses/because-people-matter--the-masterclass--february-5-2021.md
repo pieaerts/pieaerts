@@ -7,10 +7,9 @@ introduction_html: "<p>Do you want to push yourself creatively?</p><p>Do you fee
   your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday
   February 5 in Amsterdam.</p>"
 gallery_url: "/none/"
-subscribe_url: https://forms.gle/AVCbJEM9PovfEP1p8
+subscribe_url: https://forms.gle/mLLhh8vpPjfNrXGo9
 subscribe_text: CLICK HERE TO SUBSCRIBE FOR THE SEPTEMBER 17 MASTERCLASS
 active: true
-published: false
 
 ---
 # ![](/uploads/2g2a9064.jpg){: width="1600" height="1067"}
