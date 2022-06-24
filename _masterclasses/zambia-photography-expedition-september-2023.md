@@ -16,22 +16,22 @@ active: true
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
 
-Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people describe as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps. 
+Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people describe as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps.
 
 Last year, in 2021, I ventured on a 18-day long trip with them to South Luangwa and Lower Zambezi and I was so mind-blown that I decided to repeat that very same itinerary, but this time offering the opportunity for 6 people to join me and to share this incredible experience that is Zambia.
 
-During this trip we will explore the bush not only with vehicles but even more so on boats, in canoes and on foot. Because Zambia is particularly known for walking safaris - one of the most incredible and honest interactions you can have with wild animals - this is an expedition like no other. 
+During this trip we will explore the bush not only with vehicles but even more so on boats, in canoes and on foot. Because Zambia is particularly known for walking safaris - one of the most incredible and honest interactions you can have with wild animals - this is an expedition like no other.
 
 ![](/uploads/zambia_pie_aerts_2.jpg)
 
-On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna. And all of that, in the best possible season, the end of the dry season, which makes for spectacular game viewing. 
+On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna. And all of that, in the best possible season, the end of the dry season, which makes for spectacular game viewing.
 
 ### Important information
 
 * Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
 * Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
-* Deposit: € 2.500 per person (paid upon booking in order to hold your seat)
+* Deposit: € 3.500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
 * Group size: min 4, max 6
 * Experience level: Anyone is welcome, from beginners to professionals
@@ -113,7 +113,7 @@ All accommodation based on twin / double sharing
 
 All domestic airport transfers
 
-All domestic flight tickets 
+All domestic flight tickets
 
 Full board in all 3 camps incl all meals, wines & spirits
 
@@ -175,7 +175,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### Which kind of vehicles will we use?
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant enough space to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry, award-winning guiding teams in all 3 camps. 
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 3 people sitting in the back giving each participant enough space to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry, award-winning guiding teams in all 3 camps.
 
 ### Do I need any photography experience?
 
