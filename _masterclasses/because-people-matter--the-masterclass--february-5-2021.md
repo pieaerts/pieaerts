@@ -50,7 +50,7 @@ I will be hosting the full day program. My girlfriend Jessica will be serving a 
 
 ### Price?
 
-The price of the masterclass is € 300,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount.
+The price of the masterclass is € 300,- per person . As soon as your subscription is approved, you will be send a payment link. Your seat is secured after paying the full amount. Prices are excluding VAT.
 
 ### Cancellation policy
 
@@ -64,7 +64,7 @@ Come join me on September 17, 2022 talking travel, life, photography and many ot
 
 ### The photographer
 
-Pie Aerts is a Dutch documentary photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature. And, as we become increasingly distant from the natural world, each other and ourselves, he uses photography to search for the cause of this disconnect in an attempt to understand the mysterious and imperfect nature of being human. The photographs of Aerts unleash an engaging sense of connection and invite us to reflect on the essence of our existence. Pie is official Canon Europe Ambassador and founder of ‘Prints for Wildlife’, a month-long fundraiser that collected 660.000 dollars for conservation areas badly affected by COVID-19. He is a firm believer that art can be an incredibly powerful tool in restoring that lost and damaged connection he investigates.
+Pie Aerts is a Dutch documentary photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature. And, as we become increasingly distant from the natural world, each other and ourselves, he uses photography to search for the cause of this disconnect in an attempt to understand the mysterious and imperfect nature of being human. His photography unleashes an engaging sense of connection and invite us to reflect on the essence of our existence. Pie is official Canon Europe Ambassador and founder of ‘Prints for Wildlife’, a month-long fundraiser that collected 1.75mio dollars for conservation areas badly affected by COVID-19. He is a firm believer that art can be an incredibly powerful tool in restoring that lost and damaged connection he investigates.
 
 ### Testimonials
 
