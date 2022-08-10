@@ -5,13 +5,13 @@ date: 2016-05-21T00:00:00.000+00:00
 image: "/uploads/2g2a1093.jpg"
 float: left
 images:
-- image: "/uploads/2g2a1975.jpg"
-  portrait: false
+- image: 1Y6A6177
+  portrait: ''
   wide: true
-  title: 
-  subtitle: 
-  text-color: 
-  show-text: false
+  title: ''
+  subtitle: ''
+  text-color: ''
+  show-text: ''
 text-color: light
 
 ---
