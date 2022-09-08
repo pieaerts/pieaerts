@@ -1,13 +1,14 @@
 ---
-title: ZAMBIA PHOTOGRAPHY EXPEDITION - Aug 28 - Sept 7, 2023
+title: ZAMBIA PHOTOGRAPHY EXPEDITION - Aug 28 - Sept 7, 2023 - only 2 more seats available
 starting_date: 2022-06-09 23:00:00 +0000
 subtitle: ''
-introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023 </p><p>I'm incredibly stoked
-  to launch a brand-new photography expedition to one of the most special corners
-  of Africa: Zambia! A journey that takes you back in time, to the nostalgic essentials
-  of a true African safari. An expedition like no other, with a wide variety of vehicle
-  safaris, walking safaris, canoe safaris and boat safaris. Get ready for a wild adventure!
-  &nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 1 MORE SEAT AVAILABLE
+  ON THIS EXPEDITION!</p><p>I'm incredibly stoked to launch a brand-new photography
+  expedition to one of the most special corners of Africa: Zambia! A journey that
+  takes you back in time, to the nostalgic essentials of a true African safari. An
+  expedition like no other, with a wide variety of vehicle safaris, walking safaris,
+  canoe safaris and boat safaris. Get ready for a wild adventure! &nbsp;</p><p>Scroll
+  down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -33,7 +34,7 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 * Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
 * Deposit: € 3.500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
-* Group size: min 4, max 6
+* Group size: min 4, max 6 - **at the moment only 2 more seats available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 
