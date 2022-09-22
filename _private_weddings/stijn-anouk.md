@@ -908,13 +908,6 @@ images:
   subtitle: ''
   text-color: ''
   show-text: ''
-- image: "/uploads/1y6a1045.jpg"
-  portrait: ''
-  wide: true
-  title: ''
-  subtitle: ''
-  text-color: ''
-  show-text: ''
 - image: "/uploads/1y6a1043.jpg"
   portrait: ''
   wide: true
