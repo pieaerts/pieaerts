@@ -27,6 +27,7 @@ images:
   text-color: ''
   show-text: ''
 text-color: light
+published: false
 
 ---
 Bedankt dat jullie je onvoorwaardelijke liefde voor elkaar met mij hebben willen delen. Het was een grote eer erbij te mogen zijn. Dit is jullie verhaal.
