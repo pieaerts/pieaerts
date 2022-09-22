@@ -7,21 +7,21 @@ float: left
 images:
 - image: "/uploads/1y6a9899.jpg"
   portrait: ''
-  wide: ''
+  wide: true
   title: ''
   subtitle: ''
   text-color: ''
   show-text: ''
 - image: "/uploads/1y6a9188.jpg"
   portrait: ''
-  wide: ''
+  wide: true
   title: ''
   subtitle: ''
   text-color: ''
   show-text: ''
 - image: "/uploads/1y6a9222.jpg"
   portrait: ''
-  wide: ''
+  wide: true
   title: ''
   subtitle: ''
   text-color: ''
