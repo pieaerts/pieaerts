@@ -31,8 +31,8 @@ On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi Na
 
 * Dates: August 28 - September 7, 2023 / 10 nights in total
 * Tour starts/ends in: Lusaka, Zambia
-* Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
-* Deposit: € 3.500 per person (paid upon booking in order to hold your seat)
+* Price: $ 13.500 per person (based on twin sharing or double sharing accommodation)
+* Deposit: $ 3.500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
 * Group size: min 4, max 6 - **at the moment only 2 more seats available!**
 * Experience level: Anyone is welcome, from beginners to professionals
