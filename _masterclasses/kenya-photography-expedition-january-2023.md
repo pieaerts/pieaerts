@@ -24,10 +24,10 @@ After successfully selling out the first edition of this unique photography expe
 
 * Dates: Jan 25 - Feb 3, 2023 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
-* Price: € 12.070 per person (based on double room / sharing accommodation)
-* Price: € 14.090 per person (based on single room)
+* Price: € 13.070 per person (based on double room / sharing accommodation)
+* Price: € 14.590 per person (based on single room)
 * Please note: maximum 2 single rooms available, first come, first serve
-* Group size: min 7, max 8 - **at the moment only 1 more seat is available!**
+* Group size: min 7, max 8 - **at the moment only 1 more tent (single or double occupancy) is available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 * Above price is incl VAT
