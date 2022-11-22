@@ -1,8 +1,8 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - only 1 more seat available
+title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - Last-minute 1 tent available
 starting_date: 2022-06-08 22:00:00 +0000
 subtitle: ''
-introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST_MINUTE TENT
+introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST-MINUTE TENT
   AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
   want to join me on my travels to Africa? In January 2023 I will take a group of
   like-minded people with a passion and appreciation for wild places to Kenya. We
