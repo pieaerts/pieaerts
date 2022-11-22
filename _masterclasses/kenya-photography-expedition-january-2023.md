@@ -2,12 +2,13 @@
 title: KENYA PHOTOGRAPHY EXPEDITION  - January 2023 - only 1 more seat available
 starting_date: 2022-06-07 23:00:00 +0000
 subtitle: ''
-introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>ONLY 1 MORE SEAT AVAILABLE
-  ON THIS EXPEDITION!</p><p>Do you want to join me on my travels to Africa? In January
-  2023 I will take a group of like-minded people with a passion and appreciation for
-  wild places to Kenya. We will visit Chyulu Hills in Amboseli and Naboisho Conservancy
-  in the Masai Mara. A once-in-a-lifetime trip focused on creating meaningful stories
-  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST_MINUTE TENT
+  AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
+  want to join me on my travels to Africa? In January 2023 I will take a group of
+  like-minded people with a passion and appreciation for wild places to Kenya. We
+  will visit Chyulu Hills in Amboseli and Naboisho Conservancy in the Masai Mara.
+  A once-in-a-lifetime trip focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll
+  down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -31,6 +32,12 @@ After successfully selling out the first edition of this unique photography expe
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 * Above price is incl VAT
+
+**Because it's a last-minute opportunity, we are giving you:**
+
+* Personal 1-on-1 mentorship session with myself **worth € 300**
+* A signed copy of my book Tales from the Roads Traveled **worth € 60**
+* A Talisman travel voucher **worth € 500** (to be used for a new Talisman booking before 31-12-2023)
 
 ### Day-to-day itinerary
 
