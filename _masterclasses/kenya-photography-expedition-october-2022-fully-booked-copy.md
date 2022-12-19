@@ -178,11 +178,11 @@ We are very flexible when it comes to planning our days. Usually, we leave each 
 
 As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
 
+![](/uploads/slides-elewanadsdsdsds.jpg)
+
 ### **Testimonials of previous participants**
 
-Below you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. Immediately after the expedition, I asked each participant to write a short testimonial about this trip and talk especially about what this expedition did to them. Just a small note of how they felt after the trip. You can read their comments below.
-
-![](/uploads/slides-elewanadsdsdsds.jpg)
+Above you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. Immediately after the expedition, I asked each participant to write a short testimonial about this trip and talk especially about what this expedition did to them. Just a small note of how they felt after the trip. You can read their comments below.
 
 **Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
 
