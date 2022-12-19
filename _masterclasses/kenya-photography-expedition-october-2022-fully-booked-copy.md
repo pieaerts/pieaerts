@@ -24,11 +24,11 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 
 ### Important information
 
-* Dates: Oct 22 - 31, 2022 / 9 nights in total
+* Dates: Oct 18 - 27, 2023 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
-* Price: € 9.750 per person (based on twin sharing / double sharing accommodation)
-* Deposit: € 2.500 per person (paid upon booking in order to hold your seat)
-* Single supplement: € 1.950 per person
+* Price: $ 10.650 per person (based on twin sharing / double sharing accommodation)
+* Deposit: $ 2.500 per person (paid upon booking in order to hold your seat)
+* Single supplement: $ 3.500 per person
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
