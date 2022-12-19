@@ -11,7 +11,7 @@ introduction_html: "</p><p>OCTOBER 18-27, 2023</p><p>After rapidly selling out t
   about the wild…&nbsp;</p><p>Scroll down to read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
-subscribe_text: ''
+subscribe_text: SIGN UP FOR EXPEDITION HERE
 active: true
 
 ---
