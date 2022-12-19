@@ -15,11 +15,12 @@ subscribe_text: ''
 active: true
 
 ---
-![](/uploads/presentation1-1.jpg)
+
+![](/uploads/screenshot-2022-12-19-at-13-33-24.jpg)
 
 For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna.
 
-![](/uploads/kenya_piea_3.jpg)
+![](/uploads/screenshot-2022-12-19-at-13-33-16.jpg)
 
 ### Important information
 
@@ -92,6 +93,8 @@ All tents are set underneath Fig and Elephant Pepper trees and are spaced out to
 
 Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
 
+![](/uploads/screenshot-2022-12-19-at-13-38-50.jpg)
+
 The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
 
 ![](/uploads/kenya_piea_2.jpg)
@@ -100,7 +103,7 @@ The days are warm, rising to a maximum of 30 degrees centigrade, but very comfor
 
 ### **Included in the expedition price**
 
-1 x night at Hemingways Nairobi based on B&B
+1 x night at Tamarind Tree Hotel Nairobi based on B&B
 
 4 x nights at Tortilis Camp
 
@@ -110,7 +113,7 @@ All accommodation based on twin / double sharing
 
 All domestic airport transfers
 
-All domestic flight tickets + additional luggage
+All domestic flight tickets + additional luggage 
 
 Full board in both lodges incl all meals, wines & spirits
 
@@ -122,13 +125,13 @@ Daily laundry
 
 Daily sundowners
 
-All game drives
+All game drives & walking safaris 
 
 Photographic lectures & image review sessions
 
 1-on-1 tuition in the field
 
-Optional walking and night safaris
+Optional night safaris
 
 ### **Not included in the expedition price**
 
@@ -138,11 +141,13 @@ Travel & cancellation insurance
 
 Tips & gratuities for staff
 
-PCR testing and Visa
+Visa
 
-Champagne, private cellar wines & spirits
+Champagne, private cellar wines & private cellar spirits
 
 Optional Hot air balloon
+
+Optional voluntarily contribution to Masai communities 
 
 ### **How does an average day look like?**
 
@@ -172,11 +177,11 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Which kind of vehicles will we use?**
 
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220volt electricity sockets for charging. There will be a maximum of 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I carefully selected the best possible naturalists/guides that will lead us on this expedition. As a result, we will work with some of the best people in the industry.
+In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I have built strong relationships over the years with the guides we will be working with. As a result, we will work with some of the best people in the industry.
 
 ### **Do I need any photography experience?**
 
-Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. So please don’t hesitate if you have never used a camera before, I’m there to help.
+Nope, not at all. Everybody is welcome. Beginners and professionals. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. Or about music. art or sports :) So please don’t hesitate if you have never used a camera before, I’m there to help. But also don't hesitate if you want to fine-tune your professional skills, I'm sure I can help with that too. 
 
 ### **What type of gear do I need?**
 
