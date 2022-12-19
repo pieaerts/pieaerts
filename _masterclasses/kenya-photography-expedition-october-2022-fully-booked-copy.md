@@ -63,13 +63,27 @@ On day 6 after our morning game drive we will transfer to the Mara North airstri
 
 After spending 4 full days with Big Cats in Masai Mara, we will now shift our focus almost exclusively to Elephants. After arriving on Amboseli Airstrip, we will transfer to Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field.
 
-This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place. At this time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Big breeding herds of elephants, up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience.
-
 ![](/uploads/elewana_slide_0101.jpg)
+
+This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place. At this time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Big breeding herds of elephants, up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. 
+
+![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
+
+The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience.
+
+![](/uploads/kenya_piea_5.jpg)
 
 On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Most likely we will arrive around noon in Nairobi and upon return everybody will proceed his/her own travels.
 
-![](/uploads/kenya_piea_5.jpg)
+### **Mara North Conservancy**
+
+Welcome to the lush green rolling hills of Masai Mara. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. Especially in the last few years, the timings of the Migration are changing due to climate change, which makes it very likely we will witness it in any shape or form during our October expedition. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
+
+![](/uploads/screenshot-2022-12-19-at-12-57-45.jpg)
+
+All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
+
+![](/uploads/kenya_piea_6.jpg)
 
 ### **Amboseli National Park & Kitirua Conservancy**
 
@@ -77,19 +91,9 @@ Amboseli National Park covers 392 sq kms, only a small portion of the surroundin
 
 The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
 
-We are staying at Tortilis Camp, a camp that is particularly known for its unique location, being the only lodge/camp with access to the Kitirua Conservancy where all the magic happens. More than 50% of the guides at Tortilis are Masai, with strong ties to the surrounding communities. All tents are simple but spacious, with king or twin beds, depending on the composition of the group. Each tent has an ensuite bathroom. The entire lodge has a thatched roof and a great nostalgic feel. The main area has a huge deck overlooking Kilimanjaro. The lodge runs on 100% solar energy and was one of the first eco lodges of its size.
-
 ![](/uploads/kenya_piea_2.jpg)
 
 The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
-
-### **Mara North Conservancy**
-
-The lush rolling hills of Mara North will be a welcome break from the dry & dusty Amboseli plains. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
-
-All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
-
-![](/uploads/kenya_piea_6.jpg)
 
 ### **Included in the expedition price**
 
