@@ -13,12 +13,11 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: ''
 active: true
-published: false
 
 ---
 ![](/uploads/presentation1-1.jpg)
 
-For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna. 
+For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna.
 
 ![](/uploads/kenya_piea_3.jpg)
 
@@ -65,7 +64,7 @@ After spending 4 full days with Big Cats in Masai Mara, we will now shift our fo
 
 ![](/uploads/elewana_slide_0101.jpg)
 
-This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place. At this time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Big breeding herds of elephants, up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. 
+This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place. At this time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Big breeding herds of elephants, up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water.
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
 
@@ -77,7 +76,11 @@ On the morning of the 10th day, we will check out to make our way back to Wilson
 
 ### **Mara North Conservancy**
 
-Welcome to the lush green rolling hills of Masai Mara. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. Especially in the last few years, the timings of the Migration are changing due to climate change, which makes it very likely we will witness it in any shape or form during our October expedition. The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
+Welcome to the lush green rolling hills of Masai Mara. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. Especially in the last few years, the timings of the Migration are changing due to climate change, which makes it very likely we will witness it in any shape or form during our October expedition.
+
+![](/uploads/slides-elewana.jpg)
+
+The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
 
 ![](/uploads/screenshot-2022-12-19-at-12-57-45.jpg)
 

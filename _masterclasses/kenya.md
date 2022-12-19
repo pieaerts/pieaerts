@@ -12,7 +12,7 @@ introduction_html: "</p><p>OCTOBER 22-31, 2022 - THIS EXPEDITION IS FULLY BOOKED
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: THIS EXPEDITION IS FULLY BOOKED
-active: true
+active: false
 
 ---
 ![](/uploads/presentation1-1.jpg)
