@@ -62,15 +62,17 @@ On day 6 after our morning game drive we will transfer to the Mara North airstri
 
 ![](/uploads/kenya_piea_1.jpg)
 
-After spending 4 full days with Big Cats in Masai Mara, we will now shift our focus almost exclusively to Elephants. After arriving on Amboseli Airstrip, we will transfer to Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field.
+After spending 4 full days with Big Cats in Masai Mara, we will now shift our focus almost exclusively to Elephants. After arriving on Amboseli Airstrip, we will transfer to Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place.
 
 ![](/uploads/elewana_slide_0101.jpg)
 
-This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place. At this time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. Big breeding herds of elephants, up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water.
+At this particular time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. In that cinematic decor, big breeding herds of elephants, often up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. After almost a decade of traveling through Africa, I have to admit there's little places in the continent that make such a powerful impression as this Amboseli lake-bed in the end of the dry season. 
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
 
-The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience.
+The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. 
+
+Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience and the main reason why I decided I wanted to share this incredible experience with other people after coming here for years alone. 
 
 ![](/uploads/kenya_piea_5.jpg)
 
@@ -180,7 +182,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 Below you see the October 2022 Expedition group! We had such a blast! I have asked each participant to write a short testimonial about this trip and what it did to them. You can read them below the image.
 
-![](/uploads/dji_0494.jpg)
+![](/uploads/slides-elewanadsdsdsds.jpg)
 
 **Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
 
