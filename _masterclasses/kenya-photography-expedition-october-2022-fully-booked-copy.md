@@ -88,7 +88,7 @@ The camps remote location allows for all animals to walk through camp day and ni
 
 ![](/uploads/screenshot-2022-12-19-at-12-57-45.jpg)
 
-All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas.
+All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas. As previously explained - when booking as a single traveler - you will share a tent with a roommate, but the spacious nature of these bush tent allows for optimal space, even on a twin sharing basis.
 
 ![](/uploads/kenya_piea_6.jpg)
 
@@ -180,7 +180,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Testimonials of previous participants**
 
-Below you see the October 2022 Expedition group! We had such a blast! I have asked each participant to write a short testimonial about this trip and what it did to them. You can read them below the image.
+Below you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. Immediately after the expedition, I asked each participant to write a short testimonial about this trip and talk especially about what this expedition did to them. Just a small note of how they felt after the trip. You can read their comments below.
 
 ![](/uploads/slides-elewanadsdsdsds.jpg)
 
