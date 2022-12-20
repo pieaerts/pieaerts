@@ -20,7 +20,7 @@ active: true
 
 ### Important information
 
-* Dates: August 28 - September 7, 2023 
+* Dates: August 28 - September 7, 2023
 * Tour starts/ends in: Lusaka, Zambia
 * Price: € 13500 per person (based on twin sharing or double sharing accommodation)
 * Deposit: € 3500 per person (paid upon booking in order to hold your seat)
@@ -177,6 +177,26 @@ Premium spirits
 We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
 
 As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
+
+![](/uploads/slides-elewanadsdsdsds.jpg)
+
+### **Testimonials of previous participants**
+
+Above you see an image of the October 2022 Kenya Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. After the expedition, I asked each participant to write a short testimonial about this trip and what it did to them. You can read their comments below.
+
+**Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
+
+**Michelle (USA) -** Where to begin, Pie’s expedition was a trip of a lifetime! One that will have me buzzing for a long, long time. Amboseli and the Masai Mara are two very unique and magical places that stole my heart from the beginning but what was extra special was the amount of knowledge I took home from hours upon hours of being in the bush and learning from Pie. To add to that, the lodges were absolutely incredible as was the heaps of delicious food we had at every meal. I had tears in my eyes on the final day knowing I was leaving such a special country and even more special group of people that came together from all over the world to learn about photography and be immersed in the African bush for 10 days.
+
+**Tobias (United Kingdom) -** This is the third time I have been on a trip with Pie and every trip seems to get better and better. It’s more than just a photography trip, you almost seem part of a family. The relationships Pie builds with the people in his groups is what really makes these trips so special. The wildlife is mind blowing and Pie works with the best guides that do everything they can to get you in to the best positions for photography. This specific trip opened my eyes more than ever to the challenges that wildlife and humans face in Africa during climate change and droughts, and witnessing this first hand has had a huge impact on me personally. I can’t thank Pie enough for making a trip like this possible and I also can’t thank everyone who was there enough for making it so unforgettable.
+
+**Noortje (South Africa) -** This Kenya expedition was about so much more than just taking photos. It gave us an insight into Pie’s adventurous spirit and way of living, his view on the planet, our place on it and how we coexist with the natural world. Understanding that is what ultimately results in taking great images and we certainly achieved that! It was a beautiful and wild adventure, and Pie’s enthusiasm, commitment and honesty made the trip unforgettable! Thank you for your knowledge, the laughs, the chases, the fantastic food (!) and all the in-between moments!
+
+**Yash (India) -** I mean it when I say that this trip to Africa has had a huge effect on who I am, and I mean it in the most positive way possible. I came thinking only about photography, but left with an African experience so raw and so moving. My eyes opened to incredible stories of the people and wildlife, which I attempted to capture with my camera under the guidance and teachings from Pie. And last but not least, and which was totally unexpected, but I left with a new found group of incredible people that I consider as one of my closest friends.
+
+**Nathalie (Netherlands) -** This was definitely a once in a lifetime trip! It was an incredible experience to hitch a ride on Pie’s passion and energy. It was a wonderful group, with a great variety in personalities and background, which made the expedition even more special. Every little detail was right! I dare to say it was a dream which unfortunately I have to wake up from now, but I’ll carry it with me the rest of my life.
+
+**Capucine (France) -** A trip of lifetime, this is what was promised and the dream became a reality! I had an amazing time in the bush with the best group of people. Amboseli and Masai Mara blew my mind with the abundance of wildlife. Going from shooting unbelievable scenes to having the most delicious food in the camp has been a real happiness bubble for 10 days! Very inspiring workshops as well with Pie who definitely made this trip very special. Also, lots of surprises along the trip, which I won’t share here, which made it unforgettable!
 
 ### Which kind of vehicles will we use?
 
