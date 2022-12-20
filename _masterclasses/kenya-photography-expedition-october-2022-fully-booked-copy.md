@@ -1,15 +1,15 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION - October 2023
+title: KENYA PHOTOGRAPHY EXPEDITION - October 18 - 27, 2023
 starting_date: 2022-06-07 23:00:00 +0000
 subtitle: ''
 introduction_html: "</p><p>OCTOBER 18-27, 2023</p><p>After rapidly selling out the
   first edition of this Kenya Expedition in October 2022, I am coming back with a
-  second edition in October 2023. Once again, I will take a group of like-minded people
-  with a passion and appreciation for wild places to two of my favourite corners in
-  all of Africa. Kitirua Conservancy in Amboseli as well as Mara North Conservancy
-  in the Masai Mara. A once-in-a-lifetime trip focused on creating meaningful stories
-  about the wild…&nbsp;</p><p>Scroll down to read the full itinerary. All images you
-  see below are taken on previous visits to the same 2 conservancies. &nbsp;</p>\n"
+  second edition in October 2023. Once again, I will take a small group of like-minded
+  people to 2 of my favourite places in all of Africa: Kitirua Conservancy in Amboseli
+  and Mara North Conservancy in the Masai Mara. A once-in-a-lifetime expedition focused
+  on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to read the
+  full itinerary. All images you see below are taken on previous visits to the same
+  2 conservancies. &nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/vV8pxkYEJrYTSM2i6
 subscribe_text: SIGN UP FOR EXPEDITION HERE
@@ -111,7 +111,6 @@ The days are warm, rising to a maximum of 30 degrees centigrade, but very comfor
 ### **Included in the expedition price**
 
 1 x night at Tamarind Tree Hotel Nairobi based on B&B
-
 4 x nights at Tortilis Camp
 
 4 x nights at Elephant Pepper Camp
