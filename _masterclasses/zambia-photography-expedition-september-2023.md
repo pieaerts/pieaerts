@@ -8,7 +8,8 @@ introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 2 MORE SEATS
   takes you back in time, to the nostalgic essentials of a true African safari. An
   expedition like no other, with a wide variety of vehicle safaris, walking safaris,
   canoe safaris and boat safaris. Get ready for a wild adventure! &nbsp;</p><p>Scroll
-  down to read the full itinerary.&nbsp;</p>\n"
+  down to read the full itinerary. All images you see below are taken on previous
+  visits to the very same 3 camps.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -16,6 +17,18 @@ active: true
 
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
+
+### Important information
+
+* Dates: August 28 - September 7, 2023 
+* Tour starts/ends in: Lusaka, Zambia
+* Price: € 13500 per person (based on twin sharing or double sharing accommodation)
+* Deposit: € 3500 per person (paid upon booking in order to hold your seat)
+* No single supplement available
+* Group size: min 4, max 6 - **at the moment only 2 more seats available!**
+* Experience level: Anyone is welcome, from beginners to professionals
+* Above price is incl VAT
+* Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)
 
 Zambia truly is one of the last remaining unspoiled safari destinations. A place that many people describe as Africa of 10-15 years ago. For this expedition, I am collaborating with Chiawa Safaris, an award-winning collection of Safari Camps.
 
@@ -25,24 +38,15 @@ During this trip we will explore the bush not only with vehicles but even more s
 
 ![](/uploads/zambia_pie_aerts_2.jpg)
 
-On this trip we will visit 3 of their 4 camps. We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna. And all of that, in the best possible season, the end of the dry season, which makes for spectacular game viewing.
-
-### Important information
-
-* Dates: August 28 - September 7, 2023 / 10 nights in total
-* Tour starts/ends in: Lusaka, Zambia
-* Price: € 13.500 per person (based on twin sharing or double sharing accommodation)
-* Deposit: € 3.500 per person (paid upon booking in order to hold your seat)
-* No single supplement available
-* Group size: min 4, max 6 - **at the moment only 2 more seats available!**
-* Experience level: Anyone is welcome, from beginners to professionals
-* Above price is incl VAT
+We kick-off with Lower Zambezi National Park and visit Old Mondoro as well as the iconic Chiawa Camp. After that we transfer to South Luangwa National Park where we will stay at Puku Ridge Lodge. We will stay in each camp for 3 nights, working with some of the best guides in the industry since Chiawa has been awarded ‘best guiding team in Africa’ multiple times. For a period of 10 nights, we will emerge ourselves in one of the most unique ecosystems in the world and experience some of Africa’s wildest flora and fauna. And all of that, in the best possible season, the end of the dry season, which makes for spectacular game viewing.
 
 ### Day-to-day itinerary
 
+#### _Day 1_
+
 The expedition starts on August 28, 2023 in Lusaka. With everyone traveling towards Zambia from different directions, the first day is all about landing and acclimatising. We are spending the first night at Protea Towers, a Marriott hotel in the capital city Lusaka. The next morning our adventure starts!
 
-Day 2 – 5
+#### **_Day 2 – 5_**
 
 Early in the morning of August 29 we travel to the domestic Airport where we will board out flight to Lower Zambezi National Park. After a short flight of only 35 minutes, we will be picked up from Jeki Airstrip by vehicle transfer and make our way to the first camp, Old Mondoro.
 
@@ -62,7 +66,7 @@ The 5 chalets are constructed of reed and canvas, each with a beautiful and comf
 
 The reason I picked September to be our month, is because it’s the end of the dry season. It will be hot which means animals come to drink at the last remaining waterholes and concentrate around the river. It’s the best month of the year to visit Lower Zambezi, and given the fact that our camp is situated right at the Zambezi banks, the animals will literally be everywhere you look.
 
-_Day 5 – 8_
+#### **_Day 5 – 8_**
 
 On the morning of Day 5 we get picked up at Old Mondoro by boat and transfer via water to our second camp, called Chiawa Camp. After staying in a ground-level bush camp for 3 nights, we now switch to Chiawa Safari’s flagship luxury camp. An award-wininig camp that combines the best of two worlds; first-class service and top-notch luxury accommodation as well as some of the most exceptional game viewing in the world.
 
@@ -78,7 +82,7 @@ During sunrise the low light pours across the floodplains, igniting the tops of 
 
 ![](/uploads/zambia_pie_aerts_10.jpg)
 
-Day 8 – 11
+#### **_Day 8 – 11_**
 
 On the morning of Day 9 we get transferred by boat and later by car to Jeki Airstrip again, where we will board our flight to South Luangwa National Park, our second destination of the trip. It will be tough leaving this magical place behind but in front of us lies another top-notch Zambian safari destination.
 
@@ -94,7 +98,7 @@ For 3 nights we will explore this exciting ecosystem. In many ways it is very di
 
 ![](/uploads/zambia_pie_aerts_16.jpg)
 
-Day 11
+#### **_Day 11_**
 
 On the morning of Day 11, on September 7, we will board our plane back to Lusaka and the trip comes to an end. We will arrive in Lusaka around mid-day so you can connect on your flight home that same night.
 
@@ -202,6 +206,6 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 ### The host
 
-Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Africa, visualising his personal relationship with the African landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since it's inception 2.1 million dollars have been raised of which 100% has been donated to African Parks Network. Since the outbreak of COVID-19 Pie spend more than 60 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador, Gitzo Ambassador and as Hahnemühle Ambassador.
 
-**Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**
+![](/uploads/1y6a0358.jpg)

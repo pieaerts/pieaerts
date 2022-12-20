@@ -12,7 +12,7 @@ introduction_html: "</p><p>OCTOBER 18-27, 2023</p><p>After rapidly selling out t
   2 conservancies. &nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/vV8pxkYEJrYTSM2i6
-subscribe_text: SIGN UP FOR EXPEDITION HERE
+subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 
 ---
