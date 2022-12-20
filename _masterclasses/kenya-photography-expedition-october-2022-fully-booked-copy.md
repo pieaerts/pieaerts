@@ -18,8 +18,6 @@ active: true
 ---
 ![](/uploads/screenshot-2022-12-19-at-13-33-24.jpg)
 
-For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Tortilis Camp in Amboseli and Elephant Pepper Camp in Mara North. In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna.
-
 ### Important information
 
 * Dates: Oct 18 - 27, 2023
@@ -32,9 +30,15 @@ For this expedition, I am collaborating with my dear partner Elewana Collection,
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)
 
+For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Elephant Pepper Camp in Mara North and Tortilis Camp in Amboseli. 
+
+In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights / 10 days, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna.
+
 ![](/uploads/screenshot-2022-12-19-at-13-33-16.jpg)
 
 ### Day-to-day itinerary
+
+_Day 1_
 
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Tamarind Tree Hotel in Nairobi, right on the edge of Nairobi National Park. The next morning our adventure starts!
 
@@ -66,13 +70,13 @@ After spending 4 full days with Big Cats in Masai Mara, we will now shift our fo
 
 ![](/uploads/elewana_slide_0101.jpg)
 
-At this particular time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. In that cinematic decor, big breeding herds of elephants, often up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. After almost a decade of traveling through Africa, I have to admit there's little places in the continent that make such a powerful impression as this Amboseli lake-bed in the end of the dry season. 
+At this particular time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. In that cinematic decor, big breeding herds of elephants, often up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. After almost a decade of traveling through Africa, I have to admit there's little places in the continent that make such a powerful impression as this Amboseli lake-bed in the end of the dry season.
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
 
-The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. 
+The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants.
 
-Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience and the main reason why I decided I wanted to share this incredible experience with other people after coming here for years alone. 
+Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience and the main reason why I decided I wanted to share this incredible experience with other people after coming here for years alone.
 
 ![](/uploads/kenya_piea_5.jpg)
 
@@ -158,7 +162,7 @@ Optional voluntarily contribution to Masai communities
 
 05\.30 – 09.00 photography in the field with focus on soft morning light
 
-09\.00 – 09.30 bush breakfast or packed breakfast
+09\.00 – 09.30 camp breakfast or packed breakfast
 
 09\.00 – 11.00 continue photography in the field focusing on B&W photography
 
