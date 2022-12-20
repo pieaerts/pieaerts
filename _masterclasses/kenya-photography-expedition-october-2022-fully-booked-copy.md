@@ -38,11 +38,11 @@ In the past few years, I have visited both conservancies countless times, which 
 
 ### Day-to-day itinerary
 
-_Day 1_
+#### _Day 1_
 
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Tamarind Tree Hotel in Nairobi, right on the edge of Nairobi National Park. The next morning our adventure starts!
 
-_Day 2 – 6_
+#### _Day 2 – 6_
 
 Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Mara North Airstrip and a short transfer will take us to our first camp, Elephant Pepper Camp. This camp is situated right in the middle of all the action, in the heart of Mara North Conservancy.
 
@@ -60,7 +60,7 @@ During our stay in Elephant Pepper Camp, we will also experience the thrill of a
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-41.jpg)
 
-_Day 6 – 10_
+#### _Day 6 – 10_
 
 On day 6 after our morning game drive we will transfer to the Mara North airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to our second destination, Amboseli National Park. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain.
 
@@ -186,7 +186,7 @@ As you can see in the planning, at lunch time I will host several lectures. Topi
 
 ### **Testimonials of previous participants**
 
-Above you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. Immediately after the expedition, I asked each participant to write a short testimonial about this trip and talk especially about what this expedition did to them. Just a small note of how they felt after the trip. You can read their comments below.
+Above you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. After the expedition, I asked each participant to write a short testimonial about this trip and what it did to them. You can read their comments below.
 
 **Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
 
