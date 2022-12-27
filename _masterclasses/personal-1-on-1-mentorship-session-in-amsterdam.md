@@ -1,7 +1,7 @@
 ---
-title: PERSONAL 1-ON-1 MENTORSHIP SESSION
+title: LIVE MENTORSHIP
 subtitle: in my studio in Amsterdam
-image: /uploads/masai-mara.jpg
+image: "/uploads/masai-mara.jpg"
 starting_date: 2020-07-01T00:00:00.000+00:00
 introduction_html: "<p>Next to Virtual online Mentorship session, I am now also offering
   personal 1-on-1 sessions in Amsterdam.</p><p>We will meet in my studio and chat
