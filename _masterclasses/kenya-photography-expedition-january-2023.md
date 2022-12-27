@@ -1,7 +1,7 @@
 ---
 title: KENYA EXPEDITION
 subtitle: Jan 25 - Feb 3, 2023
-image: "/uploads/masai-mara.jpg"
+image: "/uploads/masterclass_cover_kenya_2.jpg"
 starting_date: 2019-12-31 23:00:00 +0000
 introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST-MINUTE TENT
   AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
