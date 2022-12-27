@@ -26,6 +26,8 @@ My main focus in Africa centralises around a few countries: Kenya, Zambia, Botsw
 
 Next to wildlife oriented photographic safaris in Africa, I also custom-build human-interest photographic safaris to India, Nepal, Sri Lanka and Myanmar.
 
+I do have an extensive network of aerial safari operators & pilots with whom I have been working for almost a decade. So if you are looking for aerial adventure in one of the above-mentioned African countries, you came to the right place. 
+
 ### Who?
 
 Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect.

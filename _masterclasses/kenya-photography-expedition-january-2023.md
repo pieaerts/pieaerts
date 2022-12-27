@@ -202,6 +202,8 @@ During the second leg of the trip, it is possible to embark on a once-of-a-lifet
 
 ### The host
 
-Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
+
+![](/uploads/1y6a0358.jpg)
 
 **Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**
