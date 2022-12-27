@@ -1,7 +1,7 @@
 ---
 title: PRIVATE SAFARI
 subtitle: tailor-made safari's
-image: "/uploads/masterclass_cover_mentorship_1.jpg"
+image: "/uploads/masterclass_cover_kenya_6.jpg"
 starting_date: 2016-12-31 23:00:00 +0000
 introduction_html: ''
 gallery_url: "/none/"
