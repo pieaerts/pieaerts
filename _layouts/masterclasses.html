@@ -11,25 +11,31 @@
             <div class="col-xs-12 contentdiv text-center">
                 <h1>{{ page.title }}</h1>
                 
-                {{ page.introduction_html }}
-                
-                <ul>
-                {% assign sitemasterclasses = site.masterclasses | sort: 'starting_date' | reverse %}
-                {% for item in sitemasterclasses %}
-                    <li>
-                        {% if item.active %}
-                            <a href="{{ item.url }}" style="text-decoration: underline;">{{ item.title }}</a>
-                        {% else %}
-                            {{ item.title }}
-                        {% endif %}
-                    </li>
-                {% endfor %}
-                </ul>
-                <br />
-
                 {{ content }}   
 
             </div>
+        </div>
+        <div class="row grid"> 
+    		{% assign sitemasterclasses = site.masterclasses | sort: 'starting_date' | reverse %}
+            {% for item in sitemasterclasses %}
+            <div class="col-md-4 col-sm-6">
+
+                <div class="item">
+                    <a href="/personal-work/umoja/">
+                        <div class="workthumb" style="background: url(//images.weserv.nl/?url=www.pieaerts.com{{ item.image }}&amp;w=800&amp;q=50) center center no-repeat; background-size: cover;">
+                            <div class="overlay hastext" style="opacity: 1!important;">
+                                <div class="light">
+                                    <h3>{{ item.title }}</h3>
+                                    <span>{{ item.subtitle }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>     
+             
+            </div>
+            {% endfor %}
+
         </div>
    </div>
 

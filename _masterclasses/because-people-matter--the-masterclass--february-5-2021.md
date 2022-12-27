@@ -1,7 +1,8 @@
 ---
-title: BECAUSE PEOPLE MATTER | the masterclass | September 17
+title: BECAUSE PEOPLE MATTER
+subtitle: the masterclass | September 17
+image: /uploads/masai-mara.jpg
 starting_date: 2022-06-06 23:00:00 +0000
-subtitle: ''
 introduction_html: "<p>Do you want to push yourself creatively?</p><p>Do you feel
   like you need a new boost in your photography?&nbsp;</p><p>Or do you want to broaden
   your knowledge about visual story-telling?&nbsp;&nbsp;</p><p>Than this is your chance!</p><p>Saturday
