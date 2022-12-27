@@ -1,7 +1,7 @@
 ---
 title: ZAMBIA EXPEDITION
 subtitle: Aug 28 - Sept 7, 2023
-image: "/uploads/masai-mara.jpg"
+image: "/uploads/masterclass_cover_zambia.jpg"
 starting_date: 2022-06-09T23:00:00.000+00:00
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
   ON THIS EXPEDITION!</p><p>I'm incredibly stoked to launch a brand-new photography
