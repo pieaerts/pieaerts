@@ -6,7 +6,7 @@ starting_date: 2016-12-31T23:00:00.000+00:00
 introduction_html: ''
 gallery_url: "/none/"
 subscribe_url: ''
-subscribe_text: ''
+subscribe_text: SEND AN EMAIL TO INFO@PIEAERTS.COM TO INQUIRE
 active: true
 
 ---
