@@ -2,29 +2,34 @@
 title: PRIVATE SAFARI
 subtitle: tailor-made safari's
 image: "/uploads/masterclass_cover_mentorship_1.jpg"
-starting_date: 2017-12-31T23:00:00.000+00:00
+starting_date: 2016-12-31 23:00:00 +0000
 introduction_html: ''
 gallery_url: "/none/"
 subscribe_url: ''
 subscribe_text: ''
 active: true
-published: false
 
 ---
-### What?
+If none of the afore-mentioned Photography Expeditions apply to your wishes, or you do prefer to travel privately rather than in a group, I am more than happy to custom-build your own photographic safari of dreams. 
 
-A 2 hour session between you and me in my studio in Amsterdam. We will chat about anything you like. About finding your voice as an artist, creating stories from scratch to publication, building your name on social media, gear, post-production, publishing books, printing your work and much more. See it as a personal version of my visual story-telling masterclass. There’s room for as much open questions as you want, critique of your portfolio and advice about future steps in building your personal brand. Do you want any advise on how to further build your creative career, this session will show you the way.
+Based on 10+ years of experience in photographic story-telling and conservation across the entire African continent and beyond, I will personally craft your dream itinerary for you. In the past 3 years only, I have spent 60+ weeks in Kenya, Zambia and Botswana and I know the countries and its people inside out. This has generated an in-depth understanding of seasonality, geography, animal behavior, photographic opportunities, light, and of course wildlife conservation. 
 
-### Why?
+You tell me where you want to go, and I make sure you will not only return home with an incredible collection of images, but even more so with a story to tell your grandkids one day. 
 
-Because I absolutely love sharing my passion for photographic story-telling with people! And because over the past few years, I've learned that growing and developing your talents mainly happens in close contact with other creatives. You simply need a teachable spirit in order to keep growing. So let's get ready and fine-tune your story-telling skills to be ready when the world opens up again!
+Building your own privately guided itinerary allows you to travel into the most remote corners of Africa, where almost no one goes. But it also allows you to stay at the most high-end luxury destinations, away from the crowds. You travel at your own time schedule without taking into consideration other expedition members. So whether it's a Family Safari with a photographic twist to it, a group of friends, a father and a son, or just yourself, I'm ready to build your expedition of dreams. 
 
-### Price?
+Having a personal professional photographer to guide and tutor you during your trip, is the best possible way to improve your skills and return home with mind-blowing images. 
 
-The price of a virtual mentorship session is EUR 300,- for a 2 hour session. As soon as your time slot is approved, you will be send a payment link. Prices are excluding VAT.
+### Where?
+
+My main focus in Africa centralises around a few countries: Kenya, Zambia, Botswana, Namibia, Uganda and Rwanda. But I'm also very experienced in Patagonia, on the Argentinian side as well as the Chilean side, focusing on a combination of landscape and wildlife photography. 
+
+Next to wildlife oriented photographic safaris in Africa, I also custom-build human-interest photographic safaris to India, Nepal, Sri Lanka and Myanmar. 
 
 ### Who?
 
-Pie Aerts is a Dutch documentary photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature. And, as we become increasingly distant from the natural world, each other and ourselves, he uses photography to search for the cause of this disconnect in an attempt to understand the mysterious and imperfect nature of being human. His photography unleashes an engaging sense of connection and invite us to reflect on the essence of our existence. Pie is official Canon Europe Ambassador and founder of ‘Prints for Wildlife’, a month-long fundraiser that collected 1.75mio dollars for conservation areas badly affected by COVID-19. He is a firm believer that art can be an incredibly powerful tool in restoring that lost and damaged connection he investigates.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect.
+
+He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
 
 ![](/uploads/0h3a6324-copy-5-3.JPG){: width="1277" height="933"}
