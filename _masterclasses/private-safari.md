@@ -1,16 +1,12 @@
 ---
 title: PRIVATE SAFARI
-subtitle: in my studio in Amsterdam
+subtitle: tailor-made safari's
 image: "/uploads/masterclass_cover_mentorship_1.jpg"
 starting_date: 2017-12-31T23:00:00.000+00:00
-introduction_html: "<p>Next to Virtual online Mentorship session, I am now also offering
-  personal 1-on-1 sessions in Amsterdam.</p><p>We will meet in my studio and chat
-  for 2 hours about anything you like.</p><p>I will give you a new boost in creativity
-  and up your skills.&nbsp;</p><p>I can also review your portfolio and give you personal
-  tips in terms of brand building, finding your voice as an artist and social media.&nbsp;</p>"
+introduction_html: ''
 gallery_url: "/none/"
-subscribe_url: https://forms.gle/u24NkMScoT2WFEnB8
-subscribe_text: CLICK HERE TO BOOK YOUR PERSONAL SLOT
+subscribe_url: ''
+subscribe_text: ''
 active: true
 published: false
 
