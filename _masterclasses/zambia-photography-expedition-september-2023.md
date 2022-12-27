@@ -1,6 +1,6 @@
 ---
 title: ZAMBIA PHOTOGRAPHY EXPEDITION
-subtitle: Aug 28 - Sept 7, 2023 - only 2 more seats available
+subtitle: Aug 28 - Sept 7, 2023 - only 2 seats left
 image: /uploads/masai-mara.jpg
 starting_date: 2022-06-09 23:00:00 +0000
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
