@@ -1,5 +1,5 @@
 ---
-title: VIRTUAL MENTORSHIP
+title: ONLINE MENTORSHIP
 subtitle: 1,5 hour zoom or skype call
 image: "/uploads/masterclass_cover_kenya_5.jpg"
 starting_date: 2018-12-31T23:00:00.000+00:00
