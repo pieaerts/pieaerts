@@ -2,7 +2,7 @@
 title: LIVE MENTORSHIP
 subtitle: in my studio in Amsterdam
 image: "/uploads/masai-mara.jpg"
-starting_date: 2020-07-01T00:00:00.000+00:00
+starting_date: 2017-12-31 23:00:00 +0000
 introduction_html: "<p>Next to Virtual online Mentorship session, I am now also offering
   personal 1-on-1 sessions in Amsterdam.</p><p>We will meet in my studio and chat
   for 2 hours about anything you like.</p><p>I will give you a new boost in creativity

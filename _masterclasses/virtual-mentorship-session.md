@@ -2,7 +2,7 @@
 title: VIRTUAL MENTORSHIP
 subtitle: 1,5 hour zoom or skype call
 image: "/uploads/masai-mara.jpg"
-starting_date: 2020-07-01T00:00:00.000+00:00
+starting_date: 2018-12-31 23:00:00 +0000
 introduction_html: "<p>For the first time ever I am launching virtual mentorship sessions.&nbsp;</p><p>For
   those of you that can't travel to Amsterdam!</p><p>Do you feel like you need a new
   boost in your photography?&nbsp;</p><p>Or do you want me to review your portfolio,
