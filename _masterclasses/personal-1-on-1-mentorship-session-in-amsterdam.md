@@ -1,7 +1,7 @@
 ---
 title: LIVE MENTORSHIP
 subtitle: in my studio in Amsterdam
-image: "/uploads/masterclass_cover_mentorship_1.jpg"
+image: "/uploads/masterclass_cover_kenya_4.jpg"
 starting_date: 2017-12-31 23:00:00 +0000
 introduction_html: "<p>Next to Virtual online Mentorship session, I am now also offering
   personal 1-on-1 sessions in Amsterdam.</p><p>We will meet in my studio and chat
