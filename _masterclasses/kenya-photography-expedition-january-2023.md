@@ -1,7 +1,7 @@
 ---
 title: NABOISHO & CHYULU HILLS - KENYA
 subtitle: Jan 25 - Feb 3, 2023
-image: "/uploads/masterclass_cover_kenya_2.jpg"
+image: "/uploads/expedition_africa_pie_03.jpg"
 starting_date: 2019-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST-MINUTE TENT
   AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
