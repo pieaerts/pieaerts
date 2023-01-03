@@ -1,8 +1,8 @@
 ---
-title: ZAMBIA PHOTOGRAPHY EXPEDITION
-subtitle: Aug 28 - Sept 7, 2023 - only 2 seats left
-image: /uploads/masai-mara.jpg
-starting_date: 2022-06-09 23:00:00 +0000
+title: ZAMBIA EXPEDITION
+subtitle: Aug 28 - Sept 7, 2023
+image: "/uploads/expedition_africa_pie_02.jpg"
+starting_date: 2020-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
   ON THIS EXPEDITION!</p><p>I'm incredibly stoked to launch a brand-new photography
   expedition to one of the most special corners of Africa: Zambia! A journey that
@@ -226,6 +226,6 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 ### The host
 
-Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since it's inception 2.1 million dollars have been raised of which 100% has been donated to African Parks Network. Pie serves as a Canon EMEA ambassador, Gitzo Ambassador and as Hahnemühle Ambassador.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
 
 ![](/uploads/1y6a0358.jpg)

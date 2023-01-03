@@ -1,8 +1,8 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION
+title: AMBOSELI & MASAI MARA - KENYA
 subtitle: October 18 - 27, 2023
-image: /uploads/masai-mara.jpg
-starting_date: 2022-06-07 23:00:00 +0000
+image: "/uploads/expedition_africa_pie_01.jpg"
+starting_date: 2021-12-31 23:00:00 +0000
 introduction_html: "</p><p>OCTOBER 18-27, 2023</p><p>After rapidly selling out the
   first edition of this Kenya Expedition in October 2022, I am coming back with a
   second edition in October 2023. Once again, I will take a small group of like-minded

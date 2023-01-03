@@ -1,8 +1,8 @@
 ---
-title: KENYA PHOTOGRAPHY EXPEDITION
-subtitle: January 2023 - Last-minute 1 tent available
-image: /uploads/masai-mara.jpg
-starting_date: 2022-06-08 22:00:00 +0000
+title: NABOISHO & CHYULU HILLS - KENYA
+subtitle: Jan 25 - Feb 3, 2023
+image: "/uploads/expedition_africa_pie_03.jpg"
+starting_date: 2019-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST-MINUTE TENT
   AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
   want to join me on my travels to Africa? In January 2023 I will take a group of
@@ -201,6 +201,8 @@ During the second leg of the trip, it is possible to embark on a once-of-a-lifet
 
 ### The host
 
-Pie Aerts (@pie_aerts) is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since the international outbreak of COVID-19 Pie spend more than 45 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador and as a Hahnemühle Ambassador.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
+
+![](/uploads/1y6a0358.jpg)
 
 **Make sure to read the Terms & Conditions by clicking** [**here**](https://www.pieaerts.com/terms/)**.**

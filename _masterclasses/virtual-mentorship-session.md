@@ -1,8 +1,8 @@
 ---
-title: VIRTUAL MENTORSHIP SESSION
+title: ONLINE MENTORSHIP
 subtitle: 1,5 hour zoom or skype call
-image: /uploads/masai-mara.jpg
-starting_date: 2020-07-01T00:00:00.000+00:00
+image: "/uploads/masterclass_cover_kenya_5.jpg"
+starting_date: 2018-12-31T23:00:00.000+00:00
 introduction_html: "<p>For the first time ever I am launching virtual mentorship sessions.&nbsp;</p><p>For
   those of you that can't travel to Amsterdam!</p><p>Do you feel like you need a new
   boost in your photography?&nbsp;</p><p>Or do you want me to review your portfolio,
@@ -26,6 +26,6 @@ The price of a virtual mentorship session is EUR 300,- for a 1,5 hour session. A
 
 ### Who?
 
-Pie Aerts is a Dutch documentary photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature. And, as we become increasingly distant from the natural world, each other and ourselves, he uses photography to search for the cause of this disconnect in an attempt to understand the mysterious and imperfect nature of being human. His photography unleashes an engaging sense of connection and invite us to reflect on the essence of our existence. Pie is official Canon Europe Ambassador and founder of ‘Prints for Wildlife’, a month-long fundraiser that collected 1.75mio dollars for conservation areas badly affected by COVID-19. He is a firm believer that art can be an incredibly powerful tool in restoring that lost and damaged connection he investigates.
+Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
 
-![](/uploads/0h3a6324-copy-5-3.JPG){: width="1277" height="933"}
+![](/uploads/1y6a0358.jpg)
