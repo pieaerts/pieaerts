@@ -15,7 +15,6 @@ subscribe_url: https://forms.gle/krNzkHYARr2dZBdq7
 subscribe_text: THIS EXPEDITION IS FULLY BOOKED
 active: false
 published: false
-
 ---
 ![](/uploads/presentation1-1.jpg)
 

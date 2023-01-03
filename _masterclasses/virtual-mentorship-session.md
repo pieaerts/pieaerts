@@ -11,7 +11,6 @@ gallery_url: "/none/"
 subscribe_url: https://docs.google.com/forms/d/1tuUmnkxDMoa-OfQIwnQ3PRXV0DJxHLGAEk05NA_Oj_Y/edit
 subscribe_text: CLICK HERE TO BOOK YOUR PERSONAL SLOT
 active: true
-
 ---
 ### What?
 

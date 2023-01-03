@@ -8,6 +8,7 @@ images:
   - image: /uploads/2g2a1486-2.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -15,6 +16,7 @@ images:
   - image: /uploads/2g2a9250-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -22,6 +24,7 @@ images:
   - image: /uploads/2g2a9002-2.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -29,6 +32,7 @@ images:
   - image: /uploads/2g2a2414-2.jpg
     portrait: true
     wide: false
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -36,6 +40,7 @@ images:
   - image: /uploads/2g2a9332-1.jpg
     portrait: true
     wide: false
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -43,6 +48,7 @@ images:
   - image: /uploads/2g2a2401-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -50,6 +56,7 @@ images:
   - image: /uploads/2g2a2281-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -57,6 +64,7 @@ images:
   - image: /uploads/2g2a1823-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -64,6 +72,7 @@ images:
   - image: /uploads/2g2a1787-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -71,6 +80,7 @@ images:
   - image: /uploads/2g2a1842-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -78,6 +88,7 @@ images:
   - image: /uploads/2g2a9406-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -85,6 +96,7 @@ images:
   - image: /uploads/2g2a9903-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -92,6 +104,7 @@ images:
   - image: /uploads/2g2a9790.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -99,6 +112,7 @@ images:
   - image: /uploads/0h3a9143-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -106,6 +120,7 @@ images:
   - image: /uploads/2g2a0287-2.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -113,6 +128,7 @@ images:
   - image: /uploads/2g2a0294-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -120,6 +136,7 @@ images:
   - image: /uploads/2g2a0357-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -127,6 +144,7 @@ images:
   - image: /uploads/2g2a1704-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -134,6 +152,7 @@ images:
   - image: /uploads/2g2a0511-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -141,6 +160,7 @@ images:
   - image: /uploads/2g2a0528-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -148,6 +168,7 @@ images:
   - image: /uploads/2g2a0582-2.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -155,6 +176,7 @@ images:
   - image: /uploads/0h3a9080-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -162,6 +184,7 @@ images:
   - image: /uploads/2g2a0836-2.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -169,6 +192,7 @@ images:
   - image: /uploads/2g2a9863-1.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:
@@ -176,6 +200,7 @@ images:
   - image: /uploads/2g2a2354.jpg
     portrait: false
     wide: true
+    is6x7: false
     title:
     subtitle:
     text-color:

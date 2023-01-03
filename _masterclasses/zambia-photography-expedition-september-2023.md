@@ -15,7 +15,6 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
-
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
 

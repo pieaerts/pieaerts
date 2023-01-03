@@ -15,7 +15,6 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/vV8pxkYEJrYTSM2i6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
-
 ---
 ![](/uploads/screenshot-2022-12-19-at-13-33-24.jpg)
 

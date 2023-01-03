@@ -14,7 +14,6 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
-
 ---
 ![](/uploads/slide_talisman_9.jpg)
 
