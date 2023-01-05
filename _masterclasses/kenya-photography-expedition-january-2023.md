@@ -1,7 +1,7 @@
 ---
 title: NABOISHO & CHYULU HILLS - KENYA
 subtitle: Jan 25 - Feb 3, 2023
-image: "/uploads/expedition_africa_pie_03.jpg"
+image: "/uploads/screenshot-2023-01-05-at-17-49-25.png"
 starting_date: 2019-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to join
   me on my travels to Africa? In January 2023 I will take a group of like-minded people
