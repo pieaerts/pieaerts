@@ -15,6 +15,7 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
+
 ---
 ![](/uploads/zambia_pie_aerts_1.jpg)
 
@@ -25,7 +26,7 @@ active: true
 * Price: € 13500 per person (based on twin sharing or double sharing accommodation)
 * Deposit: € 3500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
-* Group size: min 4, max 6 - **at the moment only 2 more seats available!**
+* Group size: min 5, max 6 - **at the moment only 2 more seats available!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)

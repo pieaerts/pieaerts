@@ -3,21 +3,21 @@ title: NABOISHO & CHYULU HILLS - KENYA
 subtitle: Jan 25 - Feb 3, 2023
 image: "/uploads/expedition_africa_pie_03.jpg"
 starting_date: 2019-12-31T23:00:00.000+00:00
-introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>1 LAST-MINUTE TENT
-  AVAILABLE ON THIS EXPEDITION! SCROLL DOWN TO FIND OUT YOUR DISCOUNT!</p><p>Do you
-  want to join me on my travels to Africa? In January 2023 I will take a group of
-  like-minded people with a passion and appreciation for wild places to Kenya. We
-  will visit Chyulu Hills in Amboseli and Naboisho Conservancy in the Masai Mara.
-  A once-in-a-lifetime trip focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll
-  down to read the full itinerary.&nbsp;</p>\n"
+introduction_html: "</p><p>JANUARY 25 - FEBRUARY 3, 2023</p><p>Do you want to join
+  me on my travels to Africa? In January 2023 I will take a group of like-minded people
+  with a passion and appreciation for wild places to Kenya. We will visit Chyulu Hills
+  in Amboseli and Naboisho Conservancy in the Masai Mara. A once-in-a-lifetime trip
+  focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to
+  read the full itinerary.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/8edbyrb8UDqaJpfw8
-subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
+subscribe_text: THIS EXPEDITION IS FULLY BOOKED
 active: true
+
 ---
 ![](/uploads/slide_talisman_9.jpg)
 
-After successfully selling out the first edition of this unique photography expedition in January 2022 in the blink of an eye, we are back with a second edition, this time in January 2023. Together with Talisman Travel Design and Great Plains Conservation, we're offering the exact same itinerary as last year! We will visit Great Plains Ol Donyo Lodge in the incredible Chyulu Hills and Great Plains Mara Nyika Camp in Naboisho Conservancy. In the past few years, I have visited both areas multiple times, which results in a very elaborate understanding of the wildlife, the guides, the seasonality, the light and the photographic opportunities. For a period of 9 nights, we will emerge ourselves in some of Africa’s wildest flora and fauna and stay in top-notch Great Plains properties.
+After successfully selling out the first edition of this unique photography expedition in January 2022 in the blink of an eye, we are back with a second edition, this time in January 2023. We will visit Great Plains Ol Donyo Lodge in the incredible Chyulu Hills and Great Plains Mara Nyika Camp in Naboisho Conservancy. In the past few years, I have visited both areas multiple times, which results in a very elaborate understanding of the wildlife, the guides, the seasonality, the light and the photographic opportunities. For a period of 9 nights, we will emerge ourselves in some of Africa’s wildest flora and fauna and stay in top-notch Great Plains properties.
 
 ![](/uploads/slide_talisman_10.jpg)
 
@@ -25,21 +25,16 @@ After successfully selling out the first edition of this unique photography expe
 
 * Dates: Jan 25 - Feb 3, 2023 / 9 nights in total
 * Tour starts/ends in: Nairobi, Kenya
-* Price: € 13.070 per person (based on double room / sharing accommodation)
-* Price: € 14.590 per person (based on single room)
-* Please note: maximum 2 single rooms available, first come, first serve
-* Group size: min 7, max 8 - **at the moment only 1 more tent (single or double occupancy) is available!**
+* Price: € 13070 per person (based on double room / sharing accommodation)
+* Price: € 14590 per person (based on single room)
+* Group size: min 7, max 8 - **THIS EXPEDITION IS FULLY BOOKED!**
 * Experience level: Anyone is welcome, from beginners to professionals
 * In both lodges, each room will receive a free set of professional Canon equipment and a pair of Swarovski binoculars to use during the expedition, a truly unique feature, more information below
 * Above price is incl VAT
 
-**Because it's a last-minute opportunity, we are giving you:**
-
-* Personal 1-on-1 mentorship session with myself **worth € 300**
-* A signed copy of my book Tales from the Roads Traveled **worth € 60**
-* A Talisman travel voucher **worth € 500** (to be used for a new Talisman booking before 31-12-2023)
-
 ### Day-to-day itinerary
+
+_Day 1_
 
 With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatising. We are kicking off the trip in Nairobi National Park, just outside of the city, and only a 40 minute drive from the International Airport. We are spending the first night in The Emakoko Lodge, a family-run boutique lodge that will give you a wonderful introduction to Kenya. If your flight arrives on time, you can even join your first afternoon game drive. The next morning we board an early flight to Chyulu Hills.
 
