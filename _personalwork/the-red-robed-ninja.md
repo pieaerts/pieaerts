@@ -159,38 +159,6 @@ images:
   subtitle: 
   text-color: 
   show-text: false
-- image: "/uploads/000000110003.jpg"
-  portrait: ''
-  wide: true
-  is6x7: true
-  title: ''
-  subtitle: ''
-  text-color: ''
-  show-text: ''
-- portrait: true
-  wide: ''
-  title: ''
-  subtitle: ''
-  text-color: ''
-  show-text: ''
-  is6x7: true
-  image: "/uploads/000000120004.jpg"
-- image: "/uploads/000000120001.jpg"
-  portrait: true
-  wide: ''
-  title: ''
-  subtitle: ''
-  text-color: ''
-  show-text: ''
-  is6x7: true
-- image: "/uploads/000000110009.jpg"
-  portrait: ''
-  wide: true
-  is6x7: true
-  title: ''
-  subtitle: ''
-  text-color: ''
-  show-text: ''
 text-color: light
 
 ---
