@@ -23,9 +23,9 @@ active: true
 * Dates: August 28 - September 7, 2023
 * Tour starts/ends in: Lusaka, Zambia
 * Price: € 13500 per person (based on twin sharing or double sharing accommodation)
-* Deposit: € 3500 per person (paid upon booking in order to hold your seat)
+* Deposit payment: € 3500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of €10000 will have to be paid
 * No single supplement available
-* Group size: min 4, max 6 - **only 1 more seat available** 
+* Group size: min 4, max 6 - **only 1 more seat available**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)

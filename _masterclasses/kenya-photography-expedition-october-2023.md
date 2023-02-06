@@ -24,7 +24,7 @@ active: true
 * Dates: Oct 18 - 27, 2023
 * Tour starts/ends in: Nairobi, Kenya
 * Price: $ 10650 per person (based on twin sharing / double sharing accommodation)
-* Deposit: $ 2500 per person (paid upon booking in order to hold your seat)
+* Deposit payment: $ 2500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of $ 8150 will have to be paid
 * Single supplement: $ 3500 per person
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
@@ -81,7 +81,7 @@ Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t b
 
 ![](/uploads/kenya_piea_5.jpg)
 
-On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Most likely we will arrive around noon in Nairobi and upon return everybody will proceed his/her own travels. We will of course organise transfers to take you from Wilson Airport to Nairobi International Airport (JKIA). 
+On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Most likely we will arrive around noon in Nairobi and upon return everybody will proceed his/her own travels. We will of course organise transfers to take you from Wilson Airport to Nairobi International Airport (JKIA).
 
 ![](/uploads/slides-elewanadsdsdsds.jpg)
 
