@@ -3,14 +3,13 @@ title: ZAMBIA EXPEDITION
 subtitle: Aug 28 - Sept 7, 2023
 image: "/uploads/expedition_africa_pie_02.jpg"
 starting_date: 2020-12-31T23:00:00.000+00:00
-introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>ONLY 2 MORE SEATS AVAILABLE
-  ON THIS EXPEDITION!</p><p>I'm incredibly stoked to launch a brand-new photography
-  expedition to one of the most special corners of Africa: Zambia! A journey that
-  takes you back in time, to the nostalgic essentials of a true African safari. An
-  expedition like no other, with a wide variety of vehicle safaris, walking safaris,
-  canoe safaris and boat safaris. Get ready for a wild adventure! &nbsp;</p><p>Scroll
-  down to read the full itinerary. All images you see below are taken on previous
-  visits to the very same 3 camps.&nbsp;</p>\n"
+introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>1 MORE SEAT LEFT!</p><p>I'm
+  incredibly stoked to launch a brand-new photography expedition to one of the most
+  special corners of Africa: Zambia! A journey that takes you back in time, to the
+  nostalgic essentials of a true African safari. An expedition like no other, with
+  a wide variety of vehicle safaris, walking safaris, canoe safaris and boat safaris.
+  Get ready for a wild adventure! &nbsp;</p><p>Scroll down to read the full itinerary.
+  All images you see below are taken on previous visits to the very same 3 camps.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/Q2ifFntqTDgvVWPt6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -26,7 +25,7 @@ active: true
 * Price: € 13500 per person (based on twin sharing or double sharing accommodation)
 * Deposit: € 3500 per person (paid upon booking in order to hold your seat)
 * No single supplement available
-* Group size: min 5, max 6 - **at the moment only 2 more seats available!**
+* Group size: min 4, max 6 - **only 1 more seat available** 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)
