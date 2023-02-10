@@ -1,7 +1,7 @@
 ---
 title: LADAKH EXPEDITION
 subtitle: September 2023 - Exact dates to be released very soon!
-image: "/uploads/masterclass_cover_kenya_5.jpg"
+image: "/uploads/000000100001.jpg"
 starting_date: 2018-12-31T23:00:00.000+00:00
 introduction_html: "<p>For the first time ever I am launching a 'Because People Matter'
   Expedition.&nbsp;</p><p>In the second half of September 2023, I will take a small
@@ -24,8 +24,8 @@ Under the guidance of Pie you will travel through this unique trans himalayan re
 
 Soon, we will be able to release the full in-depth itinerary as well as the dates & prices, but all we can say now is, get ready for a once-in-a-lifetime photographic expedition! 
 
-### 
+![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
 
 Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife coexistence stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He’s the founder of Prints for Wildlife, a fundraising platform that since its inception in 2020 has generated 2.1mio dollars for conservation and believes art can be an incredibly powerful tool to restore the disconnect. Pie also serves as Canon EMEA Ambassador, Gitzo Ambassador and Hahnemuhle Ambassador.
 
-![](/uploads/1y6a0358.jpg)
+![](/uploads/screenshot-2023-02-10-at-14-14-16.jpg)
