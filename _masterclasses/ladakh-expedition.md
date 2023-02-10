@@ -1,28 +1,28 @@
 ---
 title: LADAKH EXPEDITION
-subtitle: September 2023 - Exact dates to be released very soon!
-image: "/uploads/000000100001.jpg"
+subtitle: September 2023
+image: "/uploads/000000110006.jpg"
 starting_date: 2022-12-31 23:00:00 +0000
 introduction_html: "<p>For the first time ever I am launching a 'Because People Matter'
-  Expedition.&nbsp;</p><p>In the second half of September 2023, I will take a small
-  intimate group of people to the Ladakh region in Northern India.</p><p>If you want
-  to experience this trans himalayan region firs-hand and learn about photographic
-  story-telling in every sense of the word, then this is your chance!</p>"
+  Expedition. In the second half of September 2023, I will take a small intimate group
+  of people to the Ladakh region in Northern India. If you want to experience this
+  trans himalayan region firs-hand and learn about photographic story-telling in every
+  sense of the word, then this is your chance!&nbsp;</p><p>EXACT DATES & PRICES WILL
+  RELEASE SOON!</p>Subscribe with your email address by clicking on the link below
+  to be notified amongst the first when details are released."
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/ZjsnDCVPH7B4hnsD7
 subscribe_text: 'CLICK HERE TO SIGN UP SO YOU''RE THE FIRST TO KNOW! '
 active: true
 
 ---
-Dates & prices will soon be released, subscribe with your email address by clicking on the link below to be notified amongst the first when details are released. 
+For more than a decade Pie has been traveling to India. After more than 20 individual assignments on the Indian subcontinent, he made his first appearance in Ladakh in September 2022, and instantly fell in love.
 
-For more than a decade Pie has been traveling to India. After more than 20 individual assignments on the Indian subcontinent, he made his first appearance in Ladakh in September 2022, and instantly fell in love. 
+In the months that followed he carefully crafted an incredibly unique itinerary that crosses the entire region, focusing on meaningful and genuine interactions with the Ladakhi people, learning about their lifestyle, culture and traditions.
 
-In the months that followed he carefully crafted an incredibly unique itinerary that crosses the entire region, focusing on meaningful and genuine interactions with the Ladakhi people, learning about their lifestyle, culture and traditions. 
+Under the guidance of Pie you will travel through this unique trans himalayan region for a period of 10 days, visiting Buddhist monasteries, nomadic tribes, countryside villages and some of the most mind blowing landscapes you will encounter in your life.
 
-Under the guidance of Pie you will travel through this unique trans himalayan region for a period of 10 days, visiting Buddhist monasteries, nomadic tribes, countryside villages and some of the most mind blowing landscapes you will encounter in your life. 
-
-Soon, we will be able to release the full in-depth itinerary as well as the dates & prices, but all we can say now is, get ready for a once-in-a-lifetime photographic expedition! 
+Soon, we will be able to release the full in-depth itinerary as well as the dates & prices, but all we can say now is, get ready for a once-in-a-lifetime photographic expedition!
 
 ![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
 
