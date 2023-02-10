@@ -22,7 +22,7 @@ In the months that followed he carefully crafted an incredibly unique itinerary 
 
 Under the guidance of Pie you will travel through this unique trans himalayan region for a period of 10 days, visiting Buddhist monasteries, nomadic tribes, countryside villages and some of the most mind blowing landscapes you will encounter in your life.
 
-Soon, we will be able to release the full in-depth itinerary as well as the dates & prices, but all we can say now is, get ready for a once-in-a-lifetime photographic expedition!
+Soon, we will be able to release the full in-depth itinerary as well as the dates & prices, but all we can say now is, get ready for a once-in-a-lifetime photographic expedition! Block the second half of September in your agenda's. 
 
 ![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
 
