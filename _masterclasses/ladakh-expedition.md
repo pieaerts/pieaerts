@@ -2,7 +2,7 @@
 title: LADAKH EXPEDITION
 subtitle: September 2023 - Exact dates to be released very soon!
 image: "/uploads/000000100001.jpg"
-starting_date: 2018-12-31T23:00:00.000+00:00
+starting_date: 2022-12-31 23:00:00 +0000
 introduction_html: "<p>For the first time ever I am launching a 'Because People Matter'
   Expedition.&nbsp;</p><p>In the second half of September 2023, I will take a small
   intimate group of people to the Ladakh region in Northern India.</p><p>If you want
