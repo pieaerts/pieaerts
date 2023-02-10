@@ -6,13 +6,12 @@ starting_date: 2018-12-31T23:00:00.000+00:00
 introduction_html: "<p>For the first time ever I am launching a 'Because People Matter'
   Expedition.&nbsp;</p><p>In the second half of September 2023, I will take a small
   intimate group of people to the Ladakh region in Northern India.</p><p>If you want
-  to experience this transhimalayan region firs-hand and learn about photographic
+  to experience this trans himalayan region firs-hand and learn about photographic
   story-telling in every sense of the word, then this is your chance!</p>"
 gallery_url: "/none/"
-subscribe_url: https://docs.google.com/forms/d/1tuUmnkxDMoa-OfQIwnQ3PRXV0DJxHLGAEk05NA_Oj_Y/edit
+subscribe_url: https://forms.gle/ZjsnDCVPH7B4hnsD7
 subscribe_text: 'CLICK HERE TO SIGN UP SO YOU''RE THE FIRST TO KNOW! '
 active: true
-published: false
 
 ---
 ### What?
