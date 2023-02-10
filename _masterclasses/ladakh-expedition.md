@@ -1,15 +1,15 @@
 ---
 title: LADAKH EXPEDITION
 subtitle: September 2023
-image: "/uploads/000000110006.jpg"
+image: "/uploads/screenshot-2023-02-10-at-17-15-06-02.jpg"
 starting_date: 2022-12-31 23:00:00 +0000
-introduction_html: "<p>For the first time ever I am launching a 'Because People Matter'
-  Expedition. In the second half of September 2023, I will take a small intimate group
-  of people to the Ladakh region in Northern India. If you want to experience this
-  trans himalayan region firs-hand and learn about photographic story-telling in every
-  sense of the word, then this is your chance!&nbsp;</p><p>EXACT DATES & PRICES WILL
-  RELEASE SOON!</p>Subscribe with your email address by clicking on the link below
-  to be notified amongst the first when details are released."
+introduction_html: "<p>EXACT DATES, PRICES AND FULL ITINERARY WILL RELEASE SOON!&nbsp;</p><p>For
+  the first time ever I am launching a 'Because People Matter' Expedition. In the
+  second half of September 2023, I will take a small intimate group of people to the
+  Ladakh region in Northern India. If you want to experience this trans himalayan
+  region firs-hand and learn about photographic story-telling in every sense of the
+  word, then this is your chance!</p>Subscribe with your email address by clicking
+  on the link below to be notified amongst the first when details are released.<p>"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/ZjsnDCVPH7B4hnsD7
 subscribe_text: 'CLICK HERE TO SIGN UP SO YOU''RE THE FIRST TO KNOW! '
