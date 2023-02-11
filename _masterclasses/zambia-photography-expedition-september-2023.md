@@ -1,7 +1,7 @@
 ---
 title: ZAMBIA EXPEDITION
 subtitle: Aug 28 - Sept 7, 2023
-image: "/uploads/expedition_africa_pie_02.jpg"
+image: "/uploads/screenshot-2023-02-10-at-17-13-31-2.jpg"
 starting_date: 2020-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>AUGUST 28 - SEPTEMBER 7, 2023</p><p>1 MORE SEAT LEFT!</p><p>I'm
   incredibly stoked to launch a brand-new photography expedition to one of the most
