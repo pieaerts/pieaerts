@@ -5,7 +5,7 @@ image: "/uploads/expedition_africa_pie_01.jpg"
 starting_date: 2021-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>NOVEMBER 4-13, 2023</p><p>After rapidly selling out the
   first edition of this Kenya Expedition in October 2022, I am coming back with a
-  second edition in October 2023. Once again, I will take a small group of like-minded
+  second edition in November 2023. Once again, I will take a small group of like-minded
   people to 2 of my favourite places in all of Africa: Kitirua Conservancy in Amboseli
   and Mara North Conservancy in the Masai Mara. A once-in-a-lifetime expedition focused
   on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to read the
