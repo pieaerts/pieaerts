@@ -1,9 +1,9 @@
 ---
 title: AMBOSELI & MASAI MARA - KENYA
-subtitle: October 18 - 27, 2023
+subtitle: November 4 - 13, 2023
 image: "/uploads/expedition_africa_pie_01.jpg"
 starting_date: 2021-12-31T23:00:00.000+00:00
-introduction_html: "</p><p>OCTOBER 18-27, 2023</p><p>After rapidly selling out the
+introduction_html: "</p><p>NOVEMBER 4-13, 2023</p><p>After rapidly selling out the
   first edition of this Kenya Expedition in October 2022, I am coming back with a
   second edition in October 2023. Once again, I will take a small group of like-minded
   people to 2 of my favourite places in all of Africa: Kitirua Conservancy in Amboseli
@@ -21,11 +21,11 @@ active: true
 
 ### Important information
 
-* Dates: Oct 18 - 27, 2023
+* Dates: Nov 4 - 13, 2023
 * Tour starts/ends in: Nairobi, Kenya
-* Price: $ 10650 per person (based on twin sharing / double sharing accommodation)
-* Deposit payment: $ 2500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of $ 8150 will have to be paid
-* Single supplement: $ 3500 per person
+* Price: $ 8750 per person (based on twin sharing / double sharing accommodation)
+* Deposit payment: $ 2500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of $ 6250 will have to be paid
+* No single supplement available 
 * Group size: min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
@@ -45,29 +45,11 @@ With everybody traveling towards Kenya from different directions, the first day 
 
 #### _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Mara North Airstrip and a short transfer will take us to our first camp, Elephant Pepper Camp. This camp is situated right in the middle of all the action, in the heart of Mara North Conservancy.
-
-![](/uploads/kenya_piea_4.jpg)
-
-The next 4 nights / 5 days our focus is all on Big Cats, because you just arrived in Big Cats Heaven. Mara North, my favorite conservancy in the entire Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. On top of that and in stark contrast to the Mara Reserve, this Conservancy only allows 5 vehicles per sighting. With everybody respecting this rule, this offers a unique and intimate safari experience which means it will be mostly us and the animals.
-
-We will spend 4 nights in Elephant Pepper Camp, located in the best possible location, right in the middle of the Conservancy. Lions, leopards, elephants and hippo’s will literally be walking through camp, since the entire camp is unfenced and ground-level. A wonderful fully-immersive and thrilling bush-camp experience. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Masai Mara.
-
-![](/uploads/screenshot-2022-12-19-at-12-55-53.jpg)
-
-Even though our focus of the first leg of the trip is mainly on Big Cats, you can be 100% sure to bump into plenty of elephants, zebra’s, giraffes, hyena’s, hippo’s and lots of incredible birdlife. If we are lucky, we might even see a rhino! Mara North Conservancy is a true photographers paradise!
-
-During our stay in Elephant Pepper Camp, we will also experience the thrill of a walking safari under the guidance of my good friend and walking guide Alfred. By using all of our senses, we will expose ourselves on foot to elephants, giraffes, cheetahs and if we are lucky, even some lions! A once-in-a-lifetime experience, that’s for sure.
-
-![](/uploads/screenshot-2022-12-19-at-12-56-41.jpg)
-
-#### _Day 6 – 10_
-
-On day 6 after our morning game drive we will transfer to the Mara North airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to our second destination, Amboseli National Park. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain.
+Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Amboseli National Park Airstrip. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain. 
 
 ![](/uploads/kenya_piea_1.jpg)
 
-After spending 4 full days with Big Cats in Masai Mara, we will now shift our focus almost exclusively to Elephants. After arriving on Amboseli Airstrip, we will transfer to Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place.
+A short transfer will take us to our first camp, Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place.
 
 ![](/uploads/elewana_slide_0101.jpg)
 
@@ -75,11 +57,25 @@ At this particular time of the year, the lake-bed has dried up, creating one of 
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
 
-The end of October usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants.
-
-Due to the camp’s exclusive access to the Kitirua Conservancy, there won’t be any other vehicles around. It will be just us and the elephants for 5 days! We can freely move around everywhere we want without being disturbed by other camps, a truly unique experience and the main reason why I decided I wanted to share this incredible experience with other people after coming here for years alone.
+The beginning of November usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. But there's so much more because even though our focus of the first leg of the trip is mainly on Elephants you can be 100% sure to bump into plenty of lions, zebra’s, giraffes, hyena’s, cheetahs and lots of incredible birdlife. 
 
 ![](/uploads/kenya_piea_5.jpg)
+
+#### _Day 6 – 10_
+
+On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to our second destination, Mara North Conservancy. We will land in the middle of the conservancy, immediately surrounded by wildlife and upon arrival transfer to our second camp, Elephant Pepper Camp. This camp is situated right in the middle of all the action, in the heart of Mara North Conservancy.
+
+![](/uploads/kenya_piea_4.jpg)
+
+The next 4 nights / 5 days our focus is all on Big Cats, because you just arrived in Big Cats Heaven. Mara North, my favorite conservancy in the entire Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. On top of that and in stark contrast to the Mara Reserve, this Conservancy only allows 5 vehicles per sighting. With everybody respecting this rule, this offers a unique and intimate safari experience which means it will be mostly us and the animals.
+
+Lions, leopards, elephants and hippo’s will literally be walking through camp, since the entire camp is unfenced and ground-level. A wonderful fully-immersive and thrilling bush-camp experience. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Masai Mara. If we are lucky, we might even see a rhino! Mara North Conservancy is a true photographers paradise!
+
+![](/uploads/screenshot-2022-12-19-at-12-55-53.jpg)
+
+During our stay in Elephant Pepper Camp, we will also experience the thrill of a walking safari under the guidance of my good friend and walking guide Alfred. By using all of our senses, we will expose ourselves on foot to elephants, giraffes, cheetahs and if we are lucky, even some lions! A once-in-a-lifetime experience, that’s for sure.
+
+![](/uploads/screenshot-2022-12-19-at-12-56-41.jpg)
 
 On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Most likely we will arrive around noon in Nairobi and upon return everybody will proceed his/her own travels. We will of course organise transfers to take you from Wilson Airport to Nairobi International Airport (JKIA).
 
@@ -105,6 +101,18 @@ Above you see an image of the October 2022 Expedition group! We had such a blast
 
 ![](/uploads/screenshot-2022-12-19-at-12-57-52.jpg)
 
+### **Amboseli National Park & Kitirua Conservancy**
+
+Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
+
+![](/uploads/screenshot-2022-12-19-at-13-38-50.jpg)
+
+The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
+
+![](/uploads/kenya_piea_2.jpg)
+
+The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
+
 ### **Mara North Conservancy**
 
 Welcome to the lush green rolling hills of Masai Mara. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. Especially in the last few years, the timings of the Migration are changing due to climate change, which makes it very likely we will witness it in any shape or form during our October expedition.
@@ -118,18 +126,6 @@ The camps remote location allows for all animals to walk through camp day and ni
 All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas. As previously explained - when booking as a single traveler - you will share a tent with a roommate, but the spacious nature of these bush tent allows for optimal space, even on a twin sharing basis.
 
 ![](/uploads/kenya_piea_6.jpg)
-
-### **Amboseli National Park & Kitirua Conservancy**
-
-Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
-
-![](/uploads/screenshot-2022-12-19-at-13-38-50.jpg)
-
-The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
-
-![](/uploads/kenya_piea_2.jpg)
-
-The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
 
 ### **Included in the expedition price**
 
@@ -239,15 +235,17 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-Yes, there is. However, the aforementioned price of $ 10650 is based on twin sharing, which means you will share the room with another person in the group. This can be organised as twin beds or as a double bed for couples. As soon as the group is complete, we will make a roomplan taking into account personal preferences. The single supplement of $ 3500 will give you a private room in both lodges, but given the interactive nature of these expeditions, room pairing is preferred.
+No. On this expedition there's no single supplement. All rooms are based on twin sharing unless you book as a couple, we will of course offer you double sharing. As soon as the group is complete, we will make a roomplan taking into account personal preferences. 
 
 ### **Will you advise what documents to organize in order to travel?**
 
 Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya requires a double vaccination against Covid-19 in order to enter the country. This might change overtime and we will keep you posted accordingly.
 
-### **Optional: Hot air balloon safaris**
+### **Optional: Hot air balloon safaris en Helicopter safaris**
 
 During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
+
+The same thing counts for Helicopter safaris. I do have an extensive network of Helicopter pilots in both area's we visit. This would also come at an extra cost. 
 
 ![](/uploads/slide_talisman_3.jpg)
 
