@@ -26,69 +26,177 @@ published: false
 
 ### Important information
 
-* Dates: Nov 4 - 13, 2023
-* Tour starts/ends in: Nairobi, Kenya
-* Price: $ 8750 per person (based on twin sharing / double sharing accommodation)
-* Deposit payment: $ 2500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of $ 6250 will have to be paid
+* Dates: **Sept 25 – Oct 8, 2023**
+* Expedition starts/ends in: Delhi, India
+* Type: Car based overland expedition
+* Physical difficulty: Moderate
+* Price: **$8750 per person** (based on twin sharing / double sharing accommodation)
+* Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaning balance of $6250 will have to be paid
 * No single supplement available
-* Group size: min 5, max 8
+* Group size: Min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
-* Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)
+* Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
 
-For this expedition, I am collaborating with my dear partner Elewana Collection, who run sixteen boutique lodges in locations across Kenya and Tanzania. On this particular trip, we will visit 2 of their most iconic camps, Elephant Pepper Camp in Mara North and Tortilis Camp in Amboseli.
+For more than a decade I have been traveling to India. After more than 20 individual assignments on the Indian subcontinent, I made my first appearance in Ladakh in September 2022, and instantly fell in love with the landscapes, the culture, but most of all with the people and their spirit. In the months that followed I carefully crafted a unique itinerary that crosses the entire region, focusing on meaningful and genuine interactions with the Ladakhi people, learning about their lifestyle, culture and traditions and documenting it all with the incredible medium that is photography.
 
-In the past few years, I have visited both conservancies countless times, which results in a very elaborate understanding of the area as well the wildlife, the guides, the seasonality and the light. We will work with the guides I have been working with for almost 5 years straight now and who became close friends. This friendship is the driving force behind some of my best wildlife work photographed in both places. For a period of 9 nights / 10 days, we will emerge ourselves in both conservancies and experience some of Africa’s wildest flora and fauna.
+![](/uploads/ladakh_exp_pa_1.jpg)
 
-![](/uploads/screenshot-2022-12-19-at-13-33-16.jpg)
+Because my expeditions are an extension of what I value in my work as an artist and story-teller, I carefully select the partners I work with, based on a few core variables. Next to the photographic potential, I am always looking for a unique and distinct hospitality angle. Accommodation that allows my guests to connect with the wilderness in a meaningful way, as well as allowing them to experience the nostalgic charm of the olden days.
+
+For this expedition I am collaborating with The Ultimate Traveling Camp, who excel in combining the romance of a nomadic lifestyle with the charms of life lived under canvas. An incredible blend of sophisticated luxury in untamed wilderness. Traveling in style, while connecting with the outdoors. During my first visit in September 2022, I experience a truly magical energy & spirit when staying in their camps, and I’m sure you will feel the same!
+
+During the expedition, we will visit 3 of their camps, in 3 very distinct locations. More about each camp below.
+
+![](/uploads/ladakh_exp_pa_4.jpg)
 
 ### Day-to-day itinerary
 
-#### _Day 1_
+For a period of 12 days, we will travel through this unique trans Himalayan region under the guidance of my dear friend Namgyal Dorje, one of the best guides in the region. He and his team will take us on a journey at a slow pace that allows to create meaningful and thoughtful images of people, culture and landscape, while visiting Buddhist monasteries, nomadic settlements, countryside villages and some of the most mind-blowing landscapes you will encounter in your life. Here’s what you can expect.
 
-With everybody traveling towards Kenya from different directions, the first day is all about landing and acclimatizing. We are spending the first night at Tamarind Tree Hotel in Nairobi, right on the edge of Nairobi National Park. The next morning our adventure starts!
+#### _Day 1: Arrival in Delhi_ 
 
-#### _Day 2 – 6_
+After everybody arrived at Delhi International Airport, we will gather in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner.
 
-Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Amboseli National Park Airstrip. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain.
+#### _Day 2: Arrival in Leh_
 
-![](/uploads/kenya_piea_1.jpg)
+Early in the morning we get transferred to Delhi Airport, where we board our flight to Leh, the capital city of Union Territory of Ladakh. The flight in will be absolutely spectacular, flying over the Himalayan Mountain ranges, and landing at a staggering 10.680 ft above sea level. After arrival we will be picked up by Namgyal and his team and transferred to our first camp, Thiksey Camp. Because we are sleeping at an altitude of 11.000ft we are taking it easy for the remainder of the day. It is very important at these altitudes that you acclimatize by resting on arrival.
 
-A short transfer will take us to our first camp, Tortilis Camp, my Kenyan home away from home. We will stay at this amazing camp for 4 nights and will spend full days in the field. This particular camp is the only camp in Amboseli that has access to the Kitirua Conservancy side of the dried Amboseli lake-bed. If you have followed some of my previous trips to this area, you know the photographic potential of this place.
+You will be checked in to your amazing rooms and we have lunch together. The camp has many books about the region and there’s a courtyard with traditional games, you can also go for a short walk on the camp grounds to appreciate the mind-blowing mountain ranges around us. In the night we have dinner together and hit the bed for a long night of sleep.
 
-![](/uploads/elewana_slide_0101.jpg)
+#### _Day 3: Meeting the people of Thiksey_
 
-At this particular time of the year, the lake-bed has dried up, creating one of the most impressive photography backdrops in the world. Flat as a coin, with mount Kilimanjaro in the background. In that cinematic decor, big breeding herds of elephants, often up to 20-30 individuals, and sometimes even up to 60-80, cross the lake-bed twice a day on their way from the forest to the swamps and back, in search of food and water. After almost a decade of traveling through Africa, I have to admit there's little places in the continent that make such a powerful impression as this Amboseli lake-bed in the end of the dry season.
+After a leisurely breakfast, we start the day with a first photography lecture by Pie. We will chat about topics like photography ethics, how to introduce yourself when working with strangers, portrait photography, a full gear-walk-through, but also about light, composition, use of colour, and so on. Just to get you ready for the 10 days that are ahead of us. The rest of the morning we will rest to further acclimatize to the altitude.
 
-![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
+In the afternoon we are heading out for tea at a local traditional Ladakhi village house where we will meet some villagers. We will chat to them about their lifestyle, their customs. There’s of course the option to photograph them in and around the house. Later in the afternoon we proceed with them into the fields along the Indus River and the Shey Stupas where we continue to document their lifestyle.
 
-The beginning of November usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. But there's so much more because even though our focus of the first leg of the trip is mainly on Elephants you can be 100% sure to bump into plenty of lions, zebra’s, giraffes, hyena’s, cheetahs and lots of incredible birdlife.
+#### _Day 4: Two paths to Nirvana_
 
-![](/uploads/kenya_piea_5.jpg)
+Early morning, long before sunrise, we get ready, to visit Thiksey Monastery to attend the morning puja (prayers). This is a touching and calming experience steeped in the tradition of the Gelugpa order of Tibetan Buddhism. The monastery started in 1630 and up until today features as one of Ladakh most scenic locations, towering high above the meandering Indus River. After the morning prayers, we will split the group in 2 and each group gets to spend some significant time with monks that inhabit the monastery. We will get an exclusive inside look into their homes on the monastery grounds and a unique insight into their lifestyle. There’s room for questions and of course for photography. You can also venture around the monastery yourself. We will head back to camp for Lunch and to rest.
 
-#### _Day 6 – 10_
+In the afternoon we will visit a second monastery which will be either Hemis Monastery, Matho Monastery or Shey Monastery, all equally impressive. We will engage with monks once more in a private fashion and witness the sun go down wrapping the landscape in a golden blanket.
 
-On day 6 after our morning game drive we will transfer to the airstrip and board our flight to Wilson Airport. We switch planes on the runway in Nairobi and connect straight through to our second destination, Mara North Conservancy. We will land in the middle of the conservancy, immediately surrounded by wildlife and upon arrival transfer to our second camp, Elephant Pepper Camp. This camp is situated right in the middle of all the action, in the heart of Mara North Conservancy.
+#### _Day 5: Conquering the Moonland_
 
-![](/uploads/kenya_piea_4.jpg)
+Early in the morning, before breakfast, we drive to Alchi Monastery, one of the oldest monasteries in former Kingdom of Ladakh showcasing 11thcentury wall scriptures and paintings of Buddha’s life and teaching, exquisitely painted by Kashmiri artists on temple walls. On our way to Alchi, we will pass through the villages of Nimmu, Saspol, Basgo fort and Sangam, and we can stop anywhere we want for photography.
 
-The next 4 nights / 5 days our focus is all on Big Cats, because you just arrived in Big Cats Heaven. Mara North, my favorite conservancy in the entire Masai Mara ecosystem, is a safari-insider favorite. It’s one of the most densely populated wildlife conservancies in all of Kenya and therefore literally dotted with wildlife, everywhere you look. Another big added benefit of this area is the feeling of exclusivity and intimacy due to the limited number of visitors allowed. On top of that and in stark contrast to the Mara Reserve, this Conservancy only allows 5 vehicles per sighting. With everybody respecting this rule, this offers a unique and intimate safari experience which means it will be mostly us and the animals.
+We will have lunch at Alchi Kitchen, the first ever Ladakhi restaurant serving freshly prepared Maa’s and Grandpa’s recipes (traditional Ladakhi food). But what’s even more incredible than the food, is the story behind this place, set-up by a lady who lost her parents, had to leave college, but came back and is now sharing Ladakh’s food with the world. We will spend some time with the beautiful ladies who run this place, and there’s time to photograph them.
 
-Lions, leopards, elephants and hippo’s will literally be walking through camp, since the entire camp is unfenced and ground-level. A wonderful fully-immersive and thrilling bush-camp experience. We will spend full mornings and afternoons in the field and only get back to camp for lunch and a short rest. I will show you some of my most favorite secret spots and we will spend time with some of the most impressive leopards, cheetahs and lions of the Masai Mara. If we are lucky, we might even see a rhino! Mara North Conservancy is a true photographers paradise!
+After lunch we will continue our journey to Lamayuru Monastery, one of the most scenic monasteries in the world. It is also one of the largest and oldest monasteries in Ladakh, with a population of around 150 permanent monks. In the past it even had 400 monks, many of which are now based in gompas in surrounding villages. It’s an incredible place for sunset and we watch the last light fade away over the Ladakhi landscape before we make the long journey back to Thiksey Camp.
 
-![](/uploads/screenshot-2022-12-19-at-12-55-53.jpg)
+#### _Day 6: Discovering the Nubra Valley_
 
-During our stay in Elephant Pepper Camp, we will also experience the thrill of a walking safari under the guidance of my good friend and walking guide Alfred. By using all of our senses, we will expose ourselves on foot to elephants, giraffes, cheetahs and if we are lucky, even some lions! A once-in-a-lifetime experience, that’s for sure.
+On the morning of day 6, we have flagged some potential extra time in Thiksey Monastery for those who want to once again, attend the morning prayers in solitude and silence. Because Thiksey Monastery is such an incredible place to watch the sunrise, we highly recommend everyone to join! For those who rather explore some surrounding villages at first light or visit a local primary school, we are flexible to split up the group and accommodate both.
 
-![](/uploads/screenshot-2022-12-19-at-12-56-41.jpg)
+After breakfast we check out our room and pack our 4x4’s for the long drive to the Nubra Valley. Its Tibetan name ‘Dumra’ means ‘Valley of flowers’ and the entire drive is absolutely breath taking, crossing mountain roads and passes you will remember a lifetime. We will cross Khardung La Pass, one of the highest motorable passes in the world at 17.580ft, after which we descend into the Nubra Valley (10.000ft), until we reach our second camp, Diskit Camp.
 
-On the morning of the 10th day, we will check out to make our way back to Wilson Airport in Nairobi. Most likely we will arrive around noon in Nairobi and upon return everybody will proceed his/her own travels. We will of course organise transfers to take you from Wilson Airport to Nairobi International Airport (JKIA).
+Nubra is a melting pot of many different cultures that infuse daily life in Ladakh in general: the Central Asian culture of Xinjiang (just across the mountains in China), the Muslim influences of Baltistan (now mostly in Pakistan), and the Buddhist history of Tibet (now in China). It therefore is a perfect blend of landscapes and portrait photography, a photographer’s paradise.
+
+After checking into our rooms to drop our bags, we will head for one of the most unique features of this entire region, the Hunder Sand Dunes, where we will stay until the sun is down. The light play in the end of the day in these dunes is mind-blowing, offering an incredible photographic potential for telling unique stories. We will end the day at a campfire in camp.
+
+#### _Day 7: Robes & Camels_ 
+
+We will wake up early on Day 7 to drive up to Diskit Monastery before sunrise to attend the morning puja (prayers) in this small-scale intimate monastery. We will then return back to camp for breakfast, but after breakfast drive up again to engage in conversation with the monks. Afterwards, on our way down, we will visit the monastery school to interact with the novice monks.
+
+Around lunchtime we will rest in camp, and in the afternoon, we make our way back again to Hunder Village, the base for the Hunder Dunes. Here we will meet the muslim camel herders of Hunder, who with their wooly Bactrian camels, stem from ancient Silk Road times. We will be received in a traditional house and then move into the dunes with them, far away from the tourist crowds, so we have an intimate and genuine look into their lifestyle. We will once again, end the day at the campfire in camp.
+
+#### _Day 8: Returning to Thiksey_
+
+On Day 8 we will pack our bags after breakfast to start the long drive back to Thiksey Camp via the might Warila Pass (17.400ft). We haven’t been on this pass before, and therefore it will offer a whole new array of photographic opportunities along the way, from landscapes, to nomads, to small traditional villages. We will check into our rooms in Thiksey Camp and rest in the afternoon. In the late afternoon, when the light is softer, we will head out for a village walk in the city of Leh, and the last hour of the day we will spend watching the sunset at Tsemo Peak.
+
+#### _Day 9: The long drive to Tso Moriri_
+
+On this day we can sleep in until breakfast to catch up on some rest and after breakfast we pack our 4x4’s to leave for Tso Moriri, aiming for the village of Korzok which is perhaps one of the only villages in the world that is inhabited year-round at such a high altitude (14.750ft). The drive will be around 5-6 hours, depending on the amount of stops on the way. Korzok is the regional headquarters of the Changpa nomads, who roam this entire region, and those nomadic people will be our focus of attention for the next 48 hours, an absolute highlight in this expedition. We will first stop at the lakeside of this dreamy high altitude lake on the Changtang Plateau.
+
+We will then continue our journey to the autumn settlement of the Changpa nomads who will receive us with their warm and genuine hospitality. The rolling hills around us have been their home for millennia and up until today, their lifestyle still centralizes around herding pashmina goats and livestock as pastoral nomads. The culture you will witness here first hand has been the birthplace of human civilisation, a very unique experience. The next 2 nights we will stay at a mobile temporary tented camp that The Ultimate Traveling Camp has put up exclusively for us. They consist of canvas bell tents furnished with carpets, great food and a mobile bar. There will be not a single other soul around. We will camp under the stars on the shores of the lake.
+
+#### _Day 10: Learning from the Changpa Nomads_
+
+We will get out of our warm and comfy beds before the first light in order to get ready to witness the nomads start their day. They do have a sequence of morning rituals they perform every single morning, and we are there to document that. We just follow their daily flow are part of their lives for a short while, from sunrise to sunset. It will be a fully immersive experience like no other.
+
+The Changtang plateau is a high-altitude plateau that stretches 1600km from South-eastern Ladakh to North-western Tibet. The average altitude is around 14.000ft. The Changa nomads inhabit this land and their annual migration patterns are heavily influenced by the Himalayan snow-melt and the spring-fed meadows, delicate ecosystems that rely on winters with heavy snow to provide the moisture to grow grass in spring. In stark contrast to the romanticized picture that is often painted by the media, with words that imply freedom and wanderlust, the harsh reality of their lives is difficult and dangerous. They follow century old migration routes to move in between pastures and meadows that have been divided and assigned to individual families. In doing so, they move around their most valuable possession, pashmina goats, sheep, yaks and horses in cyclical journeys, season after season, year after year, century after century. The presence of snow leopards, wolves and lynxes but also the ever-increasing pressure and temptation from the outside world, makes their lifestyle a fading reality. They camp in stone-walled structures and spend cold winter nights in canvas tents.
+
+#### _Day 11: Meeting the Karnak Nomads_ 
+
+We wake up and once again follow the morning routine of the nomads. Of course, we can also split up the group and everybody has the freedom to roam around the nomad village themselves, engaging with the nomads, that now became our friends. Namgyal and the rest of the guiding team, will of course help you with translations wherever needed in order to engage.
+
+After breakfast we will pack our bags and make our way to another mind-blowing Himalayan Lake, Tso Kar. We will drive through some the wildest landscapes on the planet and sometimes you feel as if you’re on the Moon. After visiting Tso Kar, we will arrive to another group of Nomads, the Karnak nomads, where we stay until its dark, in order to meet and photograph their lives as well.
+
+When the sun is down, we start the long drive back via Tanglangla Pass to Thiksey Camp, where we will overnight.
+
+#### _Day 12: Bid farewell to the Land of the Lamas_
+
+After breakfast we check out our rooms in order to bid a farewell to the Land of the Lamas. We will transfer to Leh Airport and board our flight back to Delhi.
+
+On arrival in Delhi we have day rooms booked to spend the day to wait for our international flights home.
+
+**NOTE:** This journey is an ‘expedition’, so above itinerary is the plan. The actual journey may change depending on the weather, the road conditions, the wellbeing of the group members or other events beyond our control. Or simply if new exciting opportunities present themselves. But don’t worry, myself, Namgyal and the full TUTC team will do everything to ensure you will get the best possible experience.
 
 ![](/uploads/slides-elewanadsdsdsds.jpg)
 
-### **Testimonials of previous participants**
+### Included in the expedition
 
-Above you see an image of the October 2022 Expedition group! We had such a blast on the Amboseli lake-bed as well as in Mara North. After the expedition, I asked each participant to write a short testimonial about this trip and what it did to them. You can read their comments below.
+1 night at 5-star Delhi hotel (to be defined) based on B&B
+
+4 nights at a Luxury Tent at Thiksey Camp
+
+2 nights at a Luxury Tent at Diskit Camp
+
+1 night at a Luxury Tent at Thiksey Camp
+
+2 nights at a Mobile Tent at Mobile Camp Tso Moriri
+
+1 night at a Luxury Tent at Thiksey Camp
+
+All accommodation based on twin / double sharing
+
+Butler Service in all camps
+
+All domestic airport transfers (Delhi & Leh)
+
+Full board in all camps incl all meals, snacks, tea&coffee and soft beverages*
+
+All guided excursions as specified in above itinerary
+
+Photographic lectures and image review sessions by Pie Aerts
+
+1-on-1 tuition in the field
+
+Group medical kit and oxygen cylinders for emergencies
+
+\*due to all camps being situated on monastery grounds, TUTC has a zero alcohol policy in their restaurant and general areas. Alcoholic beverages are barely for sale in the entire Ladakh region, due the Buddhist nature of the region. However, if you would like to carry alcohol, you can purchase some in Delhi Airport before boarding our flight to Ladakh. Consumption is only allowed in your own rooms, not in the general areas. We count on your understanding.
+
+### Excluded in the expedition
+
+International flight tickets to and from Delhi
+
+Travel & cancellation insurance
+
+Tips & gratuities for staff
+
+Visa
+
+Lunch at Alchi (paid at the counter individually)
+
+Dinner on the first night in Delhi on day 1 (paid individually)
+
+Any additional excursions, not mentioned in the itinerary above
+
+Expenses of personal nature such as laundry, telephone calls
+
+Purchase of alcoholic beverages outside of the camps
+
+### Altitude information
+
+This expedition does not require guests to hike or trek. It’s engineered with a normal amount of daily walking in mind, slow-walking in fact, to get from our 4x4 vehicles into people homes or to get the right angle to shoot a landscape. This means that no strenuous exercise is required. Also, the entire itinerary is built for acclimatization, with 2 rest days in Leh in the beginning and a slow build up towards a higher altitude in the end of the trip. We take it step by step.
+
+However, you do need a moderate level of fitness for this expedition, simply because all of Ladakh is at high altitude. The lowest valleys are around 9.000ft and the highest area we visit and spend a night is at around 13.000ft. So even though many of the mountain passes we cross are much higher than that, what counts for your body’s response is at what altitude you spend the nights.
+
+Next to that, please be ensured you are in the best hands with the team at TUTC. The staff is well-trained to always monitor guests’ wellbeing. In the first days of the expedition your blood oxygen levels and blood pressure will be measured daily and we always have access to oxygen (in the camps as well as in our 4x4 cars), as well as pulse oxymeters to monitor blood oxygen levels. You are in the best possible hands.
+
+### Testimonials of previous participants
+
+As you probably know, I have been hosting expedition to Africa for some years now. After each expedition I am asking participants to write a short testimonial, here's a few examples of last year. 
 
 **Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
 
@@ -104,155 +212,25 @@ Above you see an image of the October 2022 Expedition group! We had such a blast
 
 **Capucine (France) -** A trip of lifetime, this is what was promised and the dream became a reality! I had an amazing time in the bush with the best group of people. Amboseli and Masai Mara blew my mind with the abundance of wildlife. Going from shooting unbelievable scenes to having the most delicious food in the camp has been a real happiness bubble for 10 days! Very inspiring workshops as well with Pie who definitely made this trip very special. Also, lots of surprises along the trip, which I won’t share here, which made it unforgettable!
 
-![](/uploads/screenshot-2022-12-19-at-12-57-52.jpg)
+### Do I need any photography experience?
 
-### **Amboseli National Park & Kitirua Conservancy**
+Nope, not at all. Everybody is welcome. Beginners and professionals. Young and old. In fact, a diverse group always makes up for a lot of fun, because the main idea of my expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. Or about music. art or sports :) So please don’t hesitate if you have never used a camera before, I’m there to help. But also don't hesitate if you want to fine-tune your professional skills, I'm sure I can help with that too.
 
-Amboseli National Park covers 392 sq kms, only a small portion of the surrounding 3000 sq km of the Amboseli ecosystem. Our camp, Tortilis Camp, is located on the south western edge of the park, facing the mount Kilimanjaro, the highest mountain in Africa. It overlooks its own private wildlife conservancy, Kitirua Conservancy which is 30,000 acres in size. Away from the busy eastern side of Amboseli, and with its own private conservancy, you will experience a truly remarkable little corner of Africa.
+### What type of gear do I need?
 
-![](/uploads/screenshot-2022-12-19-at-13-38-50.jpg)
+As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advice for every level, from amateurs and beginners to full professional photographers. 
 
-The area is famous for the dramatic views of Kilimanjaro, the highest free-standing mountain in the world. But even more so, for its healthy elephant populations, which have been followed and documented by world renowned researcher Cynthia Moss. Amboseli is derived from the local Maa word ‘Empusel’ which means ‘dusty place’, and it is one of the top places in the entire world to see elephants in the wild. Within this ecosystem reside some of the largest elephants in Africa, and the guides we work with at Tortilis Camp know the individual elephants by name and family history. An incredible way to learn more about elephant conservation.
-
-![](/uploads/kenya_piea_2.jpg)
-
-The days are warm, rising to a maximum of 30 degrees centigrade, but very comfortable with minimum humidity. October is very dry, which creates lots of dust, making for incredible imagery. The mornings and evenings are cool so bring some warm clothes.
-
-### **Mara North Conservancy**
-
-Welcome to the lush green rolling hills of Masai Mara. This vast and fertile landscape boasts a plethora of wildlife; with over 450 bird species and both resident and transient populations of lion, leopard, buffalo, giraffe, zebra, cheetah and elephant. On top, Elephant Pepper Camp is perfect for those wanting to observe the spectacle of the great migration, classified amongst the “Seven Wonders of the World”, when, from July to November, over 1.3 million wildebeest and zebra cross from the Serengeti in search of greener pastures. Especially in the last few years, the timings of the Migration are changing due to climate change, which makes it very likely we will witness it in any shape or form during our October expedition.
-
-![](/uploads/slides-elewana54454.jpg)
-
-The camps remote location allows for all animals to walk through camp day and night, which means it is perfectly common to have lion, leopards and hyena foraging around your tent. Temperatures are a bit lower than in Amboseli, which means mornings can be very chilly, all depending on the emergence of the short rains, that usually come in November. This means we are there right before the short rains, which will give us great cloud build-up in the afternoon, incredible for photography.
-
-![](/uploads/screenshot-2022-12-19-at-12-57-45.jpg)
-
-All tents are set underneath Fig and Elephant Pepper trees and are spaced out to ensure privacy. From your personal verandah or hammock, you can watch wildlife roam the Mara North plains. Tents are spacious and luxurious and offer big ensuite bathroom areas. As previously explained - when booking as a single traveler - you will share a tent with a roommate, but the spacious nature of these bush tent allows for optimal space, even on a twin sharing basis.
-
-![](/uploads/kenya_piea_6.jpg)
-
-### **Included in the expedition price**
-
-1 x night at Tamarind Tree Hotel Nairobi based on B&B
-
-4 x nights at Tortilis Camp
-
-4 x nights at Elephant Pepper Camp
-
-All accommodation based on twin / double sharing
-
-All domestic airport transfers
-
-All domestic flight tickets + additional luggage
-
-Full board in both lodges incl all meals, wines & spirits
-
-Conservancy fees Kiritua Conservancy
-
-Conservancy fees Mara North
-
-Daily laundry
-
-Daily sundowners
-
-All game drives & walking safaris
-
-Photographic lectures & image review sessions
-
-1-on-1 tuition in the field
-
-Optional night safaris
-
-### **Not included in the expedition price**
-
-International flight tickets
-
-Travel & cancellation insurance
-
-Tips & gratuities for staff
-
-Visa
-
-Champagne, private cellar wines & private cellar spirits
-
-Optional Hot air balloon
-
-Optional voluntarily contribution to Masai communities
-
-### **How does an average day look like?**
-
-05\.00 – 05.30 wake up + coffee/tea
-
-05\.30 – 09.00 photography in the field with focus on soft morning light
-
-09\.00 – 09.30 camp breakfast or packed breakfast
-
-09\.00 – 11.00 continue photography in the field focusing on B&W photography
-
-11\.00 – 13.00 lunch in camp + lectures by Pie
-
-13\.00 – 15.00 have a swim, rest, edit, back-up
-
-15\.00 – 18.00 photography in the field with focus on soft afternoon light
-
-18\.00 – 19.30 optional night drive
-
-20\.00 – 21.30 campfire drinks & dinner
-
-21\.30 off to bed to rest for another day of adventures in the bush
-
-We are very flexible when it comes to planning our days. Usually, we leave each day with a packed breakfast, which allows us to stay out in the field all morning. If the conditions and sightings are good, we can even decide having lunch in the field to maximize our time with wildlife. We also carry our own sundowner drinks each afternoon, which gives us full flexibility.
-
-As you can see in the planning, at lunch time I will host several lectures. Topics can be workflow, post-production, animal behaviour, composition, light, elephant conservation, how to find your voice as an artist, social media, equipment, and so on. In between activities there’s also room for 1-on-1 tuition about any of the above topics or whatever comes to mind.
-
-### **Which kind of vehicles will we use?**
-
-In both lodges we will use Toyota Land Cruisers that are specially modified for photography. On board you will find bean bags, blankets, a fridge with ice-cold drinks and 220 volt electricity sockets for charging. There will be a maximum of 4 people sitting in the back, creating enough space for everyone to move around. I will be sitting in the front, next to the driver and alternate between both vehicles. A rotating scheme will make sure everyone gets to spend an equal amount of time in my direct presence. Working with the right people is everything. Therefore, I have built strong relationships over the years with the guides we will be working with. As a result, we will work with some of the best people in the industry.
-
-### **Do I need any photography experience?**
-
-Nope, not at all. Everybody is welcome. Beginners and professionals. Young and old. In fact, a diverse group always makes up for a lot of fun, because the main idea of these expeditions is all about interaction and learning from each other. I’m more than happy to explain you the basics of how to use your camera, but we can also have a deeper conversation about how to grow your personal brand as a visual artist, or how to find your voice. Or about music. art or sports :) So please don’t hesitate if you have never used a camera before, I’m there to help. But also don't hesitate if you want to fine-tune your professional skills, I'm sure I can help with that too.
-
-![](/uploads/screenshot-2022-12-19-at-12-57-38.jpg)
-
-### **What type of gear do I need?**
-
-As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advise for every level, from amateurs and beginners to full professional photographers.
-
-### **How is this photography expedition different from any regular safari?**
-
-In the past 3 years I have spent 60+ weeks in Kenya and I know the country and its people inside out. This has generated an in-depth understanding of seasonality, geography, animal behavior, photographic opportunities, community living and cultural aspects, and of course wildlife conservation. This combined with 10+ years of experience in photographic story-telling, makes this trip a unique opportunity to learn. The entire itinerary is crafted around the theme of story-telling, which means I deliberately chose certain areas, camps and guides to work with. We will maximize time in the field and won’t be restricted by gate opening hours. We can off-road in both conservancies so have full flexibility. In between game drives – I will be hosting lectures and there’s room for 1-on-1 tuition as well. It’s a trip that’s centered around teaching you how to tell meaningful stories about the wild and you will go home with an incredible series of images!
-
-### **Will we also photograph people, or only wildlife?**
-
-My work centralises around the intersection of where animals and people meet, and therefore, when there's a demand, we can integrate human interest photography into this expedition. On previous expeditions we have often split groups in 2 for a day, in which one group went out to shoot wildlife, whereas the other group visited several communities around the parks to learn from them first-hand what it means to live alongside wildlife in these challenging times. Pie will be guiding those half-day or full-day excursions to teach you all he knows about photographing people.
-
-![](/uploads/screenshot-2022-12-19-at-12-57-24.jpg)
-
-Due to Pie's strong relationships with guides in both area's, these local village visit will feel very personal and intimate and are far from a tourist trap. You will meet real people who will tell you real stories about their lives, far away from where mass-tourism goes. In fact, we will visit the villages of the guides Pie works with, genuine encounters with incredible people. As said earlier, every part of this expedition is customisable towards your personal photographic wishes.
-
-![](/uploads/screenshot-2022-12-19-at-12-57-12.jpg)
-
-### **Can I cancel my seat when I change my mind?**
+### Can I cancel my seat when I change my mind?
 
 For more information about Terms & Conditions click [here](https://www.pieaerts.com/terms/).
 
-### **Is there an option to book a private room?**
+### Is there an option to book a private room?
 
 No. On this expedition there's no single supplement. All rooms are based on twin sharing unless you book as a couple, we will of course offer you double sharing. As soon as the group is complete, we will make a roomplan taking into account personal preferences.
 
-### **Will you advise what documents to organize in order to travel?**
+### Will you advise what documents to organize in order to travel?
 
 Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that Kenya requires a double vaccination against Covid-19 in order to enter the country. This might change overtime and we will keep you posted accordingly.
-
-### **Optional: Hot air balloon safaris en Helicopter safaris**
-
-During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
-
-The same thing counts for Helicopter safaris. I do have an extensive network of Helicopter pilots in both area's we visit. This would also come at an extra cost.
-
-![](/uploads/slide_talisman_3.jpg)
 
 ### The host
 
