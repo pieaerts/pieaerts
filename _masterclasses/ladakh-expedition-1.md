@@ -13,8 +13,8 @@ introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>In the far and r
   traditions and customs, but for how much longer?&nbsp;</p><p>For the first time
   ever, I am launching a ‘Because People Matter’ expedition. On this intimate photographic
   journey, we will travel back in time, deep into the heart of the Ladakh region to
-  meet monks, nomads, villagers, but also a new generation of Ladakhi on their path
-  to a more modern world.&nbsp;</p>\n"
+  meet Buddhist monks, nomadic communities, villagers, but also a new generation of
+  Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/2J7op62RxVULd69H8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -26,7 +26,7 @@ published: false
 
 ### Important information
 
-* Dates: **Sept 25 – Oct 8, 2023**
+* Dates: **Sept 25 – Oct 6, 2023**
 * Expedition starts/ends in: Delhi, India
 * Type: Car based overland expedition
 * Physical difficulty: Moderate
