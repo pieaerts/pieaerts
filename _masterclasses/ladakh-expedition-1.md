@@ -42,11 +42,11 @@ For more than a decade I have been traveling to India. After more than 20 indivi
 
 ![](/uploads/ladakh_exp_pa_1.jpg)
 
-Because my expeditions are an extension of what I value in my work as an artist and story-teller, I carefully select the partners I work with, based on a few core variables. Next to the photographic potential, I am always looking for a unique and distinct hospitality angle. Accommodation that allows my guests to connect with the wilderness in a meaningful way, as well as allowing them to experience the nostalgic charm of the olden days.
+Because my expeditions are an extension of what I value in my work as an artist and story-teller, I carefully select the partners I work with, based on a few core variables. Next to the photographic potential, I am always looking for a unique and distinct hospitality angle. Accommodation that allows my guests to connect with the wilderness in a meaningful way without making compromises to comfort, as well as allowing them to experience the nostalgic charm of the olden days.
 
-For this expedition I am collaborating with The Ultimate Traveling Camp, who excel in combining the romance of a nomadic lifestyle with the charms of life lived under canvas. An incredible blend of sophisticated luxury in untamed wilderness. Traveling in style, while connecting with the outdoors. During my first visit in September 2022, I experience a truly magical energy & spirit when staying in their camps, and I’m sure you will feel the same!
+For this expedition I am collaborating with The Ultimate Traveling Camp, who excel in combining the romance of a nomadic lifestyle with the charms of life lived under canvas. An incredible blend of sophisticated luxury in untamed wilderness. Traveling in style, while connecting with the outdoors. They are running camps all across the Indian subcontinent and during my first visit to Ladakh in September 2022, I experienced a truly magical energy & spirit when staying in 3 Ladakh camps. I’m sure you will feel the same! 
 
-During the expedition, we will visit 3 of their camps, in 3 very distinct locations. Read more about the camps in the day-to-day description below. 
+During the expedition, we will visit 3 of their camps, in 3 very distinct locations. Read more about the camps in the day-to-day description below.
 
 ![](/uploads/ladakh_exp_pa_4.jpg)
 
@@ -56,7 +56,7 @@ For a period of 12 days, we will travel through this unique trans Himalayan regi
 
 ![](/uploads/ladakh_exp_pa_8.jpg)
 
-#### _Day 1: Arrival in Delhi_ 
+#### _Day 1: Arrival in Delhi_
 
 After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner.
 
@@ -110,7 +110,7 @@ After checking into our rooms to drop our bags, we will head for one of the most
 
 ![](/uploads/ladakh_exp_pa_14.jpg)
 
-#### _Day 7: Robes & Camels_ 
+#### _Day 7: Robes & Camels_
 
 We will wake up early on Day 7 to drive up to Diskit Monastery before sunrise to attend the morning puja (prayers) in this small-scale intimate monastery. We will then return back to camp for breakfast, but after breakfast drive up again to engage in conversation with the monks. Afterwards, on our way down, we will visit the monastery school to interact with the novice monks.
 
@@ -142,7 +142,7 @@ We will get out of our warm and comfy beds before the first light in order to ge
 
 The Changtang plateau is a high-altitude plateau that stretches 1600km from South-eastern Ladakh to North-western Tibet. The average altitude is around 14.000ft. The Changa nomads inhabit this land and their annual migration patterns are heavily influenced by the Himalayan snow-melt and the spring-fed meadows, delicate ecosystems that rely on winters with heavy snow to provide the moisture to grow grass in spring. In stark contrast to the romanticized picture that is often painted by the media, with words that imply freedom and wanderlust, the harsh reality of their lives is difficult and dangerous. They follow century old migration routes to move in between pastures and meadows that have been divided and assigned to individual families. In doing so, they move around their most valuable possession, pashmina goats, sheep, yaks and horses in cyclical journeys, season after season, year after year, century after century. The presence of snow leopards, wolves and lynxes but also the ever-increasing pressure and temptation from the outside world, makes their lifestyle a fading reality. They camp in stone-walled structures and spend cold winter nights in canvas tents.
 
-#### _Day 11: Meeting the Karnak Nomads_ 
+#### _Day 11: Meeting the Karnak Nomads_
 
 We wake up and once again follow the morning routine of the nomads. Of course, we can also split up the group and everybody has the freedom to roam around the nomad village themselves, engaging with the nomads, that now became our friends. Namgyal and the rest of the guiding team, will of course help you with translations wherever needed in order to engage.
 
@@ -226,7 +226,7 @@ Next to that, please be ensured you are in the best hands with the team at TUTC.
 
 ### Testimonials of previous participants
 
-As you probably know, I have been hosting expedition to Africa for some years now. After each expedition I am asking participants to write a short testimonial, here's a few examples of last year. 
+As you probably know, I have been hosting expedition to Africa for some years now. After each expedition I am asking participants to write a short testimonial, here's a few examples of last year.
 
 **Sasha (USA) -** I just got back from a life changing expedition with Pie in Kenya, and literally had the time of my life. The thoughtful care and effort Pie puts into planning these trips was evident every day, and it was clear he has spent years building meaningful relationships with everyone involved in Africa. The Kenyan people were kind and genuine beyond words and truly added to the overall experience. I felt safe and taken care of the entire trip. I made tons of new friends with fellow photographers, witnessed endless sightings of incredible wildlife and landscapes, ate some of the best food of my life, and walked away feeling inspired, full of emotion, and ready to take my business to the next chapter. Throughout the trip, Pie shared his knowledge and expertise whenever he could - during workshops, meals, even during jeep drives! The connections made during our time together became apparent during our goodbye's, especially when the tears started flowing... haha. Overall, it was unbelievable how much education, life experiences, and joy were packed into 10 long days. It's an investment for sure, but also the trip of a lifetime, and one that everyone should experience!
 
@@ -248,7 +248,7 @@ Nope, not at all. Everybody is welcome. Beginners and professionals. Young and o
 
 ### What type of gear do I need?
 
-As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advice for every level, from amateurs and beginners to full professional photographers. 
+As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advice for every level, from amateurs and beginners to full professional photographers.
 
 ### Can I cancel my seat when I change my mind?
 
@@ -262,6 +262,10 @@ No. On this expedition there's no single supplement. All rooms are based on twin
 
 Of course. We will send you a full briefing before the trip on which steps you need to take in order to travel according to local and international Covid laws. Please be aware that India requires a double vaccination against Covid-19 in order to enter the country. This might change overtime and we will keep you posted accordingly.
 
-### The host
+### The hosts
+
+During my September 2022 visit to Ladakh I was fortunate to meet Namgyal Dorje, a local Ladakhi guide. We quickly became friends and I was deeply impressed by his profound knowledge of the region and the history of Ladakh, his extensive network across the entire state, but mostly by his elaborate understanding of photographic opportunity and light. Working with him ignited the idea of running photographic expeditions together and here we are! You will love his wonderful spirit and brilliant sense of humor. 
+
+![](/uploads/screenshot-2023-02-24-at-12-02-26.jpg)
 
 Pie Aerts is a Dutch documentary and wildlife photographer with a sincere interest in human/wildlife conflict stories. Through his lens, he examines the intricate relationship between animals, humans and nature and, as we become increasingly distant from each other and ourselves, he uses photography to search for the cause of this disconnect. He believes art can be an incredibly powerful tool in restoring that lost connection and therefore founded Prints for Wildlife in march 2020. Since it's inception 2.1 million dollars have been raised of which 100% has been donated to African Parks Network. Since the outbreak of COVID-19 Pie spend more than 60 weeks in Kenya, visualising his personal relationship with the Kenyan landscape. Pie serves as a Canon EMEA ambassador, Gitzo Ambassador and as Hahnemühle Ambassador.
