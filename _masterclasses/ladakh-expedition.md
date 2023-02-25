@@ -15,6 +15,7 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/ZjsnDCVPH7B4hnsD7
 subscribe_text: 'CLICK HERE TO SIGN UP SO YOU''RE THE FIRST TO KNOW! '
 active: true
+published: false
 
 ---
 For more than a decade Pie has been traveling to India. After more than 20 individual assignments on the Indian subcontinent, he made his first appearance in Ladakh in September 2022, and instantly fell in love.
