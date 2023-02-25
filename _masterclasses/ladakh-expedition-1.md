@@ -43,7 +43,7 @@ For more than a decade I have been traveling to India. After more than 20 indivi
 
 Because my expeditions are an extension of what I value in my work as an artist and story-teller, I carefully select the partners I work with, based on a few core variables. Next to the photographic potential, I am always looking for a unique and distinct hospitality angle. Accommodation that allows my guests to connect with the wilderness in a meaningful way without making compromises to comfort, as well as allowing them to experience the nostalgic charm of the olden days.
 
-For this expedition I am collaborating with The Ultimate Traveling Camp, who excel in combining the romance of a nomadic lifestyle with the charms of life lived under canvas. An incredible blend of sophisticated luxury in untamed wilderness. Traveling in style, while connecting with the outdoors. They are running camps all across the Indian subcontinent and during my first visit to Ladakh in September 2022, I experienced a truly magical energy & spirit when staying in 3 Ladakh camps. I’m sure you will feel the same! 
+For this expedition I am collaborating with The Ultimate Traveling Camp, who excel in combining the romance of a nomadic lifestyle with the charms of life lived under canvas. An incredible blend of sophisticated luxury in untamed wilderness. Traveling in style, while connecting with the outdoors. They are running camps all across the Indian subcontinent and during my first visit to Ladakh in September 2022, I experienced a truly magical energy & spirit when staying in 3 Ladakh camps. I’m sure you will feel the same!
 
 During the expedition, we will visit 3 of their camps, in 3 very distinct locations. Read more about the camps in the day-to-day description below.
 
@@ -101,7 +101,7 @@ On the morning of day 6, we have flagged some potential extra time in Thiksey Mo
 
 ![](/uploads/ladakh_exp_pa_16.jpg)
 
-After breakfast we check out our room and pack our 4x4’s for the long drive to the Nubra Valley. Its Tibetan name ‘Dumra’ means ‘Valley of flowers’ and the entire drive is absolutely breath taking, crossing mountain roads and passes you will remember a lifetime. We will cross Khardung La Pass, one of the highest motorable passes in the world at 17.580ft, after which we descend into the Nubra Valley (10.000ft), until we reach our second camp, Chamba Camp Diskit. 
+After breakfast we check out our room and pack our 4x4’s for the long drive to the Nubra Valley. Its Tibetan name ‘Dumra’ means ‘Valley of flowers’ and the entire drive is absolutely breath taking, crossing mountain roads and passes you will remember a lifetime. We will cross Khardung La Pass, one of the highest motorable passes in the world at 17.580ft, after which we descend into the Nubra Valley (10.000ft), until we reach our second camp, Chamba Camp Diskit.
 
 Nubra is a melting pot of many different cultures that infuse daily life in Ladakh in general: the Central Asian culture of Xinjiang (just across the mountains in China), the Muslim influences of Baltistan (now mostly in Pakistan), and the Buddhist history of Tibet (now in China). It therefore is a perfect blend of landscapes and portrait photography, a photographer’s paradise.
 
@@ -197,7 +197,7 @@ International flight tickets to and from Delhi
 
 Travel & cancellation insurance
 
-Tips & gratuities for staff
+Tips & gratuities for staff in camps and guides (all communities we meet during the expedition will be compensated by us with appropriate means of support*)
 
 Visa
 
@@ -210,6 +210,8 @@ Any additional excursions, not mentioned in the itinerary above
 Expenses of personal nature such as laundry, telephone calls
 
 Purchase of alcoholic beverages outside of the camps
+
+\*An example of the support we offer is Dental Kits and Sunglasses. Both are scarce in this region and I will personally be collecting them in preparation of our expedition so we can support the people we meet on the road with tools that actually improve their lives. 
 
 ### Altitude information
 
@@ -263,7 +265,7 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 ### The hosts
 
-During my September 2022 visit to Ladakh I was fortunate to meet Namgyal Dorje, a local Ladakhi guide. We quickly became friends and I was deeply impressed by his profound knowledge of the region and the history of Ladakh, his extensive network across the entire state, but mostly by his elaborate understanding of photographic opportunity and light. Working with him ignited the idea of running photographic expeditions together and here we are! You will love his wonderful spirit and brilliant sense of humor. 
+During my September 2022 visit to Ladakh I was fortunate to meet Namgyal Dorje, a local Ladakhi guide. We quickly became friends and I was deeply impressed by his profound knowledge of the region and the history of Ladakh, his extensive network across the entire state, but mostly by his elaborate understanding of photographic opportunity and light. Working with him ignited the idea of running photographic expeditions together and here we are! You will love his wonderful spirit and brilliant sense of humor.
 
 ![](/uploads/screenshot-2023-02-24-at-12-02-26.jpg)
 
