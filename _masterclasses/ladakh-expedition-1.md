@@ -19,7 +19,6 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/2J7op62RxVULd69H8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
-published: false
 
 ---
 ![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
@@ -31,7 +30,7 @@ published: false
 * Type: Car based overland expedition
 * Physical difficulty: Moderate
 * Price: **$8750 per person** (based on twin sharing / double sharing accommodation)
-* Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaning balance of $6250 will have to be paid
+* Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6250 will have to be paid
 * No single supplement available
 * Group size: Min 5, max 8
 * Experience level: Anyone is welcome, from beginners to professionals
@@ -64,7 +63,7 @@ After everybody arrived at Delhi International Airport, we will gather on Septem
 
 #### _Day 2: Arrival in Leh_
 
-Early in the morning we get transferred to Delhi Airport, where we board our flight to Leh, the capital city of Union Territory of Ladakh. The flight in will be absolutely spectacular, flying over the Himalayan Mountain ranges, and landing at a staggering 10.680 ft above sea level. After arrival we will be picked up by Namgyal and his team and transferred to our first camp, Thiksey Camp. Because we are sleeping at an altitude of 11.000ft we are taking it easy for the remainder of the day. It is very important at these altitudes that you acclimatize by resting on arrival.
+Early in the morning we get transferred to Delhi Airport, where we board our flight to Leh, the capital city of Union Territory of Ladakh. The flight in will be absolutely spectacular, flying over the Himalayan Mountain ranges, and landing at a staggering 10.680 ft above sea level. After arrival we will be picked up by Namgyal and his team and transferred to our first camp, Chamba Camp Thiksey. Because we are sleeping at an altitude of 11.000ft we are taking it easy for the remainder of the day. It is very important at these altitudes that you acclimatize by resting on arrival.
 
 You will be checked in to your amazing rooms and we have lunch together. The camp has many books about the region and there’s a courtyard with traditional games, you can also go for a short walk on the camp grounds to appreciate the mind-blowing mountain ranges around us. In the night we have dinner together and hit the bed for a long night of sleep.
 
@@ -102,7 +101,7 @@ On the morning of day 6, we have flagged some potential extra time in Thiksey Mo
 
 ![](/uploads/ladakh_exp_pa_16.jpg)
 
-After breakfast we check out our room and pack our 4x4’s for the long drive to the Nubra Valley. Its Tibetan name ‘Dumra’ means ‘Valley of flowers’ and the entire drive is absolutely breath taking, crossing mountain roads and passes you will remember a lifetime. We will cross Khardung La Pass, one of the highest motorable passes in the world at 17.580ft, after which we descend into the Nubra Valley (10.000ft), until we reach our second camp, Diskit Camp.
+After breakfast we check out our room and pack our 4x4’s for the long drive to the Nubra Valley. Its Tibetan name ‘Dumra’ means ‘Valley of flowers’ and the entire drive is absolutely breath taking, crossing mountain roads and passes you will remember a lifetime. We will cross Khardung La Pass, one of the highest motorable passes in the world at 17.580ft, after which we descend into the Nubra Valley (10.000ft), until we reach our second camp, Chamba Camp Diskit. 
 
 Nubra is a melting pot of many different cultures that infuse daily life in Ladakh in general: the Central Asian culture of Xinjiang (just across the mountains in China), the Muslim influences of Baltistan (now mostly in Pakistan), and the Buddhist history of Tibet (now in China). It therefore is a perfect blend of landscapes and portrait photography, a photographer’s paradise.
 
@@ -122,7 +121,7 @@ Around lunchtime we will rest in camp, and in the afternoon, we make our way bac
 
 #### _Day 8: Returning to Thiksey_
 
-On Day 8 we will pack our bags after breakfast to start the long drive back to Thiksey Camp via the might Warila Pass (17.400ft). We haven’t been on this pass before, and therefore it will offer a whole new array of photographic opportunities along the way, from landscapes, to nomads, to small traditional villages. We will check into our rooms in Thiksey Camp and rest in the afternoon. In the late afternoon, when the light is softer, we will head out for a village walk in the city of Leh, and the last hour of the day we will spend watching the sunset at Tsemo Peak.
+On Day 8 we will pack our bags after breakfast to start the long drive back to Chamba Camp Thiksey via the might Warila Pass (17.400ft). We haven’t been on this pass before, and therefore it will offer a whole new array of photographic opportunities along the way, from landscapes, to nomads, to small traditional villages. We will check into our rooms in Thiksey Camp and rest in the afternoon. In the late afternoon, when the light is softer, we will head out for a village walk in the city of Leh, and the last hour of the day we will spend watching the sunset at Tsemo Peak.
 
 ![](/uploads/ladakh_exp_pa_3.jpg)
 
@@ -150,7 +149,7 @@ We wake up and once again follow the morning routine of the nomads. Of course, w
 
 After breakfast we will pack our bags and make our way to another mind-blowing Himalayan Lake, Tso Kar. We will drive through some the wildest landscapes on the planet and sometimes you feel as if you’re on the Moon. After visiting Tso Kar, we will arrive to another group of Nomads, the Karnak nomads, where we stay until its dark, in order to meet and photograph their lives as well.
 
-When the sun is down, we start the long drive back via Tanglangla Pass to Thiksey Camp, where we will overnight.
+When the sun is down, we start the long drive back via Tanglangla Pass to Chamba Camp Thiksey, where we will overnight.
 
 #### _Day 12: Bid farewell to the Land of the Lamas_
 
@@ -164,15 +163,15 @@ On arrival in Delhi we have day rooms booked to spend the day to wait for our in
 
 1 night at 5-star Delhi hotel (to be defined) based on B&B
 
-4 nights at a Luxury Tent at Thiksey Camp
+4 nights at a Luxury Tent at Chamba Camp Thiksey
 
-2 nights at a Luxury Tent at Diskit Camp
+2 nights at a Luxury Tent at Chamba Camp Diskit
 
-1 night at a Luxury Tent at Thiksey Camp
+1 night at a Luxury Tent at Chamba Camp Thiksey
 
 2 nights at a Mobile Tent at Mobile Camp Tso Moriri
 
-1 night at a Luxury Tent at Thiksey Camp
+1 night at a Luxury Tent at Chamba Camp Thiksey
 
 All accommodation based on twin / double sharing
 
