@@ -21,6 +21,9 @@ subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 
 ---
+
+![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
+
 ### Important information
 
 * Dates: **Sept 25 – Oct 6, 2023**
@@ -34,9 +37,7 @@ active: true
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
-* Read the full day-to-day itinerary by scrolling down 
-
-![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
+* Read the full day-to-day itinerary by scrolling down
 
 For more than a decade I have been traveling to India. After more than 20 individual assignments on the Indian subcontinent, I made my first appearance in Ladakh in September 2022, and instantly fell in love with the landscapes, the culture, but most of all with the people and their spirit. In the months that followed I carefully crafted a unique itinerary that crosses the entire region, focusing on meaningful and genuine interactions with the Ladakhi people, learning about their lifestyle, culture and traditions and documenting it all with the incredible medium that is photography.
 
@@ -62,7 +63,7 @@ For a period of 12 days, we will travel through this unique trans Himalayan regi
 
 #### _Day 1: Arrival in Delhi_
 
-After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner. The hotel will be 5-star Delhi based hotel in the Old part of the City. 
+After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner. The hotel will be 5-star Delhi based hotel in the Old part of the City.
 
 ![](/uploads/ladakh_exp_pa_2.jpg)
 
