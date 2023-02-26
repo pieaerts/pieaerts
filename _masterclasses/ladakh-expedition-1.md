@@ -2,7 +2,7 @@
 title: Ladakh Expedition
 subtitle: September 25 - October 6, 2023
 image: "/uploads/screenshot-2023-02-10-at-17-15-06-02.jpg"
-starting_date: 2022-12-31 23:20:00 +0000
+starting_date: 2022-12-31T23:20:00.000+00:00
 introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>In the far and remote
   northwest corner of India, perched in between Pakistan and Tibet, lies a mythical
   and desolate high desert landscape dotted with Buddhist monasteries, tranquil lakes,
@@ -21,8 +21,6 @@ subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 
 ---
-![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
-
 ### Important information
 
 * Dates: **Sept 25 – Oct 6, 2023**
@@ -36,8 +34,15 @@ active: true
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
+* Read the full day-to-day itinerary by scrolling down 
+
+![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
 
 For more than a decade I have been traveling to India. After more than 20 individual assignments on the Indian subcontinent, I made my first appearance in Ladakh in September 2022, and instantly fell in love with the landscapes, the culture, but most of all with the people and their spirit. In the months that followed I carefully crafted a unique itinerary that crosses the entire region, focusing on meaningful and genuine interactions with the Ladakhi people, learning about their lifestyle, culture and traditions and documenting it all with the incredible medium that is photography.
+
+However, this expedition is so much more than a photographic trip. It’s an opportunity to learn about one of the most beautiful ancient cultures in the world, Tibetan Buddhism as well as engage with a disappearing nomadic lifestyle that has been the cradle of humankind for millennia. A fully immersive journey to a truly unique destination that will steal your heart and leave you with memories that will last a lifetime.
+
+The entire expedition is designed for the curious, open-minded traveler, who’s looking for a soul a touching experience. We will have exclusive and privileged access to elements of the Ladakhi culture that are usually off-guard for tourists. With daily opportunities for 1-on-1 in-field tuition and several mid-day lectures, Pie will guide you towards creating meaningful stories during this expedition. Of course, the expedition is designed for photographers, but don’t worry about your skill set or your equipment.
 
 ![](/uploads/ladakh_exp_pa_1.jpg)
 
@@ -57,7 +62,7 @@ For a period of 12 days, we will travel through this unique trans Himalayan regi
 
 #### _Day 1: Arrival in Delhi_
 
-After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner.
+After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner. The hotel will be 5-star Delhi based hotel in the Old part of the City. 
 
 ![](/uploads/ladakh_exp_pa_2.jpg)
 
@@ -211,7 +216,7 @@ Expenses of personal nature such as laundry, telephone calls
 
 Purchase of alcoholic beverages outside of the camps
 
-\*An example of the support we offer is Dental Kits and Sunglasses. Both are scarce in this region and I will personally be collecting them in preparation of our expedition so we can support the people we meet on the road with tools that actually improve their lives. 
+\*An example of the support we offer is Dental Kits and Sunglasses. Both are scarce in this region and I will personally be collecting them in preparation of our expedition so we can support the people we meet on the road with tools that actually improve their lives.
 
 ### Altitude information
 
