@@ -21,7 +21,6 @@ subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 
 ---
-
 ![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
 
 ### Important information
@@ -256,6 +255,10 @@ Nope, not at all. Everybody is welcome. Beginners and professionals. Young and o
 ### What type of gear do I need?
 
 As soon as you have confirmed your booking, we will share an extensive list of recommended gear items that you would need for this expedition. However, don’t stress, any camera will work, it all depends on how you use it. We offer a custom advice for every level, from amateurs and beginners to full professional photographers.
+
+### In what way do the Ladakhi people benefit from this expedition?
+
+When you follow my work long enough, you understand how I deeply I care about giving back. Dignity, mutual respect and genuine relationships form the foundation  of everything I do. The communities we meet during this expedition are therefore compensated through donations to community councils that will ultimately benefit their wellbeing through the development of education and health care. This is a well-coordinated approach supported by our head guide Namgyal and TUTC so the support ends up where needed most. In addition to that, I will coordinate a joint effort as an expedition group to collect and carry a significant number of dental kits as well as sunglasses before departure. Both items are drastically improving the lives of the people we meet on the road. But in the first place, and above anything else, we show the people we meet on the road our genuine respect, listen to their stories, learn from their ancient wisdom, and build friendships that will stay with them. Lastly, during the expedition there’s multiple occasions when participants can give their support by making small donations to schools, charity initiatives and/or health centers. Our guiding team will advise. 
 
 ### Can I cancel my seat when I change my mind?
 
