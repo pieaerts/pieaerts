@@ -1,7 +1,7 @@
 ---
 title: Ladakh Expedition
 subtitle: September 25 - October 6, 2023
-image: "/uploads/foto_exp_ladakh_lancering.jpg"
+image: "/uploads/losse-flodders-12345.jpg"
 starting_date: 2022-12-31T23:20:00.000+00:00
 introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>In the far and remote
   northwest corner of India, perched in between Pakistan and Tibet, lies a mythical
