@@ -1,7 +1,7 @@
 ---
 title: AMBOSELI & MASAI MARA - KENYA
 subtitle: November 4 - 13, 2023
-image: "/uploads/expedition_africa_pie_01.jpg"
+image: "/uploads/losse-flodders-123.jpg"
 starting_date: 2021-12-31T23:00:00.000+00:00
 introduction_html: "</p><p>NOVEMBER 4-13, 2023</p><p>After rapidly selling out the
   first edition of this Kenya Expedition in October 2022, I am coming back with a
