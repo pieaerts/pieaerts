@@ -3,18 +3,18 @@ title: Ladakh Expedition
 subtitle: September 25 - October 6, 2023
 image: "/uploads/losse-flodders-12345.jpg"
 starting_date: 2022-12-31T23:20:00.000+00:00
-introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>In the far and remote
-  northwest corner of India, perched in between Pakistan and Tibet, lies a mythical
-  and desolate high desert landscape dotted with Buddhist monasteries, tranquil lakes,
-  nomadic herders, silk route heritage and friendly locals. Welcome to Ladakh, which
-  derives its name from La-dvags, meaning ‘land of mountain passes’ in Tibetan, and
-  for a good reason, since most of this trans Himalayan plateau lies at an altitude
-  above 10.000 ft. This is where the local Ladakhi people live according to ancient
-  traditions and customs, but for how much longer?&nbsp;</p><p>For the first time
-  ever, I am launching a ‘Because People Matter’ expedition. On this intimate photographic
-  journey, we will travel back in time, deep into the heart of the Ladakh region to
-  meet Buddhist monks, nomadic communities, villagers, but also a new generation of
-  Ladakhi on their path to a more modern world.&nbsp;</p>\n"
+introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>2 MORE SEATS LEFT!</p><p>In
+  the far and remote northwest corner of India, perched in between Pakistan and Tibet,
+  lies a mythical and desolate high desert landscape dotted with Buddhist monasteries,
+  tranquil lakes, nomadic herders, silk route heritage and friendly locals. Welcome
+  to Ladakh, which derives its name from La-dvags, meaning ‘land of mountain passes’
+  in Tibetan, and for a good reason, since most of this trans Himalayan plateau lies
+  at an altitude above 10.000 ft. This is where the local Ladakhi people live according
+  to ancient traditions and customs, but for how much longer?&nbsp;</p><p>For the
+  first time ever, I am launching a ‘Because People Matter’ expedition. On this intimate
+  photographic journey, we will travel back in time, deep into the heart of the Ladakh
+  region to meet Buddhist monks, nomadic communities, villagers, but also a new generation
+  of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/2J7op62RxVULd69H8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -32,7 +32,7 @@ active: true
 * Price: **$8750 per person** (based on twin sharing / double sharing accommodation)
 * Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6250 will have to be paid
 * No single supplement available
-* Group size: Min 5, max 8
+* Group size: Min 5, max 8 **(only 2 more seats available)**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
@@ -258,13 +258,13 @@ As soon as you have confirmed your booking, we will share an extensive list of r
 
 ### In what way do the Ladakhi people benefit from this expedition?
 
-When you follow my work long enough, you understand how deeply I care about giving back. Dignity, mutual respect and genuine relationships form the foundation  of everything I do. The communities we meet during this expedition are therefore compensated through donations to community councils that will ultimately benefit the wellbeing of its members through the development of education and health care. This is a well-coordinated approach supported by our head guide Namgyal and TUTC so the support ends up where needed most. In addition to that and in preparation of the journey, I will coordinate a joint effort as an expedition group to collect and carry a significant number of dental kits as well as sunglasses. Both items are drastically improving the lives of the people we meet on the road. In the last place, but above anything else, we show the people we meet on the road our genuine respect, listen to their stories, learn from their ancient wisdom, and build friendships that will stay with them. Because people matter. 
+When you follow my work long enough, you understand how deeply I care about giving back. Dignity, mutual respect and genuine relationships form the foundation  of everything I do. The communities we meet during this expedition are therefore compensated through donations to community councils that will ultimately benefit the wellbeing of its members through the development of education and health care. This is a well-coordinated approach supported by our head guide Namgyal and TUTC so the support ends up where needed most. In addition to that and in preparation of the journey, I will coordinate a joint effort as an expedition group to collect and carry a significant number of dental kits as well as sunglasses. Both items are drastically improving the lives of the people we meet on the road. In the last place, but above anything else, we show the people we meet on the road our genuine respect, listen to their stories, learn from their ancient wisdom, and build friendships that will stay with them. Because people matter.
 
 During the expedition there’s multiple occasions when participants can give their support by making small donations to schools, charity initiatives and/or health centers. Our guiding team will advise.
 
 ### Why the end of September?
 
-Ladakh is a seasonal destination, which means that most part of the year there’s a risk the high mountain passes are covered in ice & snow which would heavily restrict our range. The beginning of autumn - end of sept / beginning of oct - therefore is the perfect window. All the tourist crowds are gone and the region is getting ready for winter lockdown, but all the passes are still snow-free. The seasonal change will also provide epic lighting conditions, and therefore amazing imagery. 
+Ladakh is a seasonal destination, which means that most part of the year there’s a risk the high mountain passes are covered in ice & snow which would heavily restrict our range. The beginning of autumn - end of sept / beginning of oct - therefore is the perfect window. All the tourist crowds are gone and the region is getting ready for winter lockdown, but all the passes are still snow-free. The seasonal change will also provide epic lighting conditions, and therefore amazing imagery.
 
 ### Can I cancel my seat when I change my mind?
 

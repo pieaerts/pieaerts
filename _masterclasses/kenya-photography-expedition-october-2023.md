@@ -3,14 +3,14 @@ title: AMBOSELI & MASAI MARA - KENYA
 subtitle: November 4 - 13, 2023
 image: "/uploads/losse-flodders-123.jpg"
 starting_date: 2021-12-31T23:00:00.000+00:00
-introduction_html: "</p><p>NOVEMBER 4-13, 2023</p><p>After rapidly selling out the
-  first edition of this Kenya Expedition in October 2022, I am coming back with a
-  second edition in November 2023. Once again, I will take a small group of like-minded
-  people to 2 of my favourite places in all of Africa: Kitirua Conservancy in Amboseli
-  and Mara North Conservancy in the Masai Mara. A once-in-a-lifetime expedition focused
-  on creating meaningful stories about the wild…&nbsp;</p><p>Scroll down to read the
-  full itinerary. All images you see below are taken on previous visits to the same
-  2 conservancies. &nbsp;</p>\n"
+introduction_html: "</p><p>NOVEMBER 4-13, 2023</p><p>2 MORE SEATS LEFT!</p><p>After
+  rapidly selling out the first edition of this Kenya Expedition in October 2022,
+  I am coming back with a second edition in November 2023. Once again, I will take
+  a small group of like-minded people to 2 of my favourite places in all of Africa:
+  Kitirua Conservancy in Amboseli and Mara North Conservancy in the Masai Mara. A
+  once-in-a-lifetime expedition focused on creating meaningful stories about the wild…&nbsp;</p><p>Scroll
+  down to read the full itinerary. All images you see below are taken on previous
+  visits to the same 2 conservancies. &nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/vV8pxkYEJrYTSM2i6
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -25,8 +25,8 @@ active: true
 * Tour starts/ends in: Nairobi, Kenya
 * Price: $ 8750 per person (based on twin sharing / double sharing accommodation)
 * Deposit payment: $ 2500 per person (paid upon booking in order to hold your seat), 120 days prior to departure the remaining balance of $ 6250 will have to be paid
-* No single supplement available 
-* Group size: min 5, max 8
+* No single supplement available
+* Group size: min 5, max 8 - **only 2 more seats available**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [here](https://www.pieaerts.com/terms/)
@@ -45,7 +45,7 @@ With everybody traveling towards Kenya from different directions, the first day 
 
 #### _Day 2 – 6_
 
-Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Amboseli National Park Airstrip. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain. 
+Early in the morning we travel to Wilson Airport where we will board our flight to our first destination: Masai Mara! We have booked an additional freight chair on all domestic flights which means every participant can carry an additional 10kg of luggage in addition to the 15kg that’s allowed. After a short 45 minutes flight we arrive on Amboseli National Park Airstrip. The flight in will be spectacular, landing in the middle of the National Park, in between thousands of flamingos and other wildlife. If we are lucky, we will even see Mount Kilimanjaro from the air, Africa’s tallest mountain.
 
 ![](/uploads/kenya_piea_1.jpg)
 
@@ -57,7 +57,7 @@ At this particular time of the year, the lake-bed has dried up, creating one of 
 
 ![](/uploads/screenshot-2022-12-19-at-12-56-56.jpg)
 
-The beginning of November usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. But there's so much more because even though our focus of the first leg of the trip is mainly on Elephants you can be 100% sure to bump into plenty of lions, zebra’s, giraffes, hyena’s, cheetahs and lots of incredible birdlife. 
+The beginning of November usually also marks the arrival of the first rains, which will give us beautiful cloud build-up in the afternoon, which is incredible for dramatic and moody photography of these gentle giants. But there's so much more because even though our focus of the first leg of the trip is mainly on Elephants you can be 100% sure to bump into plenty of lions, zebra’s, giraffes, hyena’s, cheetahs and lots of incredible birdlife.
 
 ![](/uploads/kenya_piea_5.jpg)
 
@@ -235,7 +235,7 @@ For more information about Terms & Conditions click [here](https://www.pieaerts.
 
 ### **Is there an option to book a private room?**
 
-No. On this expedition there's no single supplement. All rooms are based on twin sharing unless you book as a couple, we will of course offer you double sharing. As soon as the group is complete, we will make a roomplan taking into account personal preferences. 
+No. On this expedition there's no single supplement. All rooms are based on twin sharing unless you book as a couple, we will of course offer you double sharing. As soon as the group is complete, we will make a roomplan taking into account personal preferences.
 
 ### **Will you advise what documents to organize in order to travel?**
 
@@ -245,7 +245,7 @@ Of course. We will send you a full briefing before the trip on which steps you n
 
 During both legs of the trip, it is possible to embark on a once-of-a-lifetime hot air balloon safari. You can decide on flying over Amboseli National Park and look at big herds of elephants from above, or explore the Masai Mara from the air. Both landscapes are very different, the former being very dry and flat, the latter being lush and hilly. This activity comes at an extra cost and is excluded in the rate of this trip. However, I do have very good contacts with hot air balloon operators in both areas.
 
-The same thing counts for Helicopter safaris. I do have an extensive network of Helicopter pilots in both area's we visit. This would also come at an extra cost. 
+The same thing counts for Helicopter safaris. I do have an extensive network of Helicopter pilots in both area's we visit. This would also come at an extra cost.
 
 ![](/uploads/slide_talisman_3.jpg)
 
