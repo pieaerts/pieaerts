@@ -1,10 +1,10 @@
 ---
 title: Walking with the Bushmen
-image: /uploads/tales-botswana1-2.jpg
+image: "/uploads/tales-botswana1-2.jpg"
 location: Botswana
-footer_html:
----
+footer_html: 
 
+---
 Growing up in the West, understanding the strong connection between humans, animals and nature isn't one of the first things one learns. Spending a few weeks in the African bush made me realise that’s a very big shame. Let me tell you why.
 {: .present-before-paste}
 

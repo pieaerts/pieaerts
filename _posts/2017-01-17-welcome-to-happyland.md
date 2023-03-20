@@ -1,10 +1,10 @@
 ---
 title: Welcome to Happyland
-image: /uploads/tondo23.jpg
+image: "/uploads/tondo23.jpg"
 location: Philippines
-footer_html:
----
+footer_html: 
 
+---
 When thinking about the Philippines all that comes to mind is probably beaches, coconuts, palm trees, whale sharks and a few terrible headliners about the devastating impact of earthquakes and typhoons. On top of that, when telling friends and family you're heading there, nearly all of them straightaway strongly recommended you to avoid the capital of Manila, Asia's stinky armpit. For that reason, and for the love of Asian sub-urban chaos and city slums, I couldn't resist staying longer than usual in order to see if I could proof the opposite. The findings were remarkable. Let me tell you why in 7 photos.
 
 ![](/uploads/tondo33.jpg){: width="1400" height="933"}
