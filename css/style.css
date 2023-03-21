@@ -267,14 +267,14 @@ h1 {font-size: 33px; padding-bottom: 15px;}
 
 .masonry {margin: 40px -1.5% 0;}
 .masonry .image {width: 47%; margin: 0 1.5% 3%; float: left; padding-top: 32%!important;}
-.masonry .image.is6x7 {padding-top: 40.25%!important;}
+.masonry .image.is4x5 {padding-top: 37.6%!important;}
 .masonry .image.wide {width: 97%; padding-top: 66%!important;}
 .masonry .image.portrait {width: 47%; padding-top: 67%!important;}
 .masonry .image.right {float: right;}
 .masonry .image.portrait.wide {width: 97%; padding-top: 138.2%!important;}
-.masonry .image.wide.is6x7 {padding-top: 83.05%!important;}
-.masonry .image.portrait.is6x7 {padding-top: 54.8%!important;} 
-.masonry .image.portrait.wide.is6x7 {width: 97%; padding-top: 113.2%!important;}
+.masonry .image.wide.is4x5 {padding-top: 77.6%!important;}
+.masonry .image.portrait.is4x5 {padding-top: 58.75%!important;} 
+.masonry .image.portrait.wide.is4x5 {width: 97%; padding-top: 121.25%!important;}
 
 /* isotope items */
 .grid .item a > div:first-child {width: 100%; margin: 35px 0 0;}

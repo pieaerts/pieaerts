@@ -8,7 +8,7 @@ images:
   - image: /uploads/sinet.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -16,7 +16,7 @@ images:
   - image: /uploads/2g2a8388a-1.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -24,7 +24,7 @@ images:
   - image: /uploads/771a1097a.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -32,7 +32,7 @@ images:
   - image: /uploads/bots-pie-7.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -40,7 +40,7 @@ images:
   - image: /uploads/olkiombo.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -48,7 +48,7 @@ images:
   - image: /uploads/masai-mara-1.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -56,7 +56,7 @@ images:
   - image: /uploads/bots-pie-1.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -64,7 +64,7 @@ images:
   - image: /uploads/0o0a5973a.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -72,7 +72,7 @@ images:
   - image: /uploads/771a8021.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -80,7 +80,7 @@ images:
   - image: /uploads/771a0298.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -88,7 +88,7 @@ images:
   - image: /uploads/kitirua.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -96,7 +96,7 @@ images:
   - image: /uploads/ndugu.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -104,7 +104,7 @@ images:
   - image: /uploads/771a5143.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -112,7 +112,7 @@ images:
   - image: /uploads/nyanda.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -120,7 +120,7 @@ images:
   - image: /uploads/2g2a9418-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -128,7 +128,7 @@ images:
   - image: /uploads/771a6693-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -136,7 +136,7 @@ images:
   - image: /uploads/771a6573a.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -144,7 +144,7 @@ images:
   - image: /uploads/0o0a8424.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -152,7 +152,7 @@ images:
   - image: /uploads/771a5897a.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -160,7 +160,7 @@ images:
   - image: /uploads/771a6529.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -168,7 +168,7 @@ images:
   - image: /uploads/771a7669.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -176,7 +176,7 @@ images:
   - image: /uploads/olamoloki.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -184,7 +184,7 @@ images:
   - image: /uploads/771a1028a.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -192,7 +192,7 @@ images:
   - image: /uploads/0o0a8268a.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -200,7 +200,7 @@ images:
   - image: /uploads/olpunyata.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -208,7 +208,7 @@ images:
   - image: /uploads/771a6509.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -216,7 +216,7 @@ images:
   - image: /uploads/771a8853.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -224,7 +224,7 @@ images:
   - image: /uploads/0o0a7939-copy.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -232,7 +232,7 @@ images:
   - image: /uploads/tawi-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -240,7 +240,7 @@ images:
   - image: /uploads/771a9750-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -248,7 +248,7 @@ images:
   - image: /uploads/ositet.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -256,7 +256,7 @@ images:
   - image: /uploads/771a1463.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -264,7 +264,7 @@ images:
   - image: /uploads/771a2394.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -272,7 +272,7 @@ images:
   - image: /uploads/771a9173.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -280,7 +280,7 @@ images:
   - image: /uploads/untitled2-3-5-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -288,7 +288,7 @@ images:
   - image: /uploads/771a1765-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -296,7 +296,7 @@ images:
   - image: /uploads/amboseli.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -304,7 +304,7 @@ images:
   - image: /uploads/jasiri.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -312,7 +312,7 @@ images:
   - image: /uploads/771a1748.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -320,7 +320,7 @@ images:
   - image: /uploads/0o0a8324.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -328,7 +328,7 @@ images:
   - image: /uploads/771a2362-copy.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -336,7 +336,7 @@ images:
   - image: /uploads/tafakiri.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -344,7 +344,7 @@ images:
   - image: /uploads/untitled-3-3-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -352,7 +352,7 @@ images:
   - image: /uploads/771a2370-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -360,7 +360,7 @@ images:
   - image: /uploads/kutua.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -368,7 +368,7 @@ images:
   - image: /uploads/oolmeuti-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -376,7 +376,7 @@ images:
   - image: /uploads/771a9756-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -384,7 +384,7 @@ images:
   - image: /uploads/0o0a8211.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -392,7 +392,7 @@ images:
   - image: /uploads/771a1375-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -400,7 +400,7 @@ images:
   - image: /uploads/771a1762-copy.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -408,7 +408,7 @@ images:
   - image: /uploads/0o0a9604.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -416,7 +416,7 @@ images:
   - image: /uploads/771a7399-copy.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -424,7 +424,7 @@ images:
   - image: /uploads/771a1389.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -432,7 +432,7 @@ images:
   - image: /uploads/771a0085.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -440,7 +440,7 @@ images:
   - image: /uploads/untitled2-3-3-2-4.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -448,7 +448,7 @@ images:
   - image: /uploads/771a1193.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -456,7 +456,7 @@ images:
   - image: /uploads/koo-la-siri.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -464,7 +464,7 @@ images:
   - image: /uploads/kichwa.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -472,7 +472,7 @@ images:
   - image: /uploads/771a7124.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:

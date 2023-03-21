@@ -8,7 +8,7 @@ images:
   - image: /uploads/2g2a2826.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -16,7 +16,7 @@ images:
   - image: /uploads/2g2a2911.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -24,7 +24,7 @@ images:
   - image: /uploads/2g2a3305.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -32,7 +32,7 @@ images:
   - image: /uploads/2g2a3251.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -40,7 +40,7 @@ images:
   - image: /uploads/2g2a3360.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -48,7 +48,7 @@ images:
   - image: /uploads/2g2a2435.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -56,7 +56,7 @@ images:
   - image: /uploads/2g2a2462.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -64,7 +64,7 @@ images:
   - image: /uploads/2g2a3442.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -72,7 +72,7 @@ images:
   - image: /uploads/2g2a3458.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -80,7 +80,7 @@ images:
   - image: /uploads/2g2a2379.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -88,7 +88,7 @@ images:
   - image: /uploads/2g2a2427.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -96,7 +96,7 @@ images:
   - image: /uploads/2g2a3404.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -104,7 +104,7 @@ images:
   - image: /uploads/2g2a1609asd.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -112,7 +112,7 @@ images:
   - image: /uploads/2g2a3063.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -120,7 +120,7 @@ images:
   - image: /uploads/2g2a2459-1.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -128,7 +128,7 @@ images:
   - image: /uploads/2g2a2871.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -136,7 +136,7 @@ images:
   - image: /uploads/2g2a2348-1.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -144,7 +144,7 @@ images:
   - image: /uploads/2g2a2072.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -152,7 +152,7 @@ images:
   - image: /uploads/2g2a3655.jpg
     portrait: true
     wide: false
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -160,7 +160,7 @@ images:
   - image: /uploads/2g2a2246.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:
@@ -168,7 +168,7 @@ images:
   - image: /uploads/0h3a9867.jpg
     portrait: false
     wide: true
-    is6x7: false
+    is4x5: false
     title:
     subtitle:
     text-color:

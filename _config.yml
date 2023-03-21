@@ -33,6 +33,11 @@ defaults:
       type: 'private_weddings'
     values:
       layout: 'work'
+  - scope:
+      path: ''
+      type: 'commissioned'
+    values:
+      layout: 'work'
 
 permalink: /blog/:year/:month/:day/:title/
 url: https://www.pieaerts.com
