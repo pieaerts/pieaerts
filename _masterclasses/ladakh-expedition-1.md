@@ -3,18 +3,18 @@ title: Ladakh Expedition
 subtitle: September 25 - October 6, 2023
 image: "/uploads/screenshot-2023-03-31-at-09-09-18.jpg"
 starting_date: 2022-12-31T23:20:00.000+00:00
-introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>ONLY 1 MORE SEAT LEFT!</p><p>In
-  the far and remote northwest corner of India, perched in between Pakistan and Tibet,
-  lies a mythical and desolate high desert landscape dotted with Buddhist monasteries,
-  tranquil lakes, nomadic herders, silk route heritage and friendly locals. Welcome
-  to Ladakh, which derives its name from La-dvags, meaning ‘land of mountain passes’
-  in Tibetan, and for a good reason, since most of this trans Himalayan plateau lies
-  at an altitude above 10.000 ft. This is where the local Ladakhi people live according
-  to ancient traditions and customs, but for how much longer?&nbsp;</p><p>For the
-  first time ever, I am launching a ‘Because People Matter’ expedition. On this intimate
-  photographic journey, we will travel back in time, deep into the heart of the Ladakh
-  region to meet Buddhist monks, nomadic communities, villagers, but also a new generation
-  of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
+introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>THIS EXPEDITION IS
+  FULLY BOOKED!</p><p>In the far and remote northwest corner of India, perched in
+  between Pakistan and Tibet, lies a mythical and desolate high desert landscape dotted
+  with Buddhist monasteries, tranquil lakes, nomadic herders, silk route heritage
+  and friendly locals. Welcome to Ladakh, which derives its name from La-dvags, meaning
+  ‘land of mountain passes’ in Tibetan, and for a good reason, since most of this
+  trans Himalayan plateau lies at an altitude above 10.000 ft. This is where the local
+  Ladakhi people live according to ancient traditions and customs, but for how much
+  longer?&nbsp;</p><p>For the first time ever, I am launching a ‘Because People Matter’
+  expedition. On this intimate photographic journey, we will travel back in time,
+  deep into the heart of the Ladakh region to meet Buddhist monks, nomadic communities,
+  villagers, but also a new generation of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/2J7op62RxVULd69H8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
@@ -32,7 +32,7 @@ active: true
 * Price: **$8750 per person** (based on twin sharing / double sharing accommodation)
 * Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6250 will have to be paid
 * No single supplement available
-* Group size: Min 5, max 8 **(only 1 more seat available)**
+* Group size: Min 5, max 8 **(this expedition is fully booked)**
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
