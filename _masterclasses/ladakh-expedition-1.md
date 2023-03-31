@@ -17,7 +17,7 @@ introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>THIS EXPEDITION 
   villagers, but also a new generation of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/2J7op62RxVULd69H8
-subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
+subscribe_text: THIS EXPEDITION IS FULLY BOOKED!
 active: true
 
 ---

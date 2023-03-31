@@ -1,23 +1,23 @@
 ---
-title: Ladakh Expedition 2024
+title: Ladakh Expedition
 subtitle: May 20 - 31, 2024
 image: "/uploads/screenshot-2023-03-31-at-09-09-41.jpg"
 starting_date: 2023-05-31T22:20:00.000+00:00
 introduction_html: "</p><p>MAY 20 - 31, 2024</p><p>After rapidly selling out the first
   edition of this Ladakh Expedition in September 2023, I decided to launch a second
-  expedition to the Land of the High Passes! The itinerary is identical, only the
-  dates change, this time we will travel to the magical Ladakh in May 2024.&nbsp;</p><p>In
-  the far and remote northwest corner of India, perched in between Pakistan and Tibet,
-  lies a mythical and desolate high desert landscape dotted with Buddhist monasteries,
-  tranquil lakes, nomadic herders, silk route heritage and friendly locals. Welcome
-  to Ladakh, which derives its name from La-dvags, meaning ‘land of mountain passes’
-  in Tibetan, and for a good reason, since most of this trans Himalayan plateau lies
-  at an altitude above 10.000 ft. This is where the local Ladakhi people live according
-  to ancient traditions and customs, but for how much longer?&nbsp;</p><p>For the
-  first time ever, I am launching a ‘Because People Matter’ expedition. On this intimate
-  photographic journey, we will travel back in time, deep into the heart of the Ladakh
-  region to meet Buddhist monks, nomadic communities, villagers, but also a new generation
-  of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
+  expedition for 2024 to the Land of the High Passes! The itinerary is identical,
+  as well as the intimate group size, only the dates change, which means we will travel
+  to the magical Ladakh from May 20 till May 31, 2024.&nbsp;</p><p>In the far and
+  remote northwest corner of India, perched in between Pakistan and Tibet, lies a
+  mythical and desolate high desert landscape dotted with Buddhist monasteries, tranquil
+  lakes, nomadic herders, silk route heritage and friendly locals. Welcome to Ladakh,
+  which derives its name from La-dvags, meaning ‘land of mountain passes’ in Tibetan,
+  and for a good reason, since most of this trans Himalayan plateau lies at an altitude
+  above 10.000 ft. This is where the local Ladakhi people live according to ancient
+  traditions and customs, but for how much longer?&nbsp;</p><p>On this intimate photographic
+  journey, we will travel back in time, deep into the heart of the Ladakh region to
+  meet Buddhist monks, nomadic communities, villagers, but also a new generation of
+  Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
 subscribe_url: https://forms.gle/YFAhj227nMXNCQDb8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
