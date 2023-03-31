@@ -22,7 +22,6 @@ gallery_url: "/none/"
 subscribe_url: https://forms.gle/YFAhj227nMXNCQDb8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
-published: false
 
 ---
 ![](/uploads/screenshot-2023-02-10-at-14-15-12.jpg)
@@ -36,7 +35,7 @@ published: false
 * Price: **$8995 per person** (based on twin sharing / double sharing accommodation)
 * Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6495 will have to be paid
 * No single supplement available
-* Group size: Min 5, max 8
+* Group size: Min 5, max 8 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
@@ -66,7 +65,7 @@ For a period of 12 days, we will travel through this unique trans Himalayan regi
 
 #### _Day 1: Arrival in Delhi_
 
-After everybody arrived at Delhi International Airport, we will gather on May 20 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner. The hotel will be 5-star Delhi based hotel in the Old part of the City.
+After everybody arrived at Delhi International Airport, we will gather on September 25 in the morning at our Delhi hotel, for a full day of exploring this eclectic city, because what is a journey to India, without first diving into the Delhi city buzz? Together with a local tour guide, we will visit a few off-the-track photography highlights. We will kick-off with the Jama Masjid, the largest mosque in India and from there we jump in the back of a cycle rickshaw to take a ride through the narrow lanes of Chandni Chowk market. We will then drive to Humayun’s Tomb to round up the day, before heading to our hotel for dinner. The hotel will be 5-star Delhi based hotel in the Old part of the City.
 
 ![](/uploads/ladakh_exp_pa_2.jpg)
 
@@ -162,7 +161,7 @@ When the sun is down, we start the long drive back via Tanglangla Pass to Chamba
 
 #### _Day 12: Bid farewell to the Land of the Lamas_
 
-After breakfast, on May 31, we check out our rooms in order to bid a farewell to the Land of the Lamas. We will transfer to Leh Airport and board our flight back to Delhi.
+After breakfast we check out our rooms in order to bid a farewell to the Land of the Lamas. We will transfer to Leh Airport and board our flight back to Delhi.
 
 On arrival in Delhi we have day rooms booked to spend the day to wait for our international flights home.
 
