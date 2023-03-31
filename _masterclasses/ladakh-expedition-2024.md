@@ -2,7 +2,7 @@
 title: Ladakh Expedition 2024
 subtitle: May 20 - 31, 2024
 image: "/uploads/screenshot-2023-03-14-at-11-53-15-12-12.png"
-starting_date: 2022-12-31T23:20:00.000+00:00
+starting_date: 2023-05-31 22:20:00 +0000
 introduction_html: "</p><p>MAY 20 - 31, 2024</p><p>After rapidly selling out the first
   edition of this Ladakh Expedition in September 2023, I decided to launch a second
   expedition to the Land of the High Passes! The itinerary is identical, only the
@@ -19,7 +19,7 @@ introduction_html: "</p><p>MAY 20 - 31, 2024</p><p>After rapidly selling out the
   region to meet Buddhist monks, nomadic communities, villagers, but also a new generation
   of Ladakhi on their path to a more modern world.&nbsp;</p>\n"
 gallery_url: "/none/"
-subscribe_url: https://forms.gle/2J7op62RxVULd69H8
+subscribe_url: https://forms.gle/YFAhj227nMXNCQDb8
 subscribe_text: CLICK HERE TO SIGN UP FOR THE EXPEDITION
 active: true
 published: false
@@ -266,9 +266,9 @@ When you follow my work long enough, you understand how deeply I care about givi
 
 During the expedition there’s multiple occasions when participants can give their support by making small donations to schools, charity initiatives and/or health centers. Our guiding team will advise.
 
-### Why the end of September?
+### Why the end of May?
 
-Ladakh is a seasonal destination, which means that most part of the year there’s a risk the high mountain passes are covered in ice & snow which would heavily restrict our range. The beginning of autumn - end of sept / beginning of oct - therefore is the perfect window. All the tourist crowds are gone and the region is getting ready for winter lockdown, but all the passes are still snow-free. The seasonal change will also provide epic lighting conditions, and therefore amazing imagery.
+Ladakh is a seasonal destination, which means that most part of the year there’s a risk the high mountain passes are covered in ice & snow which would heavily restrict our range. The end of spring, beginning of summer - end of May - therefore is a perfect window. The peaks still have some snow, but the passes are ice-free. Also, all the tourist crowds are still yet to come and the region is opening up from winter lockdown. The seasonal change will also provide epic lighting conditions, and therefore amazing imagery.
 
 ### Can I cancel my seat when I change my mind?
 
