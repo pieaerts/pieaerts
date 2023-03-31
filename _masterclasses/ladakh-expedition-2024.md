@@ -1,7 +1,7 @@
 ---
 title: Ladakh Expedition 2024
 subtitle: May 20 - 31, 2024
-image: "/uploads/screenshot-2023-03-14-at-11-53-15-12-12.png"
+image: "/uploads/screenshot-2023-03-31-at-09-09-41.jpg"
 starting_date: 2023-05-31 22:20:00 +0000
 introduction_html: "</p><p>MAY 20 - 31, 2024</p><p>After rapidly selling out the first
   edition of this Ladakh Expedition in September 2023, I decided to launch a second
