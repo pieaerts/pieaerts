@@ -1,9 +1,12 @@
 ---
 title: Ladakh Expedition 2024
-subtitle: September 25 - October 6, 2023
+subtitle: May 20 - 31, 2024
 image: "/uploads/screenshot-2023-03-14-at-11-53-15-12-12.png"
 starting_date: 2022-12-31T23:20:00.000+00:00
-introduction_html: "</p><p>SEPTEMBER 25 - OCTOBER 6, 2023</p><p>ONLY 1 MORE SEAT LEFT!</p><p>In
+introduction_html: "</p><p>MAY 20 - 31, 2024</p><p>After rapidly selling out the first
+  edition of this Ladakh Expedition in September 2023, I decided to launch a second
+  expedition to the Land of the High Passes! The itinerary is identical, only the
+  dates change, this time we will travel to the magical Ladakh in May 2024.&nbsp;</p><p>In
   the far and remote northwest corner of India, perched in between Pakistan and Tibet,
   lies a mythical and desolate high desert landscape dotted with Buddhist monasteries,
   tranquil lakes, nomadic herders, silk route heritage and friendly locals. Welcome
@@ -26,14 +29,14 @@ published: false
 
 ### Important information
 
-* Dates: **Sept 25 – Oct 6, 2023**
+* Dates: **May 20 - 31, 2024**
 * Expedition starts/ends in: Delhi, India
 * Type: Car based overland expedition
 * Physical difficulty: Moderate
-* Price: **$8750 per person** (based on twin sharing / double sharing accommodation)
-* Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6250 will have to be paid
+* Price: **$8995 per person** (based on twin sharing / double sharing accommodation)
+* Deposit payment: $2500 (paid upon booking to hold your seat), 120 days prior to departure the remaining balance of $6495 will have to be paid
 * No single supplement available
-* Group size: Min 5, max 8 **(only 1 more seat available)**
+* Group size: Min 5, max 8 
 * Experience level: Anyone is welcome, from beginners to professionals
 * Above price is incl VAT
 * Make sure to read the Terms & Conditions before booking by clicking [**here**](https://www.pieaerts.com/terms/)
